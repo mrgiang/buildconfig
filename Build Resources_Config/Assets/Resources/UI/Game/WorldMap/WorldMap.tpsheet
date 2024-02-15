@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ee06f643b0ce242861f9f4ef60e881e7:84cbff14d5cd19e61787269cf82fd139:a7d4e5a5f1112097d68ce703a71ec360$
+#
+:format=40300
+:texture=WorldMap.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+
+class_CaiBang;1503;928;132;95; 0.5;0.5; 0;0;0;0
+class_ConLon;1355;862;132;95; 0.5;0.5; 0;0;0;0
+class_DuongMon;1203;816;132;95; 0.5;0.5; 0;0;0;0
+class_HoaSon;1637;928;132;95; 0.5;0.5; 0;0;0;0
+Class_minhgiao;1891;743;124;89; 0.5;0.5; 0;0;0;0
+class_NgaMy;1771;928;132;95; 0.5;0.5; 0;0;0;0
+class_NguDoc;1905;928;132;95; 0.5;0.5; 0;0;0;0
+class_ThienNhan;1489;831;132;95; 0.5;0.5; 0;0;0;0
+class_ThienVuong;1337;765;132;95; 0.5;0.5; 0;0;0;0
+class_thieulam;1757;831;132;95; 0.5;0.5; 0;0;0;0
+class_ThuyYen;1203;719;132;95; 0.5;0.5; 0;0;0;0
+class_VoDang;1623;831;132;95; 0.5;0.5; 0;0;0;0
+Dong;1355;959;146;64; 0.5;0.5; 0;0;0;0
+huyen;1891;834;132;92; 0.5;0.5; 0;0;0;0
+mapthegioi;1;3;1200;1020; 0.5;0.5; 0;0;0;0
+thanh;1203;913;150;110; 0.5;0.5; 0;0;0;0
+Toado;1471;764;44;65; 0.5;0.5; 0;0;0;0

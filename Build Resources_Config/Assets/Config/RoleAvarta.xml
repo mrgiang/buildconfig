@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RoleAvarta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- Male -->
+	<Avarta ID="0" Name="1" Sex ="0" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="1" />
+	<Avarta ID="1" Name="2" Sex ="0" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="2" />
+	<Avarta ID="2" Name="3" Sex ="0" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="3" />
+	<Avarta ID="3" Name="4" Sex ="0" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="4" />
+	<Avarta ID="4" Name="5" Sex ="0" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="5" />
+	<!-- End -->
+	
+	<!-- Female -->
+	<Avarta ID="1000" Name="6" Sex ="1" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="6" />
+	<Avarta ID="1001" Name="7" Sex ="1" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="7" />
+	<Avarta ID="1002" Name="8" Sex ="1" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="8" />
+	<Avarta ID="1003" Name="9" Sex ="1" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="9" />
+	<Avarta ID="1004" Name="10" Sex ="1" IsDefaultTake="true" BundleDir="RoleAvarta.unity3d" AtlasName="RoleAvarta" Sprite="10" />
+	<!-- End -->
+</RoleAvarta>

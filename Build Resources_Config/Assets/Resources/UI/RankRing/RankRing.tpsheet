@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:379022374e07b61e2416d8434213f8d3:fb6cb8c93e87b42cc827d93b718db0c8:7b4e0e03d16dff02e855bcdbc32bc84c$
+#
+:format=40300
+:texture=RankRing.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+
+Background_BXH_TongKim;1;24;1588;999; 0.5;0.5; 0;0;0;0; 4;1588;0;0;0;0;999;1588;999; 2;1;2;3;0;1;3

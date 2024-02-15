@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:311d36c8e758f40a1c206726e95ca0aa:27860ca0f4490b222649f8179d536004:73c4e39b9b9584b7973269c7cd952ebc$
+#
+:format=40300
+:texture=MessageBox.png
+:size=1024x512
+:pivotpoints=enabled
+:borders=disabled
+
+Background;1;78;720;433; 0.5;0.5011547344110854; 0;0;0;0; 6;720;421;720;0;0;0;0;421;202;433;525;433; 4;1;4;5;2;3;4;1;2;4;0;1;5
+ButtonOK;1;21;160;55; 0.5;0.5; 0;0;0;0; 4;160;0;0;0;0;55;160;55; 2;1;2;3;0;1;3

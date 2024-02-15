@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EnchantSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Skill ID="1" Name="Thần Quang Toàn Nhiễu">
+		<RelatedSkill ID="11376">
+			<Symbol Name="seriesdamage_r">
+			  <Value ID="1" Type="1">
+				<SkillLevelValue Level="1" Value="10" />
+				<SkillLevelValue Level="20" Value="80" />
+			  </Value>
+			</Symbol>
+			<Symbol Name="colddamage_v">
+			  <Value ID="1" Type="1">
+				<SkillLevelValue Level="1" Value="1200" />
+				<SkillLevelValue Level="20" Value="3200" />
+				<SkillLevelValue Level="30" Value="5200" />
+				<SkillLevelValue Level="31" Value="5200" />
+			  </Value>
+			  <Value ID="3" Type="1">
+				<SkillLevelValue Level="1" Value="1300" />
+				<SkillLevelValue Level="20" Value="3300" />
+				<SkillLevelValue Level="30" Value="5300" />
+				<SkillLevelValue Level="31" Value="5300" />
+			  </Value>
+			</Symbol>
+			<Symbol Name="physicsenhance_v">
+			  <Value ID="1" Type="1">
+				<SkillLevelValue Level="1" Value="200" />
+				<SkillLevelValue Level="20" Value="400" />
+				<SkillLevelValue Level="30" Value="600" />
+				<SkillLevelValue Level="31" Value="600" />
+			  </Value>
+			  <Value ID="3" Type="1">
+				<SkillLevelValue Level="1" Value="200" />
+				<SkillLevelValue Level="20" Value="400" />
+				<SkillLevelValue Level="30" Value="600" />
+				<SkillLevelValue Level="31" Value="600" />
+			  </Value>
+			</Symbol>
+		</RelatedSkill>
+	</Skill>
+</EnchantSkill>

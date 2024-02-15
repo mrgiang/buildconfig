@@ -1,0 +1,1206 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/47/DartThrow_0.tpsheet
+- Assets/47/DartThrow_1.tpsheet
+- Assets/47/DartThrow_2.tpsheet
+- Assets/47/DartThrow_3.tpsheet
+- Assets/47/DartThrow_4.tpsheet
+- Assets/47/DartThrow_5.tpsheet
+- Assets/47/DartThrow_6.tpsheet
+- Assets/47/DartThrow_7.tpsheet
+- Assets/47/DoubleWDie_0.tpsheet
+- Assets/47/DoubleWDie_1.tpsheet
+- Assets/47/DoubleWDie_2.tpsheet
+- Assets/47/DoubleWDie_3.tpsheet
+- Assets/47/DoubleWDie_4.tpsheet
+- Assets/47/DoubleWDie_5.tpsheet
+- Assets/47/DoubleWDie_6.tpsheet
+- Assets/47/DoubleWDie_7.tpsheet
+- Assets/47/DoubleWMagic_0.tpsheet
+- Assets/47/DoubleWMagic_1.tpsheet
+- Assets/47/DoubleWMagic_2.tpsheet
+- Assets/47/DoubleWMagic_3.tpsheet
+- Assets/47/DoubleWMagic_4.tpsheet
+- Assets/47/DoubleWMagic_5.tpsheet
+- Assets/47/DoubleWMagic_6.tpsheet
+- Assets/47/DoubleWMagic_7.tpsheet
+- Assets/47/DoubleWPound_0.tpsheet
+- Assets/47/DoubleWPound_1.tpsheet
+- Assets/47/DoubleWPound_2.tpsheet
+- Assets/47/DoubleWPound_3.tpsheet
+- Assets/47/DoubleWPound_4.tpsheet
+- Assets/47/DoubleWPound_5.tpsheet
+- Assets/47/DoubleWPound_6.tpsheet
+- Assets/47/DoubleWPound_7.tpsheet
+- Assets/47/DoubleWPull_0.tpsheet
+- Assets/47/DoubleWPull_1.tpsheet
+- Assets/47/DoubleWPull_2.tpsheet
+- Assets/47/DoubleWPull_3.tpsheet
+- Assets/47/DoubleWPull_4.tpsheet
+- Assets/47/DoubleWPull_5.tpsheet
+- Assets/47/DoubleWPull_6.tpsheet
+- Assets/47/DoubleWPull_7.tpsheet
+- Assets/47/DoubleWRun_0.tpsheet
+- Assets/47/DoubleWRun_1.tpsheet
+- Assets/47/DoubleWRun_2.tpsheet
+- Assets/47/DoubleWRun_3.tpsheet
+- Assets/47/DoubleWRun_4.tpsheet
+- Assets/47/DoubleWRun_5.tpsheet
+- Assets/47/DoubleWRun_6.tpsheet
+- Assets/47/DoubleWRun_7.tpsheet
+- Assets/47/DoubleWStand_0.tpsheet
+- Assets/47/DoubleWStand_1.tpsheet
+- Assets/47/DoubleWStand_2.tpsheet
+- Assets/47/DoubleWStand_3.tpsheet
+- Assets/47/DoubleWStand_4.tpsheet
+- Assets/47/DoubleWStand_5.tpsheet
+- Assets/47/DoubleWStand_6.tpsheet
+- Assets/47/DoubleWStand_7.tpsheet
+- Assets/47/DoubleWWalk_0.tpsheet
+- Assets/47/DoubleWWalk_1.tpsheet
+- Assets/47/DoubleWWalk_2.tpsheet
+- Assets/47/DoubleWWalk_3.tpsheet
+- Assets/47/DoubleWWalk_4.tpsheet
+- Assets/47/DoubleWWalk_5.tpsheet
+- Assets/47/DoubleWWalk_6.tpsheet
+- Assets/47/DoubleWWalk_7.tpsheet
+- Assets/47/DoubleWWound_0.tpsheet
+- Assets/47/DoubleWWound_1.tpsheet
+- Assets/47/DoubleWWound_2.tpsheet
+- Assets/47/DoubleWWound_3.tpsheet
+- Assets/47/DoubleWWound_4.tpsheet
+- Assets/47/DoubleWWound_5.tpsheet
+- Assets/47/DoubleWWound_6.tpsheet
+- Assets/47/DoubleWWound_7.tpsheet
+- Assets/47/FreeAttack_0.tpsheet
+- Assets/47/FreeAttack_1.tpsheet
+- Assets/47/FreeAttack_2.tpsheet
+- Assets/47/FreeAttack_3.tpsheet
+- Assets/47/FreeAttack_4.tpsheet
+- Assets/47/FreeAttack_5.tpsheet
+- Assets/47/FreeAttack_6.tpsheet
+- Assets/47/FreeAttack_7.tpsheet
+- Assets/47/FreeDie_0.tpsheet
+- Assets/47/FreeDie_1.tpsheet
+- Assets/47/FreeDie_2.tpsheet
+- Assets/47/FreeDie_3.tpsheet
+- Assets/47/FreeDie_4.tpsheet
+- Assets/47/FreeDie_5.tpsheet
+- Assets/47/FreeDie_6.tpsheet
+- Assets/47/FreeDie_7.tpsheet
+- Assets/47/FreeMagic_0.tpsheet
+- Assets/47/FreeMagic_1.tpsheet
+- Assets/47/FreeMagic_2.tpsheet
+- Assets/47/FreeMagic_3.tpsheet
+- Assets/47/FreeMagic_4.tpsheet
+- Assets/47/FreeMagic_5.tpsheet
+- Assets/47/FreeMagic_6.tpsheet
+- Assets/47/FreeMagic_7.tpsheet
+- Assets/47/FreeRun_0.tpsheet
+- Assets/47/FreeRun_1.tpsheet
+- Assets/47/FreeRun_2.tpsheet
+- Assets/47/FreeRun_3.tpsheet
+- Assets/47/FreeRun_4.tpsheet
+- Assets/47/FreeRun_5.tpsheet
+- Assets/47/FreeRun_6.tpsheet
+- Assets/47/FreeRun_7.tpsheet
+- Assets/47/FreeStand1_0.tpsheet
+- Assets/47/FreeStand1_1.tpsheet
+- Assets/47/FreeStand1_2.tpsheet
+- Assets/47/FreeStand1_3.tpsheet
+- Assets/47/FreeStand1_4.tpsheet
+- Assets/47/FreeStand1_5.tpsheet
+- Assets/47/FreeStand1_6.tpsheet
+- Assets/47/FreeStand1_7.tpsheet
+- Assets/47/FreeStand2_0.tpsheet
+- Assets/47/FreeStand2_1.tpsheet
+- Assets/47/FreeStand2_2.tpsheet
+- Assets/47/FreeStand2_3.tpsheet
+- Assets/47/FreeStand2_4.tpsheet
+- Assets/47/FreeStand2_5.tpsheet
+- Assets/47/FreeStand2_6.tpsheet
+- Assets/47/FreeStand2_7.tpsheet
+- Assets/47/FreeStand3_0.tpsheet
+- Assets/47/FreeStand3_1.tpsheet
+- Assets/47/FreeStand3_2.tpsheet
+- Assets/47/FreeStand3_3.tpsheet
+- Assets/47/FreeStand3_4.tpsheet
+- Assets/47/FreeStand3_5.tpsheet
+- Assets/47/FreeStand3_6.tpsheet
+- Assets/47/FreeStand3_7.tpsheet
+- Assets/47/FreeWalk_0.tpsheet
+- Assets/47/FreeWalk_1.tpsheet
+- Assets/47/FreeWalk_2.tpsheet
+- Assets/47/FreeWalk_3.tpsheet
+- Assets/47/FreeWalk_4.tpsheet
+- Assets/47/FreeWalk_5.tpsheet
+- Assets/47/FreeWalk_6.tpsheet
+- Assets/47/FreeWalk_7.tpsheet
+- Assets/47/FreeWound_0.tpsheet
+- Assets/47/FreeWound_1.tpsheet
+- Assets/47/FreeWound_2.tpsheet
+- Assets/47/FreeWound_3.tpsheet
+- Assets/47/FreeWound_4.tpsheet
+- Assets/47/FreeWound_5.tpsheet
+- Assets/47/FreeWound_6.tpsheet
+- Assets/47/FreeWound_7.tpsheet
+- Assets/47/JumpFly_0.tpsheet
+- Assets/47/JumpFly_1.tpsheet
+- Assets/47/JumpFly_2.tpsheet
+- Assets/47/JumpFly_3.tpsheet
+- Assets/47/JumpFly_4.tpsheet
+- Assets/47/JumpFly_5.tpsheet
+- Assets/47/JumpFly_6.tpsheet
+- Assets/47/JumpFly_7.tpsheet
+- Assets/47/MeleeWCut_0.tpsheet
+- Assets/47/MeleeWCut_1.tpsheet
+- Assets/47/MeleeWCut_2.tpsheet
+- Assets/47/MeleeWCut_3.tpsheet
+- Assets/47/MeleeWCut_4.tpsheet
+- Assets/47/MeleeWCut_5.tpsheet
+- Assets/47/MeleeWCut_6.tpsheet
+- Assets/47/MeleeWCut_7.tpsheet
+- Assets/47/MeleeWDie_0.tpsheet
+- Assets/47/MeleeWDie_1.tpsheet
+- Assets/47/MeleeWDie_2.tpsheet
+- Assets/47/MeleeWDie_3.tpsheet
+- Assets/47/MeleeWDie_4.tpsheet
+- Assets/47/MeleeWDie_5.tpsheet
+- Assets/47/MeleeWDie_6.tpsheet
+- Assets/47/MeleeWDie_7.tpsheet
+- Assets/47/MeleeWMagic_0.tpsheet
+- Assets/47/MeleeWMagic_1.tpsheet
+- Assets/47/MeleeWMagic_2.tpsheet
+- Assets/47/MeleeWMagic_3.tpsheet
+- Assets/47/MeleeWMagic_4.tpsheet
+- Assets/47/MeleeWMagic_5.tpsheet
+- Assets/47/MeleeWMagic_6.tpsheet
+- Assets/47/MeleeWMagic_7.tpsheet
+- Assets/47/MeleeWPuncture_0.tpsheet
+- Assets/47/MeleeWPuncture_1.tpsheet
+- Assets/47/MeleeWPuncture_2.tpsheet
+- Assets/47/MeleeWPuncture_3.tpsheet
+- Assets/47/MeleeWPuncture_4.tpsheet
+- Assets/47/MeleeWPuncture_5.tpsheet
+- Assets/47/MeleeWPuncture_6.tpsheet
+- Assets/47/MeleeWPuncture_7.tpsheet
+- Assets/47/MeleeWRun_0.tpsheet
+- Assets/47/MeleeWRun_1.tpsheet
+- Assets/47/MeleeWRun_2.tpsheet
+- Assets/47/MeleeWRun_3.tpsheet
+- Assets/47/MeleeWRun_4.tpsheet
+- Assets/47/MeleeWRun_5.tpsheet
+- Assets/47/MeleeWRun_6.tpsheet
+- Assets/47/MeleeWRun_7.tpsheet
+- Assets/47/MeleeWStand_0.tpsheet
+- Assets/47/MeleeWStand_1.tpsheet
+- Assets/47/MeleeWStand_2.tpsheet
+- Assets/47/MeleeWStand_3.tpsheet
+- Assets/47/MeleeWStand_4.tpsheet
+- Assets/47/MeleeWStand_5.tpsheet
+- Assets/47/MeleeWStand_6.tpsheet
+- Assets/47/MeleeWStand_7.tpsheet
+- Assets/47/MeleeWWalk_0.tpsheet
+- Assets/47/MeleeWWalk_1.tpsheet
+- Assets/47/MeleeWWalk_2.tpsheet
+- Assets/47/MeleeWWalk_3.tpsheet
+- Assets/47/MeleeWWalk_4.tpsheet
+- Assets/47/MeleeWWalk_5.tpsheet
+- Assets/47/MeleeWWalk_6.tpsheet
+- Assets/47/MeleeWWalk_7.tpsheet
+- Assets/47/MeleeWWound_0.tpsheet
+- Assets/47/MeleeWWound_1.tpsheet
+- Assets/47/MeleeWWound_2.tpsheet
+- Assets/47/MeleeWWound_3.tpsheet
+- Assets/47/MeleeWWound_4.tpsheet
+- Assets/47/MeleeWWound_5.tpsheet
+- Assets/47/MeleeWWound_6.tpsheet
+- Assets/47/MeleeWWound_7.tpsheet
+- Assets/47/NormalWalk_0.tpsheet
+- Assets/47/NormalWalk_1.tpsheet
+- Assets/47/NormalWalk_2.tpsheet
+- Assets/47/NormalWalk_3.tpsheet
+- Assets/47/NormalWalk_4.tpsheet
+- Assets/47/NormalWalk_5.tpsheet
+- Assets/47/NormalWalk_6.tpsheet
+- Assets/47/NormalWalk_7.tpsheet
+- Assets/47/RangeWCut_0.tpsheet
+- Assets/47/RangeWCut_1.tpsheet
+- Assets/47/RangeWCut_2.tpsheet
+- Assets/47/RangeWCut_3.tpsheet
+- Assets/47/RangeWCut_4.tpsheet
+- Assets/47/RangeWCut_5.tpsheet
+- Assets/47/RangeWCut_6.tpsheet
+- Assets/47/RangeWCut_7.tpsheet
+- Assets/47/RangeWDie_0.tpsheet
+- Assets/47/RangeWDie_1.tpsheet
+- Assets/47/RangeWDie_2.tpsheet
+- Assets/47/RangeWDie_3.tpsheet
+- Assets/47/RangeWDie_4.tpsheet
+- Assets/47/RangeWDie_5.tpsheet
+- Assets/47/RangeWDie_6.tpsheet
+- Assets/47/RangeWDie_7.tpsheet
+- Assets/47/RangeWMagic_0.tpsheet
+- Assets/47/RangeWMagic_1.tpsheet
+- Assets/47/RangeWMagic_2.tpsheet
+- Assets/47/RangeWMagic_3.tpsheet
+- Assets/47/RangeWMagic_4.tpsheet
+- Assets/47/RangeWMagic_5.tpsheet
+- Assets/47/RangeWMagic_6.tpsheet
+- Assets/47/RangeWMagic_7.tpsheet
+- Assets/47/RangeWPuncture_0.tpsheet
+- Assets/47/RangeWPuncture_1.tpsheet
+- Assets/47/RangeWPuncture_2.tpsheet
+- Assets/47/RangeWPuncture_3.tpsheet
+- Assets/47/RangeWPuncture_4.tpsheet
+- Assets/47/RangeWPuncture_5.tpsheet
+- Assets/47/RangeWPuncture_6.tpsheet
+- Assets/47/RangeWPuncture_7.tpsheet
+- Assets/47/RangeWRun_0.tpsheet
+- Assets/47/RangeWRun_1.tpsheet
+- Assets/47/RangeWRun_2.tpsheet
+- Assets/47/RangeWRun_3.tpsheet
+- Assets/47/RangeWRun_4.tpsheet
+- Assets/47/RangeWRun_5.tpsheet
+- Assets/47/RangeWRun_6.tpsheet
+- Assets/47/RangeWRun_7.tpsheet
+- Assets/47/RangeWStand_0.tpsheet
+- Assets/47/RangeWStand_1.tpsheet
+- Assets/47/RangeWStand_2.tpsheet
+- Assets/47/RangeWStand_3.tpsheet
+- Assets/47/RangeWStand_4.tpsheet
+- Assets/47/RangeWStand_5.tpsheet
+- Assets/47/RangeWStand_6.tpsheet
+- Assets/47/RangeWStand_7.tpsheet
+- Assets/47/RangeWWalk_0.tpsheet
+- Assets/47/RangeWWalk_1.tpsheet
+- Assets/47/RangeWWalk_2.tpsheet
+- Assets/47/RangeWWalk_3.tpsheet
+- Assets/47/RangeWWalk_4.tpsheet
+- Assets/47/RangeWWalk_5.tpsheet
+- Assets/47/RangeWWalk_6.tpsheet
+- Assets/47/RangeWWalk_7.tpsheet
+- Assets/47/RangeWWound_0.tpsheet
+- Assets/47/RangeWWound_1.tpsheet
+- Assets/47/RangeWWound_2.tpsheet
+- Assets/47/RangeWWound_3.tpsheet
+- Assets/47/RangeWWound_4.tpsheet
+- Assets/47/RangeWWound_5.tpsheet
+- Assets/47/RangeWWound_6.tpsheet
+- Assets/47/RangeWWound_7.tpsheet
+- Assets/47/RideCut_0.tpsheet
+- Assets/47/RideCut_1.tpsheet
+- Assets/47/RideCut_2.tpsheet
+- Assets/47/RideCut_3.tpsheet
+- Assets/47/RideCut_4.tpsheet
+- Assets/47/RideCut_5.tpsheet
+- Assets/47/RideCut_6.tpsheet
+- Assets/47/RideCut_7.tpsheet
+- Assets/47/RideDie_0.tpsheet
+- Assets/47/RideDie_1.tpsheet
+- Assets/47/RideDie_2.tpsheet
+- Assets/47/RideDie_3.tpsheet
+- Assets/47/RideDie_4.tpsheet
+- Assets/47/RideDie_5.tpsheet
+- Assets/47/RideDie_6.tpsheet
+- Assets/47/RideDie_7.tpsheet
+- Assets/47/RideMagic_0.tpsheet
+- Assets/47/RideMagic_1.tpsheet
+- Assets/47/RideMagic_2.tpsheet
+- Assets/47/RideMagic_3.tpsheet
+- Assets/47/RideMagic_4.tpsheet
+- Assets/47/RideMagic_5.tpsheet
+- Assets/47/RideMagic_6.tpsheet
+- Assets/47/RideMagic_7.tpsheet
+- Assets/47/RidePuncture_0.tpsheet
+- Assets/47/RidePuncture_1.tpsheet
+- Assets/47/RidePuncture_2.tpsheet
+- Assets/47/RidePuncture_3.tpsheet
+- Assets/47/RidePuncture_4.tpsheet
+- Assets/47/RidePuncture_5.tpsheet
+- Assets/47/RidePuncture_6.tpsheet
+- Assets/47/RidePuncture_7.tpsheet
+- Assets/47/RideRun_0.tpsheet
+- Assets/47/RideRun_1.tpsheet
+- Assets/47/RideRun_2.tpsheet
+- Assets/47/RideRun_3.tpsheet
+- Assets/47/RideRun_4.tpsheet
+- Assets/47/RideRun_5.tpsheet
+- Assets/47/RideRun_6.tpsheet
+- Assets/47/RideRun_7.tpsheet
+- Assets/47/RideStand_0.tpsheet
+- Assets/47/RideStand_1.tpsheet
+- Assets/47/RideStand_2.tpsheet
+- Assets/47/RideStand_3.tpsheet
+- Assets/47/RideStand_4.tpsheet
+- Assets/47/RideStand_5.tpsheet
+- Assets/47/RideStand_6.tpsheet
+- Assets/47/RideStand_7.tpsheet
+- Assets/47/RideWalk_0.tpsheet
+- Assets/47/RideWalk_1.tpsheet
+- Assets/47/RideWalk_2.tpsheet
+- Assets/47/RideWalk_3.tpsheet
+- Assets/47/RideWalk_4.tpsheet
+- Assets/47/RideWalk_5.tpsheet
+- Assets/47/RideWalk_6.tpsheet
+- Assets/47/RideWalk_7.tpsheet
+- Assets/47/RideWound_0.tpsheet
+- Assets/47/RideWound_1.tpsheet
+- Assets/47/RideWound_2.tpsheet
+- Assets/47/RideWound_3.tpsheet
+- Assets/47/RideWound_4.tpsheet
+- Assets/47/RideWound_5.tpsheet
+- Assets/47/RideWound_6.tpsheet
+- Assets/47/RideWound_7.tpsheet
+- Assets/47/SitDown_0.tpsheet
+- Assets/47/SitDown_1.tpsheet
+- Assets/47/SitDown_2.tpsheet
+- Assets/47/SitDown_3.tpsheet
+- Assets/47/SitDown_4.tpsheet
+- Assets/47/SitDown_5.tpsheet
+- Assets/47/SitDown_6.tpsheet
+- Assets/47/SitDown_7.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Config/WorldMap.tpsheet
+- Assets/Resources/UI/backgroud/backgroud.tpsheet
+- Assets/Resources/UI/CoreUI/Elemental/Elemental.tpsheet
+- Assets/Resources/UI/Enhancemen/Enhancemen.tpsheet
+- Assets/Resources/UI/Friend/Friend.tpsheet
+- Assets/Resources/UI/Game/WorldMap/WorldMap.tpsheet
+- Assets/Resources/UI/Gifftcode/formgiftcode.tpsheet
+- Assets/Resources/UI/Image/Image.tpsheet
+- Assets/Resources/UI/Image1SelectServer/Image1SlectSerer.tpsheet
+- Assets/Resources/UI/LoginGame/LoginGame.tpsheet
+- Assets/Resources/UI/LoginSevenday/LoginSevenDays.tpsheet
+- Assets/Resources/UI/LoginSevendays/LoginSevenDays.tpsheet
+- Assets/Resources/UI/MainGame/AutoAttack/AutoAttack.tpsheet
+- Assets/Resources/UI/MessageBox/MessageBox.tpsheet
+- Assets/Resources/UI/Mission/Mission.tpsheet
+- Assets/Resources/UI/RankRing/RankRing.tpsheet
+- Assets/Resources/UI/Ring/Ring.tpsheet
+- Assets/Resources/UI/SelectServer/SelectServer.tpsheet
+- Assets/Resources/UI/Shop/Shop.tpsheet
+- Assets/Resources/UI/TokenShop/TokenShop.tpsheet
+- Assets/Resources/UI/Transaction/Transaction.tpsheet
+- Assets/Resources/UI/UnConnect/UnConnect.tpsheet
+- Assets/Resources/UI/Welfare/CardMonth.tpsheet
+- Assets/Resources/UI/Welfare/SevenDaysLogin.tpsheet
+- Assets/Resources/UI/Welfare/Welfare.tpsheet
+- Assets/StateEffect/37/37.tpsheet
+- Assets/Title/CaiBang/CaiBang.tpsheet
+- Assets/Title/ConLon/ConLon.tpsheet
+- Assets/Title/denhatcaothu/caothu.tpsheet
+- Assets/Title/DuongMon/DuongMon.tpsheet
+- Assets/Title/HoaSon/HoaSon.tpsheet
+- Assets/Title/MinhGiao/MinhGiao.tpsheet
+- Assets/Title/NgaMy/NgaMy.tpsheet
+- Assets/Title/NguDoc/NguDoc.tpsheet
+- Assets/Title/ThienNhan/ThienNhan.tpsheet
+- Assets/Title/ThienVuong/ThienVuong.tpsheet
+- Assets/Title/ThieuLam/ThieuLam.tpsheet
+- Assets/Title/ThuyYen/ThuyYen.tpsheet
+- Assets/Title/VoDang/VoDang.tpsheet
+textureFileNames:
+- Assets/47/DartThrow_0.png
+- Assets/47/DartThrow_1.png
+- Assets/47/DartThrow_2.png
+- Assets/47/DartThrow_3.png
+- Assets/47/DartThrow_4.png
+- Assets/47/DartThrow_5.png
+- Assets/47/DartThrow_6.png
+- Assets/47/DartThrow_7.png
+- Assets/47/DoubleWDie_0.png
+- Assets/47/DoubleWDie_1.png
+- Assets/47/DoubleWDie_2.png
+- Assets/47/DoubleWDie_3.png
+- Assets/47/DoubleWDie_4.png
+- Assets/47/DoubleWDie_5.png
+- Assets/47/DoubleWDie_6.png
+- Assets/47/DoubleWDie_7.png
+- Assets/47/DoubleWMagic_0.png
+- Assets/47/DoubleWMagic_1.png
+- Assets/47/DoubleWMagic_2.png
+- Assets/47/DoubleWMagic_3.png
+- Assets/47/DoubleWMagic_4.png
+- Assets/47/DoubleWMagic_5.png
+- Assets/47/DoubleWMagic_6.png
+- Assets/47/DoubleWMagic_7.png
+- Assets/47/DoubleWPound_0.png
+- Assets/47/DoubleWPound_1.png
+- Assets/47/DoubleWPound_2.png
+- Assets/47/DoubleWPound_3.png
+- Assets/47/DoubleWPound_4.png
+- Assets/47/DoubleWPound_5.png
+- Assets/47/DoubleWPound_6.png
+- Assets/47/DoubleWPound_7.png
+- Assets/47/DoubleWPull_0.png
+- Assets/47/DoubleWPull_1.png
+- Assets/47/DoubleWPull_2.png
+- Assets/47/DoubleWPull_3.png
+- Assets/47/DoubleWPull_4.png
+- Assets/47/DoubleWPull_5.png
+- Assets/47/DoubleWPull_6.png
+- Assets/47/DoubleWPull_7.png
+- Assets/47/DoubleWRun_0.png
+- Assets/47/DoubleWRun_1.png
+- Assets/47/DoubleWRun_2.png
+- Assets/47/DoubleWRun_3.png
+- Assets/47/DoubleWRun_4.png
+- Assets/47/DoubleWRun_5.png
+- Assets/47/DoubleWRun_6.png
+- Assets/47/DoubleWRun_7.png
+- Assets/47/DoubleWStand_0.png
+- Assets/47/DoubleWStand_1.png
+- Assets/47/DoubleWStand_2.png
+- Assets/47/DoubleWStand_3.png
+- Assets/47/DoubleWStand_4.png
+- Assets/47/DoubleWStand_5.png
+- Assets/47/DoubleWStand_6.png
+- Assets/47/DoubleWStand_7.png
+- Assets/47/DoubleWWalk_0.png
+- Assets/47/DoubleWWalk_1.png
+- Assets/47/DoubleWWalk_2.png
+- Assets/47/DoubleWWalk_3.png
+- Assets/47/DoubleWWalk_4.png
+- Assets/47/DoubleWWalk_5.png
+- Assets/47/DoubleWWalk_6.png
+- Assets/47/DoubleWWalk_7.png
+- Assets/47/DoubleWWound_0.png
+- Assets/47/DoubleWWound_1.png
+- Assets/47/DoubleWWound_2.png
+- Assets/47/DoubleWWound_3.png
+- Assets/47/DoubleWWound_4.png
+- Assets/47/DoubleWWound_5.png
+- Assets/47/DoubleWWound_6.png
+- Assets/47/DoubleWWound_7.png
+- Assets/47/FreeAttack_0.png
+- Assets/47/FreeAttack_1.png
+- Assets/47/FreeAttack_2.png
+- Assets/47/FreeAttack_3.png
+- Assets/47/FreeAttack_4.png
+- Assets/47/FreeAttack_5.png
+- Assets/47/FreeAttack_6.png
+- Assets/47/FreeAttack_7.png
+- Assets/47/FreeDie_0.png
+- Assets/47/FreeDie_1.png
+- Assets/47/FreeDie_2.png
+- Assets/47/FreeDie_3.png
+- Assets/47/FreeDie_4.png
+- Assets/47/FreeDie_5.png
+- Assets/47/FreeDie_6.png
+- Assets/47/FreeDie_7.png
+- Assets/47/FreeMagic_0.png
+- Assets/47/FreeMagic_1.png
+- Assets/47/FreeMagic_2.png
+- Assets/47/FreeMagic_3.png
+- Assets/47/FreeMagic_4.png
+- Assets/47/FreeMagic_5.png
+- Assets/47/FreeMagic_6.png
+- Assets/47/FreeMagic_7.png
+- Assets/47/FreeRun_0.png
+- Assets/47/FreeRun_1.png
+- Assets/47/FreeRun_2.png
+- Assets/47/FreeRun_3.png
+- Assets/47/FreeRun_4.png
+- Assets/47/FreeRun_5.png
+- Assets/47/FreeRun_6.png
+- Assets/47/FreeRun_7.png
+- Assets/47/FreeStand1_0.png
+- Assets/47/FreeStand1_1.png
+- Assets/47/FreeStand1_2.png
+- Assets/47/FreeStand1_3.png
+- Assets/47/FreeStand1_4.png
+- Assets/47/FreeStand1_5.png
+- Assets/47/FreeStand1_6.png
+- Assets/47/FreeStand1_7.png
+- Assets/47/FreeStand2_0.png
+- Assets/47/FreeStand2_1.png
+- Assets/47/FreeStand2_2.png
+- Assets/47/FreeStand2_3.png
+- Assets/47/FreeStand2_4.png
+- Assets/47/FreeStand2_5.png
+- Assets/47/FreeStand2_6.png
+- Assets/47/FreeStand2_7.png
+- Assets/47/FreeStand3_0.png
+- Assets/47/FreeStand3_1.png
+- Assets/47/FreeStand3_2.png
+- Assets/47/FreeStand3_3.png
+- Assets/47/FreeStand3_4.png
+- Assets/47/FreeStand3_5.png
+- Assets/47/FreeStand3_6.png
+- Assets/47/FreeStand3_7.png
+- Assets/47/FreeWalk_0.png
+- Assets/47/FreeWalk_1.png
+- Assets/47/FreeWalk_2.png
+- Assets/47/FreeWalk_3.png
+- Assets/47/FreeWalk_4.png
+- Assets/47/FreeWalk_5.png
+- Assets/47/FreeWalk_6.png
+- Assets/47/FreeWalk_7.png
+- Assets/47/FreeWound_0.png
+- Assets/47/FreeWound_1.png
+- Assets/47/FreeWound_2.png
+- Assets/47/FreeWound_3.png
+- Assets/47/FreeWound_4.png
+- Assets/47/FreeWound_5.png
+- Assets/47/FreeWound_6.png
+- Assets/47/FreeWound_7.png
+- Assets/47/JumpFly_0.png
+- Assets/47/JumpFly_1.png
+- Assets/47/JumpFly_2.png
+- Assets/47/JumpFly_3.png
+- Assets/47/JumpFly_4.png
+- Assets/47/JumpFly_5.png
+- Assets/47/JumpFly_6.png
+- Assets/47/JumpFly_7.png
+- Assets/47/MeleeWCut_0.png
+- Assets/47/MeleeWCut_1.png
+- Assets/47/MeleeWCut_2.png
+- Assets/47/MeleeWCut_3.png
+- Assets/47/MeleeWCut_4.png
+- Assets/47/MeleeWCut_5.png
+- Assets/47/MeleeWCut_6.png
+- Assets/47/MeleeWCut_7.png
+- Assets/47/MeleeWDie_0.png
+- Assets/47/MeleeWDie_1.png
+- Assets/47/MeleeWDie_2.png
+- Assets/47/MeleeWDie_3.png
+- Assets/47/MeleeWDie_4.png
+- Assets/47/MeleeWDie_5.png
+- Assets/47/MeleeWDie_6.png
+- Assets/47/MeleeWDie_7.png
+- Assets/47/MeleeWMagic_0.png
+- Assets/47/MeleeWMagic_1.png
+- Assets/47/MeleeWMagic_2.png
+- Assets/47/MeleeWMagic_3.png
+- Assets/47/MeleeWMagic_4.png
+- Assets/47/MeleeWMagic_5.png
+- Assets/47/MeleeWMagic_6.png
+- Assets/47/MeleeWMagic_7.png
+- Assets/47/MeleeWPuncture_0.png
+- Assets/47/MeleeWPuncture_1.png
+- Assets/47/MeleeWPuncture_2.png
+- Assets/47/MeleeWPuncture_3.png
+- Assets/47/MeleeWPuncture_4.png
+- Assets/47/MeleeWPuncture_5.png
+- Assets/47/MeleeWPuncture_6.png
+- Assets/47/MeleeWPuncture_7.png
+- Assets/47/MeleeWRun_0.png
+- Assets/47/MeleeWRun_1.png
+- Assets/47/MeleeWRun_2.png
+- Assets/47/MeleeWRun_3.png
+- Assets/47/MeleeWRun_4.png
+- Assets/47/MeleeWRun_5.png
+- Assets/47/MeleeWRun_6.png
+- Assets/47/MeleeWRun_7.png
+- Assets/47/MeleeWStand_0.png
+- Assets/47/MeleeWStand_1.png
+- Assets/47/MeleeWStand_2.png
+- Assets/47/MeleeWStand_3.png
+- Assets/47/MeleeWStand_4.png
+- Assets/47/MeleeWStand_5.png
+- Assets/47/MeleeWStand_6.png
+- Assets/47/MeleeWStand_7.png
+- Assets/47/MeleeWWalk_0.png
+- Assets/47/MeleeWWalk_1.png
+- Assets/47/MeleeWWalk_2.png
+- Assets/47/MeleeWWalk_3.png
+- Assets/47/MeleeWWalk_4.png
+- Assets/47/MeleeWWalk_5.png
+- Assets/47/MeleeWWalk_6.png
+- Assets/47/MeleeWWalk_7.png
+- Assets/47/MeleeWWound_0.png
+- Assets/47/MeleeWWound_1.png
+- Assets/47/MeleeWWound_2.png
+- Assets/47/MeleeWWound_3.png
+- Assets/47/MeleeWWound_4.png
+- Assets/47/MeleeWWound_5.png
+- Assets/47/MeleeWWound_6.png
+- Assets/47/MeleeWWound_7.png
+- Assets/47/NormalWalk_0.png
+- Assets/47/NormalWalk_1.png
+- Assets/47/NormalWalk_2.png
+- Assets/47/NormalWalk_3.png
+- Assets/47/NormalWalk_4.png
+- Assets/47/NormalWalk_5.png
+- Assets/47/NormalWalk_6.png
+- Assets/47/NormalWalk_7.png
+- Assets/47/RangeWCut_0.png
+- Assets/47/RangeWCut_1.png
+- Assets/47/RangeWCut_2.png
+- Assets/47/RangeWCut_3.png
+- Assets/47/RangeWCut_4.png
+- Assets/47/RangeWCut_5.png
+- Assets/47/RangeWCut_6.png
+- Assets/47/RangeWCut_7.png
+- Assets/47/RangeWDie_0.png
+- Assets/47/RangeWDie_1.png
+- Assets/47/RangeWDie_2.png
+- Assets/47/RangeWDie_3.png
+- Assets/47/RangeWDie_4.png
+- Assets/47/RangeWDie_5.png
+- Assets/47/RangeWDie_6.png
+- Assets/47/RangeWDie_7.png
+- Assets/47/RangeWMagic_0.png
+- Assets/47/RangeWMagic_1.png
+- Assets/47/RangeWMagic_2.png
+- Assets/47/RangeWMagic_3.png
+- Assets/47/RangeWMagic_4.png
+- Assets/47/RangeWMagic_5.png
+- Assets/47/RangeWMagic_6.png
+- Assets/47/RangeWMagic_7.png
+- Assets/47/RangeWPuncture_0.png
+- Assets/47/RangeWPuncture_1.png
+- Assets/47/RangeWPuncture_2.png
+- Assets/47/RangeWPuncture_3.png
+- Assets/47/RangeWPuncture_4.png
+- Assets/47/RangeWPuncture_5.png
+- Assets/47/RangeWPuncture_6.png
+- Assets/47/RangeWPuncture_7.png
+- Assets/47/RangeWRun_0.png
+- Assets/47/RangeWRun_1.png
+- Assets/47/RangeWRun_2.png
+- Assets/47/RangeWRun_3.png
+- Assets/47/RangeWRun_4.png
+- Assets/47/RangeWRun_5.png
+- Assets/47/RangeWRun_6.png
+- Assets/47/RangeWRun_7.png
+- Assets/47/RangeWStand_0.png
+- Assets/47/RangeWStand_1.png
+- Assets/47/RangeWStand_2.png
+- Assets/47/RangeWStand_3.png
+- Assets/47/RangeWStand_4.png
+- Assets/47/RangeWStand_5.png
+- Assets/47/RangeWStand_6.png
+- Assets/47/RangeWStand_7.png
+- Assets/47/RangeWWalk_0.png
+- Assets/47/RangeWWalk_1.png
+- Assets/47/RangeWWalk_2.png
+- Assets/47/RangeWWalk_3.png
+- Assets/47/RangeWWalk_4.png
+- Assets/47/RangeWWalk_5.png
+- Assets/47/RangeWWalk_6.png
+- Assets/47/RangeWWalk_7.png
+- Assets/47/RangeWWound_0.png
+- Assets/47/RangeWWound_1.png
+- Assets/47/RangeWWound_2.png
+- Assets/47/RangeWWound_3.png
+- Assets/47/RangeWWound_4.png
+- Assets/47/RangeWWound_5.png
+- Assets/47/RangeWWound_6.png
+- Assets/47/RangeWWound_7.png
+- Assets/47/RideCut_0.png
+- Assets/47/RideCut_1.png
+- Assets/47/RideCut_2.png
+- Assets/47/RideCut_3.png
+- Assets/47/RideCut_4.png
+- Assets/47/RideCut_5.png
+- Assets/47/RideCut_6.png
+- Assets/47/RideCut_7.png
+- Assets/47/RideDie_0.png
+- Assets/47/RideDie_1.png
+- Assets/47/RideDie_2.png
+- Assets/47/RideDie_3.png
+- Assets/47/RideDie_4.png
+- Assets/47/RideDie_5.png
+- Assets/47/RideDie_6.png
+- Assets/47/RideDie_7.png
+- Assets/47/RideMagic_0.png
+- Assets/47/RideMagic_1.png
+- Assets/47/RideMagic_2.png
+- Assets/47/RideMagic_3.png
+- Assets/47/RideMagic_4.png
+- Assets/47/RideMagic_5.png
+- Assets/47/RideMagic_6.png
+- Assets/47/RideMagic_7.png
+- Assets/47/RidePuncture_0.png
+- Assets/47/RidePuncture_1.png
+- Assets/47/RidePuncture_2.png
+- Assets/47/RidePuncture_3.png
+- Assets/47/RidePuncture_4.png
+- Assets/47/RidePuncture_5.png
+- Assets/47/RidePuncture_6.png
+- Assets/47/RidePuncture_7.png
+- Assets/47/RideRun_0.png
+- Assets/47/RideRun_1.png
+- Assets/47/RideRun_2.png
+- Assets/47/RideRun_3.png
+- Assets/47/RideRun_4.png
+- Assets/47/RideRun_5.png
+- Assets/47/RideRun_6.png
+- Assets/47/RideRun_7.png
+- Assets/47/RideStand_0.png
+- Assets/47/RideStand_1.png
+- Assets/47/RideStand_2.png
+- Assets/47/RideStand_3.png
+- Assets/47/RideStand_4.png
+- Assets/47/RideStand_5.png
+- Assets/47/RideStand_6.png
+- Assets/47/RideStand_7.png
+- Assets/47/RideWalk_0.png
+- Assets/47/RideWalk_1.png
+- Assets/47/RideWalk_2.png
+- Assets/47/RideWalk_3.png
+- Assets/47/RideWalk_4.png
+- Assets/47/RideWalk_5.png
+- Assets/47/RideWalk_6.png
+- Assets/47/RideWalk_7.png
+- Assets/47/RideWound_0.png
+- Assets/47/RideWound_1.png
+- Assets/47/RideWound_2.png
+- Assets/47/RideWound_3.png
+- Assets/47/RideWound_4.png
+- Assets/47/RideWound_5.png
+- Assets/47/RideWound_6.png
+- Assets/47/RideWound_7.png
+- Assets/47/SitDown_0.png
+- Assets/47/SitDown_1.png
+- Assets/47/SitDown_2.png
+- Assets/47/SitDown_3.png
+- Assets/47/SitDown_4.png
+- Assets/47/SitDown_5.png
+- Assets/47/SitDown_6.png
+- Assets/47/SitDown_7.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Config/WorldMap.png
+- Assets/Resources/UI/backgroud/backgroud.png
+- Assets/Resources/UI/CoreUI/Elemental/Elemental.png
+- Assets/Resources/UI/Enhancemen/Enhancemen.png
+- Assets/Resources/UI/Friend/Friend.png
+- Assets/Resources/UI/Game/WorldMap/WorldMap.png
+- Assets/Resources/UI/Gifftcode/formgiftcode.png
+- Assets/Resources/UI/Image/Image.png
+- Assets/Resources/UI/Image1SelectServer/Image1SlectSerer.png
+- Assets/Resources/UI/LoginGame/LoginGame.png
+- Assets/Resources/UI/LoginSevenday/LoginSevenDays.png
+- Assets/Resources/UI/LoginSevendays/LoginSevenDays.png
+- Assets/Resources/UI/MainGame/AutoAttack/AutoAttack.png
+- Assets/Resources/UI/MessageBox/MessageBox.png
+- Assets/Resources/UI/Mission/Mission.png
+- Assets/Resources/UI/RankRing/RankRing.png
+- Assets/Resources/UI/Ring/Ring.png
+- Assets/Resources/UI/SelectServer/SelectServer.png
+- Assets/Resources/UI/Shop/Shop.png
+- Assets/Resources/UI/TokenShop/TokenShop.png
+- Assets/Resources/UI/Transaction/Transaction.png
+- Assets/Resources/UI/UnConnect/UnConnect.png
+- Assets/Resources/UI/Welfare/CardMonth.png
+- Assets/Resources/UI/Welfare/SevenDaysLogin.png
+- Assets/Resources/UI/Welfare/Welfare.png
+- Assets/StateEffect/37/37.png
+- Assets/Title/CaiBang/CaiBang.png
+- Assets/Title/ConLon/ConLon.png
+- Assets/Title/denhatcaothu/caothu.png
+- Assets/Title/DuongMon/DuongMon.png
+- Assets/Title/HoaSon/HoaSon.png
+- Assets/Title/MinhGiao/MinhGiao.png
+- Assets/Title/NgaMy/NgaMy.png
+- Assets/Title/NguDoc/NguDoc.png
+- Assets/Title/ThienNhan/ThienNhan.png
+- Assets/Title/ThienVuong/ThienVuong.png
+- Assets/Title/ThieuLam/ThieuLam.png
+- Assets/Title/ThuyYen/ThuyYen.png
+- Assets/Title/VoDang/VoDang.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

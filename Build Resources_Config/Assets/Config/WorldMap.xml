@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	BẢN ĐỒ THẾ GIỚI VÀ KHU VỰC
+	World: Thiết lập bản đồ thế giới
+		- Area: Khu vực
+			- ID: ID khu vực
+			- Name: Tên khu vực được hiển thị trên bản đồ
+			- IconPosX: Tọa độ X đặt
+			- IconPosY: Tọa độ X đặt
+		- Place: Thông tin bản đồ
+			- MapCode: ID bản đồ
+			- IconName: Tên Icon
+			- IconPosX: Tọa độ X đặt Icon
+			- IconPosY: Tọa độ X đặt Icon
+			- Type: Loại bản đồ (0: Tân thủ thôn, 1: Thành thị, 2: Môn phái, 3: Dã ngoại)
+		- WayPort: Thông tin đường đi đến đâu đó
+			- MapCode: ID bản đồ
+			- IconName: Tên Icon
+			- IconPosX: Tọa độ X đặt Icon
+			- IconPosY: Tọa độ X đặt Icon
+	Area: Thiết lập bản đồ khu vực
+		- ID: ID khu vực
+		- ImageFileName: Tên ảnh chứa khu vực
+		- Place: Thông tin bản đồ
+			- MapCode: ID bản đồ
+			- IconName: Tên Icon
+			- IconPosX: Tọa độ X đặt Icon
+			- IconPosY: Tọa độ X đặt Icon
+			- Type: Loại bản đồ (0: Tân thủ thôn, 1: Thành thị, 2: Môn phái, 3: Dã ngoại)
+		- WayPort: Thông tin đường đi đến đâu đó
+			- MapCode: ID bản đồ
+			- IconPosX: Tọa độ X đặt Icon
+			- IconPosY: Tọa độ X đặt Icon
+	
+-->
+<WorldMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- Bản đồ thế giới -->
+	<World ImageFileName="mapthegioi">
+		<Place MapCode="7" IconName="Dong" IconPosX="170" IconPosY="100" Type="3" />
+		<Place MapCode="26" IconName="Dong" IconPosX="300" IconPosY="160" Type="3" />
+		<Place MapCode="19" IconName="class_NgaMy" IconPosX="100" IconPosY="200" Type="2" />
+		<Place MapCode="37" IconName="Dong" IconPosX="130" IconPosY="350" Type="3" />
+		<Place MapCode="17" IconName="Dong" IconPosX="90" IconPosY="550" Type="3" />
+		<Place MapCode="18" IconName="Dong" IconPosX="130" IconPosY="650" Type="3" />
+		<Place MapCode="5" IconName="class_ConLon" IconPosX="100" IconPosY="760" Type="2" />
+		<Place MapCode="23" IconName="Dong" IconPosX="270" IconPosY="730" Type="3" />
+		<Place MapCode="9" IconName="class_DuongMon" IconPosX="250" IconPosY="270" Type="2" />
+		<Place MapCode="14" IconName="Dong" IconPosX="180" IconPosY="470" Type="3" />
+		<Place MapCode="35" IconName="Dong" IconPosX="290" IconPosY="640" Type="3" />
+		<Place MapCode="10" IconName="huyen" IconPosX="400" IconPosY="200" Type="0" />
+		<Place MapCode="39" IconName="thanh" IconPosX="550" IconPosY="260" Type="1" />
+		<Place MapCode="15" IconName="Dong" IconPosX="380" IconPosY="360" Type="3" />
+		<Place MapCode="13" IconName="Dong" IconPosX="320" IconPosY="430" Type="3" />
+		<Place MapCode="24" IconName="Dong" IconPosX="280" IconPosY="560" Type="3" />
+		<Place MapCode="21" IconName="Dong" IconPosX="450" IconPosY="670" Type="3" />
+		<Place MapCode="41" IconName="class_HoaSon" IconPosX="410" IconPosY="500" Type="2" />
+		<Place MapCode="29" IconName="class_ThuyYen" IconPosX="550" IconPosY="80" Type="2" />
+		<Place MapCode="22" IconName="Dong" IconPosX="570" IconPosY="390" Type="3" />
+		<Place MapCode="11" IconName="Dong" IconPosX="540" IconPosY="470" Type="3" />
+		<Place MapCode="33" IconName="class_VoDang" IconPosX="520" IconPosY="570" Type="2" />
+		<Place MapCode="28" IconName="class_thieulam" IconPosX="600" IconPosY="670" Type="2" />
+		<Place MapCode="27" IconName="class_ThienVuong" IconPosX="690" IconPosY="180" Type="2" />
+		<Place MapCode="36" IconName="Dong" IconPosX="750" IconPosY="750" Type="3" />
+		<Place MapCode="31" IconName="Dong" IconPosX="950" IconPosY="750" Type="3" />
+		<Place MapCode="2" IconName="thanh" IconPosX="730" IconPosY="570" Type="1" />
+		<Place MapCode="32" IconName="thanh" IconPosX="740" IconPosY="430" Type="1" />
+		<Place MapCode="20" IconName="class_NguDoc" IconPosX="780" IconPosY="90" Type="2" />
+		<Place MapCode="25" IconName="Dong" IconPosX="810" IconPosY="250" Type="3" />
+		<Place MapCode="30" IconName="Dong" IconPosX="800" IconPosY="350" Type="3" />
+		<Place MapCode="42" IconName="class_ThienNhan" IconPosX="870" IconPosY="530" Type="2" />
+		<Place MapCode="16" IconName="Dong" IconPosX="900" IconPosY="670" Type="3" />
+		<Place MapCode="6" IconName="Dong" IconPosX="930" IconPosY="80" Type="3" />
+		<Place MapCode="34" IconName="Dong" IconPosX="960" IconPosY="160" Type="3" />
+		<Place MapCode="1" IconName="huyen" IconPosX="970" IconPosY="260" Type="0" />
+		<Place MapCode="3" IconName="class_CaiBang" IconPosX="990" IconPosY="460" Type="2" />
+		<Place MapCode="8" IconName="Dong" IconPosX="1000" IconPosY="380" Type="3" />
+		<Place MapCode="91" IconName="Class_minhgiao" IconPosX="400" IconPosY="70" Type="2" />
+	</World>
+	
+</WorldMap>

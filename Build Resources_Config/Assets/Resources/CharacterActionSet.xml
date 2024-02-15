@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharacterActionSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Male> 
+		<Armor>
+			<Set ID="armor00" BundleDir="Resources/CharacterActionSet/Male/Armor/armor00.unity3d" />
+			<Set ID="armor01" BundleDir="Resources/CharacterActionSet/Male/Armor/armor01.unity3d" />
+			<Set ID="armor02" BundleDir="Resources/CharacterActionSet/Male/Armor/armor02.unity3d" />
+			<Set ID="armor03" BundleDir="Resources/CharacterActionSet/Male/Armor/armor03.unity3d" />
+			<Set ID="armor04" BundleDir="Resources/CharacterActionSet/Male/Armor/armor04.unity3d" />
+			<Set ID="armor05" BundleDir="Resources/CharacterActionSet/Male/Armor/armor05.unity3d" />
+			<Set ID="armor06" BundleDir="Resources/CharacterActionSet/Male/Armor/armor06.unity3d" />
+			<Set ID="armor07" BundleDir="Resources/CharacterActionSet/Male/Armor/armor07.unity3d" />
+			<Set ID="armor08" BundleDir="Resources/CharacterActionSet/Male/Armor/armor08.unity3d" />
+			<Set ID="armor09" BundleDir="Resources/CharacterActionSet/Male/Armor/armor09.unity3d" />
+			<Set ID="armor10" BundleDir="Resources/CharacterActionSet/Male/Armor/armor10.unity3d" />
+			<Set ID="armor11" BundleDir="Resources/CharacterActionSet/Male/Armor/armor11.unity3d" />
+			<Set ID="armor12" BundleDir="Resources/CharacterActionSet/Male/Armor/armor12.unity3d" />
+			<Set ID="armor13" BundleDir="Resources/CharacterActionSet/Male/Armor/armor13.unity3d" />
+			<Set ID="armor14" BundleDir="Resources/CharacterActionSet/Male/Armor/armor14.unity3d" />
+			<Set ID="armor15" BundleDir="Resources/CharacterActionSet/Male/Armor/armor15.unity3d" />
+			<Set ID="armor16" BundleDir="Resources/CharacterActionSet/Male/Armor/armor16.unity3d" />
+			<Set ID="armor17" BundleDir="Resources/CharacterActionSet/Male/Armor/armor17.unity3d" />
+			<Set ID="armor31" BundleDir="Resources/CharacterActionSet/Male/Armor/armor31.unity3d" />
+			<Set ID="armor32" BundleDir="Resources/CharacterActionSet/Male/Armor/armor32.unity3d" />
+			<Set ID="armor34" BundleDir="Resources/CharacterActionSet/Male/Armor/armor34.unity3d" />
+			<Set ID="armor35" BundleDir="Resources/CharacterActionSet/Male/Armor/armor35.unity3d" />
+			<Set ID="armor39" BundleDir="Resources/CharacterActionSet/Male/Armor/armor39.unity3d" />
+			<Set ID="armor44" BundleDir="Resources/CharacterActionSet/Male/Armor/armor44.unity3d" />
+		</Armor>
+		<Head>
+			<Set ID="helm00" BundleDir="Resources/CharacterActionSet/Male/Helm/helm00.unity3d" />
+			<Set ID="helm01" BundleDir="Resources/CharacterActionSet/Male/Helm/helm01.unity3d" />
+			<Set ID="helm02" BundleDir="Resources/CharacterActionSet/Male/Helm/helm02.unity3d" />
+			<Set ID="helm03" BundleDir="Resources/CharacterActionSet/Male/Helm/helm03.unity3d" />
+			<Set ID="helm04" BundleDir="Resources/CharacterActionSet/Male/Helm/helm04.unity3d" />
+			<Set ID="helm05" BundleDir="Resources/CharacterActionSet/Male/Helm/helm05.unity3d" />
+			<Set ID="helm06" BundleDir="Resources/CharacterActionSet/Male/Helm/helm06.unity3d" />
+			<Set ID="helm07" BundleDir="Resources/CharacterActionSet/Male/Helm/helm07.unity3d" />
+			<Set ID="helm08" BundleDir="Resources/CharacterActionSet/Male/Helm/helm08.unity3d" />
+			<Set ID="helm09" BundleDir="Resources/CharacterActionSet/Male/Helm/helm09.unity3d" />
+			<Set ID="helm10" BundleDir="Resources/CharacterActionSet/Male/Helm/helm10.unity3d" />
+			<Set ID="helm11" BundleDir="Resources/CharacterActionSet/Male/Helm/helm11.unity3d" />
+			<Set ID="helm12" BundleDir="Resources/CharacterActionSet/Male/Helm/helm12.unity3d" />
+			<Set ID="helm13" BundleDir="Resources/CharacterActionSet/Male/Helm/helm13.unity3d" />
+			<Set ID="helm14" BundleDir="Resources/CharacterActionSet/Male/Helm/helm14.unity3d" />
+			<Set ID="helm15" BundleDir="Resources/CharacterActionSet/Male/Helm/helm15.unity3d" />
+			<Set ID="helm16" BundleDir="Resources/CharacterActionSet/Male/Helm/helm16.unity3d" />
+			<Set ID="helm17" BundleDir="Resources/CharacterActionSet/Male/Helm/helm17.unity3d" />
+			<Set ID="helm31" BundleDir="Resources/CharacterActionSet/Male/Helm/helm31.unity3d" />
+			<Set ID="helm32" BundleDir="Resources/CharacterActionSet/Male/Helm/helm32.unity3d" />
+			<Set ID="helm39" BundleDir="Resources/CharacterActionSet/Male/Helm/helm39.unity3d" />
+			<Set ID="helm35" BundleDir="Resources/CharacterActionSet/Male/Helm/helm35.unity3d" />
+			<Set ID="helm44" BundleDir="Resources/CharacterActionSet/Male/Helm/helm44.unity3d" />
+		</Head>
+		<Mantle>
+			<Set ID="mantle01" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle01.unity3d" />
+			<Set ID="mantle02" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle02.unity3d" />
+			<Set ID="mantle03" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle03.unity3d" />
+			<Set ID="mantle04" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle04.unity3d" />
+			<Set ID="mantle05" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle05.unity3d" />
+			<Set ID="mantle06" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle06.unity3d" />
+			<Set ID="mantle07" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle07.unity3d" />
+			<Set ID="mantle08" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle08.unity3d" />
+			<Set ID="mantle10" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle10.unity3d" />
+		</Mantle>
+		<Weapon>
+			<Set ID="anqi" BundleDir="Resources/CharacterActionSet/Male/Weapon/anqi.unity3d" />
+			<Set ID="changgun01" BundleDir="Resources/CharacterActionSet/Male/Weapon/changgun01.unity3d" />
+			<Set ID="changgun02" BundleDir="Resources/CharacterActionSet/Male/Weapon/changgun02.unity3d" />
+			<Set ID="changgun03" BundleDir="Resources/CharacterActionSet/Male/Weapon/changgun03.unity3d" />
+			<Set ID="changgun04" BundleDir="Resources/CharacterActionSet/Male/Weapon/changgun04.unity3d" />
+			<Set ID="changgun05" BundleDir="Resources/CharacterActionSet/Male/Weapon/changgun05.unity3d" />
+			<Set ID="changgun06" BundleDir="Resources/CharacterActionSet/Male/Weapon/changgun06.unity3d" />
+			<Set ID="changgun07" BundleDir="Resources/CharacterActionSet/Male/Weapon/changgun07.unity3d" />
+			<Set ID="changgun08" BundleDir="Resources/CharacterActionSet/Male/Weapon/changgun08.unity3d" />
+			<Set ID="changqiang01" BundleDir="Resources/CharacterActionSet/Male/Weapon/changqiang01.unity3d" />
+			<Set ID="changqiang02" BundleDir="Resources/CharacterActionSet/Male/Weapon/changqiang02.unity3d" />
+			<Set ID="changqiang03" BundleDir="Resources/CharacterActionSet/Male/Weapon/changqiang03.unity3d" />
+			<Set ID="changqiang04" BundleDir="Resources/CharacterActionSet/Male/Weapon/changqiang04.unity3d" />
+			<Set ID="changqiang05" BundleDir="Resources/CharacterActionSet/Male/Weapon/changqiang05.unity3d" />
+			<Set ID="changqiang06" BundleDir="Resources/CharacterActionSet/Male/Weapon/changqiang06.unity3d" />
+			<Set ID="changqiang07" BundleDir="Resources/CharacterActionSet/Male/Weapon/changqiang07.unity3d" />
+			<Set ID="changqiang08" BundleDir="Resources/CharacterActionSet/Male/Weapon/changqiang08.unity3d" />
+			<Set ID="chanshou" BundleDir="Resources/CharacterActionSet/Male/Weapon/chanshou.unity3d" />
+			<Set ID="danshoudao01" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoudao01.unity3d" />
+			<Set ID="danshoudao02" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoudao02.unity3d" />
+			<Set ID="danshoudao03" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoudao03.unity3d" />
+			<Set ID="danshoudao04" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoudao04.unity3d" />
+			<Set ID="danshoudao05" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoudao05.unity3d" />
+			<Set ID="danshoudao06" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoudao06.unity3d" />
+			<Set ID="danshoudao07" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoudao07.unity3d" />
+			<Set ID="danshoudao08" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoudao08.unity3d" />
+			<Set ID="danshoujian01" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoujian01.unity3d" />
+			<Set ID="danshoujian02" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoujian02.unity3d" />
+			<Set ID="danshoujian03" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoujian03.unity3d" />
+			<Set ID="danshoujian04" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoujian04.unity3d" />
+			<Set ID="danshoujian05" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoujian05.unity3d" />
+			<Set ID="danshoujian06" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoujian06.unity3d" />
+			<Set ID="danshoujian07" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoujian07.unity3d" />
+			<Set ID="danshoujian08" BundleDir="Resources/CharacterActionSet/Male/Weapon/danshoujian08.unity3d" />
+			<Set ID="kongshou" BundleDir="Resources/CharacterActionSet/Male/Weapon/kongshou.unity3d" />
+			<Set ID="meigui01" BundleDir="Resources/CharacterActionSet/Male/Weapon/meigui01.unity3d" />
+			<Set ID="meigui02" BundleDir="Resources/CharacterActionSet/Male/Weapon/meigui02.unity3d" />
+			<Set ID="null" BundleDir="Resources/CharacterActionSet/Male/Weapon/null.unity3d" />
+			<Set ID="shuangchui01" BundleDir="Resources/CharacterActionSet/Male/Weapon/shuangchui01.unity3d" />
+			<Set ID="shuangchui02" BundleDir="Resources/CharacterActionSet/Male/Weapon/shuangchui02.unity3d" />
+			<Set ID="shuangchui03" BundleDir="Resources/CharacterActionSet/Male/Weapon/shuangchui03.unity3d" />
+			<Set ID="shuangchui04" BundleDir="Resources/CharacterActionSet/Male/Weapon/shuangchui04.unity3d" />
+			<Set ID="shuangchui05" BundleDir="Resources/CharacterActionSet/Male/Weapon/shuangchui05.unity3d" />
+			<Set ID="shuangchui06" BundleDir="Resources/CharacterActionSet/Male/Weapon/shuangchui06.unity3d" />
+			<Set ID="shuangchui07" BundleDir="Resources/CharacterActionSet/Male/Weapon/shuangchui07.unity3d" />
+			<Set ID="shuangchui08" BundleDir="Resources/CharacterActionSet/Male/Weapon/shuangchui08.unity3d" />
+		</Weapon>
+	</Male>
+	<Female> 
+		<Armor>
+			<Set ID="armor00" BundleDir="Resources/CharacterActionSet/Female/Armor/armor00.unity3d" />
+			<Set ID="armor01" BundleDir="Resources/CharacterActionSet/Female/Armor/armor01.unity3d" />
+			<Set ID="armor02" BundleDir="Resources/CharacterActionSet/Female/Armor/armor02.unity3d" />
+			<Set ID="armor03" BundleDir="Resources/CharacterActionSet/Female/Armor/armor03.unity3d" />
+			<Set ID="armor04" BundleDir="Resources/CharacterActionSet/Female/Armor/armor04.unity3d" />
+			<Set ID="armor05" BundleDir="Resources/CharacterActionSet/Female/Armor/armor05.unity3d" />
+			<Set ID="armor06" BundleDir="Resources/CharacterActionSet/Female/Armor/armor06.unity3d" />
+			<Set ID="armor07" BundleDir="Resources/CharacterActionSet/Female/Armor/armor07.unity3d" />
+			<Set ID="armor08" BundleDir="Resources/CharacterActionSet/Female/Armor/armor08.unity3d" />
+			<Set ID="armor09" BundleDir="Resources/CharacterActionSet/Female/Armor/armor09.unity3d" />
+			<Set ID="armor10" BundleDir="Resources/CharacterActionSet/Female/Armor/armor10.unity3d" />
+			<Set ID="armor11" BundleDir="Resources/CharacterActionSet/Female/Armor/armor11.unity3d" />
+			<Set ID="armor12" BundleDir="Resources/CharacterActionSet/Female/Armor/armor12.unity3d" />
+			<Set ID="armor13" BundleDir="Resources/CharacterActionSet/Female/Armor/armor13.unity3d" />
+			<Set ID="armor14" BundleDir="Resources/CharacterActionSet/Female/Armor/armor14.unity3d" />
+			<Set ID="armor15" BundleDir="Resources/CharacterActionSet/Female/Armor/armor15.unity3d" />
+			<Set ID="armor16" BundleDir="Resources/CharacterActionSet/Female/Armor/armor16.unity3d" />
+			<Set ID="armor31" BundleDir="Resources/CharacterActionSet/Female/Armor/armor31.unity3d" />
+			<Set ID="armor32" BundleDir="Resources/CharacterActionSet/Female/Armor/armor32.unity3d" />
+			<Set ID="armor33" BundleDir="Resources/CharacterActionSet/Female/Armor/armor33.unity3d" />
+			<Set ID="armor34" BundleDir="Resources/CharacterActionSet/Female/Armor/armor34.unity3d" />
+			<Set ID="armor35" BundleDir="Resources/CharacterActionSet/Female/Armor/armor35.unity3d" />
+			<Set ID="armor37" BundleDir="Resources/CharacterActionSet/Female/Armor/armor37.unity3d" />
+			<Set ID="armor44" BundleDir="Resources/CharacterActionSet/Female/Armor/armor44.unity3d" />
+		</Armor>
+		<Head>
+			<Set ID="helm00" BundleDir="Resources/CharacterActionSet/Female/Helm/helm00.unity3d" />
+			<Set ID="helm01" BundleDir="Resources/CharacterActionSet/Female/Helm/helm01.unity3d" />
+			<Set ID="helm02" BundleDir="Resources/CharacterActionSet/Female/Helm/helm02.unity3d" />
+			<Set ID="helm03" BundleDir="Resources/CharacterActionSet/Female/Helm/helm03.unity3d" />
+			<Set ID="helm04" BundleDir="Resources/CharacterActionSet/Female/Helm/helm04.unity3d" />
+			<Set ID="helm05" BundleDir="Resources/CharacterActionSet/Female/Helm/helm05.unity3d" />
+			<Set ID="helm06" BundleDir="Resources/CharacterActionSet/Female/Helm/helm06.unity3d" />
+			<Set ID="helm07" BundleDir="Resources/CharacterActionSet/Female/Helm/helm07.unity3d" />
+			<Set ID="helm08" BundleDir="Resources/CharacterActionSet/Female/Helm/helm08.unity3d" />
+			<Set ID="helm09" BundleDir="Resources/CharacterActionSet/Female/Helm/helm09.unity3d" />
+			<Set ID="helm10" BundleDir="Resources/CharacterActionSet/Female/Helm/helm10.unity3d" />
+			<Set ID="helm11" BundleDir="Resources/CharacterActionSet/Female/Helm/helm11.unity3d" />
+			<Set ID="helm12" BundleDir="Resources/CharacterActionSet/Female/Helm/helm12.unity3d" />
+			<Set ID="helm13" BundleDir="Resources/CharacterActionSet/Female/Helm/helm13.unity3d" />
+			<Set ID="helm14" BundleDir="Resources/CharacterActionSet/Female/Helm/helm14.unity3d" />
+			<Set ID="helm15" BundleDir="Resources/CharacterActionSet/Female/Helm/helm15.unity3d" />
+			<Set ID="helm16" BundleDir="Resources/CharacterActionSet/Female/Helm/helm16.unity3d" />
+			<Set ID="helm31" BundleDir="Resources/CharacterActionSet/Female/Helm/helm31.unity3d" />
+			<Set ID="helm32" BundleDir="Resources/CharacterActionSet/Female/Helm/helm32.unity3d" />
+			<Set ID="helm33" BundleDir="Resources/CharacterActionSet/Female/Helm/helm33.unity3d" />
+			<Set ID="helm37" BundleDir="Resources/CharacterActionSet/Female/Helm/helm37.unity3d" />
+			<Set ID="helm43" BundleDir="Resources/CharacterActionSet/Female/Helm/helm43.unity3d" />
+			<Set ID="helm44" BundleDir="Resources/CharacterActionSet/Female/Helm/helm44.unity3d" />
+		</Head>
+		<Mantle>
+			<Set ID="mantle01" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle01.unity3d" />
+			<Set ID="mantle02" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle02.unity3d" />
+			<Set ID="mantle03" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle03.unity3d" />
+			<Set ID="mantle04" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle04.unity3d" />
+			<Set ID="mantle05" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle05.unity3d" />
+			<Set ID="mantle06" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle06.unity3d" />
+			<Set ID="mantle07" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle07.unity3d" />
+		</Mantle>
+		<Weapon>
+			<Set ID="anqi" BundleDir="Resources/CharacterActionSet/Female/Weapon/anqi.unity3d" />
+			<Set ID="changgun01" BundleDir="Resources/CharacterActionSet/Female/Weapon/changgun01.unity3d" />
+			<Set ID="changgun02" BundleDir="Resources/CharacterActionSet/Female/Weapon/changgun02.unity3d" />
+			<Set ID="changgun03" BundleDir="Resources/CharacterActionSet/Female/Weapon/changgun03.unity3d" />
+			<Set ID="changgun04" BundleDir="Resources/CharacterActionSet/Female/Weapon/changgun04.unity3d" />
+			<Set ID="changgun05" BundleDir="Resources/CharacterActionSet/Female/Weapon/changgun05.unity3d" />
+			<Set ID="changgun06" BundleDir="Resources/CharacterActionSet/Female/Weapon/changgun06.unity3d" />
+			<Set ID="changgun07" BundleDir="Resources/CharacterActionSet/Female/Weapon/changgun07.unity3d" />
+			<Set ID="changgun08" BundleDir="Resources/CharacterActionSet/Female/Weapon/changgun08.unity3d" />
+			<Set ID="changqiang01" BundleDir="Resources/CharacterActionSet/Female/Weapon/changqiang01.unity3d" />
+			<Set ID="changqiang02" BundleDir="Resources/CharacterActionSet/Female/Weapon/changqiang02.unity3d" />
+			<Set ID="changqiang03" BundleDir="Resources/CharacterActionSet/Female/Weapon/changqiang03.unity3d" />
+			<Set ID="changqiang04" BundleDir="Resources/CharacterActionSet/Female/Weapon/changqiang04.unity3d" />
+			<Set ID="changqiang05" BundleDir="Resources/CharacterActionSet/Female/Weapon/changqiang05.unity3d" />
+			<Set ID="changqiang06" BundleDir="Resources/CharacterActionSet/Female/Weapon/changqiang06.unity3d" />
+			<Set ID="changqiang07" BundleDir="Resources/CharacterActionSet/Female/Weapon/changqiang07.unity3d" />
+			<Set ID="changqiang08" BundleDir="Resources/CharacterActionSet/Female/Weapon/changqiang08.unity3d" />
+			<Set ID="chanshou" BundleDir="Resources/CharacterActionSet/Female/Weapon/chanshou.unity3d" />
+			<Set ID="danshoudao01" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoudao01.unity3d" />
+			<Set ID="danshoudao02" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoudao02.unity3d" />
+			<Set ID="danshoudao03" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoudao03.unity3d" />
+			<Set ID="danshoudao04" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoudao04.unity3d" />
+			<Set ID="danshoudao05" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoudao05.unity3d" />
+			<Set ID="danshoudao06" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoudao06.unity3d" />
+			<Set ID="danshoudao07" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoudao07.unity3d" />
+			<Set ID="danshoudao08" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoudao08.unity3d" />
+			<Set ID="danshoujian01" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoujian01.unity3d" />
+			<Set ID="danshoujian02" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoujian02.unity3d" />
+			<Set ID="danshoujian03" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoujian03.unity3d" />
+			<Set ID="danshoujian04" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoujian04.unity3d" />
+			<Set ID="danshoujian05" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoujian05.unity3d" />
+			<Set ID="danshoujian06" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoujian06.unity3d" />
+			<Set ID="danshoujian07" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoujian07.unity3d" />
+			<Set ID="danshoujian08" BundleDir="Resources/CharacterActionSet/Female/Weapon/danshoujian08.unity3d" />
+			<Set ID="kongshou" BundleDir="Resources/CharacterActionSet/Female/Weapon/kongshou.unity3d" />
+			<Set ID="meigui01" BundleDir="Resources/CharacterActionSet/Female/Weapon/meigui01.unity3d" />
+			<Set ID="meigui02" BundleDir="Resources/CharacterActionSet/Female/Weapon/meigui02.unity3d" />
+			<Set ID="null" BundleDir="Resources/CharacterActionSet/Female/Weapon/null.unity3d" />
+			<Set ID="shuangchui01" BundleDir="Resources/CharacterActionSet/Female/Weapon/shuangchui01.unity3d" />
+			<Set ID="shuangchui02" BundleDir="Resources/CharacterActionSet/Female/Weapon/shuangchui02.unity3d" />
+			<Set ID="shuangchui03" BundleDir="Resources/CharacterActionSet/Female/Weapon/shuangchui03.unity3d" />
+			<Set ID="shuangchui04" BundleDir="Resources/CharacterActionSet/Female/Weapon/shuangchui04.unity3d" />
+			<Set ID="shuangchui05" BundleDir="Resources/CharacterActionSet/Female/Weapon/shuangchui05.unity3d" />
+			<Set ID="shuangchui06" BundleDir="Resources/CharacterActionSet/Female/Weapon/shuangchui06.unity3d" />
+			<Set ID="shuangchui07" BundleDir="Resources/CharacterActionSet/Female/Weapon/shuangchui07.unity3d" />
+			<Set ID="shuangchui08" BundleDir="Resources/CharacterActionSet/Female/Weapon/shuangchui08.unity3d" />
+		</Weapon>
+	</Female>
+	<Rider>
+		<Set ID="horse01" BundleDir="Resources/CharacterActionSet/Rider/horse01.unity3d" />
+		<Set ID="horse02" BundleDir="Resources/CharacterActionSet/Rider/horse02.unity3d" />
+		<Set ID="horse03" BundleDir="Resources/CharacterActionSet/Rider/horse03.unity3d" />
+		<Set ID="horse04" BundleDir="Resources/CharacterActionSet/Rider/horse04.unity3d" />
+		<Set ID="horse05" BundleDir="Resources/CharacterActionSet/Rider/horse05.unity3d" />
+		<Set ID="horse06" BundleDir="Resources/CharacterActionSet/Rider/horse06.unity3d" />
+		<Set ID="horse07" BundleDir="Resources/CharacterActionSet/Rider/horse07.unity3d" />
+		<Set ID="horse08" BundleDir="Resources/CharacterActionSet/Rider/horse08.unity3d" />
+		<Set ID="horse09" BundleDir="Resources/CharacterActionSet/Rider/horse09.unity3d" />
+		<Set ID="horse10" BundleDir="Resources/CharacterActionSet/Rider/horse10.unity3d" />
+		<Set ID="horse11" BundleDir="Resources/CharacterActionSet/Rider/horse11.unity3d" />
+		<Set ID="horse12" BundleDir="Resources/CharacterActionSet/Rider/horse12.unity3d" />
+		<Set ID="horse21" BundleDir="Resources/CharacterActionSet/Rider/horse21.unity3d" />
+		<Set ID="horse22" BundleDir="Resources/CharacterActionSet/Rider/horse22.unity3d" />
+		<Set ID="horse23" BundleDir="Resources/CharacterActionSet/Rider/horse23.unity3d" />
+		<Set ID="horse24" BundleDir="Resources/CharacterActionSet/Rider/horse24.unity3d" />
+		<Set ID="horse25" BundleDir="Resources/CharacterActionSet/Rider/horse25.unity3d" />
+		<Set ID="horse26" BundleDir="Resources/CharacterActionSet/Rider/horse26.unity3d" />
+		<Set ID="horse27" BundleDir="Resources/CharacterActionSet/Rider/horse27.unity3d" />
+		<Set ID="horse28" BundleDir="Resources/CharacterActionSet/Rider/horse28.unity3d" />
+		<Set ID="horse29" BundleDir="Resources/CharacterActionSet/Rider/horse29.unity3d" />
+	</Rider>
+</CharacterActionSet>

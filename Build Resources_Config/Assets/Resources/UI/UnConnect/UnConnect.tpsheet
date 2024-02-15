@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:5273aaf349401f47896bd7f09057259e:8141ce2c359046ca8015286fd449ed37:b4292449c643b3b2b0351da8c5134aaa$
+#
+:format=40300
+:texture=UnConnect.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+Background;1;589;700;466; 0.5;0.5; 0;0;0;0; 4;700;0;0;0;0;466;700;466; 2;1;2;3;0;1;3
+BackgroundLoginSeven;1;1057;1674;990; 0.5;0.5; 0;0;0;0; 16;162;976;422;976;424;980;435;980;437;976;1631;976;1633;990;1674;990;1674;0;1633;0;1631;9;162;9;160;0;0;0;0;990;160;990; 14;0;14;15;11;12;13;0;11;13;8;9;10;5;7;8;5;8;10;5;6;7;4;5;10;4;10;11;1;3;4;1;2;3;1;4;11;0;1;11;0;13;14
+Btn_Ketnoilai;1677;1982;230;65; 0.5;0.5; 0;0;0;0; 4;230;0;0;0;0;65;230;65; 2;1;2;3;0;1;3
+Btn_Thoatgame;1677;1915;230;65; 0.5;0.5; 0;0;0;0; 4;230;0;0;0;0;65;230;65; 2;1;2;3;0;1;3

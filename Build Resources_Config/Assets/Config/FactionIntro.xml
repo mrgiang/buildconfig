@@ -1,0 +1,39 @@
+<!--
+	GIỚI THIỆU MÔN PHÁI
+	Faction: Thông tin môn phái
+		ID: ID phái
+		Description: Mô tả môn phái
+		TypeDesc: Đặc điểm môn phái
+		DiffRate: Xếp hạng độ khó
+		Icon: Icon ở trạng thái thường
+		ActiveIcon: Icon ở trạng thái kích hoạt
+		Logo: Logo của phái
+		VideoBundle: Đường dẫn Bundle chứa Video môn phái
+		Video: Tên của Video môn phái
+-->
+<FactionIntro>
+	<!-- Thiếu Lâm -->
+	<Faction ID="1" Description="Thiếu Lâm thuộc hành kim có sức mạnh hơn người, thân thể cường tráng, khi thăng cấp sinh mạng sẽ được tăng lên rất nhanh, tác dụng khi luyện tập ngoại công cũng mạnh hơn thấy rõ. Mỗi khi sinh mạng tăng lên một cấp thì ngoại công cũng tăng lên rất nhiều." TypeDesc="Cận chiến và chống chịu" DiffRate="2" Icon="Btn_Class_ThieuLam" ActiveIcon="Btn_Class_ThieuLam_Active" Logo="Title_ThieuLam" VideoBundle="Resources/Video/Intro_ThieuLam.unity3d" Video="Intro_ThieuLam" />
+	<!-- Thiên Vương -->
+	<Faction ID="2" Description="Thiên Vương lấy sức mạnh làm thuộc tính chính, các đòn thế tấn công bằng trường thương cận chiến vô cùng uy lực, áp đảo kẻ thù, chiêu thức mang khả năng chí mạng cao, cận chiến đối đầu gần như không có đối thủ." TypeDesc="Cận chiến và chống chịu" DiffRate="3" Icon="Btn_Class_ThienVuong" ActiveIcon="Btn_Class_ThienVuong_Active" Logo="Title_ThienVuong" VideoBundle="Resources/Video/Intro_ThienVuong.unity3d" Video="Intro_ThienVuong" />
+	<!-- Đường Môn -->
+	<Faction ID="3" Description="Đường Môn đứng trung lập trong thập nhất đại phái. Tuy không chiến đấu chính diện được lâu dài như Thiếu Lâm, nhưng nhờ bộ pháp nhanh nhẹn, công thủ linh hoạt nên có thể sử dụng tuyệt học độc môn kích sát đối thủ." TypeDesc="Tầm xa và bẫy nổ" DiffRate="3" Icon="Btn_Class_DuongMon" ActiveIcon="Btn_Class_DuongMon_Active" Logo="Title_DuongMon" VideoBundle="Resources/Video/Intro_DuongMon.unity3d" Video="Intro_DuongMon" />
+	<!-- Ngũ Độc -->
+	<Faction ID="4" Description="Người trong võ lâm đều dặn dò nhau rằng trên bước đường hành tẩu, nếu gặp đệ tử Ngũ Độc nên có bảy phần úy kỵ, ba phần giữ gìn, kẻo có khi vong mạng mà không hiểu vì sao để bẩm lại Diêm đài." TypeDesc="Tầm xa và bùa chú" DiffRate="2" Icon="Btn_Class_NguDoc" ActiveIcon="Btn_Class_NguDoc_Active" Logo="Title_NguDoc" VideoBundle="Resources/Video/Intro_NguDoc.unity3d" Video="Intro_NguDoc" />
+	<!-- Nga My -->
+	<Faction ID="5" Description="Nga My là tên gọi một môn phái võ thuật Trung Hoa ra đời tại núi Nga My và được truyền bá rộng rãi ở Tứ Xuyên. Là môn phái do nữ giới sáng lập và duy nhất chỉ có nữ giới được nhập môn" TypeDesc="Hỗ trợ tầm xa" DiffRate="2" Icon="Btn_Class_NgaMy" ActiveIcon="Btn_Class_NgaMy_Active" Logo="Title_NgaMy" VideoBundle="Resources/Video/Intro_NgaMy.unity3d" Video="Intro_NgaMy" />
+	<!-- Thúy Yên -->
+	<Faction ID="6" Description="Thúy Yên môn là môn phái thần bí, nằm dọc theo Nhĩ Hải, vùng núi Điểm Sơn thuộc nước Đại Lý và giáp biên cương Vân Nam xa xôi." TypeDesc="Cận chiến và tầm xa" DiffRate="2" Icon="Btn_Class_ThuyYen" ActiveIcon="Btn_Class_ThuyYen_Active" Logo="Title_ThuyYen" VideoBundle="Resources/Video/Intro_ThuyYen.unity3d" Video="Intro_ThuyYen" />
+	<!-- Cái Bang -->
+	<Faction ID="7" Description="Trong các triều đại thiên hạ, có rất nhiều người ăn mày, hợp lại thành một môn phái, bênh vực kẻ yếu, đứng giữa chính tà, cân bằng thiện ác." TypeDesc="Tấn công tầm xa" DiffRate="2" Icon="Btn_Class_CaiBang" ActiveIcon="Btn_Class_CaiBang_Active" Logo="Title_CaiBang" VideoBundle="Resources/Video/Intro_CaiBang.unity3d" Video="Intro_CaiBang" />
+	<!-- Thiên Nhẫn -->
+	<Faction ID="8" Description="Thiên Nhẫn trong giới võ lâm luôn là một cái tên đáng gờm, được cả Thập Nhị Đại Phái dè chừng. Được thiên hạ liệt vào Tà phái, Thiên Nhẫn nhiều lần khuấy động huyết chiến trên giang hồ" TypeDesc="Cận chiến, tầm xa và bùa chú" DiffRate="4" Icon="Btn_Class_ThienNhan" ActiveIcon="Btn_Class_ThienNhan_Active" Logo="Title_ThienNhan" VideoBundle="Resources/Video/Intro_ThienNhan.unity3d" Video="Intro_ThienNhan" />
+	<!-- Võ Đang -->
+	<Faction ID="9" Description="Võ Đang Phái được nhân thế gọi là Nội Gia Chính Tông do Trương Tam Phong chân nhân sáng lập và phát triển, trong giang hồ luôn giữ một vị thế vững chắc" TypeDesc="Cận chiến và tầm xa" DiffRate="3" Icon="Btn_Class_VoDang" ActiveIcon="Btn_Class_VoDang_Active" Logo="Title_VoDang" VideoBundle="Resources/Video/Intro_VoDang.unity3d" Video="Intro_VoDang" />
+	<!-- Côn Lôn -->
+	<Faction ID="10" Description="Môn phái tọa lạc trên dãy núi Côn Lôn hùng vĩ tuyết trắng quanh năm. Phái Côn Lôn thành lập bởi Hà Túc Đạo một trong những vị tôn sư được nhân sĩ võ lâm kính phục." TypeDesc="Tầm xa và bùa chú" DiffRate="3" Icon="Btn_Class_ConLon" ActiveIcon="Btn_Class_ConLon_Active" Logo="Title_ConLon" VideoBundle="Resources/Video/Intro_ConLon.unity3d" Video="Intro_ConLon" />
+	<!-- Hoa Sơn -->
+	<Faction ID="11" Description="Tọa lạc trên núi Hoa Sơn, là một trong năm ngọn núi thuộc Ngũ Nhạc Danh Sơn. Đệ tửu Hoa Sơn tu kiếm thuật luyện tâm pháp, phối hợp với chiêu thức độc môn khiến cương khí tuần hoàn mạnh mẽ,khắc chế đối phương giành lấy thắng lợi." TypeDesc="Tầm xa và bẫy khống chế" DiffRate="5" Icon="Btn_Class_HoaSon" ActiveIcon="Btn_Class_HoaSon_Active" Logo="Title_HoaSon" VideoBundle="Resources/Video/Intro_HoaSon.unity3d" Video="Intro_HoaSon" />
+	<!-- Minh Giáo -->
+	<Faction ID="12" Description="Phái Minh Giáo từ khi lập giáo đều độc lai độc vãng, không giao thiệp nhiều với võ lâm các phái nhưng đệ tử tuyệt nhiên không phải là người dễ đối phó, hành tung cực kỳ bí ẩn." TypeDesc="Tầm xa và cận chiến" DiffRate="4" Icon="Btn_Class_MinhGiao" ActiveIcon="Btn_Class_MinhGiao_Active" Logo="Title_MinhGiao" VideoBundle="Resources/Video/Intro_MinhGiao.unity3d" Video="Intro_MinhGiao" />
+</FactionIntro>

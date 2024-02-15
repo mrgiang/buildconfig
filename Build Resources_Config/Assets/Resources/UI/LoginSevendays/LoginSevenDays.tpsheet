@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:96271be9e6dc99d8c9fc3f0c2a1a9f25:e3d75eb371162ccd734e7f0fe463f5ee:3114a1b70b7749c80b2d7eea60fe4594$
+#
+:format=40300
+:texture=LoginSevenDays.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+Background;1;1057;1674;990; 0.5;0.5; 0;0;0;0; 12;162;976;1631;976;1633;990;1674;990;1674;0;1633;0;1631;9;162;9;160;0;0;0;0;990;160;990; 10;0;10;11;7;8;9;0;7;9;4;5;6;1;3;4;1;4;6;1;2;3;1;6;7;0;1;7;0;9;10
+Background_Day;1677;1423;220;624; 0.5;0.5; 0;0;0;0; 4;220;0;0;0;0;624;220;624; 2;1;2;3;0;1;3
+Background_Day_Disable;1677;797;220;624; 0.5;0.5; 0;0;0;0; 4;220;0;0;0;0;624;220;624; 2;1;2;3;0;1;3
+Btn_Close;1899;1983;64;64; 0.5;0.5; 0;0;0;0; 4;64;0;0;0;0;64;64;64; 2;1;2;3;0;1;3
+Btn_Nhan;1;725;180;70; 0.5;0.5; 0;0;0;0; 4;180;0;0;0;0;70;180;70; 2;1;2;3;0;1;3
+Btn_Nhan_Disable;1;985;180;70; 0.5;0.5; 0;0;0;0; 4;180;0;0;0;0;70;180;70; 2;1;2;3;0;1;3

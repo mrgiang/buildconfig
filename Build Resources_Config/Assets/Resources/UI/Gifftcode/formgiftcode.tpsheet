@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:8372e43b17829e48c38fc2214b55a17c:fa5d4a64de61195b2674e26bfde66565:8ed97543cbd3c468b3dc010504cfb546$
+#
+:format=40300
+:texture=formgiftcode.png
+:size=256x256
+:pivotpoints=enabled
+:borders=disabled
+
+giftcode_icongift;1;61;222;194; 0.5;0.5; 0;0;0;0; 13;222;175;222;37;166;6;150;0;131;0;56;18;4;18;0;20;0;30;25;108;56;181;76;194;196;194; 11;2;11;12;9;10;11;4;9;11;8;6;7;8;5;6;8;9;5;4;5;9;2;4;11;2;3;4;1;2;12;0;1;12

@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: db9da6962d6af7b469bc2bd9cd6e45d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3534507079706028486
+    second: BODY_0046
+  - first:
+      213: 4157454267117511635
+    second: BODY_0048
+  - first:
+      213: 4613122324887242680
+    second: BODY_0050
+  - first:
+      213: 3487350088313409612
+    second: BODY_0052
+  - first:
+      213: 8921966362082213875
+    second: LEFTHAND_0046
+  - first:
+      213: 2507822327712414743
+    second: LEFTHAND_0048
+  - first:
+      213: 3195281739154489723
+    second: LEFTHAND_0050
+  - first:
+      213: -5647333782866887923
+    second: LEFTHAND_0052
+  - first:
+      213: 3711396408331865611
+    second: RIGHTHAND_0046
+  - first:
+      213: 289104733744322950
+    second: RIGHTHAND_0048
+  - first:
+      213: -743265238863420018
+    second: RIGHTHAND_0050
+  - first:
+      213: -6230489476696688393
+    second: RIGHTHAND_0052
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BODY_0046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 22
+        height: 61
+      alignment: 9
+      pivot: {x: -6.818182, y: -2.065574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36d402a988e2fec0800000000000000
+      internalID: -3534507079706028486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_0048
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 24
+        height: 62
+      alignment: 9
+      pivot: {x: -6.166667, y: -2.048387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a879f0ae32b930800000000000000
+      internalID: 4157454267117511635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_0050
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5
+        width: 26
+        height: 58
+      alignment: 9
+      pivot: {x: -5.653846, y: -2.155172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b70458205a150040800000000000000
+      internalID: 4613122324887242680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY_0052
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 84
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: -4.59375, y: -2.930233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c401955bd6e856030800000000000000
+      internalID: 3487350088313409612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFTHAND_0046
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 15
+        width: 13
+        height: 30
+      alignment: 9
+      pivot: {x: -11, y: -5.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fff4edb22131db70800000000000000
+      internalID: 8921966362082213875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFTHAND_0048
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: -10, y: -6.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c771bbe139dc220800000000000000
+      internalID: 2507822327712414743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFTHAND_0050
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 74
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: -9.2, y: -7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71889bffcbe75c20800000000000000
+      internalID: 3195281739154489723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFTHAND_0052
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 75
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: -8.75, y: -5.884615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bf72868d3a0a1b0800000000000000
+      internalID: -5647333782866887923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHTHAND_0046
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 72
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: -10.666667, y: -5.535714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e084b9e57818330800000000000000
+      internalID: 3711396408331865611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHTHAND_0048
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: -8.777778, y: -5.925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689d6bd393b130400800000000000000
+      internalID: 289104733744322950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHTHAND_0050
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 102
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: -8.722222, y: -6.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8566a704346fa5f0800000000000000
+      internalID: -743265238863420018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHTHAND_0052
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: -8.722222, y: -6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f83facd4dad889a0800000000000000
+      internalID: -6230489476696688393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
