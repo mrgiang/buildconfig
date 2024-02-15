@@ -6,7 +6,28 @@ using System.Linq;
 
 public class BuildTool : MonoBehaviour
 {
-	/// <summary>
+    /// <summary>
+    /// Encrypt asset bundle file
+    /// </summary>
+    /// <param name="assetBundleFileDir"></param>
+    private static bool EncryptAssetBundleServerFile(string assetBundleFileDir)
+    {
+        if (!File.Exists(assetBundleFileDir))
+        {
+            Debug.LogError("Config.unity3d does not exist!!!");
+            return false;
+        }
+        KTResourceCrypto.SetKey("eabb22bdc77d9d8fc85f52a572ae2f52eabb22bdc77d8d9fc85f52a572ae2f52eabb22bdc97d8d8fc85f52a572ae2f52eabb22bdc79d8d8fc85f52a572ae2f52eabb22bdc79d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc97d8d8fc85f52a572ae2f52eabb22bdc97d8d8fc85f52a572ae2f59");
+        byte[] byteData = File.ReadAllBytes(assetBundleFileDir);
+
+        byte[] encryptedBytes = KTResourceCrypto.Encrypt(byteData.ToArray());
+
+        File.Delete(assetBundleFileDir);
+        File.WriteAllBytes(assetBundleFileDir, encryptedBytes);
+
+        return true;
+    }
+    /// <summary>
     /// Encrypt asset bundle file
     /// </summary>
     /// <param name="assetBundleFileDir"></param>
@@ -28,6 +49,31 @@ public class BuildTool : MonoBehaviour
         return true;
     }
 
+    /// <summary>
+    /// Build
+    /// </summary>
+    [MenuItem("Build Server Config/lua")]
+    public static void AndroidBuildServerConfig()
+    {
+        // Bring up save panel
+        var path = EditorUtility.SaveFilePanel("Save Resource", "", "lua", "unity3d");
+        if (path.Length != 0)
+        {
+            // Build the resource file from the active selection.
+            var selection = Selection.GetFiltered(typeof(Object), SelectionMode.DeepAssets);
+            BuildPipeline.BuildAssetBundle(Selection.activeObject, selection, path, BuildAssetBundleOptions.CompleteAssets, BuildTarget.Android);
+        }
+        bool ret = BuildTool.EncryptAssetBundleServerFile(path);
+        if (ret)
+        {
+            Debug.Log("Build Config.unity3d successfully!");
+        }
+        else
+        {
+            Debug.Log("Build Config.unity3d failed!");
+        }
+    }
+   
     /// <summary>
     /// Build
     /// </summary>
