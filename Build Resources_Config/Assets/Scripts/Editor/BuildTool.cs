@@ -169,6 +169,15 @@ public class BuildTool : MonoBehaviour
             BuildPipeline.BuildAssetBundle(Selection.activeObject, selection, path, BuildAssetBundleOptions.CompleteAssets, BuildTarget.Android);
 
         }
+        bool ret = BuildTool.EncryptAssetBundleFile(path);
+        if (ret)
+        {
+            Debug.Log("Build Config.unity3d successfully!");
+        }
+        else
+        {
+            Debug.Log("Build Config.unity3d failed!");
+        }
     }
 
     [MenuItem("Build Res/Android - Build All AssetBundles inside selected folders")]
