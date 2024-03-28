@@ -38,10 +38,10 @@ public class BuildTool : MonoBehaviour
             Debug.LogError("Config.unity3d does not exist!!!");
             return false;
         }
-        KTResourceCrypto.SetKey("eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52");
+        KTResourceCrypto.SetKey2("eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52");
         byte[] byteData = File.ReadAllBytes(assetBundleFileDir);
 
-        byte[] encryptedBytes = KTResourceCrypto.Encrypt(byteData.ToArray());
+        byte[] encryptedBytes = KTResourceCrypto.Encrypt(byteData.ToArray(), false);
 
         File.Delete(assetBundleFileDir);
         File.WriteAllBytes(assetBundleFileDir, encryptedBytes);

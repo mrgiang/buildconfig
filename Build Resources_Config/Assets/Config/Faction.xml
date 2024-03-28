@@ -43,4 +43,35 @@
 			<Skill ID="10021" />
 		</Sub>
 	</Faction>
+	<Faction ID="5" Name="Nga My" Series="3" Gender="1">
+		<Sub ID="1" Name="Chưởng Pháp">
+			<Skill ID="10166" />
+			<Skill ID="10173" />
+			<Skill ID="10168" />
+			<Skill ID="10167" />
+			<Skill ID="10174" />
+			<Skill ID="10170" />
+			<Skill ID="10172" />
+		</Sub>
+		<Sub ID="2" Name="Kiếm Pháp">
+			<Skill ID="10158" />
+			<Skill ID="10159" />
+			<Skill ID="10160" />
+			<Skill ID="10090" />
+			<Skill ID="10174" />
+			<Skill ID="10161" />
+			<Skill ID="10163" />
+		</Sub>
+		<Sub ID="3" Name="Hỗ Trợ">
+			<Skill ID="10175" />
+			<Skill ID="10177" />
+			<Skill ID="10179" />
+			<Skill ID="10181" />
+			<Skill ID="10174" />
+			<Skill ID="10183" />
+			<Skill ID="10185" />
+			<Skill ID="10176" />
+			<Skill ID="10092" />
+		</Sub>
+	</Faction>
 </Factions>

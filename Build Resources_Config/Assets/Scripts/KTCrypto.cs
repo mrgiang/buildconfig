@@ -423,6 +423,16 @@ public static class KTResourceCrypto
     /// </summary>
     private static byte[] KeyBytesArray;
 
+    /// <summary>
+    /// Khóa bảo mật
+    /// </summary>
+    private static string Key2;
+
+    /// <summary>
+    /// Chuỗi Bytes Array tương ứng khóa
+    /// </summary>
+    private static byte[] KeyBytesArray2;
+
 
     /// <summary>
     /// Thiết lập khóa bảo mật
@@ -435,13 +445,23 @@ public static class KTResourceCrypto
     }
 
     /// <summary>
+    /// Thiết lập khóa bảo mật
+    /// </summary>
+    /// <param name="KeyValue"></param>
+    public static void SetKey2(string KeyValue)
+    {
+        KTResourceCrypto.Key2 = KeyValue;
+        KTResourceCrypto.KeyBytesArray2 = KTResourceCrypto.StringToByteArray(KTResourceCrypto.Key2);
+    }
+
+    /// <summary>
     /// Giải mã chuỗi ByteArray
     /// </summary>
     /// <param name="buffer"></param>
     /// <returns></returns>
-    public static byte[] Decrypt(byte[] buffer)
+    public static byte[] Decrypt(byte[] buffer, bool isServer = true)
     {
-        byte[] key = KTResourceCrypto.KeyBytesArray;
+        byte[] key = isServer ? KTResourceCrypto.KeyBytesArray : KTResourceCrypto.KeyBytesArray2;
 
         //buffer[0] = 0x4D;
         int n = buffer.Length;
@@ -492,9 +512,9 @@ public static class KTResourceCrypto
     /// </summary>
     /// <param name="buffer"></param>
     /// <returns></returns>
-    public static byte[] Encrypt(byte[] buffer)
+    public static byte[] Encrypt(byte[] buffer, bool isServer = true)
     {
-        byte[] key = KTResourceCrypto.KeyBytesArray;
+        byte[] key = isServer ? KTResourceCrypto.KeyBytesArray : KTResourceCrypto.KeyBytesArray2;
 
         //buffer[0] = 0x49;
         int n = buffer.Length;
