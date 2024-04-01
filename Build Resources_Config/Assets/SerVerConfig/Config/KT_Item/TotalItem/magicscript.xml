@@ -5,7 +5,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_001_s"
           ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="200 ">
           <UnLockInterval>0</UnLockInterval>
@@ -15,7 +15,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_001_s"
           ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="1100 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25,7 +25,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_002_s"
           ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="3" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="6600 ">
           <UnLockInterval>0</UnLockInterval>
@@ -35,7 +35,7 @@
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="xuanjing_lv4"
           ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="4" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="4" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="37000 "></ItemData>
      <ItemData ItemID="187"
@@ -43,7 +43,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_003_s"
           ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="5" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="5" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="207000 ">
           <UnLockInterval>0</UnLockInterval>
@@ -53,7 +53,7 @@
           ParticularType="1" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_004_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="6" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="6" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="1163000">
           <UnLockInterval>0</UnLockInterval>
@@ -63,7 +63,7 @@
           ParticularType="1" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_005_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="7" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="7" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="6514000">
           <UnLockInterval>0</UnLockInterval>
@@ -73,16 +73,15 @@
           ParticularType="1" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_006_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="8" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="36480000">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
-     <!--
      <ItemData ItemID="191" Name="Huyền Tinh vô hạ (cấp 9)" Genre="18" DetailType="1"
      ParticularType="1" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
      Image="xuanjing_007_s" ObjDrop="334" Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở
-     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="9" Stack="1"
+     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="9" Stack="999"
      ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2821109">
      <UnLockInterval>0</UnLockInterval>
@@ -91,7 +90,7 @@
      Tinh hoàn mỹ (cấp 10)" Genre="18" DetailType="1" ParticularType="1" IconBundleDir=
      "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_008_s" ObjDrop="334"
      Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại
-     Sư&lt;color&gt;" Series="-1" Price="0" Level="10" Stack="1" ResWomanID="-1" ResManID="-1"
+     Sư&lt;color&gt;" Series="-1" Price="0" Level="10" Stack="999" ResWomanID="-1" ResManID="-1"
      SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
      DeductOnUse="false" ScriptID="-1" FightPower="10155995 ">
      <UnLockInterval>0</UnLockInterval>
@@ -101,7 +100,7 @@
      DetailType="1" ParticularType="1" IconBundleDir= "Icon/ItemIcon_1.unity3d"
      IconAtlasName="ItemIcon_1" Image="xuanjing_009_s" ObjDrop="334" Descript="Giá trị không rẻ,
      dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1"
-     Price="0" Level="11" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     Price="0" Level="11" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
      SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
      FightPower="36565762">
      <UnLockInterval>0</UnLockInterval>
@@ -110,19 +109,18 @@
      ItemID="194" Name="Huyền Tinh trời ban (cấp 12)" Genre="18" DetailType="1" ParticularType="1"
      IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_010_s"
      ObjDrop="334" Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã
-     Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="12" Stack="1" ResWomanID="-1"
+     Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="12" Stack="999" ResWomanID="-1"
      ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
      DeductOnUse="false" ScriptID="-1" FightPower="131636744 ">
      <UnLockInterval>0</UnLockInterval>
      </ItemData>
-	 -->
 
      <ItemData ItemID="337"
           Name="Túi Phúc Hoàng Kim" Genre="6" DetailType="1" ParticularType="114"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="goldbag"
           ObjDrop="334"
           Descript="Nhấn sử dụng dể dùng, 10 cái đầu tiên nhận được phần thưởng phong phú."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200051" FightPower="337">
           <UnLockInterval>0</UnLockInterval>
@@ -162,7 +160,7 @@
           ParticularType="114" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_001_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="200">
           <UnLockInterval>0</UnLockInterval>
@@ -172,7 +170,7 @@
           ParticularType="114" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_001_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="1100 ">
           <UnLockInterval>0</UnLockInterval>
@@ -182,7 +180,7 @@
           ParticularType="114" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_002_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="3" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="6600">
           <UnLockInterval>0</UnLockInterval>
@@ -192,7 +190,7 @@
           ParticularType="114" IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3"
           Image="xuanjing_lv4" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="4" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="4" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="37000">
           <UnLockInterval>0</UnLockInterval>
@@ -202,7 +200,7 @@
           ParticularType="114" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_003_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="5" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="5" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="207000 ">
           <UnLockInterval>0</UnLockInterval>
@@ -212,7 +210,7 @@
           ParticularType="114" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_004_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="6" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="6" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="1163000">
           <UnLockInterval>0</UnLockInterval>
@@ -222,7 +220,7 @@
           ParticularType="114" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_005_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="7" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="7" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="6514000">
           <UnLockInterval>0</UnLockInterval>
@@ -232,17 +230,16 @@
           ParticularType="114" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuanjing_006_s" ObjDrop="334"
           Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
-          Series="-1" Price="0" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="8" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="36480000 ">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
-     <!--
      <ItemData ItemID="393" Name="Huyền Tinh Khóa vô hạ (cấp 9) " Genre="18"
      DetailType="1" ParticularType="114" IconBundleDir= "Icon/ItemIcon_1.unity3d"
      IconAtlasName="ItemIcon_1" Image="xuanjing_007_s" ObjDrop="334" Descript="Giá trị không rẻ,
      dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1"
-     Price="0" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     Price="0" Level="9" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
      SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
      FightPower="2821109">
      <UnLockInterval>0</UnLockInterval>
@@ -251,7 +248,7 @@
      ItemID="394" Name="Huyền Tinh Khóa hoàn mỹ (cấp 10) " Genre="18" DetailType="1"
      ParticularType="114" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
      Image="xuanjing_008_s" ObjDrop="334" Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở
-     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="10" Stack="1"
+     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="10" Stack="999"
      ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10155995">
      <UnLockInterval>0</UnLockInterval>
@@ -260,7 +257,7 @@
      Tinh Khóa óng ánh (cấp 11) " Genre="18" DetailType="1" ParticularType="114" IconBundleDir=
      "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_009_s" ObjDrop="334"
      Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại
-     Sư&lt;color&gt;" Series="-1" Price="0" Level="11" Stack="1" ResWomanID="-1" ResManID="-1"
+     Sư&lt;color&gt;" Series="-1" Price="0" Level="11" Stack="999" ResWomanID="-1" ResManID="-1"
      SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
      DeductOnUse="false" ScriptID="-1" FightPower="36565762">
      <UnLockInterval>0</UnLockInterval>
@@ -269,12 +266,11 @@
      DetailType="1" ParticularType="114" IconBundleDir= "Icon/ItemIcon_1.unity3d"
      IconAtlasName="ItemIcon_1" Image="xuanjing_010_s" ObjDrop="334" Descript="Giá trị không rẻ,
      dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1"
-     Price="0" Level="12" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     Price="0" Level="12" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
      SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
      FightPower="131636744 ">
      <UnLockInterval>0</UnLockInterval>
      </ItemData>
-	 -->
      <ItemData ItemID="348"
           Name="Tinh Khí Tán (500)" Genre="6" DetailType="0" ParticularType="11"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jingqisan"

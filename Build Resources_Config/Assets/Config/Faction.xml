@@ -44,6 +44,7 @@
 		</Sub>
 	</Faction>
 	<Faction ID="5" Name="Nga My" Series="3" Gender="1">
+	
 		<Sub ID="1" Name="Chưởng Pháp">
 			<Skill ID="10166" />
 			<Skill ID="10173" />
@@ -72,6 +73,36 @@
 			<Skill ID="10185" />
 			<Skill ID="10176" />
 			<Skill ID="10092" />
+		</Sub>
+	</Faction>
+		<Faction ID="8" Name="Thiên Nhẫn" Series="4" Gender="-1">
+		<Sub ID="1" Name="Mâu Pháp">
+			<Skill ID="10225" />
+			<Skill ID="10226" />
+			<Skill ID="10227" />
+			<Skill ID="10228" />
+			<Skill ID="10079" />
+			<Skill ID="10229" />
+			<Skill ID="10230" />
+		</Sub>
+		<Sub ID="2" Name="Đao Pháp">
+			<Skill ID="10245" />
+			<Skill ID="10232" />
+			<Skill ID="10233" />
+			<Skill ID="10234" />
+			<Skill ID="10079" />
+			<Skill ID="10236" />
+			<Skill ID="10238" />
+		</Sub>
+		<Sub ID="3" Name="Bùa Chú">
+			<Skill ID="10239" />
+			<Skill ID="10240" />
+			<Skill ID="10241" />
+			<Skill ID="10242" />
+			<Skill ID="10243" />
+			<Skill ID="10079" />
+			<Skill ID="10244" />
+			<Skill ID="10080" />
 		</Sub>
 	</Faction>
 </Factions>

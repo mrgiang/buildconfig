@@ -33,11 +33,11 @@ public class BuildTool : MonoBehaviour
     /// <param name="assetBundleFileDir"></param>
     private static bool EncryptAssetBundleFile(string assetBundleFileDir)
     {
-        if (!File.Exists(assetBundleFileDir))
-        {
-            Debug.LogError("Config.unity3d does not exist!!!");
-            return false;
-        }
+        //if (!File.Exists(assetBundleFileDir))
+        //{
+        //    Debug.LogError("Config.unity3d does not exist!!!");
+        //    return false;
+        //}
         KTResourceCrypto.SetKey2("eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52eabb22bdc77d8d8fc85f52a572ae2f52");
         byte[] byteData = File.ReadAllBytes(assetBundleFileDir);
 
