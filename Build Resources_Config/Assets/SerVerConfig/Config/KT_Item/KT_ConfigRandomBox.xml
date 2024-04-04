@@ -27,6 +27,14 @@ là Exp
     <Items Type="3" ItemID="-1" Series="0" TimeLimit="0" Number="50" Rate="200" Lock="1" />
     <Items Type="3" ItemID="-1" Series="0" TimeLimit="0" Number="100" Rate="100" Lock="1" />
     <Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="10000" Rate="100" Lock="1" />
+	<Items Type="4" ItemID="-1" Series="0" TimeLimit="0" Number="25" Rate="2000" Lock="1" />
+    <Items Type="2" ItemID="-1" Series="0" TimeLimit="0" Number="2000" Rate="2000" Lock="1" />
+    <Items Type="2" ItemID="-1" Series="0" TimeLimit="0" Number="3000" Rate="1000" Lock="1" />
+    <Items Type="2" ItemID="-1" Series="0" TimeLimit="0" Number="5000" Rate="500" Lock="1" />
+    <Items Type="2" ItemID="-1" Series="0" TimeLimit="0" Number="7000" Rate="300" Lock="1" />
+    <Items Type="4" ItemID="-1" Series="0" TimeLimit="0" Number="50" Rate="200" Lock="1" />
+    <Items Type="4" ItemID="-1" Series="0" TimeLimit="0" Number="100" Rate="100" Lock="1" />
+    <Items Type="2" ItemID="-1" Series="0" TimeLimit="0" Number="10000" Rate="100" Lock="1" />
   </Boxs>
   <Boxs IDBox="10196" BoxName="Rương Trang Bị Hồng Ảnh" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="1593" Series="0" TimeLimit="0" Number="1" Rate="2500" Lock="0" />
