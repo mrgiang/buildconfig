@@ -5043,6 +5043,21 @@
     <ShopItem>6057</ShopItem>
     <ShopItem>6058</ShopItem>
     <ShopItem>6059</ShopItem>
+	<ShopItem>21100</ShopItem>
+	<ShopItem>21101</ShopItem>
+	<ShopItem>21102</ShopItem>
+	<ShopItem>21103</ShopItem>
+	<ShopItem>21104</ShopItem>
+	<ShopItem>21105</ShopItem>
+	<ShopItem>21106</ShopItem>
+	<ShopItem>21107</ShopItem>
+	<ShopItem>21108</ShopItem>
+	<ShopItem>21109</ShopItem>
+	<ShopItem>21110</ShopItem>
+	<ShopItem>21111</ShopItem>
+	<ShopItem>21112</ShopItem>
+	<ShopItem>21113</ShopItem>
+	<ShopItem>21114</ShopItem>
   </ShopTab>
   <ShopTab ShopName="Thường dùng" ShopID="238" MoneyType="2" Discount="0" TimeSaleStart=""
     TimeSaleEnd="">

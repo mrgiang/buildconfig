@@ -105,4 +105,84 @@
 			<Skill ID="10080" />
 		</Sub>
 	</Faction>
+		<Faction ID="3" Name="Đường Môn" Series="2" Gender="-1">
+		<Sub ID="1" Name="Hãm Tĩnh">
+			<Skill ID="10145" />
+			<Skill ID="10147" />
+			<Skill ID="10149" />
+			<Skill ID="10151" />
+			<Skill ID="10153" />
+			<Skill ID="11379" />
+			<Skill ID="10155" />
+			<Skill ID="10157" />
+			<Skill ID="10093" />
+		</Sub>
+		<Sub ID="2" Name="Tụ Tiễn">
+			<Skill ID="10125" />
+			<Skill ID="11380" />
+			<Skill ID="10132" />
+			<Skill ID="10133" />
+			<Skill ID="11379" />
+			<Skill ID="10137" />
+			<Skill ID="10157" />
+			<Skill ID="10139" />
+		</Sub>
+		<Sub ID="3" Name="Phi Đao">
+			<Skill ID="10125" />
+			<Skill ID="11380" />
+			<Skill ID="10127" />
+			<Skill ID="10128" />
+			<Skill ID="11379" />
+			<Skill ID="10130" />
+			<Skill ID="10157" />
+			<Skill ID="10129" />
+		</Sub>
+		<Sub ID="4" Name="Phi Tiêu">
+			<Skill ID="10125" />
+			<Skill ID="11380" />
+			<Skill ID="10141" />
+			<Skill ID="10142" />
+			<Skill ID="11379" />
+			<Skill ID="10143" />
+			<Skill ID="10157" />
+			<Skill ID="10144" />
+		</Sub>
+	</Faction>
+	<Faction ID="4" Name="Ngũ Độc" Series="2" Gender="-1">
+		<Sub ID="1" Name="Đao Pháp">
+			<Skill ID="10110" />
+			<Skill ID="10106" />
+			<Skill ID="10124" />
+			<Skill ID="10111" />
+			<Skill ID="10103" />
+			<Skill ID="10097" />
+			<Skill ID="10112" />
+			<Skill ID="10113" />
+			<Skill ID="10098" />
+			<Skill ID="10115" />
+		</Sub>
+		<Sub ID="2" Name="Chưởng Pháp">
+			<Skill ID="10100" />
+			<Skill ID="10105" />
+			<Skill ID="10124" />
+			<Skill ID="10102" />
+			<Skill ID="10103" />
+			<Skill ID="10097" />
+			<Skill ID="10104" />
+			<Skill ID="10107" />
+			<Skill ID="10098" />
+			<Skill ID="10109" />
+		</Sub>
+		<Sub ID="3" Name="Bùa Chú">
+			<Skill ID="10117" />
+			<Skill ID="10118" />
+			<Skill ID="10119" />
+			<Skill ID="10120" />
+			<Skill ID="10123" />
+			<Skill ID="10097" />
+			<Skill ID="10121" />
+			<Skill ID="10122" />
+			<Skill ID="10098" />
+		</Sub>
+	</Faction>
 </Factions>
