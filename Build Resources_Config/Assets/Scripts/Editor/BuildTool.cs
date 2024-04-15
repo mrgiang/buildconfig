@@ -73,7 +73,29 @@ public class BuildTool : MonoBehaviour
             Debug.Log("Build Config.unity3d failed!");
         }
     }
-   
+
+    [MenuItem("Build Server Config/ioslua")]
+    public static void IOSBuildServerConfig()
+    {
+        // Bring up save panel
+        var path = EditorUtility.SaveFilePanel("Save Resource", "", "lua", "unity3d");
+        if (path.Length != 0)
+        {
+            // Build the resource file from the active selection.
+            var selection = Selection.GetFiltered(typeof(Object), SelectionMode.DeepAssets);
+            BuildPipeline.BuildAssetBundle(Selection.activeObject, selection, path, BuildAssetBundleOptions.CompleteAssets, BuildTarget.iOS);
+        }
+        bool ret = BuildTool.EncryptAssetBundleServerFile(path);
+        if (ret)
+        {
+            Debug.Log("Build Config.unity3d successfully!");
+        }
+        else
+        {
+            Debug.Log("Build Config.unity3d failed!");
+        }
+    }
+
     /// <summary>
     /// Build
     /// </summary>
