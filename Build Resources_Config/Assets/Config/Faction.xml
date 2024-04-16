@@ -148,41 +148,60 @@
 			<Skill ID="10144" />
 		</Sub>
 	</Faction>
-	<Faction ID="4" Name="Ngũ Độc" Series="2" Gender="-1">
-		<Sub ID="1" Name="Đao Pháp">
-			<Skill ID="10110" />
-			<Skill ID="10106" />
-			<Skill ID="10124" />
-			<Skill ID="10111" />
-			<Skill ID="10103" />
-			<Skill ID="10097" />
-			<Skill ID="10112" />
-			<Skill ID="10113" />
-			<Skill ID="10098" />
-			<Skill ID="10115" />
+	<Faction ID="9" Name="Võ Đang" Series="5" Gender="-1">
+		<Sub ID="1" Name="Khí Võ">
+			<Skill ID="10246" />
+			<Skill ID="10247" />
+			<Skill ID="10264" />
+			<Skill ID="10248" />
+			<Skill ID="10253" />
+			<Skill ID="10255" />
+			<Skill ID="10249" />
+			<Skill ID="10266" />
+			<Skill ID="10250" />
+			<Skill ID="10267" />
+			<Skill ID="10251" />
 		</Sub>
-		<Sub ID="2" Name="Chưởng Pháp">
-			<Skill ID="10100" />
-			<Skill ID="10105" />
-			<Skill ID="10124" />
-			<Skill ID="10102" />
-			<Skill ID="10103" />
-			<Skill ID="10097" />
-			<Skill ID="10104" />
-			<Skill ID="10107" />
-			<Skill ID="10098" />
-			<Skill ID="10109" />
+		<Sub ID="2" Name="Kiếm Võ">
+			<Skill ID="10252" />
+			<Skill ID="10257" />
+			<Skill ID="10264" />
+			<Skill ID="10254" />
+			<Skill ID="10253" />
+			<Skill ID="10255" />
+			<Skill ID="10256" />
+			<Skill ID="10266" />
+			<Skill ID="10258" />
+			<Skill ID="10267" />
+			<Skill ID="10261" />
 		</Sub>
-		<Sub ID="3" Name="Bùa Chú">
-			<Skill ID="10117" />
-			<Skill ID="10118" />
-			<Skill ID="10119" />
-			<Skill ID="10120" />
-			<Skill ID="10123" />
-			<Skill ID="10097" />
-			<Skill ID="10121" />
-			<Skill ID="10122" />
-			<Skill ID="10098" />
+	</Faction>
+	<Faction ID="7" Name="Cái Bang" Series="4" Gender="-1">
+		<Sub ID="1" Name="Chưởng Pháp">
+			<Skill ID="10204" />
+			<Skill ID="10205" />
+			<Skill ID="10219" />
+			<Skill ID="10218" />
+			<Skill ID="10220" />
+			<Skill ID="10206" />
+			<Skill ID="10224" />
+			<Skill ID="10223" />
+			<Skill ID="10207" />
+			<Skill ID="10083" />
+			<Skill ID="10209" />
+		</Sub>
+		<Sub ID="2" Name="Côn Pháp">
+			<Skill ID="10212" />
+			<Skill ID="10213" />
+			<Skill ID="10219" />
+			<Skill ID="10214" />
+			<Skill ID="10220" />
+			<Skill ID="10215" />
+			<Skill ID="10224" />
+			<Skill ID="10223" />
+			<Skill ID="10216" />
+			<Skill ID="10083" />
+			<Skill ID="10217" />
 		</Sub>
 	</Faction>
 </Factions>
