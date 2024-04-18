@@ -383,7 +383,7 @@
   </ItemData>
   
   
-  <ItemData ItemID="8140" Name="Chiếu Dạ Ngọc Sư Tử" Genre="0" DetailType="10" ParticularType="5" IconBundleDir= "Icon/ItemIcon_2.unity3d" IconAtlasName="ItemIcon_2" Image="Horse_30" ObjDrop="40" Descript="&quot;Là loại &quot;&quot;Thần câu&quot;&quot; c? sức mạnh phi thường, cư?i mây đạp gi?.&quot;" Series="0" Price="250000" Level="8" Stack="1" ResWomanID="3" ResManID="3" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1000000">
+  <ItemData ItemID="8140" Name="Chiếu Dạ Ngọc Sư Tử" Genre="0" DetailType="10" ParticularType="5" IconBundleDir= "Icon/ItemIcon_2.unity3d" IconAtlasName="ItemIcon_2" Image="Horse_30" ObjDrop="40" Descript="&quot;Là loại &quot;&quot;Thần câu&quot;&quot; c? sức mạnh phi thường, cư?i mây đạp gi?.&quot;" Series="0" Price="250000" Level="1" Stack="1" ResWomanID="3" ResManID="3" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1000000">
     <ListReqProp ReqPropType="36" ReqPropValue="80" Index="1" />
     <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
     <RiderProp RidePropType="staminamax_v" RidePropPA1Min="1000" RidePropPA1Max="1000" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="2" />

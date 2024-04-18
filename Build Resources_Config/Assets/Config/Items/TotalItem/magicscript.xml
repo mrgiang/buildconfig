@@ -50830,5 +50830,16 @@
           DeductOnUse="true" ScriptID="200300" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
+	 
+	 	  <ItemData ItemID="91438"
+          Name="Rương Vũ Khí Tân Thủ 1" Genre="6" DetailType="1"
+          ParticularType="30264" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+          Image="merchant_box" ObjDrop="387"
+          Descript="Chọn Vũ Khí 6x 4% như chế tạo ở Dã Luyện Đại Sư" Series="-1"
+          Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999998"
+          FightPower="-1 ">
+          <UnLockInterval>0</UnLockInterval>
+     </ItemData>
     
 </ArrayOfItemData>
