@@ -50841,5 +50841,16 @@
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
-    
+	 
+	 
+	   <ItemData ItemID="91439" Name="Đại Thành Bí Kíp 90" Genre="6" DetailType="1"
+     ParticularType="2424" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="quest_0011_s" ObjDrop="368"
+     Descript="Vật phẩm sử dụng để ngay lập tức lĩnh hội tinh hoa của võ học này ở cấp cao nhất." Series="-1" Price="0"
+     Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999997"
+     FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+         </ItemData>
+
 </ArrayOfItemData>

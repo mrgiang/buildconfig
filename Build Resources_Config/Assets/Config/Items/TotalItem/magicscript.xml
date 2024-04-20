@@ -49455,7 +49455,7 @@
           DetailType="1" ParticularType="4859" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="jianglibaoxiang_jin" ObjDrop="41"
           Descript="Mở ra ngươi sẽ nhận được nguyên liệu chế tạo, Ngươi hãy dùng nó để chế tạo những như ngươi cần, đừng lẵng phí nó."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="13725 ">
           <UnLockInterval>0</UnLockInterval>
@@ -49465,7 +49465,7 @@
           ParticularType="4860" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="jianglibaoxiang_tie" ObjDrop="41"
           Descript="Mở ra ngươi sẽ nhận được nguyên liệu chế tạo, Ngươi hãy dùng nó để chế tạo những như ngươi cần, đừng lẵng phí nó."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="13726 ">
           <UnLockInterval>0</UnLockInterval>
@@ -49475,7 +49475,7 @@
           ParticularType="4861" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="jianglibaoxiang_tong" ObjDrop="41"
           Descript="Mở ra ngươi sẽ nhận được nguyên liệu chế tạo, Ngươi hãy dùng nó để chế tạo những như ngươi cần, đừng lẵng phí nó."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="13727 ">
           <UnLockInterval>0</UnLockInterval>
@@ -49486,7 +49486,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="jianglibaoxiang_yin" ObjDrop="449"
           Descript="Mở ra ngươi sẽ nhận được nguyên liệu chế tạo, Ngươi hãy dùng nó để chế tạo những như ngươi cần, đừng lẵng phí nó."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="13728">
           <UnLockInterval>0</UnLockInterval>
@@ -50831,7 +50831,7 @@
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
 	 
-	 	  <ItemData ItemID="91438"
+	  <ItemData ItemID="91438"
           Name="Rương Vũ Khí Tân Thủ 1" Genre="6" DetailType="1"
           ParticularType="30264" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="merchant_box" ObjDrop="387"
@@ -50841,5 +50841,16 @@
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
-    
+	 
+	 
+	   <ItemData ItemID="91439" Name="Đại Thành Bí Kíp 90" Genre="6" DetailType="1"
+     ParticularType="2424" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="quest_0011_s" ObjDrop="368"
+     Descript="Vật phẩm sử dụng để ngay lập tức lĩnh hội tinh hoa của võ học này ở cấp cao nhất." Series="-1" Price="0"
+     Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999997"
+     FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+         </ItemData>
+
 </ArrayOfItemData>

@@ -5076,6 +5076,8 @@
     <ShopItem>5422</ShopItem>
 		<ShopItem>5423</ShopItem>
 		<ShopItem>5424</ShopItem>-->
+	<ShopItem>21115</ShopItem>
+
   </ShopTab>
   <ShopTab ShopName="Thương nhân thần bí" ShopID="239" MoneyType="1" Discount="0" TimeSaleStart=""
     TimeSaleEnd="">
@@ -5121,6 +5123,8 @@
     <ShopItem>5443</ShopItem>
     <ShopItem>5444</ShopItem>
     <ShopItem>5445</ShopItem>
+	<ShopItem>21116</ShopItem>
+
   </ShopTab>
   <ShopTab ShopName="Đạo Cụ" ShopID="242" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>9993</ShopItem>

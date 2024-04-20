@@ -11045,7 +11045,7 @@
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="10000"
     LimitType="-1" LimitValue="-1" />
   <ShopItem ID="5420" ItemID="2168" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
-    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="50000"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="30000"
     LimitType="-1" LimitValue="-1" />
   <ShopItem ID="5421" ItemID="10761" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="50000"
@@ -11065,6 +11065,9 @@
     LimitType="-1" LimitValue="-1" />
   <ShopItem ID="5426" ItemID="8412" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="4000"
+    LimitType="-1" LimitValue="-1" />
+ <ShopItem ID="21115" ItemID="2167" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="5000"
     LimitType="-1" LimitValue="-1" />
 
   <!-- kỳ trân các đạo cụ KNB-->
@@ -11237,7 +11240,9 @@
   <ShopItem ID="5481" ItemID="34619" Series="3" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="20000"
     LimitType="-1" LimitValue="-1" />
-
+  <ShopItem ID="21116" ItemID="91439" Series="3" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="25000"
+    LimitType="-1" LimitValue="-1" />
   <!-- thuong nhan than bi-->
   <ShopItem ID="7003" ItemID="8484" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100"
