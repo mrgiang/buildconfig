@@ -4,7 +4,7 @@
 	<!--Phuongtuong-->
 		<NPC Code="205" Name="Trương Trảm Kinh" MinimapName="Hiệu Thuốc" VisibleOnMinimap="1" Title="Ông Chủ Dược Điếm" X="4840" Y="2440" Dir="1" ScriptID="10"/>
 		<NPC Code="3290" Name="Sầm Hùng" MinimapName="Sầm Hùng" VisibleOnMinimap="0" Title=" " X="2747" Y="2097" Dir="1" ScriptID="64"/>
-		<NPC Code="976" Name="Nhiếp Thí Trần" MinimapName="Nhiếp Thí Trần" VisibleOnMinimap="1" Title=" " X="1732" Y="2517" Dir="1" ScriptID="187"/>
+		<NPC Code="2994" Name="Nhiếp Thí Trần" MinimapName="Nhiếp Thí Trần" VisibleOnMinimap="1" Title=" " X="1732" Y="2517" Dir="1" ScriptID="187"/>
 		<NPC Code="247" Name="Lữ Lão Hán" MinimapName="Lữ Lão Hán" VisibleOnMinimap="0" Title=" " X="2460" Y="3000" Dir="1" ScriptID="28"/>
 		<NPC Code="374" Name="Bành Tiểu Đệ" MinimapName="Bành Tiểu Đệ" VisibleOnMinimap="0" Title=" " X="2970" Y="3150" Dir="1" ScriptID="63"/>
 		<NPC Code="377" Name="Dịch Dung Thuật Sĩ" MinimapName="Dịch Dung Thuật Sĩ" VisibleOnMinimap="1" Title=" " X="3260" Y="3300" Dir="1" ScriptID="184"/>

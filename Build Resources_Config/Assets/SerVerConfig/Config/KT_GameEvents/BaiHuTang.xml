@@ -10,8 +10,8 @@
 		<!-- Uy danh, danh vọng khi giết Boss -->
 		<ReputeInfo GuildKillBossPrestige="5" OtherPrestige="2" GuildKillBossRepute="4" OtherRepute="1" />
 	
-		<Activity ActivityID="101" ActivityLevel="80" MapIDs="44;45;46;47" />
-		<Activity ActivityID="106" ActivityLevel="201" MapIDs="52;53;54;55" />
+		<Activity ActivityID="101" ActivityLevel="80" MapIDs="45" />
+		<Activity ActivityID="106" ActivityLevel="201" MapIDs="53" />
 		
 		<Monsters>
 			<Monster IDs="101_10137;106_10149" Name="" Title="" PosX="969" PosY="1287" BaseHP="1000" HPIncreaseEachLevel="300" AIType="5" RespawnTick="10000" AIScriptID="100000" />
@@ -89,14 +89,14 @@
 		</OutMapInfo>
 		
 		<NextMapInfo>
-			<Map FromMapID="44" NextMapID="48" NextPosX="1449" NextPosY="821" />
+			<Map FromMapID="44" NextMapID="49" NextPosX="1449" NextPosY="821" />
 			<Map FromMapID="46" NextMapID="49" NextPosX="1449" NextPosY="821" />
-			<Map FromMapID="45" NextMapID="48" NextPosX="1449" NextPosY="821" />
+			<Map FromMapID="45" NextMapID="49" NextPosX="1449" NextPosY="821" />
 			<Map FromMapID="47" NextMapID="49" NextPosX="1449" NextPosY="821" />
 			
-			<Map FromMapID="52" NextMapID="56" NextPosX="1449" NextPosY="821" />
+			<Map FromMapID="52" NextMapID="57" NextPosX="1449" NextPosY="821" />
 			<Map FromMapID="54" NextMapID="57" NextPosX="1449" NextPosY="821" />
-			<Map FromMapID="53" NextMapID="56" NextPosX="1449" NextPosY="821" />
+			<Map FromMapID="53" NextMapID="57" NextPosX="1449" NextPosY="821" />
 			<Map FromMapID="55" NextMapID="57" NextPosX="1449" NextPosY="821" />
 		</NextMapInfo>
 	</Round1>
@@ -106,8 +106,8 @@
 		<!-- Uy danh khi giết Boss -->
 		<ReputeInfo GuildKillBossPrestige="10" OtherPrestige="4" GuildKillBossRepute="7" OtherRepute="1" />
 		
-		<Activity ActivityID="102" ActivityLevel="80" MapIDs="48;49" />
-		<Activity ActivityID="107" ActivityLevel="201" MapIDs="56;57" />
+		<Activity ActivityID="102" ActivityLevel="80" MapIDs="49" />
+		<Activity ActivityID="107" ActivityLevel="201" MapIDs="57" />
 		
 		<Monsters>
 			<Monster IDs="102_10144;107_10153" Name="" Title="" PosX="969" PosY="1287" BaseHP="1000" HPIncreaseEachLevel="300" AIType="5" RespawnTick="10000" AIScriptID="100000" />

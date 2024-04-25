@@ -130,7 +130,7 @@
           ParticularType="113" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="chuanshenghailuo_xiao" ObjDrop="32"
           Descript="&quot;Truyền âm ngàn dặm, được tán gẫu trên kênh Thế Giới 1 câu &quot;"
-          Series="0" Price="1" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="10000">
           <UnLockInterval>0</UnLockInterval>
@@ -140,7 +140,7 @@
           ParticularType="113" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="chuanshenghailuo_zhong" ObjDrop="32"
           Descript="&quot;Truyền âm ngàn dặm, được tán gẫu trên kênh Liên máy chủ 1 câu &quot;"
-          Series="0" Price="1" Level="2" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="95000">
           <UnLockInterval>0</UnLockInterval>
@@ -150,7 +150,7 @@
           ParticularType="113" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="chuanshenghailuo_da" ObjDrop="32"
           Descript="&quot;Truyền âm ngàn dặm, được tán gẫu trên kênh công cộng 1 câu &quot;"
-          Series="0" Price="1" Level="3" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="450000">
           <UnLockInterval>0</UnLockInterval>
@@ -276,7 +276,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jingqisan"
           ObjDrop="334"
           Descript="Được Cửu Thiên đạo nhân luyện, có thể &lt;color=gold&gt;khôi phục 500 điểm Tinh lực.&lt;color&gt;&lt;enter&gt;Uống nhiều hại thân, mỗi ngày &lt;color=gold&gt;không uống quá 15 Tinh Khí Tán loại này.&lt;color&gt;&lt;enter&gt;Sau đó còn được uống &lt;color=gold&gt;5 Tinh Khí Tán (trung) và Tinh Khí Tán (đại) không hạn chế số lượng&lt;color&gt;"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200022" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -286,7 +286,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jingqisan_lv2"
           ObjDrop="334"
           Descript="Được Cửu Thiên đạo nhân luyện, có thể &lt;color=gold&gt;khôi phục 1000 điểm Tinh lực.&lt;color&gt;&lt;enter&gt;Uống nhiều hại thân, mỗi ngày uống &lt;color=gold&gt;không quá 15 Tinh Khí Tán loại này.&lt;color&gt;&lt;enter&gt;Sau đó, còn được uống &lt;color=gold&gt;5 Tinh Khí Tán (tiểu) và Tinh Khí Tán (đại) không hạn chế số lượng&lt;color&gt;"
-          Series="-1" Price="0" Level="2" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200022" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -296,7 +296,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jingqisan_lv3"
           ObjDrop="341"
           Descript="Được Cửu Thiên đạo nhân luyện, có thể &lt;color=gold&gt;khôi phục 1500 điểm Tinh lực.&lt;color&gt;&lt;enter&gt;Uống nhiều không hại thân, mỗi ngày uống &lt;color=gold&gt;không hạn chế số lượng.&lt;color&gt;&lt;enter&gt;Sau đó, còn được uống &lt;color=gold&gt;5 Tinh Khí Tán (tiểu) và 5 Tinh Khí Tán (trung)&lt;color&gt;"
-          Series="-1" Price="0" Level="3" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200022" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -306,7 +306,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="huoqisan"
           ObjDrop="334"
           Descript="Được Cửu Thiên đạo nhân luyện, có thể &lt;color=gold&gt;khôi phục 500 điểm Hoạt lực.&lt;color&gt;&lt;enter&gt;Uống nhiều hại thân, mỗi ngày &lt;color=gold&gt;không uống quá 15 Hoạt Khí Tán loại này.&lt;color&gt;&lt;enter&gt;Sau đó còn được uống &lt;color=gold&gt;5 Hoạt Khí Tán (trung) và Hoạt Khí Tán (đại) không hạn chế số lượng&lt;color&gt;"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200023" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -316,7 +316,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="huoqisan_lv2"
           ObjDrop="334"
           Descript="Được Cửu Thiên đạo nhân luyện, có thể &lt;color=gold&gt;khôi phục 1000 điểm Hoạt lực.&lt;color&gt;&lt;enter&gt;Uống nhiều hại thân, mỗi ngày uống &lt;color=gold&gt;không quá 15 Hoạt Khí Tán loại này.&lt;color&gt;&lt;enter&gt;Sau đó, còn được uống &lt;color=gold&gt;5 Hoạt Khí Tán (tiểu) và Hoạt Khí Tán (đại) không hạn chế số lượng&lt;color&gt;"
-          Series="-1" Price="0" Level="2" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200023" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -326,7 +326,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="huoqisan_lv3"
           ObjDrop="341"
           Descript="Được Cửu Thiên đạo nhân luyện, có thể &lt;color=gold&gt;khôi phục 1500 điểm Hoạt lực.&lt;color&gt;&lt;enter&gt;Uống nhiều không hại thân, mỗi ngày uống &lt;color=gold&gt;không hạn chế số lượng.&lt;color&gt;&lt;enter&gt;Sau đó, còn được uống &lt;color=gold&gt;5 Hoạt Khí Tán (tiểu) và 5 Hoạt Khí Tán (trung)&lt;color&gt;"
-          Series="-1" Price="0" Level="3" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200023" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -336,7 +336,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jintiao_xiao"
           ObjDrop="334"
           Descript="Đổi được 15 vạn Bạc hoặc 20 vạn Bạc khóa. &lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="80000" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
           DeductOnUse="false" ScriptID="200026" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -417,7 +417,7 @@
           ParticularType="341" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="quest_0016_s" ObjDrop="32"
           Descript="Trong chứa đầy lương thực.&lt;enter&gt;&lt;color=gold&gt;Nhấn sử dụng dể dùng, có thể nhận được 300 điểm danh vọng quân doanh.&lt;color&gt;"
-          Series="0" Price="1" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200063" FightPower="0">
           <UnLockInterval>0</UnLockInterval>
@@ -478,7 +478,7 @@
           ParticularType="111" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="menpailingpai_chuji" ObjDrop="32"
           Descript="Nhận tại Bạch Hổ Đường, sử dụng được 50 điểm danh vọng Bạch Hổ Đường."
-          Series="0" Price="1" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200015" FightPower="5000">
           <UnLockInterval>0</UnLockInterval>
@@ -488,7 +488,7 @@
           ParticularType="111" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="menpailingpai_zhongji" ObjDrop="32"
           Descript="Nhận tại Bạch Hổ Đường, sử dụng được 100 điểm danh vọng Bạch Hổ Đường."
-          Series="0" Price="1" Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200015" FightPower="10000">
           <UnLockInterval>0</UnLockInterval>
@@ -498,7 +498,7 @@
           ParticularType="111" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="menpailingpai_gaoji" ObjDrop="32"
           Descript="Nhận tại Bạch Hổ Đường, sử dụng được 150 điểm danh vọng Bạch Hổ Đường."
-          Series="0" Price="1" Level="3" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200015" FightPower="20000">
           <UnLockInterval>0</UnLockInterval>
@@ -668,7 +668,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="zongzi3"
           ObjDrop="32" Descript="Sự kiện tết : Mở ra sẽ được nhiều phần quà thú vị" Series="0"
           Price="1"
-          Level="2" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200060"
           FightPower="1928">
           <UnLockInterval>0</UnLockInterval>
@@ -677,7 +677,7 @@
           Genre="6" DetailType="1" ParticularType="1654"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="lianzifen"
           ObjDrop="32" Descript="Nguyên liệu để làm Bánh Chưng, Bánh Dày" Series="0" Price="1"
-          Level="3" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="100000">
           <UnLockInterval>0</UnLockInterval>
@@ -686,7 +686,7 @@
           Genre="6" DetailType="1" ParticularType="1654"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0086_s"
           ObjDrop="32" Descript="Nguyên liệu để làm Bánh Chưng, Bánh Dày" Series="0" Price="1"
-          Level="4" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="4" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="100000">
           <UnLockInterval>0</UnLockInterval>
@@ -695,7 +695,7 @@
           Name="Bánh Chưng" Genre="6" DetailType="1" ParticularType="1654"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="vn_dazongzi"
           ObjDrop="32" Descript="Sự kiện tết : Mở ra sẽ được nhiều phần quà thú vị" Series="0"
-          Price="1" Level="5" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Price="1" Level="5" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="1931">
           <UnLockInterval>0</UnLockInterval>
@@ -704,7 +704,7 @@
           Genre="6" DetailType="1" ParticularType="1654"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="zongzi2"
           ObjDrop="32" Descript="Sự kiện tết : Mở ra sẽ được nhiều phần quà thú vị" Series="0"
-          Price="1" Level="6" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Price="1" Level="6" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="1932">
           <UnLockInterval>0</UnLockInterval>
@@ -714,7 +714,7 @@
           ParticularType="1655"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="zongzi1"
           ObjDrop="32" Descript="Sự kiện tết : Mở ra sẽ được nhiều phần quà thú vị" Series="0"
-          Price="1" Level="6" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Price="1" Level="6" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="1933">
           <UnLockInterval>0</UnLockInterval>
@@ -825,7 +825,7 @@
           ParticularType="377" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="qinling_arm2_3" ObjDrop="32"
           Descript="Được chế tác từ các bảo vật trong Tần Lăng.&lt;enter&gt;&lt;enter&gt;Nhấn sử dụng để dùng, nhận &lt;color=gold&gt;100 điểm&lt;color&gt; Tần Lăng, nhiều nhất tăng đến cấp 3."
-          Series="0" Price="100" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="100" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200074" FightPower="500000">
           <UnLockInterval>0</UnLockInterval>
@@ -836,7 +836,7 @@
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="qinling_arm2_1"
           ObjDrop="32"
           Descript="Tìm thấy trong Tần Lăng, sau khi gia công sẽ thành Hòa Thị Bích thô." Series="0"
-          Price="100" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Price="100" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="300000">
           <UnLockInterval>0</UnLockInterval>
@@ -846,7 +846,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="qinling_arm2_2"
           ObjDrop="32"
           Descript="Có thể chế tác thành &lt;color=gold&gt;Tần Lăng-Hòa Thị Bích&lt;color&gt;. "
-          Series="0" Price="100" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="100" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="300000">
           <UnLockInterval>0</UnLockInterval>
@@ -1063,7 +1063,7 @@
           Name="Tâm Tâm Tương ánh phù " Genre="6" DetailType="1"
           ParticularType="18" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="obj_item_heart" ObjDrop="346" Descript="Sử dụng lập tức về bên cạnh người tri kỷ "
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -1080,7 +1080,7 @@
           Genre="6" DetailType="0" ParticularType="20"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="flower"
           ObjDrop="330" Descript="Sẽ tạo bên một trận mưa hoa hồng" Series="-1" Price="10000"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -2792,7 +2792,7 @@
           Name="Mật đồ thần bí " Genre="6" DetailType="1" ParticularType="196"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="n_xinshoumiji_s"
           ObjDrop="368" Descript="&quot;Một loại vật phẩm, công năng thần bí.&quot;" Series="-1"
-          Price="1" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="1" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -2890,7 +2890,7 @@
           Name="Thần bí đồ chí " Genre="6" DetailType="1" ParticularType="206"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_18"
           ObjDrop="424" Descript="Một mảnh bức địa đồ Sơn Hà Xã Tắc" Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
 
@@ -2987,7 +2987,7 @@
           ParticularType="215" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="IconNew_2" ObjDrop="311"
           Descript="Mỗi nửa giây sinh lực hồi phục: 2000 điểm &lt;enter&gt;Mỗi nửa giây Nội lực hồi phục: 2000 điểm"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="100023"
           DeductOnUse="true" ScriptID="-1" FightPower="-1 ">
           <MedicineProp MagicName="lifepotion_v" Value="2000" Time="90" Index="1" />
@@ -2999,7 +2999,7 @@
           ParticularType="216" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="IconNew_0" ObjDrop="311"
           Descript="Mỗi nửa giây sinh lực hồi phục: 1000 điểm &lt;enter&gt;Mỗi nửa giây Nội lực hồi phục: 1000 điểm"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="100023"
           DeductOnUse="true" ScriptID="-1" FightPower="-1 ">
           <MedicineProp MagicName="lifepotion_v" Value="1000" Time="90" Index="1" />
@@ -3011,7 +3011,7 @@
           ParticularType="217" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="IconNew_7" ObjDrop="311"
           Descript="Mỗi nửa giây sinh lực hồi phục: 500 điểm &lt;enter&gt;Mỗi nửa giây Nội lực hồi phục: 500 điểm"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="100023"
           DeductOnUse="true" ScriptID="-1" FightPower="-1 ">
           <MedicineProp MagicName="lifepotion_v" Value="500" Time="90" Index="1" />
@@ -4583,7 +4583,7 @@
           Genre="6" DetailType="1" ParticularType="392"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0066_s"
           ObjDrop="364" Descript="Có thể mang đến bán cho Võ Sư." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4636,7 +4636,7 @@
           ParticularType="398" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="perfect" ObjDrop="425"
           Descript="&lt;color=yellow&gt;Dùng để khảm nạm và nâng cấp Trang bị Huyền Tinh hoặc trang bị Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4646,7 +4646,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_5"
           ObjDrop="336"
           Descript="Phần thưởng cho nhiệm vụ giết Boss &lt;enter&gt;5 cái đồng cấp đổi được 1 Sát Thủ giản."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4655,7 +4655,7 @@
           Name="Sát thủ giản" Genre="6" DetailType="1" ParticularType="400"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="techan_008"
           ObjDrop="9" Descript="Mang đến gặp Nhiếp Thí Trần để nhận nhiệm vụ đặc biệt." Series="-1"
-          Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -5004,7 +5004,7 @@
           ParticularType="439" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="obj_item_heart" ObjDrop="346"
           Descript="Sử dụng sẽ lập tức đến bên cạnh người thương. (Sử dụng vô hạn) " Series="-1"
-          Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -16879,7 +16879,7 @@
           Name="Ngân phiếu chiến bị" Genre="6" DetailType="1"
           ParticularType="1732" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuehun" ObjDrop="41" Descript="Ngân sách chiến bị bổn bang tăng 10.000 điểm."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -18953,7 +18953,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="partner_qinmidu_1" ObjDrop="41"
           Descript="Nhấn để sử dụng, Tăng vui vẻ cho Tinh Linh." Series="-1" Price="2000" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -18963,7 +18963,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="partner_qinmidu_1" ObjDrop="41"
           Descript="Nhấn để sử dụng, Tăng vui vẻ cho Tinh Linh." Series="-1" Price="20000" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -18973,7 +18973,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="partner_qinmidu_2" ObjDrop="41"
           Descript="Nhấn để sử dụng, Tăng tuổi thọ cho Tinh Linh." Series="-1" Price="2000"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -18983,7 +18983,7 @@
           ParticularType="1982" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="partner_qinmidu_2" ObjDrop="41"
           Descript="Nhấn để sử dụng, Tăng tuổi thọ cho Tinh Linh." Series="-1" Price="20000"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19002,7 +19002,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="partner_qinmidu_3" ObjDrop="41"
           Descript="Nhấn để sử dụng, Tăng Linh Ngộ cho Tinh linh." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19011,7 +19011,7 @@
           Name="Tăng Linh Ngộ 100" Genre="6" DetailType="1"
           ParticularType="1985" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="zizhendan" ObjDrop="367" Descript="Nhấn để sử dụng, Tăng Linh Ngộ cho Tinh linh."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19323,7 +19323,7 @@
           ParticularType="2026" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="bac_khoa" ObjDrop="41"
           Descript="Sau khi sử dụng sẽ nhận được 10 Vạn(100.000) bạc khóa" Series="-1" Price="0"
-          Level="0" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200032"
           FightPower="100000 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19333,7 +19333,7 @@
           ParticularType="2026" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="bac_khoa" ObjDrop="41"
           Descript="Sau khi sử dụng sẽ nhận được 5 Vạn(50.000) bạc khóa" Series="-1" Price="0"
-          Level="0" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200032"
           FightPower="50000 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19343,7 +19343,7 @@
           ParticularType="2026" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="bac_khoa" ObjDrop="41"
           Descript="Sau khi sử dụng sẽ nhận được 1 Vạn(10.000) bạc khóa" Series="-1" Price="0"
-          Level="0" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200032"
           FightPower="10000 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19362,7 +19362,7 @@
           Name="Phiếu Bạc Khóa - 100" Genre="6" DetailType="1"
           ParticularType="2028" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="bac_khoa" ObjDrop="41" Descript="Sau khi sử dụng sẽ nhận được 100 bạc khóa"
-          Series="-1" Price="0" Level="0" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="-1" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200032" FightPower="100 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19381,7 +19381,7 @@
           Name="Phiếu Bạc Khóa - 500" Genre="6" DetailType="1"
           ParticularType="2030" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="bac_khoa" ObjDrop="41" Descript="Sau khi sử dụng sẽ nhận được 500 bạc khóa"
-          Series="-1" Price="0" Level="0" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="-1" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200032" FightPower="500 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19478,7 +19478,7 @@
           Genre="6" DetailType="1" ParticularType="2040"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_9"
           ObjDrop="41" Descript="Nó có thể dùng để chế tạo Xu may mắn" Series="-1" Price="0"
-          Level="0" Stack="100" ResWomanID="-1"
+          Level="0" Stack="999" ResWomanID="-1"
           ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0"
           BuffID="-1"
           DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
@@ -19488,7 +19488,7 @@
           Name="Xu may mắn" Genre="6" DetailType="1"
           ParticularType="5041" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="IconNew_29" ObjDrop="41" Descript="Dùng để quay, vòng quay may mắn " Series="-1"
-          Price="0" Level="0" Stack="100"
+          Price="0" Level="0" Stack="999"
           ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
           MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19498,7 +19498,7 @@
           Genre="6" DetailType="1" ParticularType="2042" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="quest_0015_s" ObjDrop="41"
           Descript="Nó có thể dùng để chế tạo rương thuốc" Series="-1"
-          Price="0" Level="0" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19508,7 +19508,7 @@
           ParticularType="2043" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="quest_0016_s" ObjDrop="41"
           Descript="Nó có thể dùng để chế tạo rương thuốc" Series="-1" Price="0" Level="0"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19518,7 +19518,7 @@
           ParticularType="2044"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0017_s"
           ObjDrop="41" Descript="Nó có thể dùng để chế tạo rương thuốc" Series="-1" Price="0"
-          Level="0" Stack="100" ResWomanID="-1"
+          Level="0" Stack="999" ResWomanID="-1"
           ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0"
           BuffID="-1"
           DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
@@ -22426,7 +22426,7 @@
           ParticularType="2377" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="quest_0016_s" ObjDrop="41"
           Descript="&quot;Phần thưởng của người lập công trong công thành chiến, Nhấn  sử dụng&quot;"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26192,7 +26192,7 @@
           Name="Khoáng Thô" Genre="6" DetailType="1" ParticularType="30002"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yuanshi_106_s"
           ObjDrop="41" Descript="Khoáng Thô, Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26201,7 +26201,7 @@
           Genre="6" DetailType="1" ParticularType="30003"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="maopi_106_s"
           ObjDrop="41" Descript="Da Báo, Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26210,7 +26210,7 @@
           Genre="6" DetailType="1" ParticularType="30004"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_32"
           ObjDrop="41" Descript="Cơ Quan, Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26219,7 +26219,7 @@
           Name="Hoa Anh Thảo" Genre="6" DetailType="1" ParticularType="30005"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_63"
           ObjDrop="385" Descript="Hoa Anh Thảo, Vật phẩm nhiệm vụ..." Series="-1" Price="0"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26228,7 +26228,7 @@
           Name="Thuốc Giải Độc" Genre="6" DetailType="1" ParticularType="30006"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_69"
           ObjDrop="41" Descript="Thuốc Giải Độc, Vật phẩm nhiệm vụ..." Series="-1" Price="0"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26237,7 +26237,7 @@
           Name="Lông Điêu" Genre="6" DetailType="1" ParticularType="30007"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_70"
           ObjDrop="41" Descript="Lông Điêu, Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26246,7 +26246,7 @@
           Genre="6" DetailType="1" ParticularType="30008"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="maopi_106_s"
           ObjDrop="41" Descript="Da Gấu, Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26255,7 +26255,7 @@
           Name="Răng Nanh" Genre="6" DetailType="1" ParticularType="30009"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_46"
           ObjDrop="451" Descript="Răng Nanh, Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26264,7 +26264,7 @@
           Genre="6" DetailType="1" ParticularType="30010"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0074_s"
           ObjDrop="452" Descript="Linh Chi, Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26273,7 +26273,7 @@
           Genre="6" DetailType="1" ParticularType="30011"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_34"
           ObjDrop="453" Descript="Nhân Sâm, Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26282,7 +26282,7 @@
           Name="Đương Quy" Genre="6" DetailType="1" ParticularType="30012"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yaocai_103_s"
           ObjDrop="454" Descript="Đương Quy, Vật phẩm nhiệm vụ..." Series="-1" Price="15000"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26291,7 +26291,7 @@
           Name="Thiên Sơn Tuyết Liên" Genre="6" DetailType="1"
           ParticularType="30013" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="mibao_binglian" ObjDrop="455" Descript="Thiên Sơn Tuyết Liên, Vật phẩm nhiệm vụ..."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26308,7 +26308,7 @@
      <ItemData ItemID="11238"
           Name="Thuốc quý" Genre="6" DetailType="1" ParticularType="30015"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="ri" ObjDrop="41"
-          Descript="Thuốc quý Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1" Stack="100"
+          Descript="Thuốc quý Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1" Stack="999"
           ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
           MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26318,7 +26318,7 @@
           Genre="6" DetailType="1" ParticularType="30016"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_46"
           ObjDrop="433" Descript="Gai nhím Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26355,7 +26355,7 @@
           Name="Đan Phương" Genre="6" DetailType="1" ParticularType="30020"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="mapmaker_paper_s" ObjDrop="336" Descript="Đan Phương Vật phẩm nhiệm vụ..."
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26364,7 +26364,7 @@
           Genre="6" DetailType="1" ParticularType="30021"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_64"
           ObjDrop="336" Descript="Linh Đan Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26381,7 +26381,7 @@
           Name="Quyển Trục" Genre="6" DetailType="1" ParticularType="30023"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="scrolltask_s"
           ObjDrop="336" Descript="Quyển Trục Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26390,7 +26390,7 @@
           Genre="6" DetailType="1" ParticularType="30024"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0069_s"
           ObjDrop="337" Descript=" Thịt Dơi Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26399,7 +26399,7 @@
           Genre="6" DetailType="1" ParticularType="30025"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_44"
           ObjDrop="336" Descript="Ngọc Quý Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26408,7 +26408,7 @@
           Genre="6" DetailType="1" ParticularType="30026"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0041_s"
           ObjDrop="336" Descript="Kiếm Tốt Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26417,7 +26417,7 @@
           Genre="6" DetailType="1" ParticularType="30027"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0040_s"
           ObjDrop="336" Descript="Tai Khỉ Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26426,7 +26426,7 @@
           Genre="6" DetailType="1" ParticularType="30028"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0046_s"
           ObjDrop="41" Descript="Thư Lục Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26435,7 +26435,7 @@
           Name="Thanh Độc Thảo" Genre="6" DetailType="1" ParticularType="30029"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="hongfenlianhua"
           ObjDrop="41" Descript="Thanh Độc Thảo Vật phẩm nhiệm vụ..." Series="-1" Price="0"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26444,7 +26444,7 @@
           Genre="6" DetailType="1" ParticularType="30030"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="vn_shatang"
           ObjDrop="41" Descript="Hàn Diêm Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26453,7 +26453,7 @@
           Name="Hoa Thi Vu" Genre="6" DetailType="1" ParticularType="30031"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0019_s"
           ObjDrop="387" Descript="Hoa Thi Vu Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26462,7 +26462,7 @@
           Name="Vật Tuyệt Mật" Genre="6" DetailType="1" ParticularType="30032"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="techan_016"
           ObjDrop="41" Descript="Vật Tuyệt Mật Vật phẩm nhiệm vụ..." Series="-1" Price="0" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26489,7 +26489,7 @@
           Name="Đan Phương" Genre="6" DetailType="1" ParticularType="30034"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="mapmaker_paper_s" ObjDrop="41" Descript="Đan Phương." Series="-1" Price="20"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26509,7 +26509,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0066_s"
           ObjDrop="41"
           Descript="Chìa khóa để mở Bảo rương thần bí.Chỉ mở được bảo rương có cùng mã số"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26565,7 +26565,7 @@
           Name="Thảo dược" Genre="6" DetailType="1" ParticularType="30094"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="buliao_103_s"
           ObjDrop="41" Descript="Thảo dược Vật phẩm quan doanh " Series="-1" Price="20" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -26574,7 +26574,7 @@
           Genre="6" DetailType="1" ParticularType="30095"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="xianlingmu"
           ObjDrop="41" Descript="Cây phong Vật phẩm quan doanh " Series="-1" Price="20" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -26583,7 +26583,7 @@
           Genre="6" DetailType="1" ParticularType="30096"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="yaocai_101_s"
           ObjDrop="41" Descript="Hoa rừng Vật phẩm quan doanh " Series="-1" Price="20" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -26592,7 +26592,7 @@
           Name="Dây thừng" Genre="6" DetailType="1" ParticularType="30097"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="maopi_105_s"
           ObjDrop="41" Descript="Dây thừng Vật phẩm quan doanh " Series="-1" Price="20" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -26601,7 +26601,7 @@
           Genre="6" DetailType="1" ParticularType="30098"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="muban_206_s"
           ObjDrop="41" Descript="Tấm gỗ Vật phẩm quan doanh " Series="-1" Price="20" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -26610,7 +26610,7 @@
           Name="Thuyền gỗ" Genre="6" DetailType="1" ParticularType="30099"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="lishui"
           ObjDrop="41" Descript="Thuyền gỗc Vật phẩm quan doanh " Series="-1" Price="20" Level="1"
-          Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -26619,7 +26619,7 @@
           Name="Dụng cụ đẽo đá" Genre="6" DetailType="1" ParticularType="30100"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="haoyue"
           ObjDrop="41" Descript="Dụng cụ đẽo đá Vật phẩm quan doanh " Series="-1" Price="20"
-          Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -26628,7 +26628,7 @@
           Name="Nhiếp Không Thảo" Genre="6" DetailType="1"
           ParticularType="30101" IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3"
           Image="yaocai_202_s" ObjDrop="41" Descript="Cửu Ngưng Đỉnh Vật phẩm quan doanh "
-          Series="-1" Price="20" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="20" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -26637,7 +26637,7 @@
           Name="Đuôi bọ cạp" Genre="6" DetailType="1" ParticularType="30102"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3"
           Image="qinling_refine3_2" ObjDrop="41" Descript="Thiết Trảo Kim Kê Vật phẩm quan doanh "
-          Series="-1" Price="20" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="20" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1">
           <UnLockInterval>0</UnLockInterval>
@@ -44679,7 +44679,7 @@
           ParticularType="4379" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44689,7 +44689,7 @@
           ParticularType="4380" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44699,7 +44699,7 @@
           ParticularType="4381" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44709,7 +44709,7 @@
           ParticularType="4382" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44719,7 +44719,7 @@
           ParticularType="4383" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44729,7 +44729,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yingxiongtie"
           ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44739,7 +44739,7 @@
           ParticularType="4385" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44749,7 +44749,7 @@
           ParticularType="4386" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44759,7 +44759,7 @@
           ParticularType="4387" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44769,7 +44769,7 @@
           ParticularType="4388" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Bạch Hổ"
-          Series="-1" Price="0" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -50852,5 +50852,27 @@
      FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
          </ItemData>
-
+  <ItemData ItemID="487" Name="Thùng rượu (5 bình)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Thùng rượu (5 bình)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="189" Level="1" SuiteID="0" Icon="jiuxiang" View="jiuxiang" Intro="Chứa đủ loại rượu. &lt;color=gold&gt;Nhấn chuột phải để mở.&lt;color&gt;" Help="" ObjID="35" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="10000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="200037" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="5" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="488" Name="Thùng rượu (50 bình)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Thùng rượu (50 bình)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="189" Level="2" SuiteID="0" Icon="jiuxiang" View="jiuxiang" Intro="Chứa đủ loại rượu. &lt;color=gold&gt;Nhấn chuột phải để mở.&lt;color&gt;" Help="" ObjID="35" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="10000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="200037" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="50" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="489" Name="Danh Bổ Lệnh" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Danh Bổ Lệnh" QualityPrefix="0" Category="0" Genre="18" Stack="1000" DetailType="1" ParticularType="190" Level="1" SuiteID="0" Icon="mingbuling" View="mingbuling" Intro="Đổi phần thưởng ở chỗ &lt;color=green&gt;Bổ Đầu Hình Bộ&lt;color&gt;." Help="" ObjID="32" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="10000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="490" Name="Võ Lâm Mật Tịch (sơ)" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Võ Lâm Mật Tịch (sơ)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="191" Level="1" SuiteID="0" Icon="wulinmiji_chuji" View="wulinmiji_chuji" Intro="Học xong được 1 điểm kỹ năng. &lt;color=gold&gt;Học tối đa 5 quyển&lt;color&gt;.&lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;" Help="" ObjID="33" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="1000000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="200082" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="491" Name="Võ Lâm Mật Tịch (trung)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Võ Lâm Mật Tịch (trung)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="191" Level="2" SuiteID="0" Icon="junzixinde" View="junzixinde" Intro="Hiếm thấy, biết qua &lt;color=gold&gt;Võ Lâm Mật Tịch (sơ)&lt;color&gt; cũng dùng được, học xong được 1 điểm kỹ năng. &lt;color=gold&gt;Học tối đa 5 quyển&lt;color&gt;. &lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;" Help="" ObjID="33" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="1000000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="492" Name="Tẩy Tủy Kinh (sơ)" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Tẩy Tủy Kinh (sơ)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="192" Level="1" SuiteID="0" Icon="xisuijing_chuji" View="xisuijing_chuji" Intro="Học xong được 5 điểm tiềm năng. &lt;color=gold&gt;Học tối đa 5 quyển&lt;color&gt;. &lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;" Help="" ObjID="33" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="1000000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="200083" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="493" Name="Tẩy Tủy Kinh (trung)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Tẩy Tủy Kinh (trung)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="192" Level="2" SuiteID="0" Icon="gaizaotu_huwan" View="gaizaotu_huwan" Intro="Hiếm thấy, biết qua &lt;color=gold&gt;Tẩy Tủy Kinh (sơ)&lt;color&gt; cũng dùng được, học xong được 1 điểm kỹ năng. &lt;color=gold&gt;Học tối đa 5 quyển&lt;color&gt;. &lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;" Help="" ObjID="33" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="1000000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
 </ArrayOfItemData>
