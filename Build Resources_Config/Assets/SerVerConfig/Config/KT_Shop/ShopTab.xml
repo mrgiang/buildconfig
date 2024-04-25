@@ -5127,8 +5127,8 @@
 
   </ShopTab>
   <ShopTab ShopName="Đạo Cụ" ShopID="242" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
-    <ShopItem>21115</ShopItem>
-    <ShopItem>21116</ShopItem>
+    <ShopItem>21117</ShopItem>
+    <ShopItem>21118</ShopItem>
     <ShopItem>9993</ShopItem>
     <ShopItem>9994</ShopItem>
     <ShopItem>9995</ShopItem>
