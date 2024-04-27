@@ -78,38 +78,38 @@
           ScriptID="-1" FightPower="36480000">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
-     <ItemData ItemID="191" Name="Huyền Tinh vô hạ (cấp 9)" Genre="18" DetailType="1"
+     <ItemData ItemID="191" Name="Huyền Tinh vô hạ (cấp 9 giả mạo)" Genre="18" DetailType="1"
      ParticularType="1" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
-     Image="xuanjing_007_s" ObjDrop="334" Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở
-     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="9" Stack="999"
+     Image="xuanjing_007_s" ObjDrop="334" Descript="Nhìn kỹ lại thì giá trị thua cả cấp 8, đi tìm thằng cờ hó &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;"
+	 Series="-1" Price="0" Level="9" Stack="999"
      ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2821109">
      <UnLockInterval>0</UnLockInterval>
      </ItemData>
      <ItemData ItemID="192" Name="Huyền
-     Tinh hoàn mỹ (cấp 10)" Genre="18" DetailType="1" ParticularType="1" IconBundleDir=
+     Tinh hoàn mỹ (cấp 10 giả mạo)" Genre="18" DetailType="1" ParticularType="1" IconBundleDir=
      "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_008_s" ObjDrop="334"
-     Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại
-     Sư&lt;color&gt;" Series="-1" Price="0" Level="10" Stack="999" ResWomanID="-1" ResManID="-1"
+     Descript="Nhìn kỹ lại thì giá trị thua cả cấp 8, đi tìm thằng cờ hó &lt;color=gold&gt;Dã Luyện Đại
+     Sư&lt;color&gt; đập nó mới được" Series="-1" Price="0" Level="10" Stack="999" ResWomanID="-1" ResManID="-1"
      SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
      DeductOnUse="false" ScriptID="-1" FightPower="10155995 ">
      <UnLockInterval>0</UnLockInterval>
      </ItemData>
      
-     <ItemData ItemID="193" Name="Huyền Tinh óng ánh (cấp 11)" Genre="18"
+     <ItemData ItemID="193" Name="Huyền Tinh óng ánh (cấp 11 giả mạo)" Genre="18"
      DetailType="1" ParticularType="1" IconBundleDir= "Icon/ItemIcon_1.unity3d"
-     IconAtlasName="ItemIcon_1" Image="xuanjing_009_s" ObjDrop="334" Descript="Giá trị không rẻ,
-     dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1"
+     IconAtlasName="ItemIcon_1" Image="xuanjing_009_s" ObjDrop="334" 
+	 Descript="Nhìn kỹ lại thì giá trị thua cả cấp 8, đi tìm thằng cờ hó &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt đập nó mới được;" Series="-1"
      Price="0" Level="11" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
      SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
      FightPower="36565762">
      <UnLockInterval>0</UnLockInterval>
      </ItemData>
      <ItemData
-     ItemID="194" Name="Huyền Tinh trời ban (cấp 12)" Genre="18" DetailType="1" ParticularType="1"
+     ItemID="194" Name="Huyền Tinh trời ban (cấp 12 giả mạo)" Genre="18" DetailType="1" ParticularType="1"
      IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanjing_010_s"
      ObjDrop="334" Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở chỗ &lt;color=gold&gt;Dã
-     Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="12" Stack="999" ResWomanID="-1"
+     Luyện Đại Sư&lt;color&gt; đập nó mới được" Series="-1" Price="0" Level="12" Stack="999" ResWomanID="-1"
      ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
      DeductOnUse="false" ScriptID="-1" FightPower="131636744 ">
      <UnLockInterval>0</UnLockInterval>

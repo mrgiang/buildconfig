@@ -204,4 +204,41 @@
 			<Skill ID="10217" />
 		</Sub>
 	</Faction>
+		<Faction ID="4" Name="Ngũ Độc" Series="2" Gender="-1">
+		<Sub ID="1" Name="Đao Pháp">
+			<Skill ID="10110" />
+			<Skill ID="10106" />
+			<Skill ID="10124" />
+			<Skill ID="10111" />
+			<Skill ID="10103" />
+			<Skill ID="10097" />
+			<Skill ID="10112" />
+			<Skill ID="10113" />
+			<Skill ID="10098" />
+			<Skill ID="10115" />
+		</Sub>
+		<Sub ID="2" Name="Chưởng Pháp">
+			<Skill ID="10100" />
+			<Skill ID="10105" />
+			<Skill ID="10124" />
+			<Skill ID="10102" />
+			<Skill ID="10103" />
+			<Skill ID="10097" />
+			<Skill ID="10104" />
+			<Skill ID="10107" />
+			<Skill ID="10098" />
+			<Skill ID="10109" />
+		</Sub>
+		<Sub ID="3" Name="Bùa Chú">
+			<Skill ID="10117" />
+			<Skill ID="10118" />
+			<Skill ID="10119" />
+			<Skill ID="10120" />
+			<Skill ID="10123" />
+			<Skill ID="10097" />
+			<Skill ID="10121" />
+			<Skill ID="10122" />
+			<Skill ID="10098" />
+		</Sub>
+	</Faction>
 </Factions>
