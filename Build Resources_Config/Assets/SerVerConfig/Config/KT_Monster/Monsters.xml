@@ -1342,4 +1342,6 @@
   <Monster ID="6363" ResName="enemy2270" Name="Kỳ Lân Thủ Thành" Title="" MonsterType="5" Level="100" Treasure="2" Elemental="0" MaxHP="-1" MoveSpeed="6" AtkSpeed="18" AIID="100001" Camp="65535" Auras="14255_20" Skills="14210_10_1500" DropProfile="thuectc" />
   <Monster ID="6364" ResName="enemy1750" Name="Thần Cụ Công Thành" Title="" MonsterType="5" Level="100" Treasure="2" Elemental="0" MaxHP="-1" MoveSpeed="6" AtkSpeed="18" AIID="100001" Camp="65535" Auras="10185_20" Skills="14098_20_1500" DropProfile="thuectc" />
   
+  <Monster ID="3125" ResName="enemy127" Name="Diêm Thập Điện" Title="&lt;color=green&gt;Hải tặc&lt;/color&gt;" MonsterType="4"  Level="95" Elemental="-1" RebornTime="1" Exp="0" Atk="1" IceAtk="0" FireAtk="0" LightningAtk="0" PoisonAtk="0" Def="1" IceRes="0" FireRes="0" LightningRes="0" PoisonRes="0" Dodge="10" Hit="500" MaxHP="3778200" Crit="0" CritDef="0" AttackRange="10" SeekRange="350" DropID="0" MoveSpeed="12" AtkSpeed="12" AIID="100001" Camp="65535" AIType="0" ScriptID="" Auras="78_30" Skills="165_10_-1" />
+
 </Monsters>

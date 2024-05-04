@@ -84,5 +84,8 @@
    <Monster Code="45" X="7869" Y="2155" Radius="250" Num="10" Timeslot="10" VisibleOnMinimap="0" />
    <Monster Code="44" X="8722" Y="2539" Radius="250" Num="10" Timeslot="10" VisibleOnMinimap="1" />
    <Monster Code="33" X="619" Y="1936" Radius="250" Num="10" Timeslot="10" VisibleOnMinimap="0" />
+   
+   <!-- HT -->
+   <Monster Code="3125" X="7710" Y="3817" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
   </Monsters>
 </Map>
