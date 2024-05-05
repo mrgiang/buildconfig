@@ -11519,6 +11519,14 @@
         <SkillLevelValue Level="2" Value="-1" />
       </Value>
     </Symbol>
+     <Symbol Name="addphysicsmagic_p">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="7" />
+        <SkillLevelValue Level="20" Value="161" />
+		<SkillLevelValue Level="26" Value="211" />
+        <SkillLevelValue Level="27" Value="211" />
+      </Value>
+    </Symbol>
 	<Symbol Name="fatallystrikeenhance_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="5" />
@@ -11751,6 +11759,13 @@
         <SkillLevelValue Level="1" Value="62" />
         <SkillLevelValue Level="20" Value="80" />
         <SkillLevelValue Level="21" Value="83" />
+      </Value>
+    </Symbol>
+	<Symbol Name="addphysicsmagic_p">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="100" />
+        <SkillLevelValue Level="20" Value="166" />
+        <SkillLevelValue Level="21" Value="166" />
       </Value>
     </Symbol>
     <Symbol Name="firedamage_v">
