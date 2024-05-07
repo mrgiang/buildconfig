@@ -241,4 +241,66 @@
 			<Skill ID="10098" />
 		</Sub>
 	</Faction>
+	<Faction ID="6" Name="Thúy Yên" Series="3" Gender="1">
+		<Sub ID="1" Name="Song Đao">
+			<Skill ID="10196" />
+			<Skill ID="10190" />
+			<Skill ID="10089" />
+			<Skill ID="10197" />
+			<Skill ID="10088" />
+			<Skill ID="10087" />
+			<Skill ID="10198" />
+			<Skill ID="10086" />
+			<Skill ID="10200" />
+			<Skill ID="10085" />
+			<Skill ID="10202" />
+		</Sub>
+		<Sub ID="2" Name="Đơn Đao">
+			<Skill ID="10187" />
+			<Skill ID="10188" />
+			<Skill ID="10089" />
+			<Skill ID="10189" />
+			<Skill ID="10088" />
+			<Skill ID="10087" />
+			<Skill ID="10191" />
+			<Skill ID="10086" />
+			<Skill ID="10192" />
+			<Skill ID="10085" />
+			<Skill ID="10194" />
+		</Sub>
+	</Faction>
+	<Faction ID="10" Name="Côn Lôn" Series="5" Gender="-1">
+		<Sub ID="1" Name="Đao Pháp">
+			<Skill ID="10269" />
+			<Skill ID="10270" />
+			<Skill ID="10288" />
+			<Skill ID="10272" />
+			<Skill ID="10294" />
+			<Skill ID="10293" />
+			<Skill ID="10273" />
+			<Skill ID="10296" />
+			<Skill ID="10274" />
+		</Sub>
+		<Sub ID="2" Name="Kiếm Pháp">
+			<Skill ID="10275" />
+			<Skill ID="10271" />
+			<Skill ID="10277" />
+			<Skill ID="10279" />
+			<Skill ID="10294" />
+			<Skill ID="10293" />
+			<Skill ID="10280" />
+			<Skill ID="10296" />
+			<Skill ID="10281" />
+		</Sub>
+		<Sub ID="3" Name="Bùa Chú">
+			<Skill ID="10285" />
+			<Skill ID="10282" />
+			<Skill ID="10286" />
+			<Skill ID="10287" />
+			<Skill ID="10290" />
+			<Skill ID="10289" />
+			<Skill ID="10291" />
+			<Skill ID="10295" />
+		</Sub>
+	</Faction>
 </Factions>
