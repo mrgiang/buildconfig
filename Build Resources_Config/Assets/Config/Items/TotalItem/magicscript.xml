@@ -345,7 +345,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jintiao"
           ObjDrop="341"
           Descript="Đổi được 200 vạn Bạc. &lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;"
-          Series="-1" Price="0" Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="000" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
           DeductOnUse="false" ScriptID="200026" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>

@@ -1,4 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfItemData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemData ItemID="130001" Name="Vô Danh Chỉ Hoàn" Genre="3" Category="-1" DetailType="3" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ring09" ObjDrop="37" Descript="" Series="3" Price="49999" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="40" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" Index="1" />
+	<GreenProp MagicName="indestructible_b" MagicLevel="10" IsActive="true" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="1" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manamax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="manamax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="state_stun_resisttime" EnhMAPA1Min="40" EnhMAPA1Max="40" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+  <ItemData ItemID="130002" Name="Vô Danh Giới Chỉ " Genre="3" Category="-1" DetailType="3" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ring10" ObjDrop="37" Descript="" Series="4" Price="49999" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="40" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" Index="1" />
+    <GreenProp MagicName="indestructible_b" MagicLevel="10" IsActive="true" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="1" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manamax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="manamax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="state_slowall_attacktime" EnhMAPA1Min="40" EnhMAPA1Max="40" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
 
 </ArrayOfItemData>
