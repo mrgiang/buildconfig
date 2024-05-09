@@ -255,8 +255,8 @@
 	<ListActive Index="3" RequestNum="4" SuiteName="active_suit" SuiteMAPA1="1" SuiteMAPA2="0" SuiteMAPA3="0" />
   </SuiteActiveProp>
 <SuiteActiveProp SuiteID="40" Name="Bộ Vô Danh" Head="" Body="" Belt="" Weapon="" Foot="" Cuff="" Amulet="" Ring="Vô Danh Chỉ Hoàn;Vô Danh Giới Chỉ" Necklace="" Pendant="">
-    <ListActive Index="1" RequestNum="1" SuiteName="active_all_ornament" SuiteMAPA1="1" SuiteMAPA2="0" SuiteMAPA3="0" />
-    <ListActive Index="2" RequestNum="2" SuiteName="skillselfdamagetrim" SuiteMAPA1="20" SuiteMAPA2="0" SuiteMAPA3="0" />
+    <ListActive Index="1" RequestNum="1" SuiteName="skillselfdamagetrim" SuiteMAPA1="20" SuiteMAPA2="0" SuiteMAPA3="0" />
+	<ListActive Index="2" RequestNum="2" SuiteName="active_suit" SuiteMAPA1="1" SuiteMAPA2="0" SuiteMAPA3="0" />
   </SuiteActiveProp>
   
 <SuiteActiveProp SuiteID="41" Name="Bộ Hoang Thần" Head="Hoang Thần Khôi" Body="Hoang Thần Khải" Belt="Hoang Thần Yêu Đái" Weapon="" Foot="Hoang Thần Ngoa" Cuff="Hoang Thần Hộ Uyển" Amulet="Hoang Thần Phù" Ring="Hoang Thần Bạch Giới;Hoang Thần Hỏa Giới Chỉ" Necklace="" Pendant="Hoang Thần Bội">
