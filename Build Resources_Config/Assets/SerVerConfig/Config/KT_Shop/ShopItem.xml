@@ -12783,4 +12783,17 @@
   <ShopItem ID="21120" ItemID="403" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="12000"
     LimitType="-1" LimitValue="-1" />
+	
+  <ShopItem ID="21121" ItemID="348" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="40"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21122" ItemID="351" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="40"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21123" ItemID="349" Series="5" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="120"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21124" ItemID="352" Series="5" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="120"
+    LimitType="-1" LimitValue="-1" />
 </ArrayOfShopItem> 
