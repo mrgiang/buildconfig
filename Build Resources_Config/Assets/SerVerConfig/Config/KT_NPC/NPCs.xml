@@ -913,10 +913,10 @@
     <NPC ID="4112" ResName="enemy028" Title="" Name="Sĩ Binh" />
     <NPC ID="4113" ResName="enemy028" Title="" Name="Nhan Như Ngọc" />
 	
-	<NPC ID="13100" ResName="passerby092" Title="" Name="Tiêu Viễn Tứ" />
-	<NPC ID="13101" ResName="passerby092" Title="" Name="Hồ Bát Nhất" />
-	<NPC ID="13102" ResName="passerby092" Title="" Name="Nhiếp Đình" />
-	<NPC ID="13103" ResName="passerby092" Title="" Name="Hoàng Bảo Thiên" />
+	<NPC ID="13100" ResName="passerby092" Title="" Name="Tiêu Viễn Nhất" />
+	<NPC ID="13101" ResName="passerby092" Title="" Name="Tiêu Viễn Nhị" />
+	<NPC ID="13102" ResName="passerby092" Title="" Name="Tiêu Viễn Tam" />
+	<NPC ID="13103" ResName="passerby092" Title="" Name="Tiêu Viễn Tứ" />
 	<NPC ID="13104" ResName="passerby092" Title="" Name="Phùng Khinh" />
 	<NPC ID="13105" ResName="passerby092" Title="" Name="Đỗ Kỳ Thương" />
 	<NPC ID="13106" ResName="passerby092" Title="" Name="Đoàn Chính Nguyên" />

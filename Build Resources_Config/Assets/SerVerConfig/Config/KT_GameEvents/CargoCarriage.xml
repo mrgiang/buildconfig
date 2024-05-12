@@ -59,40 +59,34 @@
 	<Config MaxRoundsPerDay="2" />
 	
 	<Carriages>
-		<Carriage Type="1" Name="Xe Tiêu Thường" ResID="10101" MoveSpeed="7" Vision="300" MaxHP="100000" />
-		<Carriage Type="2" Name="Xe Tiêu Bạch Kim" ResID="10139" MoveSpeed="7" Vision="300" MaxHP="1000000" />
-		<Carriage Type="3" Name="Xe Tiêu Hoàng Kim" ResID="10100" MoveSpeed="7" Vision="300" MaxHP="5000000" />
+		<Carriage Type="1" Name="Xe Tiêu Thường" ResID="10101" MoveSpeed="4" Vision="300" MaxHP="100000" />
+		<Carriage Type="2" Name="Xe Tiêu Bạch Kim" ResID="10139" MoveSpeed="4" Vision="300" MaxHP="1000000" />
+		<Carriage Type="3" Name="Xe Tiêu Hoàng Kim" ResID="10100" MoveSpeed="4" Vision="300" MaxHP="5000000" />
 	</Carriages>
 	
 	<CargoNPCs>
-		<NPC ID="13100" Name="Tiêu Viễn Tứ" Title="Lão Hổ Động Vận Tiêu Sứ (Tây)" MapID="17" PosX="995" PosY="2060" />
-		<NPC ID="13101" Name="Hồ Bát Nhất" Title="Mạc Cao Quật Vận Tiêu Sứ (Nam)" MapID="18" PosX="7661" PosY="6053" />
-		<NPC ID="13102" Name="Nhiếp Đình" Title="Tần Lăng Vận Tiêu Sứ (Đông)" MapID="24" PosX="3031" PosY="2011" />
-		<NPC ID="13103" Name="Hoàng Bảo Thiên" Title="Dược Vương Cốc Vận Tiêu Sứ (Đông)" MapID="35" PosX="8122" PosY="1412" />
-		<NPC ID="13104" Name="Phùng Khinh" Title="Sa Mạc Sơn Động Vận Tiêu Sứ (Đông)" MapID="23" PosX="7388" PosY="3716" />
-		<NPC ID="13105" Name="Đỗ Kỳ Thương" Title="Lão Hổ Động Vận Tiêu Sứ (Đông)" MapID="17" PosX="5943" PosY="771" />
-		<NPC ID="13106" Name="Đoàn Chính Nguyên" Title="Mạc Cao Quật Vận Tiêu Sứ (Bắc)" MapID="18" PosX="3677" PosY="664" />
-		<NPC ID="13107" Name="Ngô Bính" Title="Tần Lăng Vận Tiêu Sứ (Tây)" MapID="24" PosX="658" PosY="1608" />
-		<NPC ID="13108" Name="Lữ Linh Tiên" Title="Dược Vương Cốc Vận Tiêu Sứ (Tây)" MapID="35" PosX="1540" PosY="2880" />
-		<NPC ID="13109" Name="Triệu Hùng" Title="Sa Mạc Sơn Động Vận Tiêu Sứ (Nam)" MapID="23" PosX="4561" PosY="429" />
+		<NPC ID="13100" Name="Tiêu Viễn Nhất" Title="Ba Lăng huyện Vận Tiêu Sứ(Tương Dương)" MapID="1" PosX="3089" PosY="5258" ToNPC="13101" MovePath="3180,5241_4640,5120_5080,4960_5180,4920_6740,4120_8857,3161"/>
+		<NPC ID="13101" Name="Tiêu Viễn Nhị" Title="Ba Lăng huyện Vận Tiêu Sứ(Thiên Vương Bang)" MapID="1" PosX="8899" PosY="3218" ToNPC="13102" MovePath="8857,3161_8640,2860_7739,241"/>
+		<NPC ID="13102" Name="Tiêu Viễn Tam" Title="Ba Lăng huyện Vận Tiêu Sứ(Ngũ Độc)" MapID="1" PosX="7709" PosY="400" ToNPC="13103" MovePath="7739,241_6220,700_2920,660_1000,680_980,700_552,682"/>
+		<NPC ID="13103" Name="Tiêu Viễn Tứ" Title="Ba Lăng huyện Vận Tiêu Sứ(Đào Hoa Nguyên)" MapID="1" PosX="709" PosY="746" ToNPC="13100" MovePath="552,682_1880,2040_880,3040_1820,4080_1980,4080_3096,5144"/>
 	</CargoNPCs>
 	
 	<Awards>
-		<Award Type="1" Money="0" BoundMoney="0" Token="0" BoundToken="0">
-			<Item ItemID="8488" Quantity="1" Bound="true" />
-			<Item ItemID="184" Quantity="2" Bound="true" />
-			
-		</Award>
-		<Award Type="2" Money="0" BoundMoney="500000" Token="0" BoundToken="0">
-			<Item ItemID="8488" Quantity="5" Bound="true" />
+		<Award Type="1" Money="0" BoundMoney="0" Token="8000" BoundToken="0" Exp="5000000">
 			<Item ItemID="8483" Quantity="1" Bound="true" />
-			<Item ItemID="185" Quantity="2" Bound="true" />
+			<Item ItemID="186" Quantity="1" Bound="true" />		
+			<Item ItemID="2157" Quantity="1" Bound="true" />
+
+		</Award>
+		<Award Type="2" Money="0" BoundMoney="0" Token="10000" BoundToken="0" Exp="10000000">
+			<Item ItemID="8483" Quantity="2" Bound="true" />
+			<Item ItemID="186" Quantity="2" Bound="true" />		
+			<Item ItemID="2157" Quantity="2" Bound="true" />
 			
 		</Award>
-		<Award Type="3" Money="0" BoundMoney="0" Token="0" BoundToken="2000">
-			<Item ItemID="8488" Quantity="10" Bound="true" />
-			<Item ItemID="8483" Quantity="2" Bound="true" />
-			<Item ItemID="186" Quantity="2" Bound="true" />
+		<Award Type="3" Money="0" BoundMoney="0" Token="12000" BoundToken="0" Exp="15000000">
+			<Item ItemID="8483" Quantity="3" Bound="true" />
+			<Item ItemID="186" Quantity="3" Bound="true" />
 			<Item ItemID="2157" Quantity="3" Bound="true" />
 		</Award>
 	</Awards>
@@ -112,24 +106,14 @@
 	</DeathPunishs>
 	
 	<Paths>
-		<Path Type="1" RequireLevel="80" RequireMoney="0" RequireBoundMoney="500000" RequireToken="0" RequireBoundToken="0" LimitTime="1000000" NotifySystem="false">
-			<MovePath FromMapID="17" ToMapID="17" MinLevel="80"/>
-			<MovePath FromMapID="18" ToMapID="18" MinLevel="80"/>
-			<MovePath FromMapID="24" ToMapID="24" MinLevel="80"/>
-			<MovePath FromMapID="35" ToMapID="35" MinLevel="80"/>
-			
+		<Path Type="1" RequireLevel="80" RequireMoney="500000" RequireBoundMoney="0" RequireToken="0" RequireBoundToken="0" LimitTime="1000000" NotifySystem="false">
+			<MovePath FromMapID="1" ToMapID="1" MinLevel="90" />			
 		</Path>
-		<Path Type="2" RequireLevel="90" RequireMoney="1500000" RequireBoundMoney="0" RequireToken="0" RequireBoundToken="0" LimitTime="1000000" NotifySystem="false">
-			<MovePath FromMapID="17" ToMapID="17" MinLevel="90"/>
-			<MovePath FromMapID="18" ToMapID="18" MinLevel="90"/>
-			<MovePath FromMapID="24" ToMapID="24" MinLevel="90"/>
-			<MovePath FromMapID="35" ToMapID="35" MinLevel="90"/>
+		<Path Type="2" RequireLevel="90" RequireMoney="1000000" RequireBoundMoney="0" RequireToken="0" RequireBoundToken="0" LimitTime="1000000" NotifySystem="false">
+			<MovePath FromMapID="1" ToMapID="1" MinLevel="100" />
 		</Path>
-		<Path Type="3" RequireLevel="100" RequireMoney="0" RequireBoundMoney="0" RequireToken="2000" RequireBoundToken="0" LimitTime="1000000" NotifySystem="true">
-			<MovePath FromMapID="17" ToMapID="17" MinLevel="100"/>
-			<MovePath FromMapID="18" ToMapID="18" MinLevel="100"/>
-			<MovePath FromMapID="24" ToMapID="24" MinLevel="100"/>
-			<MovePath FromMapID="35" ToMapID="35" MinLevel="100"/>
+		<Path Type="3" RequireLevel="100" RequireMoney="1500000" RequireBoundMoney="0" RequireToken="0" RequireBoundToken="0" LimitTime="1000000" NotifySystem="true">
+			<MovePath FromMapID="1" ToMapID="1" MinLevel="110"/>
 		</Path>
 	</Paths>
 </CargoCarriage>
