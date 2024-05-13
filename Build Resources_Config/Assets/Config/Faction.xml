@@ -303,4 +303,45 @@
 			<Skill ID="10295" />
 		</Sub>
 	</Faction>
+		<Faction ID="2" Name="Thiên Vương" Series="1" Gender="-1">
+		<Sub ID="1" Name="Thương Pháp">
+			<Skill ID="10035" />
+			<Skill ID="10038" />
+			<Skill ID="10045" />
+			<Skill ID="10041" />
+			<Skill ID="10043" />
+			<Skill ID="10049" />
+			<Skill ID="10047" />
+			<Skill ID="10050" />
+			<Skill ID="10323" />
+			<Skill ID="10052" />
+			<Skill ID="11061" />
+		</Sub>
+		<Sub ID="2" Name="Chùy Pháp">
+			<Skill ID="10036" />
+			<Skill ID="10037" />
+			<Skill ID="10045" />
+			<Skill ID="10042" />
+			<Skill ID="10043" />
+			<Skill ID="10049" />
+			<Skill ID="10048" />
+			<Skill ID="10050" />
+			<Skill ID="10325" />
+			<Skill ID="10052" />
+			<Skill ID="11060" />
+		</Sub>
+		<Sub ID="3" Name="Đao Pháp">
+			<Skill ID="10034" />
+			<Skill ID="10039" />
+			<Skill ID="10045" />
+			<Skill ID="10040" />
+			<Skill ID="10043" />
+			<Skill ID="10049" />
+			<Skill ID="10046" />
+			<Skill ID="10050" />
+			<Skill ID="10322" />
+			<Skill ID="10052" />
+			<Skill ID="11057" />
+		</Sub>
+	</Faction>
 </Factions>
