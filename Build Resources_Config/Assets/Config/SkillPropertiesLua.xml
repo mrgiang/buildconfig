@@ -7698,6 +7698,21 @@
         <SkillLevelValue Level="2" Value="-1" />
       </Value>
     </Symbol>
+	<Symbol Name="addphysicsmagic_p">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="11" />
+        <SkillLevelValue Level="20" Value="161" />
+        <SkillLevelValue Level="21" Value="161" />
+      </Value>
+      <Value ID="2">
+        <SkillLevelValue Level="1" Value="-1" />
+        <SkillLevelValue Level="2" Value="-1" />
+      </Value>
+      <Value ID="3">
+        <SkillLevelValue Level="1" Value="0" />
+        <SkillLevelValue Level="2" Value="0" />
+      </Value>
+    </Symbol>
 	<Symbol Name="fatallystrikeenhance_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="5" />

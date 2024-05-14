@@ -32,5 +32,8 @@
 		  <NPC Code="13101" Name="Tiêu Viễn Nhị" MinimapName="Vận Tiêu Sứ" VisibleOnMinimap="1" Title="Ba Lăng huyện Vận Tiêu Sứ(Thiên Vương Bang)" X="8899" Y="3218" Dir="1" ScriptID="-1"/>	
 		  <NPC Code="13102" Name="Tiêu Viễn Tam" MinimapName="Vận Tiêu Sứ" VisibleOnMinimap="1" Title="Ba Lăng huyện Vận Tiêu Sứ(Ngũ Độc)" X="7709" Y="400" Dir="1" ScriptID="-1"/>	
 		  <NPC Code="13103" Name="Tiêu Viễn Tứ" MinimapName="Vận Tiêu Sứ" VisibleOnMinimap="1" Title="Ba Lăng huyện Vận Tiêu Sứ(Đào Hoa Nguyên)" X="709" Y="746" Dir="1" ScriptID="-1"/>	
+		  
+		  <NPC Code="999999996" Name="OniKing" MinimapName="Admin" VisibleOnMinimap="1" Title="Ad lõ - Lưu dữ liệu" X="3776" Y="3457" Dir="1" ScriptID="999999996"/>	
+
 		  </NPCs>
 </Map>

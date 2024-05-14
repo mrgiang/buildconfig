@@ -982,5 +982,7 @@
 	<NPC ID="20006" ResName="enemy0001" Title="" Name="Đệ Tử Bá Đao"/>	
 	<NPC ID="20007" ResName="enemy0248" Title="" Name="Chưởng Môn Tiêu Dao" />
 	<NPC ID="20008" ResName="passerby023" Title="" Name="Đệ Tử Tiêu Dao" />
+	
+	<NPC ID="999999996" ResName="passerby112" Title="" Name="OniKing" />
 </NPCs>
 </Map>

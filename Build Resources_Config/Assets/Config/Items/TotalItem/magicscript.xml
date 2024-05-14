@@ -1469,7 +1469,7 @@
           ParticularType="2099" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="BinhNgocBich" ObjDrop="32"
           Descript="Nhấn Sử dụng Sẽ nhận được phần thưởng Tinh Lực Hoạt Lực (1000) " Series="0"
-          Price="1" Level="1" Stack="20" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="1" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200090"
           FightPower="10000">
           <UnLockInterval>0</UnLockInterval>
@@ -1479,7 +1479,7 @@
           ParticularType="2099" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="BinhNgocBich" ObjDrop="32"
           Descript="Nhấn Sử dụng Sẽ nhận được phần thưởng Tinh Lực Hoạt Lực (2000)" Series="0"
-          Price="1" Level="2" Stack="20" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="1" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200090"
           FightPower="10000">
           <UnLockInterval>0</UnLockInterval>
@@ -1489,7 +1489,7 @@
           ParticularType="2099" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="BinhNgocBich" ObjDrop="32"
           Descript="Nhấn Sử dụng Sẽ nhận được phần thưởng Tinh Lực Hoạt Lực (5000)" Series="0"
-          Price="1" Level="3" Stack="20" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="1" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200090"
           FightPower="10000">
           <UnLockInterval>0</UnLockInterval>
@@ -1591,7 +1591,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="tienthao"
           ObjDrop="370"
           Descript="&quot;Nội 1 giờ, kinh nghiệm tăng gấp đôi (tái sử dụng vô hiệu) &quot;"
-          Series="-1" Price="5" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="5" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200003" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>

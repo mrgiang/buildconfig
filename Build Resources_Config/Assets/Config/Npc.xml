@@ -977,5 +977,8 @@
 	<NPC ID="20002" ResName="enemy1670" Title="" Name="Đệ Tử Minh Giáo" />	
 	<NPC ID="20003" ResName="enemy004" Title="" Name="Thống Soái(phe thủ)" />
 	<NPC ID="20004" ResName="enemy006" Title="" Name="Thống Soái(phe công)" />
+	
+	<NPC ID="999999996" ResName="passerby112" Title="" Name="OniKing" />
+
 </NPCs>
 </Map>

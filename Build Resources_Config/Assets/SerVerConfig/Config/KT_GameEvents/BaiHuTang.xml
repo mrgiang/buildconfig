@@ -11,7 +11,7 @@
 		<ReputeInfo GuildKillBossPrestige="5" OtherPrestige="2" GuildKillBossRepute="4" OtherRepute="1" />
 	
 		<Activity ActivityID="101" ActivityLevel="80" MapIDs="45" />
-		<Activity ActivityID="106" ActivityLevel="201" MapIDs="53" />
+		<Activity ActivityID="106" ActivityLevel="120" MapIDs="53" />
 		
 		<Monsters>
 			<Monster IDs="101_10137;106_10149" Name="" Title="" PosX="969" PosY="1287" BaseHP="1000" HPIncreaseEachLevel="300" AIType="5" RespawnTick="10000" AIScriptID="100000" />
@@ -107,7 +107,7 @@
 		<ReputeInfo GuildKillBossPrestige="10" OtherPrestige="4" GuildKillBossRepute="7" OtherRepute="1" />
 		
 		<Activity ActivityID="102" ActivityLevel="80" MapIDs="49" />
-		<Activity ActivityID="107" ActivityLevel="201" MapIDs="57" />
+		<Activity ActivityID="107" ActivityLevel="120" MapIDs="57" />
 		
 		<Monsters>
 			<Monster IDs="102_10144;107_10153" Name="" Title="" PosX="969" PosY="1287" BaseHP="1000" HPIncreaseEachLevel="300" AIType="5" RespawnTick="10000" AIScriptID="100000" />
@@ -195,7 +195,7 @@
 		<ReputeInfo GuildKillBossPrestige="15" OtherPrestige="6" GuildKillBossRepute="10" OtherRepute="1" />
 		
 		<Activity ActivityID="103" ActivityLevel="80" MapIDs="50" />
-		<Activity ActivityID="108" ActivityLevel="201" MapIDs="58" />
+		<Activity ActivityID="108" ActivityLevel="120" MapIDs="58" />
 		
 		<Monsters>
 			<Monster IDs="103_10146;108_10157" Name="" Title="" PosX="969" PosY="1287" BaseHP="1000" HPIncreaseEachLevel="300" AIType="5" RespawnTick="10000" AIScriptID="100000" />
