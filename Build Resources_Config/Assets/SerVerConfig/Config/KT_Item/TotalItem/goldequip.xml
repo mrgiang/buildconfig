@@ -18,5 +18,222 @@
     <ListEnhance EnhTimes="8" EnhMAName="manamax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_slowall_attacktime" EnhMAPA1Min="40" EnhMAPA1Max="40" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
+  <!-- Shop Bạch Hổ Đường -->
+
+<ItemData ItemID="140001" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck20" ObjDrop="28" Descript="" Series="1" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="62" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="7|9" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="7|9" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140002" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck19" ObjDrop="28" Descript="" Series="1" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="61" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="4|6" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="4|6" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140003" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck18" ObjDrop="28" Descript="" Series="1" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="60" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="3" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="3" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+
+<ItemData ItemID="140004" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck20" ObjDrop="28" Descript="" Series="2" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="62" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="7|9" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="7|9" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_light_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140005" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck19" ObjDrop="28" Descript="" Series="2" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="61" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="4|6" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="4|6" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_light_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140006" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck18" ObjDrop="28" Descript="" Series="2" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="60" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="3" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="3" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_light_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+
+<ItemData ItemID="140007" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck20" ObjDrop="28" Descript="" Series="3" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="62" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="7|9" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="7|9" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_fire_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140008" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck19" ObjDrop="28" Descript="" Series="3" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="61" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="4|6" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="4|6" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_fire_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140009" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck18" ObjDrop="28" Descript="" Series="3" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="60" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="3" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="3" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_fire_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+
+<ItemData ItemID="140010" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck20" ObjDrop="28" Descript="" Series="4" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="62" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="7|9" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="7|9" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_physics_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140011" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck19" ObjDrop="28" Descript="" Series="4" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="61" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="4|6" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="4|6" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_physics_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140012" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck18" ObjDrop="28" Descript="" Series="4" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="60" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="3" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="3" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_physics_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+
+<ItemData ItemID="140013" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck20" ObjDrop="28" Descript="" Series="5" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="62" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="7|9" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="7|9" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140014" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck19" ObjDrop="28" Descript="" Series="5" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="61" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="4|6" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="4|6" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+<ItemData ItemID="140015" Name="Triều Lộ Liên" Genre="3" Category="-1" DetailType="4" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-neck18" ObjDrop="28" Descript="" Series="5" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="60" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_all_resist" MagicLevel="3" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="3" IsActive="false" Index="1" />
+    <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="85" BasicPropPA1Max="85" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+</ItemData>
+
 
 </ArrayOfItemData>

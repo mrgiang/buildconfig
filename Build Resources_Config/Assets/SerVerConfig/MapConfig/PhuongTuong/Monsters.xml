@@ -2,9 +2,9 @@
 <Map>
   <Monsters>
        <!-- HT -->
-   <Monster Code="3006" X="8128" Y="4093" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
-   <Monster Code="3019" X="8727" Y="3114" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
-   <Monster Code="3020" X="344" Y="1957" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
-   <Monster Code="3021" X="942" Y="3821" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
+   <Monster Code="3006" X="8128" Y="4093" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="3019" X="8727" Y="3114" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="3020" X="344" Y="1957" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="3021" X="942" Y="3821" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
   </Monsters>
 </Map>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Map>
   <Monsters>
-   <Monster Code="3010" X="10779" Y="716" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
-   <Monster Code="3015" X="11017" Y="1919" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
-   <Monster Code="3016" X="1579" Y="5490" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
-   <Monster Code="3017" X="1312" Y="4461" Radius="100" Num="1" Timeslot="300" VisibleOnMinimap="0" /> 
+   <Monster Code="3010" X="10779" Y="716" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="3015" X="11017" Y="1919" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="3016" X="1579" Y="5490" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="3017" X="1312" Y="4461" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
   </Monsters>
 </Map>

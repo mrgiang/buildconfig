@@ -2915,7 +2915,7 @@
     <ShopItem>2113</ShopItem>
     <ShopItem>2114</ShopItem>-->
   </ShopTab>
-  <ShopTab ShopName="Danh Vọng Bạch Hổ Đường" ShopID="81" MoneyType="1" Discount="0"
+  <ShopTab ShopName="Danh Vọng Bạch Hổ Đường" ShopID="81" MoneyType="0" Discount="0"
     TimeSaleStart="" TimeSaleEnd="">
 
     <ShopItem>2079</ShopItem>
@@ -5124,7 +5124,7 @@
     <ShopItem>5444</ShopItem>
     <ShopItem>5445</ShopItem>
 	<ShopItem>21116</ShopItem>
-
+	<ShopItem>21125</ShopItem>
   </ShopTab>
   <ShopTab ShopName="Đạo Cụ" ShopID="242" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>21117</ShopItem>

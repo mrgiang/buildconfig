@@ -169,39 +169,17 @@
 			<level id="8" name="Sùng bái" level_up="6000" require_level="0"/>
 			<level id="9" name="Truyền thuyết" level_up="0" require_level="0"/>
 		</class>
-		<class id="11" name="Hoa Sơn" default_level="1" daily_limit="0">
-			<level id="1" name="Hữu nghị" level_up="200" require_level="0"/>
-			<level id="2" name="Thân mật" level_up="300" require_level="0"/>
-			<level id="3" name="Kính trọng" level_up="400" require_level="0"/>
-			<level id="4" name="Tôn kính" level_up="600" require_level="0"/>
-			<level id="5" name="Khâm phục" level_up="900" require_level="0"/>
-			<level id="6" name="Hiển hách" level_up="1500" require_level="0"/>
-			<level id="7" name="Sùng kính" level_up="3000" require_level="0"/>
-			<level id="8" name="Sùng bái" level_up="6000" require_level="0"/>
-			<level id="9" name="Truyền thuyết" level_up="0" require_level="0"/>
-		</class>
-		<class id="12" name="Minh Giáo" default_level="1" daily_limit="0">
-			<level id="1" name="Hữu nghị" level_up="200" require_level="0"/>
-			<level id="2" name="Thân mật" level_up="300" require_level="0"/>
-			<level id="3" name="Kính trọng" level_up="400" require_level="0"/>
-			<level id="4" name="Tôn kính" level_up="600" require_level="0"/>
-			<level id="5" name="Khâm phục" level_up="900" require_level="0"/>
-			<level id="6" name="Hiển hách" level_up="1500" require_level="0"/>
-			<level id="7" name="Sùng kính" level_up="3000" require_level="0"/>
-			<level id="8" name="Sùng bái" level_up="6000" require_level="0"/>
-			<level id="9" name="Truyền thuyết" level_up="0" require_level="0"/>
-		</class>
 	</camp>
 	<camp id="4" name="Hoạt động">
 		<class id="1" name="Bạch Hổ Đường" default_level="1" daily_limit="0">
-			<level id="1" name="Trung lập" level_up="300" require_level="0"/>
-			<level id="2" name="Hữu nghị" level_up="600" require_level="0"/>
-			<level id="3" name="Thân mật" level_up="900" require_level="0"/>
-			<level id="4" name="Kính trọng" level_up="1500" require_level="0"/>
-			<level id="5" name="Tôn kính" level_up="2400" require_level="0"/>
-			<level id="6" name="Khâm phục" level_up="4800" require_level="0"/>
-			<level id="7" name="Hiển hách" level_up="7500" require_level="0"/>
-			<level id="8" name="Sùng kính" level_up="12000" require_level="0"/>
+			<level id="1" name="Trung lập" level_up="3000" require_level="0"/>
+			<level id="2" name="Hữu nghị" level_up="6000" require_level="0"/>
+			<level id="3" name="Thân mật" level_up="9000" require_level="0"/>
+			<level id="4" name="Kính trọng" level_up="15000" require_level="0"/>
+			<level id="5" name="Tôn kính" level_up="24000" require_level="0"/>
+			<level id="6" name="Khâm phục" level_up="48000" require_level="0"/>
+			<level id="7" name="Hiển hách" level_up="75000" require_level="0"/>
+			<level id="8" name="Sùng kính" level_up="120000" require_level="0"/>
 			<level id="9" name="Sùng bái" level_up="0" require_level="0"/>
 		</class>
 		<class id="2" name="Phong Hỏa Liên Thành" default_level="1" daily_limit="0">

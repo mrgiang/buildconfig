@@ -125,9 +125,7 @@
 		<Notification NotifyOnSpawn="true" NotifyLocation="false" NotifyOnDead="true" />
 		<Bosses>
 			<Boss ID="6359" Name="Võ Kiếm Cao Thủ" Title="" Level="150"  MaxHP="900000000" AIScriptID="100001" Auras="14256_20" Skills="14216_40_6000;14217_40_5000;14221_40_4000;14214_40_-1" >
-				<Location MapID="1" PosX="1379" PosY="1820" />
-				<Location MapID="1" PosX="1155" PosY="4970" />
-				<Location MapID="1" PosX="6765" PosY="5104" />
+				<Location MapID="2" PosX="781" PosY="762" />
 			</Boss>
 		</Bosses>
 	</Group>
