@@ -85,6 +85,6 @@
 	
 	<!-- Phong Hỏa Liên Thành -->
 	<Activity ID="600" Name="Thông báo chuẩn bị Phong Hỏa Liên Thành" Type="2" Time="1;20;50_3;20;50_5;20;50" DurationTicks="60000" CoreScript="FengHuoLianCheng" />
-	<Activity ID="601" Name="Phong Hỏa Liên Thành" Type="2" Time="1;21;00_3;21;00_5;21;00" DurationTicks="3600000" CoreScript="FengHuoLianCheng" />
+	<Activity ID="601" Name="Phong Hỏa Liên Thành" Type="2" Time="1;21;00_3;21;00_5;21;00" DurationTicks="900000" CoreScript="FengHuoLianCheng" />
 	<!-- End -->
 </Activities>

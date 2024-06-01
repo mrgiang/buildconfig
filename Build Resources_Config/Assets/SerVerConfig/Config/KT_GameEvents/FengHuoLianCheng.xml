@@ -189,34 +189,34 @@
 	
 	<Attackers>
 		<Monster ID="6330" OrderID="1" Name="Sói Xám" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100000" Auras="" Skills="" />
-		<Monster ID="6331" OrderID="2" Name="Báo Hoang" Title="" BaseHP="200" HPIncreaseEachLevel="450" AIScriptID="100000" Auras="" Skills="" />
+		<Monster ID="6331" OrderID="2" Name="Báo Hoang" Title="" BaseHP="5000" HPIncreaseEachLevel="450" AIScriptID="100000" Auras="" Skills="" />
 		<Monster ID="6332" OrderID="3" Name="Hổ Vương" Title="" BaseHP="200" HPIncreaseEachLevel="600" AIScriptID="100000" Auras="" Skills="" />
 		<Monster ID="6333" OrderID="4" Name="Gấu Đen" Title="" BaseHP="200" HPIncreaseEachLevel="750" AIScriptID="100000" Auras="" Skills="" />
-		<Boss ID="6334" OrderID="5" Name="Thống Lĩnh Ác Thú" Title="" BaseHP="2000" HPIncreaseEachLevel="9000" AIScriptID="100001" Auras="" Skills="14258_10_5000;14510_10_-1" />
+		<Boss ID="6334" OrderID="5" Name="Thống Lĩnh Ác Thú" Title="" BaseHP="50000" HPIncreaseEachLevel="9000" AIScriptID="100001" Auras="" Skills="14258_10_5000;14510_10_-1" />
 		
 		
-		<Monster ID="6335" OrderID="6" Name="Thổ Phỉ" Title="" BaseHP="600" HPIncreaseEachLevel="1200" AIScriptID="100000" Auras="" Skills="" />
-		<Monster ID="6336" OrderID="7" Name="Thổ Phỉ Giáp" Title="" BaseHP="600" HPIncreaseEachLevel="1800" AIScriptID="100000" Auras="" Skills="" />
+		<Monster ID="6335" OrderID="6" Name="Thổ Phỉ" Title="" BaseHP="3000" HPIncreaseEachLevel="1200" AIScriptID="100000" Auras="" Skills="" />
+		<Monster ID="6336" OrderID="7" Name="Thổ Phỉ Giáp" Title="" BaseHP="3000" HPIncreaseEachLevel="1800" AIScriptID="100000" Auras="" Skills="" />
 		<Monster ID="6337" OrderID="8" Name="Lợi Phủ" Title="" BaseHP="600" HPIncreaseEachLevel="2400" AIScriptID="100000" Auras="" Skills="" />
 		<Monster ID="6338" OrderID="9" Name="Trường Đao" Title="" BaseHP="600" HPIncreaseEachLevel="3000" AIScriptID="100000" Auras="" Skills="" />
-		<Boss ID="6339" OrderID="10" Name="Đồng Chùy" Title="" BaseHP="6000" HPIncreaseEachLevel="27000" AIScriptID="100001" Auras="" Skills="14258_20_5000;14510_10_-1" />
+		<Boss ID="6339" OrderID="10" Name="Đồng Chùy" Title="" BaseHP="60000" HPIncreaseEachLevel="27000" AIScriptID="100001" Auras="" Skills="14258_20_5000;14510_10_-1" />
 		
 		
-		<Monster ID="6340" OrderID="11" Name="Lãnh Thương" Title="" BaseHP="1800" HPIncreaseEachLevel="3600" AIScriptID="100000" Auras="" Skills="" />
+		<Monster ID="6340" OrderID="11" Name="Lãnh Thương" Title="" BaseHP="35000" HPIncreaseEachLevel="3600" AIScriptID="100000" Auras="" Skills="" />
 		<Monster ID="6341" OrderID="12" Name="Lam Cân" Title="" BaseHP="1800" HPIncreaseEachLevel="5400" AIScriptID="100000" Auras="" Skills="" />
 		<Monster ID="6342" OrderID="13" Name="Lưu Lương" Title="" BaseHP="1800" HPIncreaseEachLevel="7200" AIScriptID="100000" Auras="" Skills="" />
 		<Monster ID="6343" OrderID="14" Name="Kế Chủy" Title="" BaseHP="1800" HPIncreaseEachLevel="9000" AIScriptID="100000" Auras="" Skills="" />
-		<Boss ID="6344" OrderID="15" Name="Ma Hoàng" Title="" BaseHP="18000" HPIncreaseEachLevel="81000" AIScriptID="100001" Auras="" Skills="14259_20_6000;14261_20_5000;14512_10_-1" />
+		<Boss ID="6344" OrderID="15" Name="Ma Hoàng" Title="" BaseHP="54000" HPIncreaseEachLevel="81000" AIScriptID="100001" Auras="" Skills="14259_20_6000;14261_20_5000;14512_10_-1" />
 		
 		
-		<Siege ID="6348" OrderID="16" Name="Kim Tiên Phong" Title="" BaseHP="5400" HPIncreaseEachLevel="10800" AIScriptID="100001" Auras="14255_20" Skills="14259_20_5000;14261_20_4000;14512_10_-1" />
+		<Siege ID="6348" OrderID="16" Name="Kim Tiên Phong" Title="" BaseHP="30800" HPIncreaseEachLevel="10800" AIScriptID="100001" Auras="" Skills="14259_20_5000;14261_20_4000;14512_10_-1" />
 		<Siege ID="6349" OrderID="17" Name="Kim Đội Trưởng" Title="" BaseHP="5400" HPIncreaseEachLevel="16200" AIScriptID="100001" Auras="" Skills="14257_20_6000;14258_20_3000;14510_10_-1" />
 		<Siege ID="6347" OrderID="18" Name="Kim Binh" Title="" BaseHP="5400" HPIncreaseEachLevel="21600" AIScriptID="100001" Auras="" Skills="14264_20_6000;14266_20_4000;14267_20_2000;14512_20_-1" />
-		<Boss ID="6345" OrderID="19" Name="Song Sát" Title="" BaseHP="5400" HPIncreaseEachLevel="27000" AIScriptID="100001" Auras="" Skills="14270_20_2000;14268_20_1000;14513_20_-1" />
+		<Boss ID="6345" OrderID="19" Name="Song Sát" Title="" BaseHP="30400" HPIncreaseEachLevel="27000" AIScriptID="100001" Auras="" Skills="14270_20_2000;14268_20_1000;14513_20_-1" />
 		<Boss ID="6346" OrderID="20" Name="Hạo Thiên" Title="" BaseHP="5400" HPIncreaseEachLevel="32400" AIScriptID="100001" Auras="" Skills="14271_20_1000;14272_20_-1" />
-		<Boss ID="6350" OrderID="21" Name="Kim Phó Tướng" Title="" BaseHP="16200" HPIncreaseEachLevel="64800" AIScriptID="100001" Auras="14255_20" Skills="14259_20_6000;14257_20_5000;14261_20_4000;14271_20_3000;14266_20_2000;14512_20_-1" />
-		<Boss ID="6351" OrderID="22" Name="Kim Chủ Tướng" Title="" BaseHP="16200" HPIncreaseEachLevel="97200" AIScriptID="100001" Auras="14256_5" Skills="14237_20_6000;14239_20_5000;14241_20_4000;14244_20_3000;14248_20_2000;14250_20_1000;14512_20_-1" />
-		<Boss ID="6352" OrderID="23" Name="Kim Nguyên Soái" Title="" BaseHP="16200" HPIncreaseEachLevel="129600" AIScriptID="100001" Auras="14256_10" Skills="14237_20_6000;14239_20_5000;14241_20_4000;14244_20_3000;14248_20_2000;14250_20_1000;14512_20_-1" />
+		<Boss ID="6350" OrderID="21" Name="Kim Phó Tướng" Title="" BaseHP="16200" HPIncreaseEachLevel="64800" AIScriptID="100001" Auras="" Skills="14259_20_6000;14257_20_5000;14261_20_4000;14271_20_3000;14266_20_2000;14512_20_-1" />
+		<Boss ID="6351" OrderID="22" Name="Kim Chủ Tướng" Title="" BaseHP="16200" HPIncreaseEachLevel="97200" AIScriptID="100001" Auras="" Skills="14237_20_6000;14239_20_5000;14241_20_4000;14244_20_3000;14248_20_2000;14250_20_1000;14512_20_-1" />
+		<Boss ID="6352" OrderID="23" Name="Kim Nguyên Soái" Title="" BaseHP="46200" HPIncreaseEachLevel="129600" AIScriptID="100001" Auras="" Skills="14237_20_6000;14239_20_5000;14241_20_4000;14244_20_3000;14248_20_2000;14250_20_1000;14512_20_-1" />
 	</Attackers>
 	
 	<Defenders>
@@ -247,39 +247,26 @@
 		<Monster ID="6357" OrderID="29" Name="" Title="" PosX="3905" PosY="2858" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100000" RespawnTicks="-1" Auras="" Skills="" />
 		<Monster ID="6357" OrderID="29" Name="" Title="" PosX="4267" PosY="3582" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100000" RespawnTicks="-1" Auras="" Skills="" />
 		
-		<Marshal ID="6358" OrderID="30" Name="" Title="" PosX="5197" PosY="2789" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100000" RespawnTicks="-1" Auras="" Skills="" />
-		<Marshal ID="6358" OrderID="30" Name="" Title="" PosX="5099" PosY="3426" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100000" RespawnTicks="-1" Auras="" Skills="" />
-		<Marshal ID="6358" OrderID="30" Name="" Title="" PosX="4243" PosY="3392" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100000" RespawnTicks="-1" Auras="" Skills="" />
-		<Marshal ID="6358" OrderID="30" Name="" Title="" PosX="4238" PosY="2872" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100000" RespawnTicks="-1" Auras="" Skills="" />
+		<Marshal ID="6358" OrderID="30" Name="" Title="" PosX="5197" PosY="2789" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="10207_20_1000" />
+		<Marshal ID="6358" OrderID="30" Name="" Title="" PosX="5099" PosY="3426" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="10236_20_1000" />
+		<Marshal ID="6358" OrderID="30" Name="" Title="" PosX="4243" PosY="3392" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="10250_20_1000" />
+		<Marshal ID="6358" OrderID="30" Name="" Title="" PosX="4238" PosY="2872" BaseHP="1000" HPIncreaseEachLevel="1000" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="10280_20_1000" />
 	</Defenders>
 	
-	<Rounds RoundPeriod="60000">
+	<Rounds RoundPeriod="20000">
 		<AdditionByPlayers Monsters="1" Sieges="20" Bosses="100" />
 		
-		<Round Monsters="1_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="2_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="3_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="4_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="" Bosses="5_15" DelaySpawn="2000" />
-		<Round Monsters="6_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="7_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="8_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="9_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="" Bosses="10_15" DelaySpawn="2000" />
-		<Round Monsters="11_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="12_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="13_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="14_30" Sieges="" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="" Bosses="15_6" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="16_15" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="17_15" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="18_15" Bosses="" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="15_15" Bosses="19_3" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="16_15" Bosses="20_3" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="17_15" Bosses="21_3" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="18_15" Bosses="22_3" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="18_15" Bosses="23_6" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="18_15" Bosses="23_9" DelaySpawn="2000" />
-		<Round Monsters="" Sieges="18_15" Bosses="23_12" DelaySpawn="2000" />
+		<Round Monsters="2_1" Sieges="" Bosses="" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="" Bosses="5_1" DelaySpawn="2000" />
+		<Round Monsters="6_1" Sieges="" Bosses="" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="" Bosses="10_1" DelaySpawn="2000" />
+		<Round Monsters="11_1" Sieges="" Bosses="" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="" Bosses="15_1" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="16_1" Bosses="" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="16_1" Bosses="" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="16_1" Bosses="19_1" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="16_1" Bosses="23_1" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="16_1" Bosses="23_1" DelaySpawn="2000" />
+		<Round Monsters="" Sieges="16_1" Bosses="23_1" DelaySpawn="2000" />
 	</Rounds>
 </FengHuoLianCheng>

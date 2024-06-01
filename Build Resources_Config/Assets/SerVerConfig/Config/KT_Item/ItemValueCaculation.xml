@@ -173,18 +173,10 @@
   <List_Enhance_Value EnhanceTimes="8" Value="8000000" />
   <List_Enhance_Value EnhanceTimes="9" Value="12000000" />
   <List_Enhance_Value EnhanceTimes="10" Value="48000000" />
-  <List_Enhance_Value EnhanceTimes="11" Value="48000000" />
-  <List_Enhance_Value EnhanceTimes="12" Value="48000000" />
-  <List_Enhance_Value EnhanceTimes="13" Value="48000000" />
-  <List_Enhance_Value EnhanceTimes="14" Value="48000000" />
-  <!--
-  <List_Enhance_Value EnhanceTimes="11" Value="800000" />
-  <List_Enhance_Value EnhanceTimes="12" Value="3200000" />
-  <List_Enhance_Value EnhanceTimes="13" Value="4000000" />
-  <List_Enhance_Value EnhanceTimes="14" Value="6000000" />
-  <List_Enhance_Value EnhanceTimes="15" Value="12000000" />
-  <List_Enhance_Value EnhanceTimes="16" Value="48000000" />
-  -->
+  <List_Enhance_Value EnhanceTimes="11" Value="152000000" />
+  <List_Enhance_Value EnhanceTimes="12" Value="320000000" />
+
+
   <List_Strengthen_Value StrengthenTimes="1" Value="900" />
   <List_Strengthen_Value StrengthenTimes="2" Value="7500" />
   <List_Strengthen_Value StrengthenTimes="3" Value="32000" />
@@ -195,18 +187,8 @@
   <List_Strengthen_Value StrengthenTimes="8" Value="8000000" />
   <List_Strengthen_Value StrengthenTimes="9" Value="12000000" />
   <List_Strengthen_Value StrengthenTimes="10" Value="48000000" />
-  <List_Strengthen_Value StrengthenTimes="11" Value="48000000" />
-  <List_Strengthen_Value StrengthenTimes="12" Value="48000000" />
-  <List_Strengthen_Value StrengthenTimes="13" Value="48000000" />
-  <List_Strengthen_Value StrengthenTimes="14" Value="48000000" />
-  <!--
-  <List_Strengthen_Value StrengthenTimes="11" Value="400000" />
-  <List_Strengthen_Value StrengthenTimes="12" Value="1600000" />
-  <List_Strengthen_Value StrengthenTimes="13" Value="2000000" />
-  <List_Strengthen_Value StrengthenTimes="14" Value="3000000" />
-  <List_Strengthen_Value StrengthenTimes="15" Value="6000000" />
-  <List_Strengthen_Value StrengthenTimes="16" Value="24000000" />
-  -->
+  <List_Strengthen_Value StrengthenTimes="11" Value="152000000" />
+  <List_Strengthen_Value StrengthenTimes="12" Value="320000000" />
   
   
   <!--meleeweapon-->

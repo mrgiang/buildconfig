@@ -81,4 +81,30 @@
     <ListReqProp ReqPropType="7" ReqPropValue="1" Index="2" />
 	<UnLockInterval>0</UnLockInterval>
   </ItemData>
+    <ItemData ItemID="1150001" Name="Phi Phong Chí Tôn Truyền Thuyết" Genre="0" DetailType="15" ParticularType="1" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="pifeng_09" ObjDrop="338" Descript="Phi Phong Chí Tôn Truyền Thuyết - Nam" Series="0" Price="40500000" Level="9" Stack="1" ResWomanID="8" ResManID="8" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="225000000">
+    <ListBasicProp BasicPropType="lifemax_p" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="800" BasicPropPA1Max="800" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="manamax_p" BasicPropPA1Min="40" BasicPropPA1Max="40" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+    <ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="90" BasicPropPA1Max="90" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+    <ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="30" BasicPropPA1Max="30" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <ListBasicProp BasicPropType="allseriesstateresisttime" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="6" />
+    <ListBasicProp BasicPropType="allseriesstateresistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="7" />
+    <ListBasicProp BasicPropType="ignoreskill" BasicPropPA1Min="3" BasicPropPA1Max="3" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="8" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="1" />
+    <ListReqProp ReqPropType="7" ReqPropValue="1" Index="2" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="1150002" Name="Phi Phong Vô Song Vương Giả" Genre="0" DetailType="15" ParticularType="1" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="pifeng_10" ObjDrop="338" Descript="Phi Phong Vô Song Vương Giả - Nam" Series="0" Price="112500000" Level="10" Stack="1" ResWomanID="9" ResManID="9" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="562500000">
+    <ListBasicProp BasicPropType="lifemax_p" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="1000" BasicPropPA1Max="1000" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="manamax_p" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+    <ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="135" BasicPropPA1Max="135" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+    <ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="40" BasicPropPA1Max="40" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <ListBasicProp BasicPropType="allseriesstateresisttime" BasicPropPA1Min="200" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="6" />
+    <ListBasicProp BasicPropType="allseriesstateresistrate" BasicPropPA1Min="200" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="7" />
+    <ListBasicProp BasicPropType="ignoreskill" BasicPropPA1Min="6" BasicPropPA1Max="6" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="8" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="1" />
+    <ListReqProp ReqPropType="7" ReqPropValue="1" Index="2" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
 </ArrayOfItemData>

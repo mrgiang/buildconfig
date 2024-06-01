@@ -436,7 +436,7 @@
           ParticularType="110" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="menpailingpai_chuji" ObjDrop="32"
           Descript="&quot;Nhận tại Phong Hỏa liên thành, sử dụng được 50 điểm danh vọng Phong Hỏa liên thành.&quot;"
-          Series="0" Price="1" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200107" FightPower="5000">
           <UnLockInterval>0</UnLockInterval>
@@ -446,7 +446,7 @@
           ParticularType="110" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="menpailingpai_zhongji" ObjDrop="32"
           Descript="&quot;Nhận tại Phong Hỏa liên thành, sử dụng được 100 điểm danh vọng Phong Hỏa liên thành.&quot;"
-          Series="0" Price="1" Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200107" FightPower="10000">
           <UnLockInterval>0</UnLockInterval>
@@ -456,7 +456,7 @@
           ParticularType="110" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="menpailingpai_gaoji" ObjDrop="32"
           Descript="&quot;Nhận tại Phong Hỏa liên thành, sử dụng được 150 điểm danh vọng Phong Hỏa liên thành.&quot;"
-          Series="0" Price="1" Level="3" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200107" FightPower="20000">
           <UnLockInterval>0</UnLockInterval>
@@ -724,7 +724,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0001_s"
           ObjDrop="341"
           Descript="Học xong được 1 điểm kỹ năng. &lt;color=gold&gt;Học tối đa 15 quyển&lt;color&gt;.&lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;"
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200082" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -734,7 +734,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xisuijing_chuji"
           ObjDrop="341"
           Descript="Học xong được 5 điểm tiềm năng. &lt;color=gold&gt;Học tối đa 15 quyển&lt;color&gt;. &lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;"
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200083" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3200,7 +3200,7 @@
           Name="Đồ phổ Hoàng Kim - Mộng Long Chính Hoàng Tăng Mão" Genre="6"
           DetailType="1" ParticularType="239" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3209,7 +3209,7 @@
           Name="Đồ phổ Hoàng Kim - Mộng Long Kim Ti Chính Hồng Cà Sa" Genre="6"
           DetailType="1" ParticularType="240" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3218,7 +3218,7 @@
           Name="Đồ phổ Hoàng Kim - Mộng Long Huyền Ti Pháp Đái" Genre="6"
           DetailType="1" ParticularType="241" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3227,7 +3227,7 @@
           Name="Đồ phổ Hoàng Kim - Mộng Long Phật Pháp Huyền Bội" Genre="6"
           DetailType="1" ParticularType="242" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3236,7 +3236,7 @@
           Name="Đồ phổ Hoàng Kim - Mộng Long Tử Kim Bát Nhã Giới" Genre="6"
           DetailType="1" ParticularType="243" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3245,7 +3245,7 @@
           Name="Đồ phổ Hoàng Kim - Phục Ma Tử Kim Côn" Genre="6" DetailType="1"
           ParticularType="244" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3254,7 +3254,7 @@
           Name="Đồ phổ Hoàng Kim - Phục Ma Vô Lượng Kim Cang Uyển" Genre="6"
           DetailType="1" ParticularType="245" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3263,7 +3263,7 @@
           Name="Đồ phổ Hoàng Kim - Phục Ma Ô Kim Nhuyễn Điều" Genre="6"
           DetailType="1" ParticularType="246" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3272,7 +3272,7 @@
           Name="Đồ phổ Hoàng Kim - Phục Ma Phật Tâm Nhuyễn Khấu" Genre="6"
           DetailType="1" ParticularType="247" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3281,7 +3281,7 @@
           Name="Đồ phổ Hoàng Kim - Phục Ma Phổ Độ Tăng Hài" Genre="6"
           DetailType="1" ParticularType="248" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3290,7 +3290,7 @@
           Name="Đồ phổ Hoàng Kim - Tứ Không Giáng Ma Giới Đao" Genre="6"
           DetailType="1" ParticularType="249" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3299,7 +3299,7 @@
           Name="Đồ phổ Hoàng Kim - Tứ Không Đạt Ma Tăng Hài" Genre="6"
           DetailType="1" ParticularType="250" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3308,7 +3308,7 @@
           Name="Đồ phổ Hoàng Kim - Tứ Không Hộ Pháp Yêu Đái" Genre="6"
           DetailType="1" ParticularType="251" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3317,7 +3317,7 @@
           Name="Đồ phổ Hoàng Kim - Tứ Không Nhuyễn Bì Hộ Uyển" Genre="6"
           DetailType="1" ParticularType="252" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3326,7 +3326,7 @@
           Name="Đồ phổ Hoàng Kim - Tứ Không Giới Luật Pháp Giới" Genre="6"
           DetailType="1" ParticularType="253" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3335,7 +3335,7 @@
           Name="Đồ phổ Hoàng Kim - Hám Thiên Kim Hoàn Đại Nhãn Thần Chùy"
           Genre="6" DetailType="1" ParticularType="254" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3344,7 +3344,7 @@
           Name="Đồ phổ Hoàng Kim - Hám Thiên Vũ Thần Tương Kim Giáp" Genre="6"
           DetailType="1" ParticularType="255" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3353,7 +3353,7 @@
           Name="Đồ phổ Hoàng Kim - Hám Thiên Uy Vũ Thúc Yêu Đái" Genre="6"
           DetailType="1" ParticularType="256" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3362,7 +3362,7 @@
           Name="Đồ phổ Hoàng Kim - Hám Thiên Hổ Đầu Khẩn Thúc Uyển" Genre="6"
           DetailType="1" ParticularType="257" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3371,7 +3371,7 @@
           Name="Đồ phổ Hoàng Kim - Hám Thiên Thừa Long Chiến Ngoa" Genre="6"
           DetailType="1" ParticularType="258" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3380,7 +3380,7 @@
           Name="Đồ phổ Hoàng Kim - Kế Nghiệp Bôn Lôi Toàn Long Thương" Genre="6"
           DetailType="1" ParticularType="259" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3389,7 +3389,7 @@
           Name="Đồ phổ Hoàng Kim - Kế Nghiệp Huyền Vũ Hoàng Kim Khải" Genre="6"
           DetailType="1" ParticularType="260" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3398,7 +3398,7 @@
           Name="Đồ phổ Hoàng Kim - Kế Nghiệp Bạch Hổ Vô Song Khấu" Genre="6"
           DetailType="1" ParticularType="261" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3407,7 +3407,7 @@
           Name="Đồ phổ Hoàng Kim - Kế Nghiệp Hỏa Vân Kỳ Lân thủ " Genre="6"
           DetailType="1" ParticularType="262" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3416,7 +3416,7 @@
           Name="Đồ phổ Hoàng Kim - Kế Nghiệp Chu Tước Lăng Vân Ngoa" Genre="6"
           DetailType="1" ParticularType="263" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3425,7 +3425,7 @@
           Name="Đồ phổ Hoàng Kim - Ngự Long Lượng Ngân Bảo Đao" Genre="6"
           DetailType="1" ParticularType="264" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3434,7 +3434,7 @@
           Name="Đồ phổ hoàng kim - Ngự Long Chiến Thần Qua Trụy" Genre="6"
           DetailType="1" ParticularType="265" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3443,7 +3443,7 @@
           Name="Đồ phổ Hoàng Kim - Ngự Long Thiên Môn Thúc Yêu Hoàn" Genre="6"
           DetailType="1" ParticularType="266" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3452,7 +3452,7 @@
           Name="Đồ phổ Hoàng Kim - Ngự Long Tấn Phong Phát Cơ" Genre="6"
           DetailType="1" ParticularType="267" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3461,7 +3461,7 @@
           Name="Đồ phổ Hoàng Kim - Ngự Long Tuyệt Mệnh Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="268" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3470,7 +3470,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Gian ỷ Thiên Kiếm" Genre="6" DetailType="1"
           ParticularType="269" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3479,7 +3479,7 @@
           Name="Đồ phổ Hoàng Kim - Vô gian Thanh phong nhuyễn lữ" Genre="6"
           DetailType="1" ParticularType="270" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3488,7 +3488,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Gian Phất Vân Ti Đái" Genre="6"
           DetailType="1" ParticularType="271" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3497,7 +3497,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Gian Cầm Vận Hộ Uyển" Genre="6"
           DetailType="1" ParticularType="272" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3506,7 +3506,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Gian Bạch Ngọc Bàn Chỉ " Genre="6"
           DetailType="1" ParticularType="273" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3515,7 +3515,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Ma Ma Ni Quán" Genre="6" DetailType="1"
           ParticularType="274" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3524,7 +3524,7 @@
           Name="Đồ phổ Hoàng Kim - Vô ma thu thủy lưu quang đai" Genre="6"
           DetailType="1" ParticularType="275" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3533,7 +3533,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Ma Băng Tinh Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="276" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3542,7 +3542,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Ma Tẩy Tượng Ngọc Khấu" Genre="6"
           DetailType="1" ParticularType="277" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3551,7 +3551,7 @@
           Name="Đồ phổ Hoàng Kim - Mảnh Hồng Truy Nhuyễn Tháp Hài " Genre="6"
           DetailType="1" ParticularType="278" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3560,7 +3560,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Trần Ngọc Nữ Tố Tâm Quán" Genre="6"
           DetailType="1" ParticularType="279" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3569,7 +3569,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Trần Thanh Tâm Hướng Thiện Châu" Genre="6"
           DetailType="1" ParticularType="280" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3578,7 +3578,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Trần Từ Bi Ngọc Bàn Chỉ " Genre="6"
           DetailType="1" ParticularType="281" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3587,7 +3587,7 @@
           Name="Đồ phổ Hoàng Kim - Vô Trần Tịnh ảnh Lưu Tô" Genre="6"
           DetailType="1" ParticularType="282" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3596,7 +3596,7 @@
           Name="Đồ phổ hoàng kim - Vô Trần Phật Quang Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="283" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3605,7 +3605,7 @@
           Name="Đồ phổ Hoàng Kim - Tê Hoàng Phụng Nghi Đao" Genre="6"
           DetailType="1" ParticularType="284" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3614,7 +3614,7 @@
           Name="Đồ phổ Hoàng Kim - Thê Hoàng Huệ Tâm Trường Sinh Khấu" Genre="6"
           DetailType="1" ParticularType="285" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3623,7 +3623,7 @@
           Name="Đồ phổ Hoàng Kim - Tê Hoàng Phong Tuyết Bạch Vân Thúc Đái"
           Genre="6" DetailType="1" ParticularType="286" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3632,7 +3632,7 @@
           Name="Đồ phổ Hoàng Kim - Tê Hoàng Băng Tung Cẩm Uyển" Genre="6"
           DetailType="1" ParticularType="287" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3641,7 +3641,7 @@
           Name="Đồ phổ Hoàng Kim - Tê Hoàng Thúy Ngọc Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="288" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3650,7 +3650,7 @@
           Name="Đồ phổ Hoàng Kim - Bích Hải Uyên Ương Liên Hoàn đao" Genre="6"
           DetailType="1" ParticularType="289" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3659,7 +3659,7 @@
           Name="Đồ phổ Hoàng Kim - Bích Hải Hoàn Châu Tuyên Thanh Cân" Genre="6"
           DetailType="1" ParticularType="290" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3668,7 +3668,7 @@
           Name="Đồ phổ Hoàng Kim - Bích Hải Hồng Linh Kim Ti Đái" Genre="6"
           DetailType="1" ParticularType="291" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3677,7 +3677,7 @@
           Name="Đồ phổ Hoàng Kim - Bích Hải Hồng Lăng Ba" Genre="6"
           DetailType="1" ParticularType="292" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3686,7 +3686,7 @@
           Name="Đồ phổ Hoàng Kim - Bích Hải Khiên Tế Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="293" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3695,7 +3695,7 @@
           Name="Đồ phổ Hoàng Kim - U Lung Kim Xà Phát Đái" Genre="6"
           DetailType="1" ParticularType="294" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3704,7 +3704,7 @@
           Name="Đồ phổ Hoàng Kim - U Lung Xích Hiết Mật Trang" Genre="6"
           DetailType="1" ParticularType="295" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3713,7 +3713,7 @@
           Name="Đồ phổ Hoàng Kim - U Lung Thanh Ngô Triền Yêu" Genre="6"
           DetailType="1" ParticularType="296" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3722,7 +3722,7 @@
           Name="Đồ phổ Hoàng Kim - U Lung Ngân Thiềm Hộ Uyển" Genre="6"
           DetailType="1" ParticularType="297" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3731,7 +3731,7 @@
           Name="Đồ phổ Hoàng Kim - U Lung Mặc Thù Nhuyễn Lý " Genre="6"
           DetailType="1" ParticularType="298" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3740,7 +3740,7 @@
           Name="Đồ phổ Hoàng Kim - Minh ảo Tà Sát Độc Nhận" Genre="6"
           DetailType="1" ParticularType="299" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3749,7 +3749,7 @@
           Name="Đồ phổ Hoàng Kim - Minh ảo U Cổ ám Y" Genre="6" DetailType="1"
           ParticularType="300" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3758,7 +3758,7 @@
           Name="Đồ phổ Hoàng Kim - Minh ảo Thanh Hiết Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="301" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3767,7 +3767,7 @@
           Name="Đồ phổ Hoàng Kim - Minh ảo Hủ Cốt Hộ Uyển" Genre="6"
           DetailType="1" ParticularType="302" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3776,7 +3776,7 @@
           Name="Đồ phổ Hoàng Kim - Minh Hoan Song Hoàn Xà Khấu" Genre="6"
           DetailType="1" ParticularType="303" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3785,7 +3785,7 @@
           Name="Đồ phổ Hoàng Kim - Chú Phược Phá Giáp Đầu Hoàn" Genre="6"
           DetailType="1" ParticularType="304" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3794,7 +3794,7 @@
           Name="Đồ phổ Hoàng Kim - Chú Phược Diệt Lôi Cảnh Phù " Genre="6"
           DetailType="1" ParticularType="305" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3803,7 +3803,7 @@
           Name="Đồ phổ Hoàng Kim - Chú Phược U ảo Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="306" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3812,7 +3812,7 @@
           Name="Đồ phổ Hoàng Kim - Chú Phược Xuyên Tâm Độc Uyển" Genre="6"
           DetailType="1" ParticularType="307" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3821,7 +3821,7 @@
           Name="Đồ phổ Hoàng Kim - Chú Phọc Thực Cốt Ngọc Bội" Genre="6"
           DetailType="1" ParticularType="308" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3830,7 +3830,7 @@
           Name="Đồ phổ Hoàng Kim - Băng Hàn Đơn Chỉ Phi Đao" Genre="6"
           DetailType="1" ParticularType="309" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3839,7 +3839,7 @@
           Name="Đồ phổ Hoàng Kim - Băng Hàn Huyền Y Thúc Giáp" Genre="6"
           DetailType="1" ParticularType="310" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3848,7 +3848,7 @@
           Name="Đồ phổ Hoàng Kim - Băng Hàn Tâm Tiễn Yêu Khấu" Genre="6"
           DetailType="1" ParticularType="311" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3857,7 +3857,7 @@
           Name="Đồ phổ Hoàng Kim - Băng Hàn Huyền Thiên Băng Hỏa Bội" Genre="6"
           DetailType="1" ParticularType="312" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3866,7 +3866,7 @@
           Name="Đồ phổ Hoàng Kim - Băng Hàn Nguyệt ảnh Ngoa" Genre="6"
           DetailType="1" ParticularType="313" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3875,7 +3875,7 @@
           Name="Đồ phổ Hoàng Kim - Thiên Quang Hoa Vũ Mạn Thiên" Genre="6"
           DetailType="1" ParticularType="314" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3884,7 +3884,7 @@
           Name="Đồ phổ Hoàng Kim - Thiên Quang Định Tâm Ngưng Thần phù "
           Genre="6" DetailType="1" ParticularType="315" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3893,7 +3893,7 @@
           Name="Đồ phổ Hoàng Kim - Thiên Quang Sâm La Thúc Yêu" Genre="6"
           DetailType="1" ParticularType="316" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3902,7 +3902,7 @@
           Name="Đồ phổ Hoàng Kim - Thiên Quang Địa Hành Thiên Lý Ngoa" Genre="6"
           DetailType="1" ParticularType="317" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3911,7 +3911,7 @@
           Name="Đồ phổ Hoàng Kim - Thiên Quang Thúc Thiên Phược Địa Hoàn"
           Genre="6" DetailType="1" ParticularType="318" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3920,7 +3920,7 @@
           Name="Đồ phổ Hoàng Kim - Sâm Hoang Phi Tinh Đoạt Hồn" Genre="6"
           DetailType="1" ParticularType="319" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3929,7 +3929,7 @@
           Name="Đồ phổ Hoàng Kim - Sâm Hoang Kim Tiền Liên Hoàn Giáp" Genre="6"
           DetailType="1" ParticularType="320" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3938,7 +3938,7 @@
           Name="Đồ phổ Hoàng Kim - Sâm Hoang Hồn Giảo Yêu Thúc" Genre="6"
           DetailType="1" ParticularType="321" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3947,7 +3947,7 @@
           Name="Đồ phổ Hoàng Kim - Sâm Hoang Huyền Thiết Tương Ngọc Bội"
           Genre="6" DetailType="1" ParticularType="322" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3956,7 +3956,7 @@
           Name="Đồ phổ Hoàng Kim - Sâm Hoang Tinh Vẫn Phi Lý " Genre="6"
           DetailType="1" ParticularType="323" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3965,7 +3965,7 @@
           Name="Đồ phổ Hoàng Kim - Địa Phách Ngũ Hành Liên Hoàn Quán" Genre="6"
           DetailType="1" ParticularType="324" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3974,7 +3974,7 @@
           Name="Đồ phổ Hoàng Kim - Địa Phách Hắc Diệm Xung Thiên Liên" Genre="6"
           DetailType="1" ParticularType="325" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3983,7 +3983,7 @@
           Name="Đồ phổ Hoàng Kim - Địa Phách Tích Lịch Lôi Hỏa Giới" Genre="6"
           DetailType="1" ParticularType="326" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -3992,7 +3992,7 @@
           Name="Đồ phổ Hoàng Kim - Địa Phách Khấu Tâm Trạc" Genre="6"
           DetailType="1" ParticularType="327" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4001,7 +4001,7 @@
           Name="Đồ phổ Hoàng Kim - Địa Phách Phong Hàn Thúc Yêu" Genre="6"
           DetailType="1" ParticularType="328" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4010,7 +4010,7 @@
           Name="Đồ phổ Hoàng Kim - Đồng Cừu Ngự Long Ngọc Bội" Genre="6"
           DetailType="1" ParticularType="329" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4019,7 +4019,7 @@
           Name="Đồ phổ Hoàng Kim - Đồng Cừu Giáng Long Cái Y" Genre="6"
           DetailType="1" ParticularType="330" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4028,7 +4028,7 @@
           Name="Đồ phổ Hoàng Kim - Đồng Cừu Tiềm Long Yêu Đái" Genre="6"
           DetailType="1" ParticularType="331" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4037,7 +4037,7 @@
           Name="Đồ phổ Hoàng Kim - Đồng Cừu Kháng Long Hộ Uyển" Genre="6"
           DetailType="1" ParticularType="332" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4046,7 +4046,7 @@
           Name="Đồ phổ Hoàng Kim - Đồng Cừu Kiến Long Ban Chỉ " Genre="6"
           DetailType="1" ParticularType="333" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4055,7 +4055,7 @@
           Name="Đồ phổ Hoàng Kim - Địch Khái Lục Ngọc Trượng" Genre="6"
           DetailType="1" ParticularType="334" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4064,7 +4064,7 @@
           Name="Đồ phổ Hoàng Kim - Địch Khái Cửu Đại Cái Y" Genre="6"
           DetailType="1" ParticularType="335" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4073,7 +4073,7 @@
           Name="Đồ phổ Hoàng Kim - Địch Khái Triền Mãng Yêu Đái" Genre="6"
           DetailType="1" ParticularType="336" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4082,7 +4082,7 @@
           Name="Đồ phổ Hoàng Kim - Địch Khái Cẩu Tích Bì Hộ Uyển" Genre="6"
           DetailType="1" ParticularType="337" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4091,7 +4091,7 @@
           Name="Đồ phổ Hoàng Kim - Địch Khái Thảo Gian Thạch Giới" Genre="6"
           DetailType="1" ParticularType="338" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4100,7 +4100,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Sát Quỷ Cốc U Minh Thương" Genre="6"
           DetailType="1" ParticularType="339" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4109,7 +4109,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Sát Tàn Dương ánh Huyết Giáp" Genre="6"
           DetailType="1" ParticularType="340" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4118,7 +4118,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Sát Xích Ký Tỏa Yêu Khấu" Genre="6"
           DetailType="1" ParticularType="341" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4127,7 +4127,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Sát Cử Hỏa Liêu Thiên Hoàn" Genre="6"
           DetailType="1" ParticularType="342" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4136,7 +4136,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Sát Vân Long Thổ Châu Giới" Genre="6"
           DetailType="1" ParticularType="343" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4145,7 +4145,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Thị Liệt Diệm Quán Miện" Genre="6"
           DetailType="1" ParticularType="344" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4154,7 +4154,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Thị Lệ Ma Phệ Tâm Đái" Genre="6"
           DetailType="1" ParticularType="345" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4163,7 +4163,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Thị Nghiệp Hỏa U Minh Giới" Genre="6"
           DetailType="1" ParticularType="346" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4172,7 +4172,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Thị Huyết Ngọc Thất Sát Bội" Genre="6"
           DetailType="1" ParticularType="347" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4181,7 +4181,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Thị sơn  Hải Phi Hồng Lý " Genre="6"
           DetailType="1" ParticularType="348" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4190,7 +4190,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Hoàng Kim Giáp Khôi" Genre="6"
           DetailType="1" ParticularType="349" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4199,7 +4199,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Hoàng án Xuất Hổ Hạng Khuyên" Genre="6"
           DetailType="1" ParticularType="350" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4208,7 +4208,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Hoàng Khê Cốc Thúc Yêu Đái" Genre="6"
           DetailType="1" ParticularType="351" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4217,7 +4217,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Hoàng Huyết Y Thú Trạc" Genre="6"
           DetailType="1" ParticularType="352" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4226,7 +4226,7 @@
           Name="Đồ phổ Hoàng Kim - Ma Hoàng Dung Kim Đoạn Nhật Giới" Genre="6"
           DetailType="1" ParticularType="353" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4235,7 +4235,7 @@
           Name="Đồ phổ hoàng kim - Lăng Nhạc Thái Cực Kiếm" Genre="6"
           DetailType="1" ParticularType="354" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4244,7 +4244,7 @@
           Name="Đồ phổ Hoàng Kim - Lăng Nhạc Vô Ngã Thúc Đái" Genre="6"
           DetailType="1" ParticularType="355" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4253,7 +4253,7 @@
           Name="Đồ phổ hoàng kim - Lăng Nhạc Nộ Lôi Pháp Giới" Genre="6"
           DetailType="1" ParticularType="356" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4262,7 +4262,7 @@
           Name="Đồ phổ Hoàng Kim - Lăng Nhạc Vô Cực Huyền Ngọc Bội" Genre="6"
           DetailType="1" ParticularType="357" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4271,7 +4271,7 @@
           Name="Đồ phổ Hoàng Kim - Lăng Nhạc Thiên Địa Huyền Hoàng giới"
           Genre="6" DetailType="1" ParticularType="358" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4280,7 +4280,7 @@
           Name="Đồ phổ Hoàng Kim - Cập Phong Chân Vũ Kiếm" Genre="6"
           DetailType="1" ParticularType="359" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4289,7 +4289,7 @@
           Name="Đồ phổ Hoàng Kim - Cập Phong Tam Thanh Phù " Genre="6"
           DetailType="1" ParticularType="360" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4298,7 +4298,7 @@
           Name="Đồ phổ Hoàng Kim - Cập Phong Huyền Ti Tam Đoạn Cẩm" Genre="6"
           DetailType="1" ParticularType="361" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4307,7 +4307,7 @@
           Name="Đồ phổ Hoàng Kim - Cập Phong Thúy NGọc Huyền Hoàng Uyển"
           Genre="6" DetailType="1" ParticularType="362" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4316,7 +4316,7 @@
           Name="Đồ phổ Hoàng Kim - Cập Phong Thanh Tùng Pháp Giới" Genre="6"
           DetailType="1" ParticularType="363" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4325,7 +4325,7 @@
           Name="Đồ phổ Hoàng Kim - Sương Tinh Thiên Niên Hàn Thiết" Genre="6"
           DetailType="1" ParticularType="364" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4334,7 +4334,7 @@
           Name="Đồ phổ Hoàng Kim - Sương Tinh Lưu Tinh Cản Nguyệt Khấu" Genre="6"
           DetailType="1" ParticularType="365" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4343,7 +4343,7 @@
           Name="Đồ phổ Hoàng Kim - Sương Tinh Thanh Phong Lũ Đái" Genre="6"
           DetailType="1" ParticularType="366" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4352,7 +4352,7 @@
           Name="Đồ phổ Hoàng Kim - Sương Tinh Thiên Thanh Băng Tinh Thủ "
           Genre="6" DetailType="1" ParticularType="367" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4361,7 +4361,7 @@
           Name="Đồ phổ Hoàng Kim - Sương Tinh Phong Bạo Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="368" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4370,7 +4370,7 @@
           Name="Đồ phổ Hoàng Kim - Lôi Khung Hàn Tùng Băng Bách Quan" Genre="6"
           DetailType="1" ParticularType="369" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4379,7 +4379,7 @@
           Name="Đồ phổ Hoàng Kim - Lôi Khung Thiên Địa Hộ Phù " Genre="6"
           DetailType="1" ParticularType="370" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4388,7 +4388,7 @@
           Name="Đồ phổ Hoàng Kim - Lôi Khung Phong Lôi Thanh Cẩm Đái" Genre="6"
           DetailType="1" ParticularType="371" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4397,7 +4397,7 @@
           Name="Đồ phổ Hoàng Kim - Lôi Khung Linh Ngọc Ôn Lôi" Genre="6"
           DetailType="1" ParticularType="372" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4406,7 +4406,7 @@
           Name="Đồ phổ Hoàng Kim - Lôi Khung Cửu Thiên Dẫn Lôi Giới" Genre="6"
           DetailType="1" ParticularType="373" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4415,7 +4415,7 @@
           Name="Đồ phổ Hoàng Kim - Vụ ảo Bắc Minh Đạo Quán" Genre="6"
           DetailType="1" ParticularType="374" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4424,7 +4424,7 @@
           Name="Đồ phổ Hoàng Kim - Vụ Hoan Thái Uyên chân Vũ Liên" Genre="6"
           DetailType="1" ParticularType="375" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4433,7 +4433,7 @@
           Name="Đồ phổ Hoàng Kim - Vụ ảo Thúc Tâm Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="376" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4442,7 +4442,7 @@
           Name="Đồ phổ Hoàng Kim - Vụ ảo Thanh ảnh Huyền Ngọc Bội" Genre="6"
           DetailType="1" ParticularType="377" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4451,7 +4451,7 @@
           Name="Đồ phổ Hoàng Kim - Vụ ảo Tung Phong Tuyết ảnh ngoa" Genre="6"
           DetailType="1" ParticularType="378" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4460,7 +4460,7 @@
           Name="Đồ phổ Hoàng Kim - động Sát Bạch Kim Điêu Long Giới" Genre="6"
           DetailType="1" ParticularType="379" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4469,7 +4469,7 @@
           Name="Đồ phổ Hoàng Kim - động Sát Bạch Ngọc Càn Khôn Bội" Genre="6"
           DetailType="1" ParticularType="380" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4478,7 +4478,7 @@
           Name="Đồ phổ Hoàng Kim - động Sát Bạch Kim Tú Phụng Giới" Genre="6"
           DetailType="1" ParticularType="381" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4487,7 +4487,7 @@
           Name="Đồ phổ Hoàng Kim - động Sát Phỉ Thúy Ngọc Hạng Khuyên" Genre="6"
           DetailType="1" ParticularType="382" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4496,7 +4496,7 @@
           Name="Đồ phổ Hoàng Kim - Định Quốc Thanh Sa Trường Sam" Genre="6"
           DetailType="1" ParticularType="383" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4505,7 +4505,7 @@
           Name="Đồ phổ Hoàng Kim - Định Quốc Ô Sa Phát Quán" Genre="6"
           DetailType="1" ParticularType="384" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4514,7 +4514,7 @@
           Name="Đồ phổ Hoàng Kim - Định Quốc Xích Quyên Nhuyễn Ngoa" Genre="6"
           DetailType="1" ParticularType="385" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4523,7 +4523,7 @@
           Name="Đồ phổ Hoàng Kim - Định Quốc Tử Đằng Hộ uyển" Genre="6"
           DetailType="1" ParticularType="386" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4532,7 +4532,7 @@
           Name="Đồ phổ Hoàng Kim - Định Quốc Ngân Tàm Yêu đái" Genre="6"
           DetailType="1" ParticularType="387" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4541,7 +4541,7 @@
           Name="Đồ phổ Hoàng Kim - An Bang Băng Tinh Thạch Hạng Liên" Genre="6"
           DetailType="1" ParticularType="388" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4550,7 +4550,7 @@
           Name="Đồ phổ Hoàng Kim - An Bang Cúc Hoa Thạch Chỉ hoàn" Genre="6"
           DetailType="1" ParticularType="389" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4559,7 +4559,7 @@
           Name="Đồ phổ Hoàng Kim - An Bang Điền Hoàng Thạch Ngọc Bội" Genre="6"
           DetailType="1" ParticularType="390" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4568,7 +4568,7 @@
           Name="Đồ phổ Hoàng Kim - An Bang Kê Huyết Thạch Giới Chỉ " Genre="6"
           DetailType="1" ParticularType="391" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38" Descript="Đồ phổ Hoàng Kim"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -13775,7 +13775,7 @@
           DetailType="1" ParticularType="1403" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38"
           Descript="Tại Liễu ất chế tạo được Hiện Cốt Thiết Huyết Sam.&lt;enter&gt;&lt;color=yellow&gt;Vật liệu yêu cầu: &lt;enter&gt;1 mảnh Bổ Thiên Thạch (trung)&lt;enter&gt;3 mảnh Bổ Thiên Thạch (tiểu)"
-          Series="-1" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="3000000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -13785,7 +13785,7 @@
           DetailType="1" ParticularType="1404" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38"
           Descript="Tại Liễu ất chế tạo được Hiện Cốt Đa Tình Hoàn.&lt;enter&gt;&lt;color=yellow&gt;Vật liệu yêu cầu: &lt;enter&gt;3 mảnh Bổ Thiên Thạch (tiểu)"
-          Series="-1" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="3000000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -13795,7 +13795,7 @@
           DetailType="1" ParticularType="1405" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38"
           Descript="Tại Liễu ất chế tạo được Hiện Cốt Đan Tâm Giới.&lt;enter&gt;&lt;color=yellow&gt;Vật liệu yêu cầu: &lt;enter&gt;3 mảnh Bổ Thiên Thạch (tiểu)"
-          Series="-1" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="3000000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -13805,7 +13805,7 @@
           ParticularType="1406" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Tại Liễu ất chế tạo được Hiện Cốt Tình ý Kết.&lt;enter&gt;&lt;color=yellow&gt;Vật liệu yêu cầu: &lt;enter&gt;3 mảnh Bổ Thiên Thạch (trung)&lt;enter&gt;3 mảnh Bổ Thiên Thạch (tiểu)"
-          Series="-1" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="3000000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -13815,7 +13815,7 @@
           DetailType="1" ParticularType="1407" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38"
           Descript="Tại Liễu ất chế tạo được Nhu Tình Cân Quốc Nghê Thường.&lt;enter&gt;&lt;color=yellow&gt;Vật liệu yêu cầu: &lt;enter&gt;1 mảnh Bổ Thiên Thạch (đại)&lt;enter&gt;1 mảnh Bổ Thiên Thạch (trung)&lt;enter&gt;1 mảnh Bổ Thiên Thạch (tiểu)"
-          Series="-1" Price="5000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="5000000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -13825,7 +13825,7 @@
           DetailType="1" ParticularType="1408" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38"
           Descript="Tại Liễu ất chế tạo được Nhu Tình Thục Nữ Hạng Liên.&lt;enter&gt;&lt;color=yellow&gt;Vật liệu yêu cầu: &lt;enter&gt;3 mảnh Bổ Thiên Thạch (tiểu)"
-          Series="-1" Price="5000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="5000000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -13835,7 +13835,7 @@
           DetailType="1" ParticularType="1409" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38"
           Descript="Tại Liễu ất chế tạo được Nhu Tình Phụng Nghi Giới Chỉ.&lt;enter&gt;&lt;color=yellow&gt;Vật liệu yêu cầu: &lt;enter&gt;3 mảnh Bổ Thiên Thạch (tiểu)"
-          Series="-1" Price="5000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="5000000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -13845,7 +13845,7 @@
           DetailType="1" ParticularType="1410" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="38"
           Descript="Tại Liễu ất chế tạo được Nhu Tình Tuệ Tâm Ngọc Bội.&lt;enter&gt;&lt;color=yellow&gt;Vật liệu yêu cầu: &lt;enter&gt;1 mảnh Bổ Thiên Thạch (trung)&lt;enter&gt;3 mảnh Bổ Thiên Thạch (tiểu)"
-          Series="-1" Price="5000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="5000000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -16264,7 +16264,7 @@
           Name="Tín vật môn phái" Genre="6" DetailType="1" ParticularType="1670"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuehun"
           ObjDrop="41" Descript="Vật phẩm cần thiết để chuyển môn phái" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -16275,7 +16275,7 @@
           ParticularType="1671" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="xuehunling" ObjDrop="41"
           Descript="Vật phẩm cần thiết để nhân vật nữ gia nhập Thiên Vương Bang" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -16294,7 +16294,7 @@
           Name="Thất tinh thảo" Genre="6" DetailType="1" ParticularType="1673"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="qixingcao"
           ObjDrop="41" Descript="Loại dị dược quý hiếm dùng để luyện Bạch Chân Đơn" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -16304,7 +16304,7 @@
           ParticularType="1674" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="bainianqixingcao" ObjDrop="41"
           Descript="Loại dị dược quý hiếm trăm năm để luyện Huyết Chân Đơn" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -16314,7 +16314,7 @@
           ParticularType="1675" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="qiannianqixingcao" ObjDrop="41"
           Descript="Loại dị dược quý hiếm ngàn năm dùng để luyện Huyền Chân Đơn" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19468,7 +19468,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_71"
           ObjDrop="41"
           Descript="Nhấn sử dụng, ngươi sẽ nhận được 1 Vạn (10.000) Kim Nguyên Bảo.&lt;enter&gt;&lt;color=red&gt; Lưu ý: Khi mua Kim Ngân trên Kỳ Trân Các sẽ không được tính vào tích lũy tiêu. Không áp dụng Phiếu Giảm Giá&lt;color&gt;&quot;"
-          Series="-1" Price="0" Level="0" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200105" FightPower="10000">
           <UnLockInterval>0</UnLockInterval>
@@ -25393,7 +25393,7 @@
           Name="Thanh Câu Thạch" Genre="6" DetailType="1" ParticularType="2710"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="qingjushi"
           ObjDrop="41" Descript="Một loại Bảo Thạch dùng để chế tạo trang bị" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25402,7 +25402,7 @@
           Name="Vân Lộc Thạch" Genre="6" DetailType="1" ParticularType="2711"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yunlushi"
           ObjDrop="41" Descript="Một loại Bảo Thạch dùng để chế tạo trang bị" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25411,7 +25411,7 @@
           Name="Thương Lang Thạch" Genre="6" DetailType="1"
           ParticularType="2712" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="canglangshi" ObjDrop="41" Descript="Một loại Bảo Thạch dùng để chế tạo trang bị"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25420,7 +25420,7 @@
           Name="Huyền Viên Thạch" Genre="6" DetailType="1" ParticularType="2713"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="xuanyuanshi"
           ObjDrop="41" Descript="Một loại Bảo Thạch dùng để chế tạo trang bị" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25430,7 +25430,7 @@
           ParticularType="2714" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25439,7 +25439,7 @@
           Name="Đồ Phổ Tử Mãng Y" Genre="6" DetailType="1" ParticularType="2715"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yingxiongtie"
           ObjDrop="41" Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25449,7 +25449,7 @@
           ParticularType="2716" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25459,7 +25459,7 @@
           ParticularType="2717" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25469,7 +25469,7 @@
           ParticularType="2718" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25479,7 +25479,7 @@
           ParticularType="2719" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25489,7 +25489,7 @@
           ParticularType="2720" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25499,7 +25499,7 @@
           ParticularType="2721" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25509,7 +25509,7 @@
           ParticularType="2722" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25519,7 +25519,7 @@
           ParticularType="2723" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25528,7 +25528,7 @@
           Name="Bảo Rương Tử Mãng Khôi" Genre="6" DetailType="1"
           ParticularType="2724" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25537,7 +25537,7 @@
           Name="Trang Bị Tử Mãng Y" Genre="6" DetailType="1"
           ParticularType="2725" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25546,7 +25546,7 @@
           Name="Bảo Rương Tử Mãng Hài" Genre="6" DetailType="1"
           ParticularType="2726" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25555,7 +25555,7 @@
           Name="Bảo Rương Tử Mãng Yêu Đái" Genre="6" DetailType="1"
           ParticularType="2727" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25564,7 +25564,7 @@
           Name="Bảo Rương Tử Mãng Hộ Uyển" Genre="6" DetailType="1"
           ParticularType="2728" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25573,7 +25573,7 @@
           Name="Bảo Rương Tử Mãng Hạng Liên" Genre="6" DetailType="1"
           ParticularType="2729" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25582,7 +25582,7 @@
           Name="Bảo Rương Tử Mãng Bội" Genre="6" DetailType="1"
           ParticularType="2730" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25591,7 +25591,7 @@
           Name="Bảo Rương Trang Bị Tử Mãng Thượng Giới Chỉ" Genre="6"
           DetailType="1" ParticularType="2731" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="item_zimangbaoxiang" ObjDrop="41"
-          Descript="Bảo Rương trang bị Tử Mãng" Series="-1" Price="0" Level="1" Stack="10"
+          Descript="Bảo Rương trang bị Tử Mãng" Series="-1" Price="0" Level="1" Stack="999"
           ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
           MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25600,7 +25600,7 @@
           Name="Trang Bị Tử Mãng Hạ Giới Chỉ" Genre="6" DetailType="1"
           ParticularType="2732" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25609,7 +25609,7 @@
           Name="Bảo Rương Tử Mãng Khí Giới" Genre="6" DetailType="1"
           ParticularType="2733" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangbaoxiang" ObjDrop="41" Descript="Bảo Rương trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25618,7 +25618,7 @@
           Name="Tử Mãng Giám Định Phù" Genre="6" DetailType="1"
           ParticularType="2734" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangjiandingfu" ObjDrop="41" Descript="Dùng để giám định trang bị Tử Mãng"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -25628,7 +25628,7 @@
           ParticularType="2735" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="item_zimangguiyuanfu" ObjDrop="41"
           Descript="Dùng để đổi Bảo Rương trang bị Tử Mãng" Series="-1" Price="0" Level="1"
-          Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
           MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
@@ -26647,7 +26647,7 @@
   <ItemData ItemID="11278" Name="Thần Bí Bảo Rương" Genre="6" DetailType="1"
      ParticularType="30104" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
      Image="suijilingpaihe_yin" ObjDrop="372" Descript="Rương Thần Bí mở ra ngươi sẽ nhận được ngẫu nhiên các vật phẩm có giá trị..."
-     Series="-1" Price="500000" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Series="-1" Price="500000" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
      Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
      ScriptID="200060" FightPower="11278">
        <UnLockInterval>0</UnLockInterval>
@@ -26805,7 +26805,7 @@
   <ItemData ItemID="11297" Name="Ngân Bảo Rương" Genre="6" DetailType="1"
      ParticularType="30123" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
      Image="baoxiang_yin" ObjDrop="367" Descript="Sử dụng sẽ nhận được trang bị Tử Mãng" Series="-1"
-     Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
      SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
      FightPower="-1 ">
        <UnLockInterval>0</UnLockInterval>
@@ -26814,14 +26814,14 @@
      ItemID="11298" Name="Kim Bảo Rương" Genre="6" DetailType="1" ParticularType="30124"
      IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="baoxiang_jin"
      ObjDrop="367" Descript="Sử dụng sẽ nhận được trang bị Tử Mãng" Series="-1" Price="0" Level="1"
-     Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
   <ItemData ItemID="11299" Name="Tử Mãng Bảo
      Châu" Genre="6" DetailType="1" ParticularType="30125" IconBundleDir= "Icon/ItemIcon_1.unity3d"
      IconAtlasName="ItemIcon_1" Image="xuelingzhuhun" ObjDrop="41" Descript="Sử dụng sẽ nhận được 1
-     bộ trang bị Tử Mãng" Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1"
+     bộ trang bị Tử Mãng" Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1"
      SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
      DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
        <UnLockInterval>0</UnLockInterval>
@@ -26999,7 +26999,7 @@
   <ItemData ItemID="11321" Name="Tử Mãng Chi Bảo" Genre="6" DetailType="1"
      ParticularType="30147" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
      Image="ItemIconNew_89" ObjDrop="41" Descript="Bảo rương chứa bên trong 1 trang bị Tử Mãng"
-     Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
      Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
      ScriptID="-1" FightPower="-1 ">
        <UnLockInterval>0</UnLockInterval>
@@ -29857,7 +29857,7 @@
           ParticularType="30484" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29867,7 +29867,7 @@
           ParticularType="30485" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29877,7 +29877,7 @@
           ParticularType="30486" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29887,7 +29887,7 @@
           ParticularType="30487" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29897,7 +29897,7 @@
           ParticularType="30488" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29907,7 +29907,7 @@
           ParticularType="30489" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29917,7 +29917,7 @@
           ParticularType="30490" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29927,7 +29927,7 @@
           ParticularType="30491" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29937,7 +29937,7 @@
           ParticularType="30492" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -29947,7 +29947,7 @@
           ParticularType="30493" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Minh Phượng, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -31075,7 +31075,7 @@
           Name="Tử Mãng Kim Bài" Genre="6" DetailType="1" ParticularType="2765"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="mingsuling"
           ObjDrop="385" Descript="Nguyên liệu cần thiết để chế tạo trang bị Tử Mãng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -32922,7 +32922,7 @@
           ParticularType="2982" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -32932,7 +32932,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yingxiongtie"
           ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -32942,7 +32942,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yingxiongtie"
           ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -32952,7 +32952,7 @@
           ParticularType="2985" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -32962,7 +32962,7 @@
           ParticularType="2986" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -32972,7 +32972,7 @@
           ParticularType="2987" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -32982,7 +32982,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yingxiongtie"
           ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -32992,7 +32992,7 @@
           ParticularType="2989" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33002,7 +33002,7 @@
           ParticularType="2990" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33012,7 +33012,7 @@
           ParticularType="2991" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="&quot;Nguyên liệu cần thiết để hợp thành trang bị Kim Ô, và tăng thêm 10% tỉ lệ thành công tương ứng&quot;"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33095,7 +33095,7 @@
           Name="Tử Mãng Thạch" Genre="6" DetailType="1" ParticularType="3000"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="ItemIconNew_46"
           ObjDrop="41" Descript="Một loại Bảo Thạch dùng để chế tạo trang bị" Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33272,7 +33272,7 @@
           Name="Đồ phổ Hoàng Kim-Thương Huyền Phi Thiên Kiếm" Genre="6"
           DetailType="1" ParticularType="3019" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim."
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33281,7 +33281,7 @@
           Name="Đồ phổ Hoàng Kim-hương Huyền Thanh Phong Y" Genre="6"
           DetailType="1" ParticularType="3020" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim."
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33290,7 +33290,7 @@
           Name="Đồ phổ Hoàng Kim-Thương Huyền Phất Vân Yêu Đái" Genre="6"
           DetailType="1" ParticularType="3021" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim."
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33299,7 +33299,7 @@
           Name="Đồ phổ Hoàng Kim-Thương Huyền Mộng Cầm Uyển" Genre="6"
           DetailType="1" ParticularType="3022" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim."
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33308,7 +33308,7 @@
           Name="Đồ phổ Hoàng Kim-Thương Huyền Mộng Cầm Uyển" Genre="6"
           DetailType="1" ParticularType="3023" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim."
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33317,7 +33317,7 @@
           Name="Đồ phổ Hoàng Kim-Bích Hoa hồng vũ quán" Genre="6" DetailType="1"
           ParticularType="3024" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim." Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33326,7 +33326,7 @@
           Name="Đồ phổ Hoàng Kim-Bích Hoa Băng Thanh Y" Genre="6" DetailType="1"
           ParticularType="3025" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim." Series="-1" Price="0"
-          Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33335,7 +33335,7 @@
           Name="Đồ phổ Hoàng Kim-Bích Hoa Thiên Tinh Chỉ Hoàn" Genre="6"
           DetailType="1" ParticularType="3026" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim."
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33344,7 +33344,7 @@
           Name="Đồ phổ Hoàng Kim-Bích Hoa Bạch Ngọc Bội" Genre="6"
           DetailType="1" ParticularType="3027" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim."
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -33353,7 +33353,7 @@
           Name="Đồ phổ Hoàng Kim-Bích Hoa Xuyên Vân Hài" Genre="6"
           DetailType="1" ParticularType="3028" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="yingxiongtie" ObjDrop="41" Descript="Đồ phổ Hoàng Kim."
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37466,7 +37466,7 @@
           ParticularType="3495" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37476,7 +37476,7 @@
           ParticularType="3496" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37486,7 +37486,7 @@
           ParticularType="3497" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37496,7 +37496,7 @@
           ParticularType="3498" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37506,7 +37506,7 @@
           ParticularType="3499" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37516,7 +37516,7 @@
           ParticularType="3500" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37526,7 +37526,7 @@
           ParticularType="3501" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37536,7 +37536,7 @@
           ParticularType="3502" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37546,7 +37546,7 @@
           ParticularType="3503" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -37556,7 +37556,7 @@
           ParticularType="3504" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="41"
           Descript="Nguyên liệu hợp thành Bảo Rương Trang Bị Xích Lân tương ứng" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44778,7 +44778,7 @@
           ParticularType="4389" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44788,7 +44788,7 @@
           ParticularType="4390" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44798,7 +44798,7 @@
           ParticularType="4391" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44808,7 +44808,7 @@
           ParticularType="4392" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44818,7 +44818,7 @@
           ParticularType="4393" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44828,7 +44828,7 @@
           ParticularType="4394" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44838,7 +44838,7 @@
           ParticularType="4395" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44848,7 +44848,7 @@
           ParticularType="4396" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44858,7 +44858,7 @@
           ParticularType="4397" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44868,7 +44868,7 @@
           ParticularType="4398" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Xích Lân"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44878,7 +44878,7 @@
           ParticularType="4399" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44888,7 +44888,7 @@
           ParticularType="4400" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44898,7 +44898,7 @@
           ParticularType="4401" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44908,7 +44908,7 @@
           ParticularType="4402" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44918,7 +44918,7 @@
           ParticularType="4403" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44928,7 +44928,7 @@
           ParticularType="4404" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44938,7 +44938,7 @@
           ParticularType="4405" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44948,7 +44948,7 @@
           ParticularType="4406" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44958,7 +44958,7 @@
           ParticularType="4407" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44968,7 +44968,7 @@
           ParticularType="4408" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="yingxiongtie" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44978,7 +44978,7 @@
           ParticularType="4409" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44988,7 +44988,7 @@
           ParticularType="4410" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -44998,7 +44998,7 @@
           ParticularType="4411" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45008,7 +45008,7 @@
           ParticularType="4412" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45018,7 +45018,7 @@
           ParticularType="4413" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45028,7 +45028,7 @@
           ParticularType="4414" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45038,7 +45038,7 @@
           ParticularType="4415" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45048,7 +45048,7 @@
           ParticularType="4416" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45058,7 +45058,7 @@
           ParticularType="4417" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45068,7 +45068,7 @@
           ParticularType="4418" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="387"
           Descript="Nguyên Liệu Cần Thiết Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Đằng Long "
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45078,7 +45078,7 @@
           ParticularType="4419" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45088,7 +45088,7 @@
           ParticularType="4420" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45098,7 +45098,7 @@
           ParticularType="4421" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45108,7 +45108,7 @@
           ParticularType="4422" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45118,7 +45118,7 @@
           ParticularType="4423" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45128,7 +45128,7 @@
           ParticularType="4424" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45138,7 +45138,7 @@
           ParticularType="4425" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45148,7 +45148,7 @@
           ParticularType="4426" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45158,7 +45158,7 @@
           ParticularType="4427" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45168,7 +45168,7 @@
           ParticularType="4428" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophotinhsuong" ObjDrop="38"
           Descript="Nguyên Liệu Cần Thiết  Có Thể Đem Đến Thợ Rèn Thần Bí Để Hợp Thành 1 Món Trong Bộ Tinh Sương"
-          Series="-1" Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45178,7 +45178,7 @@
           ParticularType="4429" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45188,7 +45188,7 @@
           ParticularType="4430" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45198,7 +45198,7 @@
           ParticularType="4431" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45208,7 +45208,7 @@
           ParticularType="4432" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45218,7 +45218,7 @@
           ParticularType="4433" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45228,7 +45228,7 @@
           ParticularType="4434" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45238,7 +45238,7 @@
           ParticularType="4435" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45248,7 +45248,7 @@
           ParticularType="4436" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45258,7 +45258,7 @@
           ParticularType="4437" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -45268,7 +45268,7 @@
           ParticularType="4438" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="dophodanglong" ObjDrop="41"
           Descript="Nguyên  Liệu Cần Thiết Để Hợp Thành Trang Bị Nguyệt Khuyết" Series="-1"
-          Price="0" Level="1" Stack="10" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>

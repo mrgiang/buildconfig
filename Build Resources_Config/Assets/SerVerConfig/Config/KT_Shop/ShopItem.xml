@@ -11316,11 +11316,11 @@
   <ShopItem ID="7023" ItemID="20754" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="8" Expiry="43210" TongFund="-1" GoodsIndex="506" GoodsPrice="15750"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="7024" ItemID="20764" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+  <ShopItem ID="7024" ItemID="1150001" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="9" Expiry="43210" TongFund="-1" GoodsIndex="506" GoodsPrice="40500"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="7025" ItemID="20765" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
-    OfficialLevel="-1" Honor="10" Expiry="43210" TongFund="-1" GoodsIndex="506" GoodsPrice="112500"
+  <ShopItem ID="7025" ItemID="1150002" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="10" Expiry="115000" TongFund="-1" GoodsIndex="506" GoodsPrice="112500"
     LimitType="-1" LimitValue="-1" />
 
   <ShopItem ID="7026" ItemID="000" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
