@@ -11688,7 +11688,7 @@
           ParticularType="1181" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="thienthaolo" ObjDrop="370"
           Descript="&quot;Tiên Thảo Lộ có hiệu quả đặc biệt, có tác dụng nhân đôi kinh nghiệm trong 8 giờ (sử dụng nhiều cái một lúc sẽ không có tác dụng).&quot;"
-          Series="-1" Price="5" Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="5" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200003" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19352,7 +19352,7 @@
           ParticularType="2027" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="kim_nguyen_bao_khoa" ObjDrop="41"
           Descript="Sau khi sử dụng sẽ nhận được 1 Vạn(10.000) Kim Nguyên Bảo Khóa" Series="-1"
-          Price="0" Level="0" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200031"
           FightPower="10000 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19371,7 +19371,7 @@
           ParticularType="2029" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="kim_nguyen_bao_khoa" ObjDrop="41"
           Descript="Sau khi sử dụng sẽ nhận được 100 Kim Nguyên Bảo Khóa" Series="-1" Price="0"
-          Level="0" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="-1" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200031" FightPower="100 ">
           <UnLockInterval>0</UnLockInterval>
@@ -19390,7 +19390,7 @@
           ParticularType="2031" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="kim_nguyen_bao_khoa" ObjDrop="41"
           Descript="Sau khi sử dụng sẽ nhận được 500 Kim Nguyên Bảo Khóa" Series="-1" Price="0"
-          Level="0" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="0" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="-1" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200031" FightPower="500 ">
           <UnLockInterval>0</UnLockInterval>
@@ -50874,4 +50874,16 @@
   <ItemData ItemID="493" Name="Tẩy Tủy Kinh (trung)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Tẩy Tủy Kinh (trung)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="192" Level="2" SuiteID="0" Icon="gaizaotu_huwan" View="gaizaotu_huwan" Intro="Hiếm thấy, biết qua &lt;color=gold&gt;Tẩy Tủy Kinh (sơ)&lt;color&gt; cũng dùng được, học xong được 1 điểm kỹ năng. &lt;color=gold&gt;Học tối đa 5 quyển&lt;color&gt;. &lt;color=gold&gt;Nhấn sử dụng để dùng.&lt;color&gt;" Help="" ObjID="33" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="1000000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <UnLockInterval>0</UnLockInterval>
   </ItemData>
+
+	<ItemData ItemID="110001"
+		Name="Đại Đại Bạch Bạch Câu Hoàn" Genre="6" DetailType="1" ParticularType="74"
+		IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="baijuwan_da"
+		ObjDrop="19"
+		Descript="Sử dụng thu được 8 tiếng ủy thác (tu luyện như treo máy )"
+		Series="-1" Price="5" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+		Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+		ScriptID="200004" FightPower="-1">
+		<UnLockInterval>0</UnLockInterval>
+	</ItemData>
+
 </ArrayOfItemData>
