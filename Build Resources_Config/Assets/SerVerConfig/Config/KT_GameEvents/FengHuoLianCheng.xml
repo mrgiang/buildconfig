@@ -133,7 +133,7 @@
 	</NPCs>
 	
 	<Teleports>
-		<Teleport Name="Dịch chuyển" PosX="4825" PosY="826" ToPosX="4638" ToPosY="3161" />
+		<Teleport Name="Dịch chuyển" PosX="4825" PosY="826" ToPos="4638_3161,5197_2789,5099_3426,4243_3392,4238_2872" />
 	</Teleports>
 	
 	<GroupPositions>
