@@ -231,4 +231,60 @@
 		<Sprite Name="00026" />
 		<Sprite Name="00028" />
 	</Title>
+	<Title ID="14" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/BaDao.unity3d" AtlasName="BaDao" AnimationSpeed="2">
+		<Sprite Name="00000" />
+		<Sprite Name="00002" />
+		<Sprite Name="00004" />
+		<Sprite Name="00006" />
+		<Sprite Name="00008" />
+		<Sprite Name="00010" />
+		<Sprite Name="00012" />
+		<Sprite Name="00014" />
+		<Sprite Name="00016" />
+		<Sprite Name="00018" />
+		<Sprite Name="00020" />
+		<Sprite Name="00022" />
+		<Sprite Name="00024" />
+		<Sprite Name="00026" />
+		<Sprite Name="00028" />
+	</Title>
+	<Title ID="15" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/TieuDao.unity3d" AtlasName="TieuDao" AnimationSpeed="2">
+		<Sprite Name="00000" />
+		<Sprite Name="00002" />
+		<Sprite Name="00004" />
+		<Sprite Name="00006" />
+		<Sprite Name="00008" />
+		<Sprite Name="00010" />
+		<Sprite Name="00012" />
+		<Sprite Name="00014" />
+		<Sprite Name="00016" />
+		<Sprite Name="00018" />
+		<Sprite Name="00020" />
+		<Sprite Name="00022" />
+		<Sprite Name="00024" />
+		<Sprite Name="00026" />
+		<Sprite Name="00028" />
+	</Title>
+		<Title ID="91" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/DNCV.unity3d" AtlasName="DNCV" AnimationSpeed="2">
+		<Sprite Name="DNCV_0" />
+		<Sprite Name="DNCV_1" />
+		<Sprite Name="DNCV_2" />
+		<Sprite Name="DNCV_3" />
+		<Sprite Name="DNCV_4" />
+		<Sprite Name="DNCV_5" />
+		<Sprite Name="DNCV_6" />
+		<Sprite Name="DNCV_7" />
+		<Sprite Name="DNCV_8" />
+		<Sprite Name="DNCV_9" />
+		<Sprite Name="DNCV_10" />
+		<Sprite Name="DNCV_11" />
+		<Sprite Name="DNCV_12" />
+		<Sprite Name="DNCV_13" />
+		<Sprite Name="DNCV_14" />
+		<Sprite Name="DNCV_15" />
+		<Sprite Name="DNCV_16" />
+		<Sprite Name="DNCV_17" />
+		<Sprite Name="DNCV_18" />
+		<Sprite Name="DNCV_19" />
+	</Title>
 </SpecialTitle>

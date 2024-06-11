@@ -10,21 +10,21 @@
 	<Title ID="0" Text="Pew Pew Pew Pew" Description="Danh hiệu Test" Duration="-1" />
 	<Title ID="1" Text="Tắt hiển thị" Description="Tắt hiển thị danh hiệu" Duration="1" />
 	
-	<Title ID="100" SpecialID="1" Text="Tân nhân vương - Thiếu Lâm" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiếu Lâm. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="101" SpecialID="2" Text="Tân nhân vương - Thiên Vương" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiên Vương. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="102" SpecialID="3" Text="Tân nhân vương - Cái Bang" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Cái Bang. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="103" SpecialID="4" Text="Tân nhân vương - Thiên Nhẫn" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiên Nhẫn. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="104" SpecialID="5" Text="Tân nhân vương - Nga My" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Nga My. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="105" SpecialID="6" Text="Tân nhân vương - Thúy Yên" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thúy Yên. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="106" SpecialID="7" Text="Tân nhân vương - Đoàn Thị" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Đại Lý Đoàn Thị. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="107" SpecialID="8" Text="Tân nhân vương - Võ Đang" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Võ Đang. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="108" SpecialID="9" Text="Tân nhân vương - Côn Lôn" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Côn Lôn. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="109" SpecialID="10" Text="Tân nhân vương - Ngũ Độc" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Ngũ Độc. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="110" SpecialID="11" Text="Tân nhân vương - Đường Môn" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Đường Môn. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="111" SpecialID="12" Text="Tân nhân vương - Minh Giáo" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Minh Giáo. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="112" SpecialID="13" Text="Tân nhân vương - Bá Đao" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Bá Đao. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
-	<Title ID="113" SpecialID="14" Text="Tân nhân vương - Tiêu Dao" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Tiêu Dao. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
+	<Title ID="100" SpecialID="1" Text="Tân nhân vương - Thiếu Lâm" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiếu Lâm. Có hiệu lực trong vòng 1 tuần." Duration="168"/>
+	<Title ID="101" SpecialID="2" Text="Tân nhân vương - Thiên Vương" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiên Vương. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="102" SpecialID="3" Text="Tân nhân vương - Cái Bang" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Cái Bang. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="103" SpecialID="4" Text="Tân nhân vương - Thiên Nhẫn" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiên Nhẫn. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="104" SpecialID="5" Text="Tân nhân vương - Nga My" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Nga My. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="105" SpecialID="6" Text="Tân nhân vương - Thúy Yên" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thúy Yên. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="106" SpecialID="7" Text="Tân nhân vương - Đoàn Thị" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Đại Lý Đoàn Thị. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="107" SpecialID="8" Text="Tân nhân vương - Võ Đang" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Võ Đang. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="108" SpecialID="9" Text="Tân nhân vương - Côn Lôn" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Côn Lôn. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="109" SpecialID="10" Text="Tân nhân vương - Ngũ Độc" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Ngũ Độc. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="110" SpecialID="11" Text="Tân nhân vương - Đường Môn" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Đường Môn. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="111" SpecialID="12" Text="Tân nhân vương - Minh Giáo" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Minh Giáo. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="112" SpecialID="13" Text="Tân nhân vương - Bá Đao" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Bá Đao. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	<Title ID="113" SpecialID="14" Text="Tân nhân vương - Tiêu Dao" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Tiêu Dao. Có hiệu lực trong vòng 1 tuần." Duration="168" />
 	
-	<Title ID="901" SpecialID="14" Text="Trưởng lão - Đường Môn" Description="Danh hiệu cao cấp của phái Đường Môn. Có hiệu lực vĩnh viễn." Duration="-1" DataID=""/>
+	<Title ID="901" SpecialID="91" Text="Trưởng lão - Đường Môn" Description="Danh hiệu cao cấp của phái Đường Môn. Có hiệu lực vĩnh viễn." Duration="-1" />
 
 </Titles>

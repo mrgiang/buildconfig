@@ -7,8 +7,8 @@
 	- Duration: Thời gian tồn tại (đơn vị giờ, -1 nếu vĩnh viễn)
 -->
 <Titles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<Title ID="0" Text="Pew Pew Pew Pew" Description="Danh hiệu Test" Duration="-1" />
-	<Title ID="1" Text="Tắt hiển thị" Description="Tắt hiển thị danh hiệu" Duration="1" />
+	<Title ID="0" Text="Pew Pew Pew Pew" Description="Danh hiệu Test" Duration="-1" DataID=""/>
+	<Title ID="1" Text="Tắt hiển thị" Description="Tắt hiển thị danh hiệu" Duration="1" DataID=""/>
 	
 	<Title ID="100" SpecialID="1" Text="Tân nhân vương - Thiếu Lâm" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiếu Lâm. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
 	<Title ID="101" SpecialID="2" Text="Tân nhân vương - Thiên Vương" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiên Vương. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
@@ -25,6 +25,6 @@
 	<Title ID="112" SpecialID="13" Text="Tân nhân vương - Bá Đao" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Bá Đao. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
 	<Title ID="113" SpecialID="14" Text="Tân nhân vương - Tiêu Dao" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Tiêu Dao. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
 	
-	<Title ID="901" SpecialID="14" Text="Trưởng lão - Đường Môn" Description="Danh hiệu cao cấp của phái Đường Môn. Có hiệu lực vĩnh viễn." Duration="-1" DataID=""/>
+	<Title ID="901" SpecialID="91" Text="Trưởng lão - Đường Môn" Description="Danh hiệu cao cấp của phái Đường Môn. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000212"/>
 
 </Titles>
