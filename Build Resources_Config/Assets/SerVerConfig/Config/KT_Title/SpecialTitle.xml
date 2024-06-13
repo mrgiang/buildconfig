@@ -265,6 +265,28 @@
 		<Sprite Name="00026" />
 		<Sprite Name="00028" />
 	</Title>
+		<Title ID="81" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/BDBH.unity3d" AtlasName="BDBH" AnimationSpeed="2">
+		<Sprite Name="BDBH_0" />
+		<Sprite Name="BDBH_1" />
+		<Sprite Name="BDBH_2" />
+		<Sprite Name="BDBH_3" />
+		<Sprite Name="BDBH_4" />
+		<Sprite Name="BDBH_5" />
+		<Sprite Name="BDBH_6" />
+		<Sprite Name="BDBH_7" />
+		<Sprite Name="BDBH_8" />
+		<Sprite Name="BDBH_9" />
+		<Sprite Name="BDBH_10" />
+		<Sprite Name="BDBH_11" />
+		<Sprite Name="BDBH_12" />
+		<Sprite Name="BDBH_13" />
+		<Sprite Name="BDBH_14" />
+		<Sprite Name="BDBH_15" />
+		<Sprite Name="BDBH_16" />
+		<Sprite Name="BDBH_17" />
+		<Sprite Name="BDBH_18" />
+		<Sprite Name="BDBH_19" />
+	</Title>
 		<Title ID="91" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/DNCV.unity3d" AtlasName="DNCV" AnimationSpeed="2">
 		<Sprite Name="DNCV_0" />
 		<Sprite Name="DNCV_1" />
@@ -286,5 +308,49 @@
 		<Sprite Name="DNCV_17" />
 		<Sprite Name="DNCV_18" />
 		<Sprite Name="DNCV_19" />
+	</Title>
+		<Title ID="92" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/VHTV.unity3d" AtlasName="VHTV" AnimationSpeed="2">
+		<Sprite Name="VHTV_0" />
+		<Sprite Name="VHTV_1" />
+		<Sprite Name="VHTV_2" />
+		<Sprite Name="VHTV_3" />
+		<Sprite Name="VHTV_4" />
+		<Sprite Name="VHTV_5" />
+		<Sprite Name="VHTV_6" />
+		<Sprite Name="VHTV_7" />
+		<Sprite Name="VHTV_8" />
+		<Sprite Name="VHTV_9" />
+		<Sprite Name="VHTV_10" />
+		<Sprite Name="VHTV_11" />
+		<Sprite Name="VHTV_12" />
+		<Sprite Name="VHTV_13" />
+		<Sprite Name="VHTV_14" />
+		<Sprite Name="VHTV_15" />
+		<Sprite Name="VHTV_16" />
+		<Sprite Name="VHTV_17" />
+		<Sprite Name="VHTV_18" />
+		<Sprite Name="VHTV_19" />
+	</Title>
+		<Title ID="93" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/TDCL.unity3d" AtlasName="TDCL" AnimationSpeed="2">
+		<Sprite Name="TDCL_0" />
+		<Sprite Name="TDCL_1" />
+		<Sprite Name="TDCL_2" />
+		<Sprite Name="TDCL_3" />
+		<Sprite Name="TDCL_4" />
+		<Sprite Name="TDCL_5" />
+		<Sprite Name="TDCL_6" />
+		<Sprite Name="TDCL_7" />
+		<Sprite Name="TDCL_8" />
+		<Sprite Name="TDCL_9" />
+		<Sprite Name="TDCL_10" />
+		<Sprite Name="TDCL_11" />
+		<Sprite Name="TDCL_12" />
+		<Sprite Name="TDCL_13" />
+		<Sprite Name="TDCL_14" />
+		<Sprite Name="TDCL_15" />
+		<Sprite Name="TDCL_16" />
+		<Sprite Name="TDCL_17" />
+		<Sprite Name="TDCL_18" />
+		<Sprite Name="TDCL_19" />
 	</Title>
 </SpecialTitle>

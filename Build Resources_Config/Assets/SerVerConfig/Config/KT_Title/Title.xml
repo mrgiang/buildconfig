@@ -25,6 +25,10 @@
 	<Title ID="112" SpecialID="13" Text="Tân nhân vương - Bá Đao" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Bá Đao. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
 	<Title ID="113" SpecialID="14" Text="Tân nhân vương - Tiêu Dao" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Tiêu Dao. Có hiệu lực trong vòng 1 tuần." Duration="168" DataID=""/>
 	
+	<Title ID="801" SpecialID="81" Text="Mod - Zalo" Description="Danh hiệu cao cấp của Mod Zalo. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000140,10000290,10000196,10000047,10000363,10000165,10001000,10001001,10000208,10000561"/>
+
 	<Title ID="901" SpecialID="91" Text="Trưởng lão - Đường Môn" Description="Danh hiệu cao cấp của phái Đường Môn. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000212"/>
+	<Title ID="902" SpecialID="92" Text="Trưởng lão - Thiên Nhẫn" Description="Danh hiệu cao cấp của phái Thiên Nhẫn. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000632"/>
+	<Title ID="903" SpecialID="93" Text="Trưởng lão - Côn Lôn" Description="Danh hiệu cao cấp của phái Côn Lôn. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10001072"/>
 
 </Titles>

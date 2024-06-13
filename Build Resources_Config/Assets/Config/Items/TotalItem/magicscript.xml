@@ -2791,7 +2791,7 @@
           Name="Mật đồ thần bí " Genre="6" DetailType="1" ParticularType="196"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="n_xinshoumiji_s"
           ObjDrop="368" Descript="&quot;Một loại vật phẩm, công năng thần bí.&quot;" Series="-1"
-          Price="1" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="1" Level="1" Stack="9999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -2889,7 +2889,7 @@
           Name="Thần bí đồ chí " Genre="6" DetailType="1" ParticularType="206"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_18"
           ObjDrop="424" Descript="Một mảnh bức địa đồ Sơn Hà Xã Tắc" Series="-1" Price="0" Level="1"
-          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="9999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
 
@@ -13088,7 +13088,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="city_squire_box"
           ObjDrop="367"
           Descript="&quot;Rương của Dã Tẩu, khảm rất nhiều bảo thạch. Bên trong chứa nhiều bí ẩn&quot;"
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200029" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26471,7 +26471,7 @@
           ParticularType="30033" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="suijilingpaihe_jin" ObjDrop="41"
           Descript="Nhấn sử dụng sẽ được phần thưởng từ đã tẩu " Series="-1" Price="20" Level="1"
-          Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
           MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200060" FightPower="11256 ">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
@@ -26480,7 +26480,7 @@
           ParticularType="30033" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="suijilingpaihe_tie" ObjDrop="41"
           Descript="Nhấn sử dụng sẽ được phần thưởng từ đã tẩu " Series="-1" Price="20" Level="1"
-          Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
           MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200060" FightPower="11257">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
