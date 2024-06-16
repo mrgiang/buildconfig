@@ -353,4 +353,26 @@
 		<Sprite Name="TDCL_18" />
 		<Sprite Name="TDCL_19" />
 	</Title>
+		<Title ID="94" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/NTMT.unity3d" AtlasName="NTMT" AnimationSpeed="2">
+		<Sprite Name="NTMT_0" />
+		<Sprite Name="NTMT_1" />
+		<Sprite Name="NTMT_2" />
+		<Sprite Name="NTMT_3" />
+		<Sprite Name="NTMT_4" />
+		<Sprite Name="NTMT_5" />
+		<Sprite Name="NTMT_6" />
+		<Sprite Name="NTMT_7" />
+		<Sprite Name="NTMT_8" />
+		<Sprite Name="NTMT_9" />
+		<Sprite Name="NTMT_10" />
+		<Sprite Name="NTMT_11" />
+		<Sprite Name="NTMT_12" />
+		<Sprite Name="NTMT_13" />
+		<Sprite Name="NTMT_14" />
+		<Sprite Name="NTMT_15" />
+		<Sprite Name="NTMT_16" />
+		<Sprite Name="NTMT_17" />
+		<Sprite Name="NTMT_18" />
+		<Sprite Name="NTMT_19" />
+	</Title>
 </SpecialTitle>
