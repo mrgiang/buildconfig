@@ -10247,7 +10247,7 @@
      </ItemData>
   -->
      <ItemData ItemID="9433" Name="Lệnh bài "
-          Genre="6" DetailType="2" ParticularType="1020"
+          Genre="6" DetailType="1" ParticularType="1020"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jinsilingpai"
           ObjDrop="385" Descript="Vật phẩm cống hiến và nâng cấp bang hội" Series="-1" Price="0"
           Level="1" Stack="1000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"

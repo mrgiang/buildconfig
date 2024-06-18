@@ -20,15 +20,15 @@
 		<MedicineProp MagicName="lifepotion_v"  Value="800" Time="90" Index="1" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20775" Name="Ngưng Thần đan (tiểu) " Genre="17" Category="-1" DetailType="1" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_211_s" ObjDrop="20" Descript="Có thể hồi phục chút ít Nội lực" Series="-1" Price="60" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100022" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20775" Name="Ngưng Thần đan (tiểu) " Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_211_s" ObjDrop="20" Descript="Có thể hồi phục chút ít Nội lực" Series="-1" Price="60" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100022" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="manapotion_v" Value="50" Time="90" Index="1" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20776" Name="Ngưng Thần đan (trung) " Genre="17" Category="-1" DetailType="1" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_212_s" ObjDrop="20" Descript="Hồi phục Nội lực tương đối nhanh." Series="-1" Price="120" Level="2" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100022" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20776" Name="Ngưng Thần đan (trung) " Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_212_s" ObjDrop="20" Descript="Hồi phục Nội lực tương đối nhanh." Series="-1" Price="120" Level="2" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100022" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="manapotion_v" Value="100" Time="90" Index="1" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20777" Name="Ngưng Thần đan (đại) " Genre="17" Category="-1" DetailType="1" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_213_s" ObjDrop="309" Descript="Hồi phục Nội lực cục nhanh" Series="-1" Price="300" Level="3" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100022" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20777" Name="Ngưng Thần đan (đại) " Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_213_s" ObjDrop="309" Descript="Hồi phục Nội lực cục nhanh" Series="-1" Price="300" Level="3" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100022" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="manapotion_v"  Value="150" Time="90" Index="1" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
@@ -36,31 +36,31 @@
 		<MedicineProp MagicName="manapotion_v"  Value="200" Time="90" Index="1" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20779" Name="Ô đầu Hoàn thần đan" Genre="17" Category="-1" DetailType="1" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_215_s" ObjDrop="312" Descript="Lập tức hồi phục 5000 điểm Nội lực" Series="-1" Price="3600" Level="5" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100022" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20779" Name="Ô đầu Hoàn thần đan" Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_215_s" ObjDrop="312" Descript="Lập tức hồi phục 5000 điểm Nội lực" Series="-1" Price="3600" Level="5" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100022" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="manapotion_v"  Value="800" Time="90" Index="1" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20780" Name="Thừa Tiên Mật (tiểu) " Genre="17" Category="-1" DetailType="2" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_311_s" ObjDrop="19" Descript="Đồng thời hồi phục chút ít Sinh lực và Nội lực." Series="-1" Price="80" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20780" Name="Thừa Tiên Mật (tiểu) " Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_311_s" ObjDrop="19" Descript="Đồng thời hồi phục chút ít Sinh lực và Nội lực." Series="-1" Price="80" Level="1" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="lifepotion_v"  Value="30" Time="90" Index="1" />
 		<MedicineProp MagicName="manapotion_v"  Value="30" Time="90" Index="2" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20781" Name="Thừa Tiên Mật (trung) " Genre="17" Category="-1" DetailType="2" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_312_s" ObjDrop="19" Descript="Đồng thời hồi phục nhanh Sinh lực và Nội lực " Series="-1" Price="150" Level="2" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20781" Name="Thừa Tiên Mật (trung) " Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_312_s" ObjDrop="19" Descript="Đồng thời hồi phục nhanh Sinh lực và Nội lực " Series="-1" Price="150" Level="2" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="lifepotion_v" Value="60" Time="90" Index="1" />
 		<MedicineProp MagicName="manapotion_v" Value="60" Time="90" Index="2" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20782" Name="Thừa Tiên Mật (đại) " Genre="17" Category="-1" DetailType="2" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_313_s" ObjDrop="308" Descript="Đồng thời hồi phục cực nhanh Sinh lực và Nội lực" Series="-1" Price="375" Level="3" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20782" Name="Thừa Tiên Mật (đại) " Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_313_s" ObjDrop="308" Descript="Đồng thời hồi phục cực nhanh Sinh lực và Nội lực" Series="-1" Price="375" Level="3" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="lifepotion_v" Value="90" Time="90" Index="1" />
 		<MedicineProp MagicName="manapotion_v" Value="90" Time="90" Index="2" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20783" Name="Thất Khiếu Bổ tâm đan" Genre="17" Category="-1" DetailType="2" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_314_s" ObjDrop="308" Descript="Lập tức hồi phục Sinh lực và Nội lực" Series="-1" Price="750" Level="4" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20783" Name="Thất Khiếu Bổ tâm đan" Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_314_s" ObjDrop="308" Descript="Lập tức hồi phục Sinh lực và Nội lực" Series="-1" Price="750" Level="4" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="lifepotion_v" Value="120" Time="90" Index="1" />
 		<MedicineProp MagicName="manapotion_v" Value="120" Time="90" Index="2" />
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="20784" Name="Ngũ Hoa Ngọc Lộ Hoàn" Genre="17" Category="-1" DetailType="2" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_315_s" ObjDrop="311" Descript="Đồng thời hồi phục 5000 điểm Sinh lực và Nội lực" Series="-1" Price="4000" Level="5" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
+	<ItemData ItemID="20784" Name="Ngũ Hoa Ngọc Lộ Hoàn" Genre="17" Category="-1" DetailType="0" ParticularType="0" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="medicine_315_s" ObjDrop="311" Descript="Đồng thời hồi phục 5000 điểm Sinh lực và Nội lực" Series="-1" Price="4000" Level="5" Stack="100" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="0" MeltableQuality="0" BuffID="100023" DeductOnUse="true" ScriptID="-1" FightPower="-1">
 		<MedicineProp MagicName="lifepotion_v"  Value="500" Time="90" Index="1" />
 		<MedicineProp MagicName="manapotion_v"  Value="500" Time="90" Index="2" />
 		<UnLockInterval>0</UnLockInterval>

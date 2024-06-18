@@ -31,5 +31,6 @@
 	<Title ID="902" SpecialID="92" Text="Trưởng lão - Thiên Nhẫn" Description="Danh hiệu cao cấp của phái Thiên Nhẫn. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000632"/>
 	<Title ID="903" SpecialID="93" Text="Trưởng lão - Côn Lôn" Description="Danh hiệu cao cấp của phái Côn Lôn. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10001072"/>
 	<Title ID="904" SpecialID="94" Text="Trưởng lão - Thiên Vương" Description="Danh hiệu cao cấp của phái Thiên Vương. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000443"/>
+	<Title ID="905" SpecialID="95" Text="Trưởng lão - Thiếu Lâm" Description="Danh hiệu cao cấp của phái Thiếu Lâm. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000156"/>
 
 </Titles>

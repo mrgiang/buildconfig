@@ -375,4 +375,26 @@
 		<Sprite Name="NTMT_18" />
 		<Sprite Name="NTMT_19" />
 	</Title>
+		<Title ID="95" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/LHTD.unity3d" AtlasName="LHTD" AnimationSpeed="2">
+		<Sprite Name="LHTD_0" />
+		<Sprite Name="LHTD_1" />
+		<Sprite Name="LHTD_2" />
+		<Sprite Name="LHTD_3" />
+		<Sprite Name="LHTD_4" />
+		<Sprite Name="LHTD_5" />
+		<Sprite Name="LHTD_6" />
+		<Sprite Name="LHTD_7" />
+		<Sprite Name="LHTD_8" />
+		<Sprite Name="LHTD_9" />
+		<Sprite Name="LHTD_10" />
+		<Sprite Name="LHTD_11" />
+		<Sprite Name="LHTD_12" />
+		<Sprite Name="LHTD_13" />
+		<Sprite Name="LHTD_14" />
+		<Sprite Name="LHTD_15" />
+		<Sprite Name="LHTD_16" />
+		<Sprite Name="LHTD_17" />
+		<Sprite Name="LHTD_18" />
+		<Sprite Name="LHTD_19" />
+	</Title>
 </SpecialTitle>

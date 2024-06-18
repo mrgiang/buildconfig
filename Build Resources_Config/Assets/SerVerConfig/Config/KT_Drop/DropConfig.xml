@@ -13532,7 +13532,7 @@
 	<Drop ItemID="13727" RandRate="10000" />
 	<Drop ItemID="13728" RandRate="10000" />
   </DropProfile>
-  <DropProfile ProfileName="CoBach1" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="CoBach" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -13708,7 +13708,7 @@
 	<Drop ItemID="8679" RandRate="10" />
 	-->
   </DropProfile>
-  <DropProfile ProfileName="HaLinhPhieu1" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="HaLinhPhieu" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -13888,7 +13888,7 @@
 	<Drop ItemID="8704" RandRate="10" />
 	-->
   </DropProfile>
-  <DropProfile ProfileName="GiaLuatTyLi1" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="GiaLuatTyLi" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -14058,7 +14058,7 @@
 	<Drop ItemID="8764" RandRate="10" />
 	-->
   </DropProfile>
-  <DropProfile ProfileName="DaoThanhChanNhan1" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="DaoThanhChanNhan" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -14228,7 +14228,7 @@
 	<Drop ItemID="8789" RandRate="10" />
 	-->
   </DropProfile>
-  <DropProfile ProfileName="DuongPhiYen1" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="DuongPhiYen" Count="36" RandRange="2930000" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -14408,7 +14408,7 @@
 	<Drop ItemID="8739" RandRate="10" />
 	-->
   </DropProfile>
-  <DropProfile ProfileName="TruongTongChinh1" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="TruongTongChinh" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -14502,7 +14502,7 @@
 	<Drop ItemID="8517" RandRate="1000" />
 	<Drop ItemID="8518" RandRate="1000" />
   </DropProfile>
-  <DropProfile ProfileName="LieuThanhThanh1" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="LieuThanhThanh" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -14596,7 +14596,7 @@
 	<Drop ItemID="8517" RandRate="1000" />
 	<Drop ItemID="8518" RandRate="1000" />
   </DropProfile>
-  <DropProfile ProfileName="HaNhanNga1" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="HaNhanNga" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -14690,7 +14690,7 @@
 	<Drop ItemID="8517" RandRate="1000" />
 	<Drop ItemID="8518" RandRate="1000" />
   </DropProfile>
-  <DropProfile ProfileName="TinhThong1" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="TinhThong" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
@@ -14784,7 +14784,7 @@
 	<Drop ItemID="8517" RandRate="1000" />
 	<Drop ItemID="8518" RandRate="1000" />
   </DropProfile>
-  <DropProfile ProfileName="DieuNhu1" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
+  <DropProfile ProfileName="DieuNhu" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
 	<Drop ItemID="1039" RandRate="20000" />
 	<Drop ItemID="1049" RandRate="20000" />
