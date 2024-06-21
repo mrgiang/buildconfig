@@ -32,5 +32,6 @@
 	<Title ID="903" SpecialID="93" Text="Trưởng lão - Côn Lôn" Description="Danh hiệu cao cấp của phái Côn Lôn. Có hiệu lực vĩnh viễn." Duration="-1" />
 	<Title ID="904" SpecialID="94" Text="Trưởng lão - Thiên Vương" Description="Danh hiệu cao cấp của phái Thiên Vương. Có hiệu lực vĩnh viễn." Duration="-1" />
 	<Title ID="905" SpecialID="95" Text="Trưởng lão - Thiếu Lâm" Description="Danh hiệu cao cấp của phái Thiếu Lâm. Có hiệu lực vĩnh viễn." Duration="-1" />
-
+	<Title ID="906" SpecialID="96" Text="Trưởng lão - Ngũ Độc" Description="Danh hiệu cao cấp của phái Ngũ Độc. Có hiệu lực vĩnh viễn." Duration="-1" />
+	<Title ID="907" SpecialID="97" Text="Trưởng lão - Võ Đang" Description="Danh hiệu cao cấp của phái Võ Đang. Có hiệu lực vĩnh viễn." Duration="-1" />
 </Titles>

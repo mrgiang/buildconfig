@@ -744,7 +744,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="hunshi"
           ObjDrop="341"
           Descript="Dùng để nâng hiệu quả thuộc tính của Ngũ Hành Ấn ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;."
-          Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="50000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -2044,7 +2044,7 @@
           ParticularType="1" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="hong" ObjDrop="19"
           Descript="Vật phẩm chuyên dùng để nâng cấp bảo vật (tác dụng giống luyện hóa!)"
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1"
           ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0"
           BuffID="-1"
           DeductOnUse="false" ScriptID="-1" FightPower="-1 ">

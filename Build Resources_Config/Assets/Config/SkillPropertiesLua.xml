@@ -12109,6 +12109,20 @@
         <SkillLevelValue Level="21" Value="82" />
       </Value>
     </Symbol>
+	<Symbol Name="addphysicsmagic_p">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="45" />
+        <SkillLevelValue Level="20" Value="262" />
+        <SkillLevelValue Level="40" Value="471" />
+        <SkillLevelValue Level="41" Value="471" />
+      </Value>
+	   <Value ID="3">
+        <SkillLevelValue Level="1" Value="45" />
+        <SkillLevelValue Level="20" Value="337" />
+        <SkillLevelValue Level="40" Value="546" />
+        <SkillLevelValue Level="41" Value="546" />
+      </Value>
+    </Symbol>
     <Symbol Name="firedamage_v">
 	  <Value ID="1">
         <SkillLevelValue Level="1" Value="40" />

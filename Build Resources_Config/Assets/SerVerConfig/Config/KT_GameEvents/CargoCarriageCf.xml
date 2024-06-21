@@ -72,22 +72,22 @@
 	</CargoNPCs>
 	
 	<Awards>
-		<Award Type="1" Money="0" BoundMoney="0" Token="8000" BoundToken="0" Exp="5000000">
+		<Award Type="1" Money="0" BoundMoney="0" Token="16000" BoundToken="0" Exp="10000000">
 			<Item ItemID="8483" Quantity="1" Bound="true" />
 			<Item ItemID="186" Quantity="1" Bound="true" />		
 			<Item ItemID="2157" Quantity="1" Bound="true" />
 
 		</Award>
-		<Award Type="2" Money="0" BoundMoney="0" Token="10000" BoundToken="0" Exp="10000000">
-			<Item ItemID="8483" Quantity="2" Bound="true" />
-			<Item ItemID="186" Quantity="2" Bound="true" />		
-			<Item ItemID="2157" Quantity="2" Bound="true" />
+		<Award Type="2" Money="0" BoundMoney="0" Token="20000" BoundToken="0" Exp="20000000">
+			<Item ItemID="8483" Quantity="3" Bound="true" />
+			<Item ItemID="186" Quantity="3" Bound="true" />		
+			<Item ItemID="2157" Quantity="3" Bound="true" />
 			
 		</Award>
-		<Award Type="3" Money="0" BoundMoney="0" Token="12000" BoundToken="0" Exp="15000000">
-			<Item ItemID="8483" Quantity="3" Bound="true" />
-			<Item ItemID="186" Quantity="3" Bound="true" />
-			<Item ItemID="2157" Quantity="3" Bound="true" />
+		<Award Type="3" Money="0" BoundMoney="0" Token="24000" BoundToken="0" Exp="30000000">
+			<Item ItemID="8483" Quantity="4" Bound="true" />
+			<Item ItemID="186" Quantity="4" Bound="true" />
+			<Item ItemID="2157" Quantity="4" Bound="true" />
 		</Award>
 	</Awards>
 	

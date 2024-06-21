@@ -397,4 +397,48 @@
 		<Sprite Name="LHTD_18" />
 		<Sprite Name="LHTD_19" />
 	</Title>
+		<Title ID="96" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/DCCB.unity3d" AtlasName="DCCB" AnimationSpeed="2">
+		<Sprite Name="DCCB_0" />
+		<Sprite Name="DCCB_1" />
+		<Sprite Name="DCCB_2" />
+		<Sprite Name="DCCB_3" />
+		<Sprite Name="DCCB_4" />
+		<Sprite Name="DCCB_5" />
+		<Sprite Name="DCCB_6" />
+		<Sprite Name="DCCB_7" />
+		<Sprite Name="DCCB_8" />
+		<Sprite Name="DCCB_9" />
+		<Sprite Name="DCCB_10" />
+		<Sprite Name="DCCB_11" />
+		<Sprite Name="DCCB_12" />
+		<Sprite Name="DCCB_13" />
+		<Sprite Name="DCCB_14" />
+		<Sprite Name="DCCB_15" />
+		<Sprite Name="DCCB_16" />
+		<Sprite Name="DCCB_17" />
+		<Sprite Name="DCCB_18" />
+		<Sprite Name="DCCB_19" />
+	</Title>
+		<Title ID="97" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/BCCD.unity3d" AtlasName="BCCD" AnimationSpeed="2">
+		<Sprite Name="BCCD_0" />
+		<Sprite Name="BCCD_1" />
+		<Sprite Name="BCCD_2" />
+		<Sprite Name="BCCD_3" />
+		<Sprite Name="BCCD_4" />
+		<Sprite Name="BCCD_5" />
+		<Sprite Name="BCCD_6" />
+		<Sprite Name="BCCD_7" />
+		<Sprite Name="BCCD_8" />
+		<Sprite Name="BCCD_9" />
+		<Sprite Name="BCCD_10" />
+		<Sprite Name="BCCD_11" />
+		<Sprite Name="BCCD_12" />
+		<Sprite Name="BCCD_13" />
+		<Sprite Name="BCCD_14" />
+		<Sprite Name="BCCD_15" />
+		<Sprite Name="BCCD_16" />
+		<Sprite Name="BCCD_17" />
+		<Sprite Name="BCCD_18" />
+		<Sprite Name="BCCD_19" />
+	</Title>
 </SpecialTitle>

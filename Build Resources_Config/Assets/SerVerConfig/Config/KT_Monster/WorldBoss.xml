@@ -42,31 +42,31 @@
 		<Award GuildMoney="100000" PartyMoney="500000" />
 		<Notification NotifyOnSpawn="true" NotifyLocation="false" NotifyOnDead="true" />
 		<Bosses>
-			<Boss ID="568" Name="Cổ Bách" Title="" Level="50"  MaxHP="500000000" AIScriptID="100001" Auras="14256_20" Skills="14201_40_6000;14200_40_5000;14219_40_4000;14218_40_3000;14236_40_-1" >
+			<Boss ID="568" Name="Cổ Bách" Title="" Level="50"  MaxHP="200000000" AIScriptID="100001" Auras="14256_20" Skills="14201_40_6000;14200_40_5000;14219_40_4000;14218_40_3000;14236_40_-1" >
 				<Location MapID="28" PosX="1505" PosY="5483" />
 				<Location MapID="28" PosX="9769" PosY="3005" />
-				<Location MapID="27" PosX="2356" PosY="921" />
-				<Location MapID="27" PosX="6839" PosY="1217" />
+				<Location MapID="27" PosX="1366" PosY="1657" />
+				<Location MapID="27" PosX="8192" PosY="1722" />
 			</Boss>
-			<Boss ID="1368" Name="Đường Phi Yến" Title="" Level="50"  MaxHP="500000000" AIScriptID="100001" Auras="" Skills="14216_40_6000;14217_40_5000;14221_40_4000;14214_40_-1" >
+			<Boss ID="1368" Name="Đường Phi Yến" Title="" Level="50"  MaxHP="200000000" AIScriptID="100001" Auras="" Skills="14216_40_6000;14217_40_5000;14221_40_4000;14214_40_-1" >
 				<Location MapID="9" PosX="6359" PosY="4182" />
 				<Location MapID="9" PosX="6022" PosY="1258" />
 				<Location MapID="20" PosX="3707" PosY="544" />
 				<Location MapID="20" PosX="7432" PosY="2263" />
 			</Boss>
-			<Boss ID="570" Name="Hà Linh Phiêu" Title="" Level="50"  MaxHP="500000000" AIScriptID="100001" Auras="" Skills="14223_40_6000;14225_40_5000;14208_40_4000;14206_40_-1" >
+			<Boss ID="570" Name="Hà Linh Phiêu" Title="" Level="50"  MaxHP="200000000" AIScriptID="100001" Auras="" Skills="14223_40_6000;14225_40_5000;14208_40_4000;14206_40_-1" >
 				<Location MapID="19" PosX="1673" PosY="749" />
 				<Location MapID="19" PosX="6015" PosY="1008" />
 				<Location MapID="29" PosX="4841" PosY="1597" />
 				<Location MapID="29" PosX="946" PosY="2365" />
 			</Boss>
-			<Boss ID="565" Name="Gia Luật Tị Ly" Title="" Level="50"  MaxHP="500000000" AIScriptID="100001" Auras="" Skills="14248_40_6000;14210_40_5000;14211_40_4000;14228_40_3000;14229_40_-1" >
+			<Boss ID="565" Name="Gia Luật Tị Ly" Title="" Level="50"  MaxHP="200000000" AIScriptID="100001" Auras="" Skills="14248_40_6000;14210_40_5000;14211_40_4000;14228_40_3000;14229_40_-1" >
 				<Location MapID="3" PosX="2024" PosY="10483" />
 				<Location MapID="3" PosX="6406" PosY="9910" />
 				<Location MapID="42" PosX="3556" PosY="4125" />
 				<Location MapID="42" PosX="7934" PosY="1730" />
 			</Boss>
-			<Boss ID="564" Name="Đạo Thanh Chân Nhân" Title="" Level="50"  MaxHP="500000000" AIScriptID="100001" Auras="" Skills="14231_40_6000;14232_40_5000;14230_40_4000;14235_40_-1" >
+			<Boss ID="564" Name="Đạo Thanh Chân Nhân" Title="" Level="50"  MaxHP="200000000" AIScriptID="100001" Auras="" Skills="14231_40_6000;14232_40_5000;14230_40_4000;14235_40_-1" >
 				<Location MapID="33" PosX="5923" PosY="252" />
 				<Location MapID="33" PosX="4251" PosY="87" />
 				<Location MapID="5" PosX="587" PosY="4192" />
