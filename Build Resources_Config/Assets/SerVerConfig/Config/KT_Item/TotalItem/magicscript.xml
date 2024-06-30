@@ -386,7 +386,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="yijunlingpai"
           ObjDrop="32"
           Descript="Có được khi hoàn thành Nhiệm vụ Dã tẩu đầu tiên, sau khi sử dụng được 20 điểm danh vọng Dã tẩu."
-          Series="0" Price="1" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="1" Stack="9999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200048" FightPower="5000">
           <UnLockInterval>0</UnLockInterval>
@@ -1094,32 +1094,6 @@
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
-     <!--
-	<ItemData ItemID="8434" Name="Tẩy Tủy Kinh" Genre="6" DetailType="1" ParticularType="22"
-     IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_49"
-     ObjDrop="341" Descript="&quot;Phật gia bảo điển, nếu có thể đọc hiểu sẽ tăng kinh nghiệm rất
-     nhanh.&quot;" Series="-1"  Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1"
-     SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
-     DeductOnUse="false" ScriptID="200011" FightPower="-1 ">
-		<UnLockInterval>0</UnLockInterval>
-     </ItemData>  
-
-	<ItemData ItemID="8435" Name="Thiết La Hán" Genre="6" DetailType="1"
-     ParticularType="23" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
-     Image="IconNew_49" ObjDrop="341" Descript="&quot;Một người sắt La Hán di động, đánh ngã sẽ thu
-     được kinh nghiệm thực chiến.&quot;" Series="-1"  Price="0" Level="1" Stack="1" ResWomanID="-1"
-     ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
-     DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
-		<UnLockInterval>0</UnLockInterval>
-     </ItemData>
-	<ItemData ItemID="8436" Name="Võ Đang Mật Tịch " Genre="6" DetailType="1"
-     ParticularType="24" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
-     Image="IconNew_50" ObjDrop="341" Descript="&quot;Mật Tịch võ công Võ Đang, rất có ích cho các
-     đệ tử Võ Đang.&quot;" Series="-1"  Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1"
-     SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
-     DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
-		<UnLockInterval>0</UnLockInterval>
-     </ItemData>-->
      <!-- bí kíp 150x  -->
      <ItemData ItemID="8437"
           Name=" Vi Đà Hiến Xử Bí Kíp 150" Genre="6" DetailType="1"
@@ -1455,7 +1429,7 @@
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
      <ItemData ItemID="2169"
-          Name="Phiếu May Mắn" Genre="6" DetailType="1" ParticularType="397"
+          Name="Thẻ vòng quay" Genre="6" DetailType="1" ParticularType="397"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0119_s"
           ObjDrop="32"
           Descript="&lt;color=gold&gt;Có thể sử dụng cho vòng quay may mắn để nhận các vật phẩm có giá trị lớn.&lt;color&gt;"
