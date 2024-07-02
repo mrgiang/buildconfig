@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Map>
   <Monsters>
-  
+         <!-- HT -->
+   <Monster Code="2995" X="302" Y="875" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="2996" X="1192" Y="227" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="2997" X="6579" Y="708" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
+   <Monster Code="2998" X="6528" Y="2223" Radius="100" Num="1" Timeslot="30" VisibleOnMinimap="0" /> 
     
   </Monsters>
 </Map>
