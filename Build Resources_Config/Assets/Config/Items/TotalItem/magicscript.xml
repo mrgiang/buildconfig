@@ -50550,7 +50550,7 @@
           Name="Bài học hay" Genre="6" DetailType="1" ParticularType="2169"
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="canghaiyueming"
           ObjDrop="41" Descript="&quot;Tích tụ những kiến thức của thầy, cô&quot;" Series="-1"
-          Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
           FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
