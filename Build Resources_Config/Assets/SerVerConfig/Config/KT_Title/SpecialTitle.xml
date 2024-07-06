@@ -441,4 +441,114 @@
 		<Sprite Name="BCCD_18" />
 		<Sprite Name="BCCD_19" />
 	</Title>
+		<Title ID="98" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/CNN.unity3d" AtlasName="CNN" AnimationSpeed="2">
+		<Sprite Name="CNN_0" />
+		<Sprite Name="CNN_1" />
+		<Sprite Name="CNN_2" />
+		<Sprite Name="CNN_3" />
+		<Sprite Name="CNN_4" />
+		<Sprite Name="CNN_5" />
+		<Sprite Name="CNN_6" />
+		<Sprite Name="CNN_7" />
+		<Sprite Name="CNN_8" />
+		<Sprite Name="CNN_9" />
+		<Sprite Name="CNN_10" />
+		<Sprite Name="CNN_11" />
+		<Sprite Name="CNN_12" />
+		<Sprite Name="CNN_13" />
+		<Sprite Name="CNN_14" />
+		<Sprite Name="CNN_15" />
+		<Sprite Name="CNN_16" />
+		<Sprite Name="CNN_17" />
+		<Sprite Name="CNN_18" />
+		<Sprite Name="CNN_19" />
+	</Title>
+		<Title ID="99" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/LHTD2.unity3d" AtlasName="LHTD2" AnimationSpeed="2">
+		<Sprite Name="LHTD2_0" />
+		<Sprite Name="LHTD2_1" />
+		<Sprite Name="LHTD2_2" />
+		<Sprite Name="LHTD2_3" />
+		<Sprite Name="LHTD2_4" />
+		<Sprite Name="LHTD2_5" />
+		<Sprite Name="LHTD2_6" />
+		<Sprite Name="LHTD2_7" />
+		<Sprite Name="LHTD2_8" />
+		<Sprite Name="LHTD2_9" />
+		<Sprite Name="LHTD2_10" />
+		<Sprite Name="LHTD2_11" />
+		<Sprite Name="LHTD2_12" />
+		<Sprite Name="LHTD2_13" />
+		<Sprite Name="LHTD2_14" />
+		<Sprite Name="LHTD2_15" />
+		<Sprite Name="LHTD2_16" />
+		<Sprite Name="LHTD2_17" />
+		<Sprite Name="LHTD2_18" />
+		<Sprite Name="LHTD2_19" />
+	</Title>
+		<Title ID="100" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/BQTA.unity3d" AtlasName="BQTA" AnimationSpeed="2">
+		<Sprite Name="BQTA_0" />
+		<Sprite Name="BQTA_1" />
+		<Sprite Name="BQTA_2" />
+		<Sprite Name="BQTA_3" />
+		<Sprite Name="BQTA_4" />
+		<Sprite Name="BQTA_5" />
+		<Sprite Name="BQTA_6" />
+		<Sprite Name="BQTA_7" />
+		<Sprite Name="BQTA_8" />
+		<Sprite Name="BQTA_9" />
+		<Sprite Name="BQTA_10" />
+		<Sprite Name="BQTA_11" />
+		<Sprite Name="BQTA_12" />
+		<Sprite Name="BQTA_13" />
+		<Sprite Name="BQTA_14" />
+		<Sprite Name="BQTA_15" />
+		<Sprite Name="BQTA_16" />
+		<Sprite Name="BQTA_17" />
+		<Sprite Name="BQTA_18" />
+		<Sprite Name="BQTA_19" />
+	</Title>
+		<Title ID="101" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/NNY.unity3d" AtlasName="NNY" AnimationSpeed="2">
+		<Sprite Name="NNY_0" />
+		<Sprite Name="NNY_1" />
+		<Sprite Name="NNY_2" />
+		<Sprite Name="NNY_3" />
+		<Sprite Name="NNY_4" />
+		<Sprite Name="NNY_5" />
+		<Sprite Name="NNY_6" />
+		<Sprite Name="NNY_7" />
+		<Sprite Name="NNY_8" />
+		<Sprite Name="NNY_9" />
+		<Sprite Name="NNY_10" />
+		<Sprite Name="NNY_11" />
+		<Sprite Name="NNY_12" />
+		<Sprite Name="NNY_13" />
+		<Sprite Name="NNY_14" />
+		<Sprite Name="NNY_15" />
+		<Sprite Name="NNY_16" />
+		<Sprite Name="NNY_17" />
+		<Sprite Name="NNY_18" />
+		<Sprite Name="NNY_19" />
+	</Title>
+		<Title ID="102" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/THVS.unity3d" AtlasName="THVS" AnimationSpeed="2">
+		<Sprite Name="THVS_0" />
+		<Sprite Name="THVS_1" />
+		<Sprite Name="THVS_2" />
+		<Sprite Name="THVS_3" />
+		<Sprite Name="THVS_4" />
+		<Sprite Name="THVS_5" />
+		<Sprite Name="THVS_6" />
+		<Sprite Name="THVS_7" />
+		<Sprite Name="THVS_8" />
+		<Sprite Name="THVS_9" />
+		<Sprite Name="THVS_10" />
+		<Sprite Name="THVS_11" />
+		<Sprite Name="THVS_12" />
+		<Sprite Name="THVS_13" />
+		<Sprite Name="THVS_14" />
+		<Sprite Name="THVS_15" />
+		<Sprite Name="THVS_16" />
+		<Sprite Name="THVS_17" />
+		<Sprite Name="THVS_18" />
+		<Sprite Name="THVS_19" />
+	</Title>
 </SpecialTitle>

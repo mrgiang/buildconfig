@@ -1433,7 +1433,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0119_s"
           ObjDrop="32"
           Descript="&lt;color=gold&gt;Có thể sử dụng cho vòng quay may mắn để nhận các vật phẩm có giá trị lớn.&lt;color&gt;"
-          Series="0" Price="1" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="0" Price="1" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="100000">
           <UnLockInterval>0</UnLockInterval>
@@ -50822,6 +50822,33 @@
      Descript="Vật phẩm sử dụng để ngay lập tức lĩnh hội tinh hoa của võ học này ở cấp cao nhất." Series="-1" Price="0"
      Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
      SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999997"
+     FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+         </ItemData>
+	   <ItemData ItemID="91440" Name="Đại Thành Bí Kíp 150" Genre="6" DetailType="1"
+     ParticularType="2424" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="quest_0011_s" ObjDrop="368"
+     Descript="Vật phẩm sử dụng để ngay lập tức lĩnh hội tinh hoa của võ học này ở cấp cao nhất." Series="-1" Price="0"
+     Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999995"
+     FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+         </ItemData>
+	<ItemData ItemID="91441" Name="Kinh Nghiệm Chi Thuật 120" Genre="6" DetailType="1"
+     ParticularType="2424" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="quest_0011_s" ObjDrop="368"
+     Descript="Sách thông kinh tắt mạch sau khi dùng sẽ tăng lên cấp 120. Từ cấp 1 đến 120 có thể dùng." Series="-1" Price="0"
+     Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999994"
+     FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+         </ItemData>
+	<ItemData ItemID="91442" Name="Kinh Nghiệm Chi Thuật 150" Genre="6" DetailType="1"
+     ParticularType="2424" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="quest_0011_s" ObjDrop="368"
+     Descript="Sách thông kinh tắt mạch sau khi dùng sẽ tăng lên cấp 150. Từ cấp 120 đến 150 có thể dùng" Series="-1" Price="0"
+     Level="120" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999994"
      FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
          </ItemData>

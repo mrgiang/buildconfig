@@ -34,5 +34,10 @@
 	<Title ID="905" SpecialID="95" Text="Trưởng lão - Thiếu Lâm" Description="Danh hiệu cao cấp của phái Thiếu Lâm. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000156"/>
 	<Title ID="906" SpecialID="96" Text="Trưởng lão - Ngũ Độc" Description="Danh hiệu cao cấp của phái Ngũ Độc. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000449"/>
 	<Title ID="907" SpecialID="97" Text="Trưởng lão - Võ Đang" Description="Danh hiệu cao cấp của phái Võ Đang. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10001101"/>
+	<Title ID="908" SpecialID="98" Text="Trưởng lão - Nga My" Description="Danh hiệu cao cấp của phái Nga My. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000346"/>
+	<Title ID="909" SpecialID="99" Text="Trưởng lão - Cái Bang" Description="Danh hiệu cao cấp của phái Cái Bang. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000123"/>
+	<Title ID="910" SpecialID="100" Text="Trưởng lão - Thúy Yên" Description="Danh hiệu cao cấp của phái Thúy Yên. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000089"/>
+	<Title ID="911" SpecialID="101" Text="Trưởng lão - Thiên Vương" Description="Danh hiệu cao cấp của phái Thiên Vương. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10001305"/>
+	<Title ID="912" SpecialID="102" Text="Trưởng lão - Thiếu Lâm" Description="Danh hiệu cao cấp của phái Thiếu Lâm. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10001302"/>
 
 </Titles>
