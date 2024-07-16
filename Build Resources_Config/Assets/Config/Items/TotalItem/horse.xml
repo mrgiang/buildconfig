@@ -445,8 +445,8 @@
   </ItemData>
   <ItemData ItemID="1100001" Name="Siêu Quang" Genre="0" DetailType="10" ParticularType="13" IconBundleDir= "Icon/ItemIcon_2.unity3d" IconAtlasName="ItemIcon_2" Image="Horse_24" ObjDrop="40" Descript="&quot;Một trong bát tuấn của Chu Mục Vương, thoắt ẩn thoắt hiện.&quot;" Series="0" Price="250000" Level="10" Stack="1" ResWomanID="19" ResManID="19" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="120000000">
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
-	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="175" BasicPropPA1Max="175" BasicPropPA2Min="0" BasicPropPA2Max="0" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
-	<ListBasicProp BasicPropType="lifereplenish_v" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="0" BasicPropPA2Max="0" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="185" BasicPropPA1Max="185" BasicPropPA2Min="0" BasicPropPA2Max="0" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+	<ListBasicProp BasicPropType="fastlifereplenish_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="0" BasicPropPA2Max="0" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
     <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="120" RidePropPA1Max="120" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
     <RiderProp RidePropType="staminamax_v" RidePropPA1Min="1500" RidePropPA1Max="1500" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="2" />
     <RiderProp RidePropType="lifemax_v" RidePropPA1Min="1000" RidePropPA1Max="1000" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="3" />
