@@ -551,4 +551,26 @@
 		<Sprite Name="THVS_18" />
 		<Sprite Name="THVS_19" />
 	</Title>
+		<Title ID="103" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/HTMV.unity3d" AtlasName="HTMV" AnimationSpeed="2">
+		<Sprite Name="HTMV_0" />
+		<Sprite Name="HTMV_1" />
+		<Sprite Name="HTMV_2" />
+		<Sprite Name="HTMV_3" />
+		<Sprite Name="HTMV_4" />
+		<Sprite Name="HTMV_5" />
+		<Sprite Name="HTMV_6" />
+		<Sprite Name="HTMV_7" />
+		<Sprite Name="HTMV_8" />
+		<Sprite Name="HTMV_9" />
+		<Sprite Name="HTMV_10" />
+		<Sprite Name="HTMV_11" />
+		<Sprite Name="HTMV_12" />
+		<Sprite Name="HTMV_13" />
+		<Sprite Name="HTMV_14" />
+		<Sprite Name="HTMV_15" />
+		<Sprite Name="HTMV_16" />
+		<Sprite Name="HTMV_17" />
+		<Sprite Name="HTMV_18" />
+		<Sprite Name="HTMV_19" />
+	</Title>
 </SpecialTitle>

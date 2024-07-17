@@ -744,7 +744,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="hunshi"
           ObjDrop="341"
           Descript="Dùng để nâng hiệu quả thuộc tính của Ngũ Hành Ấn ở chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;."
-          Series="-1" Price="0" Level="1" Stack="50000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="100000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -754,7 +754,7 @@
           ParticularType="0" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="qingtongbaoxiang" ObjDrop="9"
           Descript="Chứa đầy Ngũ Hành Hồn Thạch.&lt;enter&gt;&lt;color=gold&gt;Nhấn sử dụng để dùng&lt;color&gt; Có thể nhận được 100 Ngũ Hành Hồn Thạch"
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200028" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -764,7 +764,7 @@
           ParticularType="0" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="baiyinbaoxiang" ObjDrop="367"
           Descript="Chứa đầy Ngũ Hành Hồn Thạch.&lt;enter&gt;&lt;color=gold&gt;Nhấn sử dụng để dùng&lt;color&gt; Có thể nhận được 1000 Ngũ Hành Hồn Thạch"
-          Series="-1" Price="2000" Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="2000" Level="2" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200028" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -774,7 +774,7 @@
           ParticularType="0" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="qingtongbaoxiang" ObjDrop="9"
           Descript="Chứa đầy Ngũ Hành Hồn Thạch.&lt;enter&gt;&lt;color=gold&gt;Nhấn sử dụng để dùng&lt;color&gt; Có thể nhận được 100 Ngũ Hành Hồn Thạch"
-          Series="-1" Price="0" Level="3" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="3" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200028" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -784,7 +784,7 @@
           ParticularType="0" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="baiyinbaoxiang" ObjDrop="367"
           Descript="Chứa đầy Ngũ Hành Hồn Thạch.&lt;enter&gt;&lt;color=gold&gt;Nhấn sử dụng để dùng&lt;color&gt; Có thể nhận được 1000 Ngũ Hành Hồn Thạch"
-          Series="-1" Price="2000" Level="4" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="2000" Level="4" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200028" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -4619,7 +4619,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_5"
           ObjDrop="336"
           Descript="Phần thưởng cho nhiệm vụ giết Boss &lt;enter&gt;5 cái đồng cấp đổi được 1 Sát Thủ giản."
-          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="100000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -26454,7 +26454,7 @@
           ParticularType="30033" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="suijilingpaihe_tie" ObjDrop="41"
           Descript="Nhấn sử dụng sẽ được phần thưởng từ đã tẩu " Series="-1" Price="20" Level="1"
-          Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+          Stack="100000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
           MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200060" FightPower="11257">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
@@ -49428,7 +49428,7 @@
           DetailType="1" ParticularType="4859" IconBundleDir="Icon/ItemIcon_1.unity3d"
           IconAtlasName="ItemIcon_1" Image="jianglibaoxiang_jin" ObjDrop="41"
           Descript="Mở ra ngươi sẽ nhận được nguyên liệu chế tạo, Ngươi hãy dùng nó để chế tạo những như ngươi cần, đừng lẵng phí nó."
-          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="100000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="13725 ">
           <UnLockInterval>0</UnLockInterval>
@@ -49438,7 +49438,7 @@
           ParticularType="4860" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="jianglibaoxiang_tie" ObjDrop="41"
           Descript="Mở ra ngươi sẽ nhận được nguyên liệu chế tạo, Ngươi hãy dùng nó để chế tạo những như ngươi cần, đừng lẵng phí nó."
-          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="100000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="13726 ">
           <UnLockInterval>0</UnLockInterval>
@@ -49448,7 +49448,7 @@
           ParticularType="4861" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="jianglibaoxiang_tong" ObjDrop="41"
           Descript="Mở ra ngươi sẽ nhận được nguyên liệu chế tạo, Ngươi hãy dùng nó để chế tạo những như ngươi cần, đừng lẵng phí nó."
-          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="100000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="13727 ">
           <UnLockInterval>0</UnLockInterval>
@@ -49459,7 +49459,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="jianglibaoxiang_yin" ObjDrop="449"
           Descript="Mở ra ngươi sẽ nhận được nguyên liệu chế tạo, Ngươi hãy dùng nó để chế tạo những như ngươi cần, đừng lẵng phí nó."
-          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="100000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200060" FightPower="13728">
           <UnLockInterval>0</UnLockInterval>

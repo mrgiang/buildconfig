@@ -79,18 +79,21 @@
 		<ListBasicProp BasicPropType="dexterity_v" BasicPropPA1Min="130" BasicPropPA1Max="130" Index="2" />
 		<ListBasicProp BasicPropType="vitality_v" BasicPropPA1Min="130" BasicPropPA1Max="130" Index="3" />
 		<ListBasicProp BasicPropType="energy_v" BasicPropPA1Min="130" BasicPropPA1Max="130" Index="4" />
+		<ListBasicProp BasicPropType="skillselfdamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="10" Index="5" />		
 	</HorseExp>
 	<HorseExp Level="14" UpgardeExp="0" Value="270000">
 	  	<ListBasicProp BasicPropType="strength_v" BasicPropPA1Min="140" BasicPropPA1Max="140" Index="1" />
 		<ListBasicProp BasicPropType="dexterity_v" BasicPropPA1Min="140" BasicPropPA1Max="140" Index="2" />
 		<ListBasicProp BasicPropType="vitality_v" BasicPropPA1Min="140" BasicPropPA1Max="140" Index="3" />
 		<ListBasicProp BasicPropType="energy_v" BasicPropPA1Min="140" BasicPropPA1Max="140" Index="4" />
+		<ListBasicProp BasicPropType="skillselfdamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="10" Index="5" />		
 	</HorseExp>
 	<HorseExp Level="15" UpgardeExp="0" Value="320000">
 	  	<ListBasicProp BasicPropType="strength_v" BasicPropPA1Min="150" BasicPropPA1Max="150" Index="1" />
 		<ListBasicProp BasicPropType="dexterity_v" BasicPropPA1Min="150" BasicPropPA1Max="150" Index="2" />
 		<ListBasicProp BasicPropType="vitality_v" BasicPropPA1Min="150" BasicPropPA1Max="150" Index="3" />
 		<ListBasicProp BasicPropType="energy_v" BasicPropPA1Min="150" BasicPropPA1Max="150" Index="4" />
+		<ListBasicProp BasicPropType="skillselfdamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="10" Index="5" />		
 	</HorseExp>
 	<HorseExp Level="16" UpgardeExp="0" Value="400000">
 	  	<ListBasicProp BasicPropType="strength_v" BasicPropPA1Min="160" BasicPropPA1Max="160" Index="1" />

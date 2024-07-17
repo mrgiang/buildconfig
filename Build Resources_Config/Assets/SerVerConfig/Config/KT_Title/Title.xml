@@ -39,5 +39,6 @@
 	<Title ID="910" SpecialID="100" Text="Trưởng lão - Thúy Yên" Description="Danh hiệu cao cấp của phái Thúy Yên. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000089"/>
 	<Title ID="911" SpecialID="101" Text="Trưởng lão - Thiên Vương" Description="Danh hiệu cao cấp của phái Thiên Vương. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10001305"/>
 	<Title ID="912" SpecialID="102" Text="Trưởng lão - Thiếu Lâm" Description="Danh hiệu cao cấp của phái Thiếu Lâm. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10001302"/>
+	<Title ID="913" SpecialID="103" Text="Trưởng lão - Đường Môn" Description="Danh hiệu cao cấp của phái Đường Môn. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10001716"/>
 
 </Titles>
