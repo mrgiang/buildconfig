@@ -37242,7 +37242,7 @@
           ParticularType="3475" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="city_master_box" ObjDrop="41"
           Descript="Nhấn sử dụng,để nhận được Sách Tinh Linh quý hiếm " Series="-1" Price="0"
-          Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200060"
           FightPower="12505">
           <UnLockInterval>0</UnLockInterval>
@@ -37252,7 +37252,7 @@
           ParticularType="3476" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="city_master_box" ObjDrop="41"
           Descript="Nhấn sử dụng,để nhận được Sách Tinh Linh quý hiếm " Series="-1" Price="0"
-          Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200060"
           FightPower="12506">
           <UnLockInterval>0</UnLockInterval>
@@ -37262,7 +37262,7 @@
           ParticularType="3477" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="city_master_box" ObjDrop="41"
           Descript="Nhấn sử dụng,để nhận được Sách Tinh Linh quý hiếm " Series="-1" Price="0"
-          Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200060"
           FightPower="12507">
           <UnLockInterval>0</UnLockInterval>
@@ -37272,7 +37272,7 @@
           ParticularType="3478" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
           Image="city_master_box" ObjDrop="41"
           Descript="Nhấn sử dụng,để nhận được Sách Tinh Linh quý hiếm " Series="-1" Price="0"
-          Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Level="1" Stack="999" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200060"
           FightPower="12508">
           <UnLockInterval>0</UnLockInterval>
