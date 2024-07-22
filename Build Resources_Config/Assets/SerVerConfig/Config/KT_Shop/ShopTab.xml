@@ -5315,7 +5315,7 @@
     <ShopItem>20040</ShopItem>
     <ShopItem>20041</ShopItem>
   </ShopTab>
-  <ShopTab ShopName="Cửa hàng danh vọng dã tẩu" ShopID="302" MoneyType="1" Discount="0"
+  <ShopTab ShopName="Cửa hàng danh vọng dã tẩu" ShopID="302" MoneyType="0" Discount="0"
     TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>20042</ShopItem>
     <ShopItem>20043</ShopItem>

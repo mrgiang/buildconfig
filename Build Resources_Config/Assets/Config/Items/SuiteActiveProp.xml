@@ -310,4 +310,14 @@
     <ListActive Index="1" RequestNum="1" SuiteName="skillselfdamagetrim" SuiteMAPA1="10" SuiteMAPA2="0" SuiteMAPA3="0" />
   </SuiteActiveProp>
   
+    <SuiteActiveProp SuiteID="70" Name="Bộ Dã Tẩu(Tôn Kính)" Head="" Body="" Belt="" Weapon="" Foot="" Cuff="" Amulet="" Ring="" Necklace="" Pendant="Bắc Minh Bội">
+    <ListActive Index="1" RequestNum="1" SuiteName="skillselfdamagetrim" SuiteMAPA1="5" SuiteMAPA2="0" SuiteMAPA3="0" />
+  </SuiteActiveProp>
+    <SuiteActiveProp SuiteID="71" Name="Bộ Dã Tẩu(Hiển Hách)" Head="" Body="" Belt="" Weapon="" Foot="" Cuff="" Amulet="" Ring="" Necklace="" Pendant="Bắc Minh Bội">
+    <ListActive Index="1" RequestNum="1" SuiteName="skillselfdamagetrim" SuiteMAPA1="8" SuiteMAPA2="0" SuiteMAPA3="0" />
+  </SuiteActiveProp>
+    <SuiteActiveProp SuiteID="72" Name="Bộ Dã Tẩu(Sùng Bái)" Head="" Body="" Belt="" Weapon="" Foot="" Cuff="" Amulet="" Ring="" Necklace="" Pendant="Bắc Minh Bội">
+    <ListActive Index="1" RequestNum="1" SuiteName="skillselfdamagetrim" SuiteMAPA1="10" SuiteMAPA2="0" SuiteMAPA3="0" />
+  </SuiteActiveProp>
+  
 </ArrayOfSuiteActiveProp>

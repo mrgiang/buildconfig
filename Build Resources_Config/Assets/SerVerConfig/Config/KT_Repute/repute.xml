@@ -4,14 +4,14 @@
 	<camp id="1" name="Nhiệm vụ">
 		<class id="1" name="Dã Tẩu" default_level="1" daily_limit="0">
 			<level id="1" name="Trung lập" level_up="100" require_level="0"/>
-			<level id="2" name="Hữu nghị" level_up="200" require_level="0"/>
-			<level id="3" name="Thân mật" level_up="300" require_level="0"/>
-			<level id="4" name="Kính trọng" level_up="600" require_level="0"/>
-			<level id="5" name="Tôn kính" level_up="900" require_level="0"/>
-			<level id="6" name="Khâm phục" level_up="1500" require_level="0"/>
-			<level id="7" name="Hiển hách" level_up="2400" require_level="0"/>
-			<level id="8" name="Sùng kính" level_up="4800" require_level="0"/>
-			<level id="9" name="Sùng bái" level_up="9600" require_level="0"/>
+			<level id="2" name="Hữu nghị" level_up="300" require_level="0"/>
+			<level id="3" name="Thân mật" level_up="600" require_level="0"/>
+			<level id="4" name="Kính trọng" level_up="1200" require_level="0"/>
+			<level id="5" name="Tôn kính" level_up="2100" require_level="0"/>
+			<level id="6" name="Khâm phục" level_up="3600" require_level="0"/>
+			<level id="7" name="Hiển hách" level_up="5000" require_level="0"/>
+			<level id="8" name="Sùng kính" level_up="9800" require_level="0"/>
+			<level id="9" name="Sùng bái" level_up="19400" require_level="0"/>
 			<level id="10" name="Truyền thuyết" level_up="0" require_level="0"/>
 		</class>
 		<class id="2" name="Quân doanh" default_level="1" daily_limit="0">
