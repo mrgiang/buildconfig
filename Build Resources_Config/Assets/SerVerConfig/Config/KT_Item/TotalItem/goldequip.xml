@@ -240,7 +240,7 @@
 	<ItemData ItemID="31831" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist20" ObjDrop="28" Descript="" Series="1" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="72" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="7|9" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="7|9" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_poison_resist" MagicLevel="7|9" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
@@ -254,7 +254,7 @@
 	<ItemData ItemID="31832" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist19" ObjDrop="28" Descript="" Series="1" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="71" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="4|6" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="4|6" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_poison_resist" MagicLevel="4|6" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
@@ -268,7 +268,7 @@
 	<ItemData ItemID="31833" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist18" ObjDrop="28" Descript="" Series="1" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="70" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="3" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="3" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_poison_resist" MagicLevel="3" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
@@ -283,7 +283,7 @@
 	<ItemData ItemID="31834" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist20" ObjDrop="28" Descript="" Series="2" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="72" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="7|9" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="7|9" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_light_resist" MagicLevel="7|9" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
@@ -297,7 +297,7 @@
 	<ItemData ItemID="31835" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist19" ObjDrop="28" Descript="" Series="2" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="71" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="4|6" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="4|6" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_light_resist" MagicLevel="4|6" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
@@ -311,7 +311,7 @@
 	<ItemData ItemID="31836" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist18" ObjDrop="28" Descript="" Series="2" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="70" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="3" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="3" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_light_resist" MagicLevel="3" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
@@ -326,7 +326,7 @@
 	<ItemData ItemID="31837" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist20" ObjDrop="28" Descript="" Series="3" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="72" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="7|9" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="7|9" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_fire_resist" MagicLevel="7|9" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
@@ -340,7 +340,7 @@
 	<ItemData ItemID="31838" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist19" ObjDrop="28" Descript="" Series="3" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="71" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="4|6" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="4|6" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_fire_resist" MagicLevel="4|6" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
@@ -354,7 +354,7 @@
 	<ItemData ItemID="31839" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist18" ObjDrop="28" Descript="" Series="3" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="70" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="3" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="3" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_fire_resist" MagicLevel="3" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
@@ -369,7 +369,7 @@
 	<ItemData ItemID="31840" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist20" ObjDrop="28" Descript="" Series="4" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="72" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="7|9" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="7|9" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_physics_resist" MagicLevel="7|9" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
@@ -383,7 +383,7 @@
 	<ItemData ItemID="31841" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist19" ObjDrop="28" Descript="" Series="4" Price="688888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="71" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="4|6" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="4|6" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_physics_resist" MagicLevel="4|6" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
@@ -397,7 +397,7 @@
 	<ItemData ItemID="31842" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist18" ObjDrop="28" Descript="" Series="4" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="70" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="3" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="3" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_physics_resist" MagicLevel="3" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />
@@ -412,7 +412,7 @@
 	<ItemData ItemID="31843" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist20" ObjDrop="28" Descript="" Series="5" Price="888888888" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="72" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="7|9" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="7|9" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="7|9" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="7|9" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_cold_resist" MagicLevel="7|9" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="7|9" IsActive="false" Index="3" />
@@ -426,7 +426,7 @@
 	<ItemData ItemID="31844" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist19" ObjDrop="28" Descript="" Series="5" Price="488888888" Level="9" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="71" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="4|6" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="4|6" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="4|6" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="4|6" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_cold_resist" MagicLevel="4|6" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="4|6" IsActive="false" Index="3" />
@@ -440,7 +440,7 @@
 	<ItemData ItemID="31845" Name="Bắc Minh Bội" Genre="3" Category="-1" DetailType="9" ParticularType="0" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-waist18" ObjDrop="28" Descript="" Series="5" Price="488888888" Level="8" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="70" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
     <GreenProp MagicName="steallifeenhance_p" MagicLevel="3" IsActive="true" Index="2" />
-    <GreenProp MagicName="staminamax_v" MagicLevel="3" IsActive="true" Index="3" />
+    <GreenProp MagicName="stealmanaenhance_p" MagicLevel="3" IsActive="true" Index="3" />
     <HiddenProp MagicName="damage_cold_resist" MagicLevel="3" IsActive="false" Index="1" />
     <HiddenProp MagicName="allskill_v|0|1|1" MagicLevel="10" IsActive="false" Index="2" />
     <HiddenProp MagicName="lifereplenish_v" MagicLevel="3" IsActive="false" Index="3" />

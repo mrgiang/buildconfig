@@ -12805,4 +12805,7 @@
   <ShopItem ID="21127" ItemID="10468" Series="5" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="800000"
     LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21128" ItemID="343" Series="5" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="500"
+    LimitType="-1" LimitValue="-1" />
 </ArrayOfShopItem> 
