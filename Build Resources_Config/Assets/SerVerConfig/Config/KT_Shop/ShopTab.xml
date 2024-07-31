@@ -5246,6 +5246,27 @@
     <ShopItem>5322</ShopItem>
     <ShopItem>5323</ShopItem>
     <ShopItem>5324</ShopItem>
+	
+	<ShopItem>5328</ShopItem>
+    <ShopItem>5329</ShopItem>
+    <ShopItem>5330</ShopItem>
+    <ShopItem>5331</ShopItem>
+    <ShopItem>5332</ShopItem>
+    <ShopItem>5333</ShopItem>
+    <ShopItem>5334</ShopItem>
+    <ShopItem>5335</ShopItem>
+	
+    <ShopItem>5336</ShopItem>
+    <ShopItem>5337</ShopItem>
+    <ShopItem>5338</ShopItem>
+    <ShopItem>5339</ShopItem>
+    <ShopItem>5340</ShopItem>
+    <ShopItem>5341</ShopItem>
+    <ShopItem>5342</ShopItem>
+    <ShopItem>5343</ShopItem>
+    <ShopItem>5344</ShopItem>
+
+
   </ShopTab>
   <ShopTab ShopName="Khác" ShopID="247" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>5316</ShopItem>

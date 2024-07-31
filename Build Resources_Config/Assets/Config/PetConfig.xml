@@ -321,12 +321,14 @@
 	
 	<SkillStudyRates>
 		<Data StudyNewRate="100" />
+		<Data StudyNewRate="90" />
+		<Data StudyNewRate="80" />
+		<Data StudyNewRate="70" />
 		<Data StudyNewRate="60" />
 		<Data StudyNewRate="50" />
-		<Data StudyNewRate="45" />
 		<Data StudyNewRate="40" />
-		<Data StudyNewRate="35" />
 		<Data StudyNewRate="30" />
+		<Data StudyNewRate="20" />
 		<Data StudyNewRate="10" />
 	</SkillStudyRates>
 </PetConfig>

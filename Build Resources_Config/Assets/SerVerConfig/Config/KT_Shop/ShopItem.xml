@@ -11453,7 +11453,59 @@
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1"
     LimitType="-1" LimitValue="-1" />
 
-
+  <ShopItem ID="5328" ItemID="12456" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100000"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5329" ItemID="12457" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100000"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5330" ItemID="12458" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100000"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5331" ItemID="12459" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100000"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5332" ItemID="12460" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100000"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5333" ItemID="12461" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100000"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5334" ItemID="12462" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100000"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5335" ItemID="12463" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="100000"
+    LimitType="-1" LimitValue="-1" />
+	
+	  <ShopItem ID="5336" ItemID="12465" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="5337" ItemID="12466" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="5338" ItemID="12467" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="5339" ItemID="12468" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="5340" ItemID="12469" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="5341" ItemID="12470" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="5342" ItemID="12471" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="5343" ItemID="12472" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="5344" ItemID="12473" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="200000"
+    LimitType="-1" LimitValue="-1" />
+	
   <!-- KTC Thường dùng khóa -->
   <ShopItem ID="9985" ItemID="8411" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="4000"
