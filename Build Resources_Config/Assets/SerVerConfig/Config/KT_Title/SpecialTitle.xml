@@ -573,4 +573,48 @@
 		<Sprite Name="HTMV_18" />
 		<Sprite Name="HTMV_19" />
 	</Title>
+		<Title ID="104" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/VLCT.unity3d" AtlasName="VLCT" AnimationSpeed="2">
+		<Sprite Name="VLCT_0" />
+		<Sprite Name="VLCT_1" />
+		<Sprite Name="VLCT_2" />
+		<Sprite Name="VLCT_3" />
+		<Sprite Name="VLCT_4" />
+		<Sprite Name="VLCT_5" />
+		<Sprite Name="VLCT_6" />
+		<Sprite Name="VLCT_7" />
+		<Sprite Name="VLCT_8" />
+		<Sprite Name="VLCT_9" />
+		<Sprite Name="VLCT_10" />
+		<Sprite Name="VLCT_11" />
+		<Sprite Name="VLCT_12" />
+		<Sprite Name="VLCT_13" />
+		<Sprite Name="VLCT_14" />
+		<Sprite Name="VLCT_15" />
+		<Sprite Name="VLCT_16" />
+		<Sprite Name="VLCT_17" />
+		<Sprite Name="VLCT_18" />
+		<Sprite Name="VLCT_19" />
+	</Title>
+		<Title ID="105" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/DK.unity3d" AtlasName="DK" AnimationSpeed="2">
+		<Sprite Name="DK_0" />
+		<Sprite Name="DK_1" />
+		<Sprite Name="DK_2" />
+		<Sprite Name="DK_3" />
+		<Sprite Name="DK_4" />
+		<Sprite Name="DK_5" />
+		<Sprite Name="DK_6" />
+		<Sprite Name="DK_7" />
+		<Sprite Name="DK_8" />
+		<Sprite Name="DK_9" />
+		<Sprite Name="DK_10" />
+		<Sprite Name="DK_11" />
+		<Sprite Name="DK_12" />
+		<Sprite Name="DK_13" />
+		<Sprite Name="DK_14" />
+		<Sprite Name="DK_15" />
+		<Sprite Name="DK_16" />
+		<Sprite Name="DK_17" />
+		<Sprite Name="DK_18" />
+		<Sprite Name="DK_19" />
+	</Title>
 </SpecialTitle>
