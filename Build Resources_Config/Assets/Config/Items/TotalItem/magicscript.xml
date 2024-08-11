@@ -5112,7 +5112,7 @@
           IconAtlasName="ItemIcon_3" Image="ThitBo" ObjDrop="38"
           Descript="Vật phẩm sự kiện giỗ tổ Hùng Vương, mang đến Sứ Giả Sự Kiện để đổi lấy nhiều phần quà giá trị."
           Series="-1" Price="0" Level="1"
-          Stack="1000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+          Stack="9000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
           SmeltableQuality="0"
           MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -5122,7 +5122,7 @@
           ParticularType="454" IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3"
           Image="ThitDe" ObjDrop="38"
           Descript="Vật phẩm sự kiện giỗ tổ Hùng Vương, mang đến Sứ Giả Sự Kiện để đổi lấy nhiều phần quà giá trị."
-          Series="-1" Price="0" Level="1" Stack="1000" ResWomanID="-1"
+          Series="-1" Price="0" Level="1" Stack="9000" ResWomanID="-1"
           ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0"
           BuffID="-1"
           DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
@@ -5133,7 +5133,7 @@
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="ThitLon"
           ObjDrop="38"
           Descript="Vật phẩm sự kiện giỗ tổ Hùng Vương, mang đến Sứ Giả Sự Kiện để đổi lấy nhiều phần quà giá trị."
-          Series="-1" Price="0" Level="1" Stack="1000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="9000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -5143,7 +5143,7 @@
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="Xoi"
           ObjDrop="38"
           Descript="Vật phẩm sự kiện giỗ tổ Hùng Vương, mang đến Sứ Giả Sự Kiện để đổi lấy nhiều phần quà giá trị."
-          Series="-1" Price="0" Level="1" Stack="1000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="9000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -5153,7 +5153,7 @@
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="Che"
           ObjDrop="38"
           Descript="Vật phẩm sự kiện giỗ tổ Hùng Vương, mang đến Sứ Giả Sự Kiện để đổi lấy nhiều phần quà giá trị."
-          Series="-1" Price="0" Level="1" Stack="1000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="9000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -5163,7 +5163,7 @@
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="food_114_s"
           ObjDrop="38"
           Descript="Vật phẩm sự kiện giỗ tổ Hùng Vương, mang đến Sứ Giả Sự Kiện để đổi lấy nhiều phần quà giá trị."
-          Series="-1" Price="0" Level="1" Stack="1000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="9000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -5173,7 +5173,7 @@
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="HoaQua"
           ObjDrop="38"
           Descript="Vật phẩm sự kiện giỗ tổ Hùng Vương, mang đến Sứ Giả Sự Kiện để đổi lấy nhiều phần quà giá trị."
-          Series="-1" Price="0" Level="1" Stack="1000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="9000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
@@ -5183,7 +5183,7 @@
           ParticularType="460" IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3"
           Image="MamLeChay" ObjDrop="38"
           Descript="Nhấn sự dụng ngươi sẽ nhận được nhiều phần giá trị, phần thưởng khi đạt mốc sử dụng sẽ vô cùng giá trị"
-          Series="-1" Price="0" Level="1" Stack="50" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200305" FightPower="8871">
           <UnLockInterval>0</UnLockInterval>
@@ -5193,7 +5193,7 @@
           ParticularType="461" IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3"
           Image="MamLeMan" ObjDrop="38"
           Descript="Nhấn sự dụng ngươi sẽ nhận được nhiều phần giá trị, phần thưởng khi đạt mốc sử dụng sẽ vô cùng giá trị"
-          Series="-1" Price="0" Level="2" Stack="50" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="2" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200306" FightPower="8872">
           <UnLockInterval>0</UnLockInterval>
@@ -5203,7 +5203,7 @@
           ParticularType="462" IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3"
           Image="MamLeDacBiet" ObjDrop="38"
           Descript="Nhấn sự dụng ngươi sẽ nhận được nhiều phần giá trị, phần thưởng khi đạt mốc sử dụng sẽ vô cùng giá trị"
-          Series="-1" Price="0" Level="3" Stack="50" ResWomanID="-1" ResManID="-1" SuiteID="0"
+          Series="-1" Price="0" Level="3" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
           Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
           ScriptID="200307" FightPower="8873">
           <UnLockInterval>0</UnLockInterval>
