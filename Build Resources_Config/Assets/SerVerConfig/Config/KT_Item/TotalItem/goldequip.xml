@@ -451,5 +451,275 @@
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
 	</ItemData>
-
+<!-- ao hkmk-->
+	<ItemData ItemID="1391" Name="Mộng Long Kim Ti Chính Hồng Cà Sa" Genre="3" Category="-1" DetailType="2" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth03-3" ObjDrop="22" Descript="" Series="3" Price="49999" Level="10" Stack="1" ResWomanID="4" ResManID="4" SuiteID="1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="3000000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10011|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10019|1|3" MagicLevel="10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="99" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="1" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_fire_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1396" Name="Phục Ma Huyền Hoàng Cà Sa" Genre="3" Category="-1" DetailType="2" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth03-2" ObjDrop="22" Descript="" Series="5" Price="49999" Level="10" Stack="1" ResWomanID="4" ResManID="4" SuiteID="2" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10023|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="1" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1401" Name="Tứ Không Tử Kim Cà Sa" Genre="3" Category="-1" DetailType="2" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth03-1" ObjDrop="22" Descript="" Series="5" Price="49999" Level="10" Stack="1" ResWomanID="4" ResManID="4" SuiteID="3" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10025|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="1" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1406" Name="Hám Thiên Vũ Thần Tương Kim Giáp" Genre="3" Category="-1" DetailType="2" ParticularType="4" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth15-3" ObjDrop="25" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="16" ResManID="16" SuiteID="4" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="3000000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10037|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="2" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1411" Name="Kế Nghiệp Huyền Vũ Hoàng Kim Khải" Genre="3" Category="-1" DetailType="2" ParticularType="4" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth15-3" ObjDrop="25" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="16" ResManID="16" SuiteID="5" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10038|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="95" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="2" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1416" Name="Ngự Long Chiến Thần Phi Quải giáp" Genre="3" Category="-1" DetailType="4" ParticularType="1" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth15-3" ObjDrop="36" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="16" ResManID="16" SuiteID="6" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="damage_fire_resist" MagicLevel="9|10" IsActive="true" Index="2" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10043|1|3" MagicLevel="10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_all_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="39" ReqPropValue="2" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="manamax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="manamax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="state_burn_resisttime" EnhMAPA1Min="40" EnhMAPA1Max="40" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1421" Name="Vô Gian Thanh Phong Truy Y" Genre="3" Category="-1" DetailType="2" ParticularType="7" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-fm-cloth03-2" ObjDrop="24" Descript="" Series="5" Price="49999" Level="10" Stack="1" ResWomanID="4" ResManID="4" SuiteID="7" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10159|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="5" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1426" Name="Vô Ma Tử Khâm Cà Sa" Genre="3" Category="-1" DetailType="2" ParticularType="7" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-fm-cloth03-2" ObjDrop="22" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="4" ResManID="4" SuiteID="8" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="2" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="135" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="5" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="630" BasicPropPA1Max="630" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1436" Name="Tê Hoàng Tuệ Tâm Khinh Sa Y" Genre="3" Category="-1" DetailType="2" ParticularType="18" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-fm-cloth14-1" ObjDrop="24" Descript="" Series="5" Price="49999" Level="10" Stack="1" ResWomanID="15" ResManID="15" SuiteID="10" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10189|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="6" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1446" Name="U Lung Xích Yết Mật trang" Genre="3" Category="-1" DetailType="2" ParticularType="16" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth08-3" ObjDrop="22" Descript="" Series="3" Price="49999" Level="10" Stack="1" ResWomanID="9" ResManID="9" SuiteID="12" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10105|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10107|1|3" MagicLevel="10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="135" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="4" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="630" BasicPropPA1Max="630" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_fire_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+	<ItemData ItemID="1451" Name="Minh ảo U Độc ám Y" Genre="3" Category="-1" DetailType="2" ParticularType="16" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth08-3" ObjDrop="22" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="9" ResManID="9" SuiteID="13" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="true" Index="2" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10113|1|3" MagicLevel="10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="9|10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="4" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+  <ItemData ItemID="1461" Name="Băng Hàn Huyền Y Thúc Giáp" Genre="3" Category="-1" DetailType="2" ParticularType="3" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth11-3" ObjDrop="23" Descript="" Series="5" Price="49999" Level="10" Stack="1" ResWomanID="12" ResManID="12" SuiteID="15" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="true" Index="2" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10130|1|3" MagicLevel="10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10127|1|3" MagicLevel="10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="95" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListReqProp ReqPropType="33" ReqPropValue="165" Index="3" />
+    <ListReqProp ReqPropType="39" ReqPropValue="3" Index="4" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1471" Name="Sâm Hoang Kim Tiền Liên Hoàn Giáp" Genre="3" Category="-1" DetailType="2" ParticularType="3" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth11-3" ObjDrop="22" Descript="" Series="5" Price="49999" Level="10" Stack="1" ResWomanID="21" ResManID="21" SuiteID="17" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|11380|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="95" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListReqProp ReqPropType="33" ReqPropValue="165" Index="3" />
+    <ListReqProp ReqPropType="39" ReqPropValue="3" Index="4" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1481" Name="Đồng Cừu Giáng Long Cái Y" Genre="3" Category="-1" DetailType="2" ParticularType="5" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth18-3" ObjDrop="22" Descript="" Series="5" Price="49999" Level="10" Stack="1" ResWomanID="19" ResManID="19" SuiteID="19" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="2" />
+    <GreenProp MagicName="vitality_v" MagicLevel="8|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10206|1|3" MagicLevel="10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="110" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="7" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="500" BasicPropPA1Max="500" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="80" BasicPropPA1Max="80" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_cold_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1486" Name="Địch Khái Cửu Đại Cái Y" Genre="3" Category="-1" DetailType="2" ParticularType="5" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth18-3" ObjDrop="22" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="19" ResManID="19" SuiteID="20" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10213|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10215|1|3" MagicLevel="10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="7" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1491" Name="Ma Sát Tàn Dương ảnh Huyết Giáp" Genre="3" Category="-1" DetailType="2" ParticularType="16" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth09-3" ObjDrop="23" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="10" ResManID="10" SuiteID="21" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="state_stun_resisttime" MagicLevel="9|10" IsActive="true" Index="2" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10225|1|3" MagicLevel="10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="210" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="8" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1506" Name="Lăng Nhạc Vô Ngã đạo bào" Genre="3" Category="-1" DetailType="2" ParticularType="15" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth06-3" ObjDrop="24" Descript="" Series="4" Price="49999" Level="10" Stack="1" ResWomanID="7" ResManID="7" SuiteID="24" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="9|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10247|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10255|1|3" MagicLevel="10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="95" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="130" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="9" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="630" BasicPropPA1Max="630" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_physics_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
+    <ItemData ItemID="1516" Name="Sương Tinh Ngạo Sương đạo bào" Genre="3" Category="-1" DetailType="2" ParticularType="15" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth05-3" ObjDrop="24" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="7" ResManID="7" SuiteID="26" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="9|10" IsActive="true" Index="1" />
+    <GreenProp MagicName="magic_skilladdition_addskilllevel|10270|1|3" MagicLevel="10" IsActive="true" Index="2" />
+    <GreenProp MagicName="manamax_v" MagicLevel="7|10" IsActive="true" Index="3" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="9|10" IsActive="false" Index="1" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="9|10" IsActive="false" Index="2" />
+    <HiddenProp MagicName="magic_skilladdition_addskilllevel|10290|1|3" MagicLevel="10" IsActive="false" Index="3" />
+    <ListReqProp ReqPropType="36" ReqPropValue="95" Index="1" />
+    <ListReqProp ReqPropType="32" ReqPropValue="260" Index="2" />
+    <ListReqProp ReqPropType="39" ReqPropValue="10" Index="3" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="720" BasicPropPA1Max="720" Index="1" />
+    <ListBasicProp BasicPropType="durability_v" BasicPropPA1Min="90" BasicPropPA1Max="90" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifemax_v" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="damage_poison_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
+  </ItemData>
 </ArrayOfItemData>

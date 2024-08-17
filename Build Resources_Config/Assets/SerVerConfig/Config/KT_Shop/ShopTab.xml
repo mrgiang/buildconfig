@@ -5766,4 +5766,27 @@
     <ShopItem>20333</ShopItem>
     <ShopItem>20334</ShopItem>
   </ShopTab>
+    <ShopTab ShopName="Cửa hàng áo dzú hoàng kim" ShopID="231" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+    <ShopItem>21130</ShopItem>
+	<ShopItem>21131</ShopItem>
+    <ShopItem>21132</ShopItem>
+    <ShopItem>21133</ShopItem>
+    <ShopItem>21134</ShopItem>
+    <ShopItem>21135</ShopItem>
+    <ShopItem>21136</ShopItem>
+    <ShopItem>21137</ShopItem>
+    <ShopItem>21138</ShopItem>
+    <ShopItem>21139</ShopItem>
+    <ShopItem>21140</ShopItem>
+    <ShopItem>21141</ShopItem>
+    <ShopItem>21142</ShopItem>
+    <ShopItem>21143</ShopItem>
+    <ShopItem>21144</ShopItem>
+    <ShopItem>21145</ShopItem>
+    <ShopItem>21146</ShopItem>
+    <ShopItem>21147</ShopItem>
+
+  </ShopTab>
 </ArrayOfShopTab>

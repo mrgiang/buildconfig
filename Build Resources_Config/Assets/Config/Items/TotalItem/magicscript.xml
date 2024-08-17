@@ -50886,5 +50886,16 @@
 		ScriptID="200004" FightPower="-1">
 		<UnLockInterval>0</UnLockInterval>
 	</ItemData>
-
+	
+	<ItemData ItemID="110002"
+          Name="Túi áo hoàng kim" Genre="6" DetailType="1" ParticularType="2048"
+          IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0016_s"
+          ObjDrop="371"
+          Descript="Bên trong chứa mảnh áo để đổi ra áo dzú hoàng kim môn phái"
+          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1"
+          ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0"
+          BuffID="-1"
+          DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+          <UnLockInterval>0</UnLockInterval>
+     </ItemData>
 </ArrayOfItemData>
