@@ -12861,67 +12861,434 @@
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="500"
     LimitType="-1" LimitValue="-1" />
 <!--ao hkmk-->
-  <ShopItem ID="21130" ItemID="1391" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+<!--thieu lam hkmk-->
+  <ShopItem ID="21130" ItemID="1390" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21131" ItemID="1396" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+  <ShopItem ID="21131" ItemID="1391" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21132" ItemID="1401" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21132" ItemID="1392" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	
-  <ShopItem ID="21133" ItemID="1406" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21133" ItemID="1393" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21134" ItemID="1411" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21134" ItemID="1394" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21135" ItemID="1416" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21135" ItemID="1395" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	
-  <ShopItem ID="21136" ItemID="1421" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21136" ItemID="1396" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21137" ItemID="1426" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21137" ItemID="1397" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	
-  <ShopItem ID="21138" ItemID="1436" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21138" ItemID="1398" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21139" ItemID="1446" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
-    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
-    LimitType="-1" LimitValue="-1" />	
-  <ShopItem ID="21140" ItemID="1451" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21139" ItemID="1399" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	
-  <ShopItem ID="21141" ItemID="1461" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21140" ItemID="1400" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21142" ItemID="1471" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21141" ItemID="1401" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	
-  <ShopItem ID="21143" ItemID="1481" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21142" ItemID="1402" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21144" ItemID="1486" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	  <ShopItem ID="21143" ItemID="1403" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	
-  <ShopItem ID="21145" ItemID="1491" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+  <ShopItem ID="21144" ItemID="1404" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	
-  <ShopItem ID="21146" ItemID="1506" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
-    OfficialLevel="-" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
-    LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="21147" ItemID="1516" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+<!--thien vuong hkmk-->
+  <ShopItem ID="21230" ItemID="1405" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-
-	
+  <ShopItem ID="21231" ItemID="1406" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21232" ItemID="1407" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21233" ItemID="1408" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21234" ItemID="1409" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21235" ItemID="1410" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21236" ItemID="1411" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21237" ItemID="1412" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21238" ItemID="1413" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21239" ItemID="1414" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21240" ItemID="1415" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21241" ItemID="1416" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21242" ItemID="1417" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21243" ItemID="1418" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21244" ItemID="1419" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+<!--nga my hkmk-->
+  <ShopItem ID="21330" ItemID="1420" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21331" ItemID="1421" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21332" ItemID="1422" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21333" ItemID="1423" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21334" ItemID="1424" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21335" ItemID="1425" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21336" ItemID="1426" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21337" ItemID="1427" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21338" ItemID="1428" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21339" ItemID="1429" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21340" ItemID="1430" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21341" ItemID="1431" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21342" ItemID="1432" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21343" ItemID="1433" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21344" ItemID="1434" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	<!--thuy yen hkmk-->
+  <ShopItem ID="21430" ItemID="1435" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21431" ItemID="1436" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21432" ItemID="1437" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21433" ItemID="1438" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21434" ItemID="1439" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21435" ItemID="1440" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21436" ItemID="1441" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21437" ItemID="1442" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21438" ItemID="1443" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21439" ItemID="1444" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	<!--ngu doc hkmk-->
+  <ShopItem ID="21530" ItemID="1445" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21531" ItemID="1446" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21532" ItemID="1447" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21533" ItemID="1448" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21534" ItemID="1449" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21535" ItemID="1450" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21536" ItemID="1451" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21537" ItemID="1452" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21538" ItemID="1453" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21539" ItemID="1454" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21540" ItemID="1455" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21541" ItemID="1456" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21542" ItemID="1457" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21543" ItemID="1458" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21544" ItemID="1459" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+<!--duong mon hkmk-->
+  <ShopItem ID="21630" ItemID="1460" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21631" ItemID="1461" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21632" ItemID="1462" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21633" ItemID="1463" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21634" ItemID="1464" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21635" ItemID="1465" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21636" ItemID="1466" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21637" ItemID="1467" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21638" ItemID="1468" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21639" ItemID="1469" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21640" ItemID="1470" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21641" ItemID="1471" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21642" ItemID="1472" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21643" ItemID="1473" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21644" ItemID="1474" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21645" ItemID="1475" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21646" ItemID="1476" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21647" ItemID="1477" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21648" ItemID="1478" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21649" ItemID="1479" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+<!--cai bang hkmk-->
+  <ShopItem ID="21730" ItemID="1480" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21731" ItemID="1481" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21732" ItemID="1482" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21733" ItemID="1483" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21734" ItemID="1484" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21735" ItemID="1485" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21736" ItemID="1486" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21737" ItemID="1487" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21738" ItemID="1488" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21739" ItemID="1489" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+<!--thien nhan hkmk-->
+  <ShopItem ID="21830" ItemID="1490" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21831" ItemID="1491" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21832" ItemID="1492" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21833" ItemID="1493" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21834" ItemID="1494" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21835" ItemID="1495" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21836" ItemID="1496" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21837" ItemID="1497" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21838" ItemID="1498" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21839" ItemID="1499" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21840" ItemID="1500" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21841" ItemID="1501" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21842" ItemID="1502" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21843" ItemID="1503" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="21844" ItemID="1504" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	<!--vo dang hkmk-->
+  <ShopItem ID="21930" ItemID="1505" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21931" ItemID="1506" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="21932" ItemID="1507" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21933" ItemID="1508" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21934" ItemID="1509" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21935" ItemID="1510" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21936" ItemID="1511" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21937" ItemID="1512" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21938" ItemID="1513" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="21939" ItemID="1514" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		<!--con lon hkmk-->
+  <ShopItem ID="22030" ItemID="1515" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="22031" ItemID="1516" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="22032" ItemID="1517" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="22033" ItemID="1518" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="22034" ItemID="1519" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="22035" ItemID="1520" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="22036" ItemID="1521" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="22037" ItemID="1522" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="22038" ItemID="1523" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+	  <ShopItem ID="22039" ItemID="1524" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="22040" ItemID="1525" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="22041" ItemID="1526" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="22042" ItemID="1527" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		  <ShopItem ID="22043" ItemID="1528" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
+		<ShopItem ID="22044" ItemID="1529" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
+    LimitType="-1" LimitValue="-1" />
 </ArrayOfShopItem> 

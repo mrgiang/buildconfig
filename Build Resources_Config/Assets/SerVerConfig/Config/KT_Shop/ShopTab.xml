@@ -5766,7 +5766,7 @@
     <ShopItem>20333</ShopItem>
     <ShopItem>20334</ShopItem>
   </ShopTab>
-    <ShopTab ShopName="Cửa hàng áo dzú hoàng kim" ShopID="231" MoneyType="1" Discount="0"
+    <ShopTab ShopName="Cửa hàng Thiếu Lâm hoàng kim" ShopID="9231" MoneyType="1" Discount="0"
     TimeSaleStart=""
     TimeSaleEnd="">
     <ShopItem>21130</ShopItem>
@@ -5784,9 +5784,166 @@
     <ShopItem>21142</ShopItem>
     <ShopItem>21143</ShopItem>
     <ShopItem>21144</ShopItem>
-    <ShopItem>21145</ShopItem>
-    <ShopItem>21146</ShopItem>
-    <ShopItem>21147</ShopItem>
-
+  </ShopTab>
+    <ShopTab ShopName="Cửa hàng Thiên Vương hoàng kim" ShopID="9232" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+    <ShopItem>21230</ShopItem>
+	<ShopItem>21231</ShopItem>
+    <ShopItem>21232</ShopItem>
+    <ShopItem>21233</ShopItem>
+    <ShopItem>21234</ShopItem>
+    <ShopItem>21235</ShopItem>
+    <ShopItem>21236</ShopItem>
+    <ShopItem>21237</ShopItem>
+    <ShopItem>21238</ShopItem>
+    <ShopItem>21239</ShopItem>
+    <ShopItem>21240</ShopItem>
+    <ShopItem>21241</ShopItem>
+    <ShopItem>21242</ShopItem>
+    <ShopItem>21243</ShopItem>
+    <ShopItem>21244</ShopItem>
+  </ShopTab>
+	<ShopTab ShopName="Cửa hàng Nga My hoàng kim" ShopID="9233" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>21330</ShopItem>
+	<ShopItem>21331</ShopItem>
+    <ShopItem>21332</ShopItem>
+    <ShopItem>21333</ShopItem>
+    <ShopItem>21334</ShopItem>
+    <ShopItem>21335</ShopItem>
+    <ShopItem>21336</ShopItem>
+    <ShopItem>21337</ShopItem>
+    <ShopItem>21338</ShopItem>
+    <ShopItem>21339</ShopItem>
+    <ShopItem>21340</ShopItem>
+    <ShopItem>21341</ShopItem>
+    <ShopItem>21342</ShopItem>
+    <ShopItem>21343</ShopItem>
+    <ShopItem>21344</ShopItem>
+ </ShopTab>
+	<ShopTab ShopName="Cửa hàng Thúy Yên hoàng kim" ShopID="9234" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>21430</ShopItem>
+	<ShopItem>21431</ShopItem>
+    <ShopItem>21432</ShopItem>
+    <ShopItem>21433</ShopItem>
+    <ShopItem>21434</ShopItem>
+    <ShopItem>21435</ShopItem>
+    <ShopItem>21436</ShopItem>
+    <ShopItem>21437</ShopItem>
+    <ShopItem>21438</ShopItem>
+    <ShopItem>21439</ShopItem>
+ </ShopTab>
+	<ShopTab ShopName="Cửa hàng Ngũ Độc hoàng kim" ShopID="9235" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>21530</ShopItem>
+	<ShopItem>21531</ShopItem>
+    <ShopItem>21532</ShopItem>
+    <ShopItem>21533</ShopItem>
+    <ShopItem>21534</ShopItem>
+    <ShopItem>21535</ShopItem>
+    <ShopItem>21536</ShopItem>
+    <ShopItem>21537</ShopItem>
+    <ShopItem>21538</ShopItem>
+    <ShopItem>21539</ShopItem>
+    <ShopItem>21540</ShopItem>
+    <ShopItem>21541</ShopItem>
+    <ShopItem>21542</ShopItem>
+    <ShopItem>21543</ShopItem>
+    <ShopItem>21544</ShopItem>
+ </ShopTab>
+	<ShopTab ShopName="Cửa hàng Đường Môn hoàng kim" ShopID="9236" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>21630</ShopItem>
+	<ShopItem>21631</ShopItem>
+    <ShopItem>21632</ShopItem>
+    <ShopItem>21633</ShopItem>
+    <ShopItem>21634</ShopItem>
+    <ShopItem>21635</ShopItem>
+    <ShopItem>21636</ShopItem>
+    <ShopItem>21637</ShopItem>
+    <ShopItem>21638</ShopItem>
+    <ShopItem>21639</ShopItem>
+    <ShopItem>21640</ShopItem>
+    <ShopItem>21641</ShopItem>
+    <ShopItem>21642</ShopItem>
+    <ShopItem>21643</ShopItem>
+    <ShopItem>21644</ShopItem>
+	<ShopItem>21645</ShopItem>
+	<ShopItem>21646</ShopItem>
+	<ShopItem>21647</ShopItem>
+	<ShopItem>21648</ShopItem>
+    <ShopItem>21649</ShopItem>
+ </ShopTab>
+	<ShopTab ShopName="Cửa hàng Cái Bang hoàng kim" ShopID="9237" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>21730</ShopItem>
+	<ShopItem>21731</ShopItem>
+    <ShopItem>21732</ShopItem>
+    <ShopItem>21733</ShopItem>
+    <ShopItem>21734</ShopItem>
+    <ShopItem>21735</ShopItem>
+    <ShopItem>21736</ShopItem>
+    <ShopItem>21737</ShopItem>
+    <ShopItem>21738</ShopItem>
+    <ShopItem>21739</ShopItem>
+ </ShopTab>
+	<ShopTab ShopName="Cửa hàng Thiên Nhẫn hoàng kim" ShopID="9238" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>21830</ShopItem>
+	<ShopItem>21831</ShopItem>
+    <ShopItem>21832</ShopItem>
+    <ShopItem>21833</ShopItem>
+    <ShopItem>21834</ShopItem>
+    <ShopItem>21835</ShopItem>
+    <ShopItem>21836</ShopItem>
+    <ShopItem>21837</ShopItem>
+    <ShopItem>21838</ShopItem>
+    <ShopItem>21839</ShopItem>
+    <ShopItem>21840</ShopItem>
+    <ShopItem>21841</ShopItem>
+    <ShopItem>21842</ShopItem>
+    <ShopItem>21843</ShopItem>
+    <ShopItem>21844</ShopItem>
+ </ShopTab>
+	<ShopTab ShopName="Cửa hàng Võ Đang hoàng kim" ShopID="9239" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>21930</ShopItem>
+	<ShopItem>21931</ShopItem>
+    <ShopItem>21932</ShopItem>
+    <ShopItem>21933</ShopItem>
+    <ShopItem>21934</ShopItem>
+    <ShopItem>21935</ShopItem>
+    <ShopItem>21936</ShopItem>
+    <ShopItem>21937</ShopItem>
+    <ShopItem>21938</ShopItem>
+    <ShopItem>21939</ShopItem>
+ </ShopTab>
+	<ShopTab ShopName="Cửa hàng Côn Lôn hoàng kim" ShopID="9240" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>22030</ShopItem>
+	<ShopItem>22031</ShopItem>
+    <ShopItem>22032</ShopItem>
+    <ShopItem>22033</ShopItem>
+    <ShopItem>22034</ShopItem>
+    <ShopItem>22035</ShopItem>
+    <ShopItem>22036</ShopItem>
+    <ShopItem>22037</ShopItem>
+    <ShopItem>22038</ShopItem>
+    <ShopItem>22039</ShopItem>
+    <ShopItem>22040</ShopItem>
+    <ShopItem>22041</ShopItem>
+    <ShopItem>22042</ShopItem>
+    <ShopItem>22043</ShopItem>
+    <ShopItem>22044</ShopItem>
   </ShopTab>
 </ArrayOfShopTab>

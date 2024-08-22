@@ -388,7 +388,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="40" EnhMAPA1Max="40" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="skillselfdamagetrim" EnhMAPA1Min="10" EnhMAPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="1416" Name="Ngự Long Chiến Thần Phi Quải giáp" Genre="3" Category="-1" DetailType="4" ParticularType="1" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth15-3" ObjDrop="36" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="16" ResManID="16" SuiteID="6" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+  <ItemData ItemID="1416" Name="Ngự Long Chiến Thần Phi Quải giáp" Genre="3" Category="-1" DetailType="2" ParticularType="1" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-ma-cloth15-3" ObjDrop="36" Descript="" Series="1" Price="49999" Level="10" Stack="1" ResWomanID="16" ResManID="16" SuiteID="6" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
     <GreenProp MagicName="damage_fire_resist" MagicLevel="9|10" IsActive="true" Index="2" />
     <GreenProp MagicName="magic_skilladdition_addskilllevel|10043|1|3" MagicLevel="10" IsActive="true" Index="3" />

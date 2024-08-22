@@ -13666,6 +13666,24 @@
 	<Drop ItemID="8462" RandRate="200" />
 	<Drop ItemID="8463" RandRate="200" />
 	
+	<Drop ItemID="34464" RandRate="200" />
+	<Drop ItemID="34465" RandRate="200" />
+	<Drop ItemID="34466" RandRate="200" />
+	<Drop ItemID="34467" RandRate="200" />
+	<Drop ItemID="34468" RandRate="200" />
+	<Drop ItemID="34469" RandRate="200" />
+	<Drop ItemID="34470" RandRate="200" />
+	<Drop ItemID="34501" RandRate="200" />
+	<Drop ItemID="34502" RandRate="200" />
+	<Drop ItemID="34503" RandRate="200" />
+	<Drop ItemID="34505" RandRate="200" />
+	<Drop ItemID="34506" RandRate="200" />
+	<Drop ItemID="34513" RandRate="200" />
+	<Drop ItemID="34514" RandRate="200" />
+	<Drop ItemID="34516" RandRate="200" />
+	<Drop ItemID="34517" RandRate="200" />
+	<Drop ItemID="34515" RandRate="200" />
+	
 	<Drop ItemID="1605" RandRate="20000" />
 	<Drop ItemID="1606" RandRate="20000" />
 	<Drop ItemID="1607" RandRate="20000" />
@@ -13850,6 +13868,23 @@
 	<Drop ItemID="1789" RandRate="20000" />
 	<Drop ItemID="1790" RandRate="20000" />
 	<Drop ItemID="1791" RandRate="20000" />
+	<Drop ItemID="34464" RandRate="200" />
+	<Drop ItemID="34465" RandRate="200" />
+	<Drop ItemID="34466" RandRate="200" />
+	<Drop ItemID="34467" RandRate="200" />
+	<Drop ItemID="34468" RandRate="200" />
+	<Drop ItemID="34469" RandRate="200" />
+	<Drop ItemID="34470" RandRate="200" />
+	<Drop ItemID="34501" RandRate="200" />
+	<Drop ItemID="34502" RandRate="200" />
+	<Drop ItemID="34503" RandRate="200" />
+	<Drop ItemID="34505" RandRate="200" />
+	<Drop ItemID="34506" RandRate="200" />
+	<Drop ItemID="34513" RandRate="200" />
+	<Drop ItemID="34514" RandRate="200" />
+	<Drop ItemID="34516" RandRate="200" />
+	<Drop ItemID="34517" RandRate="200" />
+	<Drop ItemID="34515" RandRate="200" />
 	<!-- Đồ Phổ 
 	<Drop ItemID="12049" RandRate="10" />
 	<Drop ItemID="12050" RandRate="10" />
@@ -14030,6 +14065,23 @@
 	<Drop ItemID="1789" RandRate="20000" />
 	<Drop ItemID="1790" RandRate="20000" />
 	<Drop ItemID="1791" RandRate="20000" />
+	<Drop ItemID="34464" RandRate="200" />
+	<Drop ItemID="34465" RandRate="200" />
+	<Drop ItemID="34466" RandRate="200" />
+	<Drop ItemID="34467" RandRate="200" />
+	<Drop ItemID="34468" RandRate="200" />
+	<Drop ItemID="34469" RandRate="200" />
+	<Drop ItemID="34470" RandRate="200" />
+	<Drop ItemID="34501" RandRate="200" />
+	<Drop ItemID="34502" RandRate="200" />
+	<Drop ItemID="34503" RandRate="200" />
+	<Drop ItemID="34505" RandRate="200" />
+	<Drop ItemID="34506" RandRate="200" />
+	<Drop ItemID="34513" RandRate="200" />
+	<Drop ItemID="34514" RandRate="200" />
+	<Drop ItemID="34516" RandRate="200" />
+	<Drop ItemID="34517" RandRate="200" />
+	<Drop ItemID="34515" RandRate="200" />
 	<!-- Đồ Phổ 
 	<Drop ItemID="8740" RandRate="10" />
 	<Drop ItemID="8741" RandRate="10" />
@@ -14200,6 +14252,23 @@
 	<Drop ItemID="1789" RandRate="20000" />
 	<Drop ItemID="1790" RandRate="20000" />
 	<Drop ItemID="1791" RandRate="20000" />
+	<Drop ItemID="34464" RandRate="200" />
+	<Drop ItemID="34465" RandRate="200" />
+	<Drop ItemID="34466" RandRate="200" />
+	<Drop ItemID="34467" RandRate="200" />
+	<Drop ItemID="34468" RandRate="200" />
+	<Drop ItemID="34469" RandRate="200" />
+	<Drop ItemID="34470" RandRate="200" />
+	<Drop ItemID="34501" RandRate="200" />
+	<Drop ItemID="34502" RandRate="200" />
+	<Drop ItemID="34503" RandRate="200" />
+	<Drop ItemID="34505" RandRate="200" />
+	<Drop ItemID="34506" RandRate="200" />
+	<Drop ItemID="34513" RandRate="200" />
+	<Drop ItemID="34514" RandRate="200" />
+	<Drop ItemID="34516" RandRate="200" />
+	<Drop ItemID="34517" RandRate="200" />
+	<Drop ItemID="34515" RandRate="200" />
 	<!-- Đồ Phổ 
 	<Drop ItemID="8765" RandRate="10" />
 	<Drop ItemID="8766" RandRate="10" />
@@ -14370,6 +14439,23 @@
 	<Drop ItemID="1789" RandRate="20000" />
 	<Drop ItemID="1790" RandRate="20000" />
 	<Drop ItemID="1791" RandRate="20000" />
+	<Drop ItemID="34464" RandRate="200" />
+	<Drop ItemID="34465" RandRate="200" />
+	<Drop ItemID="34466" RandRate="200" />
+	<Drop ItemID="34467" RandRate="200" />
+	<Drop ItemID="34468" RandRate="200" />
+	<Drop ItemID="34469" RandRate="200" />
+	<Drop ItemID="34470" RandRate="200" />
+	<Drop ItemID="34501" RandRate="200" />
+	<Drop ItemID="34502" RandRate="200" />
+	<Drop ItemID="34503" RandRate="200" />
+	<Drop ItemID="34505" RandRate="200" />
+	<Drop ItemID="34506" RandRate="200" />
+	<Drop ItemID="34513" RandRate="200" />
+	<Drop ItemID="34514" RandRate="200" />
+	<Drop ItemID="34516" RandRate="200" />
+	<Drop ItemID="34517" RandRate="200" />
+	<Drop ItemID="34515" RandRate="200" />
 	<!-- Đồ Phổ 
 	<Drop ItemID="8705" RandRate="10" />
 	<Drop ItemID="8706" RandRate="10" />
@@ -14501,6 +14587,23 @@
 	<Drop ItemID="8516" RandRate="1000" />
 	<Drop ItemID="8517" RandRate="1000" />
 	<Drop ItemID="8518" RandRate="1000" />
+<Drop ItemID="34464" RandRate="200" />
+	<Drop ItemID="34465" RandRate="200" />
+	<Drop ItemID="34466" RandRate="200" />
+	<Drop ItemID="34467" RandRate="200" />
+	<Drop ItemID="34468" RandRate="200" />
+	<Drop ItemID="34469" RandRate="200" />
+	<Drop ItemID="34470" RandRate="200" />
+	<Drop ItemID="34501" RandRate="200" />
+	<Drop ItemID="34502" RandRate="200" />
+	<Drop ItemID="34503" RandRate="200" />
+	<Drop ItemID="34505" RandRate="200" />
+	<Drop ItemID="34506" RandRate="200" />
+	<Drop ItemID="34513" RandRate="200" />
+	<Drop ItemID="34514" RandRate="200" />
+	<Drop ItemID="34516" RandRate="200" />
+	<Drop ItemID="34517" RandRate="200" />
+	<Drop ItemID="34515" RandRate="200" />
   </DropProfile>
   <DropProfile ProfileName="LieuThanhThanh" Count="30" RandRange="2500000" CopySceneOnly="false" ItemRate="100" MagicRate="80" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="8" MaxItemLevelScale="90">
 	<Drop ItemID="1029" RandRate="20000" />
