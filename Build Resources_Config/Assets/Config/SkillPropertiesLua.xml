@@ -6647,7 +6647,7 @@
         <SkillLevelValue Level="21" Value="200" />
       </Value>
     </Symbol>
-    <Symbol Name="state_stun_attackrate">
+    <Symbol Name="state_stun_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
 
@@ -6934,7 +6934,7 @@
         <SkillLevelValue Level="21" Value="200" />
       </Value>
     </Symbol>
-    <Symbol Name="state_stun_attackrate">
+    <Symbol Name="state_stun_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
 

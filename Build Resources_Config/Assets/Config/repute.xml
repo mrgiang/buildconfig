@@ -207,7 +207,7 @@
 	<camp id="6" name="Thủy Hoàng Địa Cung">
 		<class id="2" name="Tần Lăng" default_level="1" daily_limit="0">
 			<level id="1" name="Trung lập" level_up="20000" require_level="0"/>
-			<level id="2" name="Hữu nghị" level_up="30000" require_level="0"/>
+			<level id="2" name="Hữu nghị" level_up="50000" require_level="0"/>
 			<level id="3" name="Khâm phục" level_up="0" require_level="0"/>
 		</class>
 	</camp>

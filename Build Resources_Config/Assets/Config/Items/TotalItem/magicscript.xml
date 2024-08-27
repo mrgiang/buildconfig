@@ -19543,7 +19543,7 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jianbing_vn"
           ObjDrop="371"
           Descript="Ngươi có thể dùng để đổi vũ khí hoàng kim tại NPC Quan Quân (Cứ 10 vật phẩm là có thể đổi lấy một vũ khí hoàng kim)."
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1"
           ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0"
           BuffID="-1"
           DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
@@ -50892,10 +50892,19 @@
           IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="quest_0016_s"
           ObjDrop="371"
           Descript="Bên trong chứa mảnh áo để đổi ra áo dzú hoàng kim môn phái"
-          Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1"
+          Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1"
           ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0"
           BuffID="-1"
           DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	 
+	<ItemData ItemID="110100" Name="Huyền Tinh vô hạ (cấp 9)" Genre="18" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="xuanjing_007_s" ObjDrop="334" Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở
+     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="9" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="200640000">
+     <UnLockInterval>0</UnLockInterval>
      </ItemData>
 </ArrayOfItemData>

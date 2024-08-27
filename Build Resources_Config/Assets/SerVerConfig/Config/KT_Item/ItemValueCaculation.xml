@@ -175,6 +175,8 @@
   <List_Enhance_Value EnhanceTimes="10" Value="48000000" />
   <List_Enhance_Value EnhanceTimes="11" Value="152000000" />
   <List_Enhance_Value EnhanceTimes="12" Value="320000000" />
+  <List_Enhance_Value EnhanceTimes="13" Value="480000000" />
+  <List_Enhance_Value EnhanceTimes="14" Value="960000000" />
 
 
   <List_Strengthen_Value StrengthenTimes="1" Value="900" />

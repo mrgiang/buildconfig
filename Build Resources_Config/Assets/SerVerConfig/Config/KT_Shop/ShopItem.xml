@@ -13291,4 +13291,7 @@
 		<ShopItem ID="22044" ItemID="1529" Series="-1" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="110002" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
+	<ShopItem ID="22045" ItemID="8420" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+    OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="20000"
+    LimitType="-1" LimitValue="-1" />
 </ArrayOfShopItem> 

@@ -50898,4 +50898,13 @@
           DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
+	 
+	<ItemData ItemID="110100" Name="Huyền Tinh vô hạ (cấp 9)" Genre="18" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="xuanjing_007_s" ObjDrop="334" Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở
+     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="9" Stack="999"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="200640000">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
 </ArrayOfItemData>

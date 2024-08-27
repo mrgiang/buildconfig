@@ -5149,6 +5149,7 @@
 	<ShopItem>21126</ShopItem>
 	<ShopItem>21127</ShopItem>
 	<ShopItem>21128</ShopItem>
+	<ShopItem>21125</ShopItem>
   </ShopTab>
   <ShopTab ShopName="Bí Kíp" ShopID="243" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>5446</ShopItem>
@@ -5239,6 +5240,7 @@
     <ShopItem>5315</ShopItem>
     <ShopItem>5316</ShopItem>
     <ShopItem>5317</ShopItem>
+	<ShopItem>22045</ShopItem>
     <ShopItem>5318</ShopItem>
     <ShopItem>5319</ShopItem>
     <ShopItem>5320</ShopItem>
@@ -5271,6 +5273,8 @@
   <ShopTab ShopName="Khác" ShopID="247" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>5316</ShopItem>
     <ShopItem>5317</ShopItem>
+	<ShopItem>22045</ShopItem>
+
   </ShopTab>
   <ShopTab ShopName="Thuốc Tinh Linh" ShopID="248" MoneyType="0" Discount="0" TimeSaleStart=""
     TimeSaleEnd="">
