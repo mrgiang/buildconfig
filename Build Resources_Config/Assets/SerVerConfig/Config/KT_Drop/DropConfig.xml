@@ -13226,7 +13226,7 @@
 	<Drop ItemID="187" RandRate="30000" />
 	<Drop ItemID="2444" RandRate="220000" />
   </DropProfile>
-  <DropProfile ProfileName="THDC_boss_TTH" Count="24" RandRange="4230400" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="7" MaxItemLevelScale="90">
+  <DropProfile ProfileName="THDC_boss_TTH" Count="15" RandRange="4230400" CopySceneOnly="false" ItemRate="100" MagicRate="100" MinMoney="0"  MaxMoney="0" MapsID ="" MoneyRate="0" MoneyScale="0" MinItemLevel="7" MinItemLevelScale="12" MaxItemLevel="7" MaxItemLevelScale="90">
 	<Drop ItemID="1027" RandRate="20000" />
 	<Drop ItemID="1028" RandRate="10000" />
 	<Drop ItemID="1029" RandRate="5000"  />

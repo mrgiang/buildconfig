@@ -52,7 +52,7 @@
 			
 -->
 <EmperorTomb>
-	<Config LimitLevel="120" DurationPerDay="7200000" MonsterLevel="125" />
+	<Config LimitLevel="120" DurationPerDay="7200000" MonsterLevel="150" />
 	<Event>
 		<Relive MapID="61" PosX="1803" PosY="3393" />
 		
@@ -201,9 +201,9 @@
 					<Boss ID="10135" Name="" Title="" PosX="4194" PosY="4420" BaseHP="222220" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" Auras="" Skills="14244_15_5000;14237_15_3000;14252_15_-1" />           
 				</MiniBoss>
 				
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="3768" PosY="2314" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7678" PosY="2522" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7479" PosY="4411" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="3768" PosY="2314" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_3000;14200_49_9000;14210_49_8000;14211_49_7000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7678" PosY="2522" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_3000;14200_49_9000;14210_49_8000;14211_49_7000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7479" PosY="4411" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_3000;14200_49_9000;14210_49_8000;14211_49_7000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
 				
 			</Monsters>
 			<Teleports>
@@ -353,9 +353,9 @@
 					<Boss ID="10135" Name="" Title="" PosX="7455" PosY="2405" BaseHP="222220" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" Auras="" Skills="14244_15_5000;14237_15_3000;14252_15_-1" />           
 				</MiniBoss>
 				
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="3930" PosY="4293" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7776" PosY="4330" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="3962" PosY="2376" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="3930" PosY="4293" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_3000;14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14232_49_-1" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7776" PosY="4330" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_3000;14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14232_49_-1" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="3962" PosY="2376" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_3000;14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14232_49_-1" />
 				
 			</Monsters>
 			
@@ -529,9 +529,9 @@
 					<Boss ID="10135" Name="" Title="" PosX="5521" PosY="3423" BaseHP="222220" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" Auras="" Skills="14244_15_5000;14237_15_3000;14252_15_-1" />          
 				</MiniBoss>
 				
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7890" PosY="4411" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7788" PosY="2389" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
-				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="3625" PosY="2396" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000;14232_49_-1" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7890" PosY="4411" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_-1;14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="7788" PosY="2389" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_-1;14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000" />
+				<Boss ID="10136" Name="Tần Thủy Hoàng" Title="" PosX="3625" PosY="2396" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_-1;14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000" />
 				
 			</Monsters>
 			
