@@ -42,5 +42,7 @@
 	<Title ID="913" SpecialID="103" Text="Trưởng lão - Đường Môn" Description="Danh hiệu cao cấp của phái Đường Môn. Có hiệu lực vĩnh viễn." Duration="-1" DataID=""/>
 	<Title ID="914" SpecialID="104" Text="Trưởng lão - Đường Môn" Description="Danh hiệu cao cấp của phái Đường Môn. Có hiệu lực vĩnh viễn." Duration="-1" DataID=""/>
 	<Title ID="915" SpecialID="105" Text="Trưởng lão - Cái Bang" Description="Danh hiệu cao cấp của phái Cái Bang. Có hiệu lực vĩnh viễn." Duration="-1" DataID=""/>
+	<Title ID="916" SpecialID="106" Text="Sát thủ" Description="Danh hiệu Sát thủ. Có hiệu lực vĩnh viễn." Duration="-1" DataID=""/>
+	<Title ID="917" SpecialID="107" Text="Quốc Kỳ" Description="Quốc Kỳ." Duration="-1" DataID=""/>
 
 </Titles>

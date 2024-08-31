@@ -617,4 +617,47 @@
 		<Sprite Name="DK_18" />
 		<Sprite Name="DK_19" />
 	</Title>
+	<Title ID="106" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/TS.unity3d" AtlasName="TS" AnimationSpeed="2">
+		<Sprite Name="TS_0" />
+		<Sprite Name="TS_1" />
+		<Sprite Name="TS_2" />
+		<Sprite Name="TS_3" />
+		<Sprite Name="TS_4" />
+		<Sprite Name="TS_5" />
+		<Sprite Name="TS_6" />
+		<Sprite Name="TS_7" />
+		<Sprite Name="TS_8" />
+		<Sprite Name="TS_9" />
+		<Sprite Name="TS_10" />
+		<Sprite Name="TS_11" />
+		<Sprite Name="TS_12" />
+		<Sprite Name="TS_13" />
+		<Sprite Name="TS_14" />
+		<Sprite Name="TS_15" />
+		<Sprite Name="TS_16" />
+		<Sprite Name="TS_17" />
+		<Sprite Name="TS_18" />
+		<Sprite Name="TS_19" />
+	</Title>
+		<Title ID="107" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/QK.unity3d" AtlasName="QK" AnimationSpeed="2">
+		<Sprite Name="QK_0" />
+		<Sprite Name="QK_1" />
+		<Sprite Name="QK_2" />
+		<Sprite Name="QK_3" />
+		<Sprite Name="QK_4" />
+		<Sprite Name="QK_5" />
+		<Sprite Name="QK_6" />
+		<Sprite Name="QK_7" />
+		<Sprite Name="QK_8" />
+		<Sprite Name="QK_9" />
+		<Sprite Name="QK_10" />
+		<Sprite Name="QK_11" />
+		<Sprite Name="QK_12" />
+		<Sprite Name="QK_13" />
+		<Sprite Name="QK_14" />
+		<Sprite Name="QK_15" />
+		<Sprite Name="QK_16" />
+		<Sprite Name="QK_17" />
+		<Sprite Name="QK_18" />
+	</Title>
 </SpecialTitle>
