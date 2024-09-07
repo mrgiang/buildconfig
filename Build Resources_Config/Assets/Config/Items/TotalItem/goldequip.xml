@@ -909,7 +909,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="manamax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_weak_resisttime" EnhMAPA1Min="40" EnhMAPA1Max="40" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="1453" Name="Minh ảo Hủ Cốt Hộ uyển" Genre="3" Category="-1" DetailType="8" ParticularType="1" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-bangle17" ObjDrop="34" Descript="" Series="4" Price="49999" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
+  <ItemData ItemID="1453" Name="Minh ảo Hủ Cốt Hộ uyển" Genre="3" Category="-1" DetailType="8" ParticularType="1" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="obj-bangle17" ObjDrop="34" Descript="" Series="4" Price="49999" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="13" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1500000">
     <GreenProp MagicName="lifemax_v" MagicLevel="7|10" IsActive="true" Index="1" />
     <GreenProp MagicName="magic_skilladdition_addskilllevel|10110|1|3" MagicLevel="10" IsActive="true" Index="2" />
     <GreenProp MagicName="magic_skilladdition_addskilllevel|10111|1|3" MagicLevel="10" IsActive="true" Index="3" />

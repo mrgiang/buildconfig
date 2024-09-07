@@ -50902,9 +50902,81 @@
 	<ItemData ItemID="110100" Name="Huyền Tinh vô hạ (cấp 9)" Genre="18" DetailType="1"
      ParticularType="1" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
      Image="xuanjing_007_s" ObjDrop="334" Descript="Giá trị không rẻ, dùng để cường hóa trang bị ở
-     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="9" Stack="1"
+     chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;" Series="-1" Price="0" Level="9" Stack="999"
      ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="200640000">
      <UnLockInterval>0</UnLockInterval>
      </ItemData>
+	 
+	<ItemData ItemID="4000000" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000000" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="1" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000001" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000001" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="2" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000002" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000002" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="3" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000003" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000003" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="4" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000004" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000004" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="5" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000005" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000005" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="6" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000006" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000006" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="7" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000007" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000007" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="8" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000008" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000008" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="9" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="4000009" Name="Huyết Bảo Thạch " Genre="2" DetailType="1"
+     ParticularType="1" IconBundleDir= "Icon/ItemIcon_4.unity3d" IconAtlasName="ItemIcon_4"
+     Image="4000009" ObjDrop="334" Descript="Bên trong chứa năng lượng kỳ lạ" Series="-1" Price="0" Level="10" Stack="1"
+     ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
+     <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	 
 </ArrayOfItemData>
