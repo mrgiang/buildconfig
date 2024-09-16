@@ -164,5 +164,55 @@
 	</ItemData>
   
 
-  
+<!-- Mặt nạ Xì boss -->
+
+	<ItemData ItemID="1110001" Name="Mặt nạ - Cô Bitch" Genre="0" DetailType="11" ParticularType="1" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="boss0062" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
+	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	</ItemData>
+	<ItemData ItemID="1110002" Name="Mặt nạ - Đường Đường" Genre="0" DetailType="11" ParticularType="2" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="boss0037" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
+	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	</ItemData>
+	<ItemData ItemID="1110003" Name="Mặt nạ - Tiểu Hà" Genre="0" DetailType="11" ParticularType="3" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;"	Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="boss0002" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
+	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	</ItemData>
+	<ItemData ItemID="1110004" Name="Mặt nạ - A Luật" Genre="0" DetailType="11" ParticularType="4" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="boss0011" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
+	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	</ItemData>
+	<ItemData ItemID="1110005" Name="Mặt nạ - A Thanh" Genre="0" DetailType="11" ParticularType="5" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="boss0001" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
+	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	</ItemData>
+	<ItemData ItemID="1110006" Name="Mặt nạ - Tiểu Tần" Genre="0" DetailType="11" ParticularType="5" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="boss0029" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
+	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	</ItemData>
+	<ItemData ItemID="1110007" Name="Mặt nạ - Ông Địa" Genre="0" DetailType="11" ParticularType="5" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="Pet12" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
+	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	</ItemData>
 </ArrayOfItemData>

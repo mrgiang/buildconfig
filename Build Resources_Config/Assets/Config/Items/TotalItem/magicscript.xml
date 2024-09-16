@@ -23392,43 +23392,43 @@
   </ItemData>
   -->
 
-     <!-- Trung thu
+
   <ItemData ItemID="10900" Name="Đường cát" Genre="6" DetailType="1"
      ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
-     Image="snowbox2" ObjDrop="377" Descript="Nguyên liệu dùng để chế tạo bánh trung thu"
-     Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Image="vn_shatang" ObjDrop="377" Descript="Nguyên liệu dùng để chế tạo bánh trung thu"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
      Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
      ScriptID="-1" FightPower="-1 ">
        <UnLockInterval>0</UnLockInterval>
   </ItemData>
      <ItemData ItemID="10901" Name="Bột mì " Genre="6" DetailType="1" ParticularType="2480"
-     IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="snowbox2"
+     IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="vn_mianfen"
      ObjDrop="377" Descript="Nguyên liệu dùng để chế tạo bánh trung thu" Series="-1" Price="0"
-     Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
      SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1"
      FightPower="-1 ">
        <UnLockInterval>0</UnLockInterval>
   </ItemData>
   <ItemData
      ItemID="10902" Name="Đậu xanh" Genre="6" DetailType="1" ParticularType="2481" IconBundleDir=
-     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="snowbox2" ObjDrop="377"
-     Descript="Nguyên liệu dùng để chế tạo bánh trung thu" Series="-1" Price="0" Level="1" Stack="1"
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="vn_lvdou" ObjDrop="377"
+     Descript="Nguyên liệu dùng để chế tạo bánh trung thu" Series="-1" Price="0" Level="1" Stack="5000"
      ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
-  <ItemData ItemID="10903" Name="Bột sen "
+  <ItemData ItemID="10903" Name="Trứng"
      Genre="6" DetailType="1" ParticularType="2482" IconBundleDir= "Icon/ItemIcon_1.unity3d"
-     IconAtlasName="ItemIcon_1" Image="snowbox2" ObjDrop="377" Descript="Nguyên liệu dùng để chế tạo
-     bánh trung thu" Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1"
+     IconAtlasName="ItemIcon_1" Image="vn_jidan" ObjDrop="377" Descript="Nguyên liệu dùng để chế tạo
+     bánh trung thu" Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1"
      SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1"
      DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
        <UnLockInterval>0</UnLockInterval>
      </ItemData>
-  <ItemData ItemID="10904" Name="Giỏ thịt heo" Genre="6" DetailType="1"
+  <ItemData ItemID="10904" Name="Giỏ nguyên liệu" Genre="6" DetailType="1"
      ParticularType="2483" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
-     Image="snowbox2" ObjDrop="377" Descript="Nguyên liệu dùng để chế tạo bánh trung thu"
-     Series="-1" Price="0" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Image="vn_shiwudaizi" ObjDrop="377" Descript="Nguyên liệu dùng để chế tạo bánh trung thu"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
      Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
      ScriptID="-1" FightPower="-1 ">
        <UnLockInterval>0</UnLockInterval>
@@ -23440,36 +23440,32 @@
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
-  <ItemData ItemID="10906" Name="Bánh đậu
-     xanh hảo hạng" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
-     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="snowbox2" ObjDrop="377"
+  <ItemData ItemID="10906" Name="Bánh Đậu Xanh" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="banhdauxanhtt" ObjDrop="377"
      Descript="Mùi vị bánh thơm lừng khiến không thể cầm lòng được" Series="-1" Price="0" Level="1"
-     Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
-     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200305" FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
-  <ItemData ItemID="10907" Name="Bánh hạt
-     sen hảo hạng" Genre="6" DetailType="1" ParticularType="2486" IconBundleDir=
-     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="snowbox2" ObjDrop="377"
+  <ItemData ItemID="10907" Name="Bánh Thập Cẩm" Genre="6" DetailType="1" ParticularType="2486" IconBundleDir=
+     "Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="banhthapcamtt" ObjDrop="377"
      Descript="Mùi vị bánh thơm lừng khiến không thể cầm lòng được" Series="-1" Price="0" Level="1"
-     Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
-     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200306" FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
-  <ItemData ItemID="10908" Name="Bánh trung
-     thu Minh Nguyệt" Genre="6" DetailType="1" ParticularType="2487" IconBundleDir=
-     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="snowbox2" ObjDrop="377"
+  <ItemData ItemID="10908" Name="Bánh Thượng Hạng" Genre="6" DetailType="1" ParticularType="2487" IconBundleDir=
+     "Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="banhthuonghangtt" ObjDrop="377"
      Descript="Mùi vị bánh thơm lừng khiến không thể cầm lòng được" Series="-1" Price="0" Level="1"
-     Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
-     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
-  <ItemData ItemID="10909" Name="Bánh trung
-     thu Viên Nguyệt" Genre="6" DetailType="1" ParticularType="2488" IconBundleDir=
-     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="snowbox2" ObjDrop="377"
+  <ItemData ItemID="10909" Name="Lồng Đèn" Genre="6" DetailType="1" ParticularType="2488" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="vn_denglongkuang" ObjDrop="377"
      Descript="Mùi vị bánh thơm lừng khiến không thể cầm lòng được" Series="-1" Price="0" Level="1"
-     Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
-     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
   <ItemData ItemID="10910" Name="Bánh trung
@@ -50897,6 +50893,17 @@
           BuffID="-1"
           DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
           <UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	<ItemData ItemID="110003"
+	Name="Rương mặt nạ" Genre="6" DetailType="1" ParticularType="2048"
+	IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3" Image="ItemIconNew_147"
+	ObjDrop="371"
+	Descript="Bên trong chứa mặt nạ"
+	Series="-1" Price="0" Level="1" Stack="999" ResWomanID="-1"
+	ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0" MeltableQuality="0"
+	BuffID="-1"
+	DeductOnUse="false" ScriptID="999999993" FightPower="-1 ">
+	<UnLockInterval>0</UnLockInterval>
      </ItemData>
 	 
 	<ItemData ItemID="110100" Name="Huyền Tinh vô hạ (cấp 9)" Genre="18" DetailType="1"
