@@ -2,13 +2,13 @@
 <Map>
   <Monsters>
    <Monster Code="10087" X="516" Y="1154" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
-   <Monster Code="10087" X="916" Y="1154" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
+   
    <Monster Code="10087" X="1216" Y="1154" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
-   <Monster Code="10087" X="516" Y="954" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
+
    <Monster Code="10087" X="916" Y="954" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
-   <Monster Code="10087" X="1216" Y="954" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
+
    <Monster Code="10087" X="516" Y="754" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
-   <Monster Code="10087" X="916" Y="754" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
+
    <Monster Code="10087" X="1216" Y="754" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
    
    <Monster Code="10088" X="2418" Y="811" Radius="1" Num="1" Timeslot="30" VisibleOnMinimap="0" />
