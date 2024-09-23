@@ -5128,6 +5128,11 @@
 	<ShopItem>21126</ShopItem>
 	<ShopItem>21127</ShopItem>
 	<ShopItem>21128</ShopItem>
+	<ShopItem>22046</ShopItem>
+    <ShopItem>22047</ShopItem>
+    <ShopItem>22048</ShopItem>
+    <ShopItem>22049</ShopItem>
+    <ShopItem>22050</ShopItem>
   </ShopTab>
   <ShopTab ShopName="Đạo Cụ" ShopID="242" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>21117</ShopItem>
