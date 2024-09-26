@@ -213,6 +213,15 @@
 	<ItemDataType ID="5" Name="Ảo Hóa Hoàng Kim Môn Phái">
 
 	</ItemDataType>
-
+	<ItemData ID="6" Name="Ảo Hóa Mặt Nạ">
+		<Item ItemID="1110001" />
+		<Item ItemID="1110002" />
+		<Item ItemID="1110003" />
+		<Item ItemID="1110004" />
+		<Item ItemID="1110005" />
+		<Item ItemID="1110006" />
+		<Item ItemID="1110007" />
+		<Item ItemID="1110008" />
+	</ItemData>
 
 </ArrayOfItemData>
