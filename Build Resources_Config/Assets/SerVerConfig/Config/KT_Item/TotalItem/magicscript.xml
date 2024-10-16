@@ -50986,4 +50986,66 @@
      <UnLockInterval>0</UnLockInterval>
      </ItemData>
 	 
+	<ItemData ItemID="5000000" Name="Hoa hồng" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="rose" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000001" Name="Giấy kiến" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="mapmaker_paper_s" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000002" Name="Thiệp mừng" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="shengxiahuodongka" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000003" Name="Tiền xu" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="IconNew_43" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  
+
+  <ItemData ItemID="5000004" Name="Bó Hoa Hồng" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_59" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200305" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000005" Name="Bó Hoa Hồng To" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jh_shoupenghua" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200306" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000006" Name="Túi Quà Đặc Biệt" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jh_libao2" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000007" Name="Túi Quà Token" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jh_libao4" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
 </ArrayOfItemData>
