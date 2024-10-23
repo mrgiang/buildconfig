@@ -604,12 +604,12 @@
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
      <ItemData ItemID="2167"
-          Name="Thẻ Đổi Tên" Genre="18" DetailType="1" ParticularType="216"
+          Name="Thẻ Đổi Tên" Genre="6" DetailType="1" ParticularType="216"
           IconBundleDir="Icon/ItemIcon_3.unity3d" IconAtlasName="ItemIcon_3"
           Image="kuozhanxianglingpai" ObjDrop="32"
           Descript="Ngươi có thể sửa đổi tên của ngươi theo ý muốn." Series="0" Price="1" Level="1"
           Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
-          MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+          MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999992" FightPower="10000000">
           <UnLockInterval>0</UnLockInterval>
      </ItemData>
      <ItemData ItemID="2168"

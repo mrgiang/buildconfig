@@ -277,18 +277,7 @@
 		<!-- Tê giác khoáng -->
 		<Stage ID="2">
 			<Triggers>
-				<KeyTrigger ID="13114" TriggerID="1" ObstacleTriggerID="2" DynamicObsLabel="2" Name="Cơ quan" PosX="7756" PosY="5622" CollectTick="10000" />
-				<ObstacleTrigger ID="13115" TriggerID="2" Name="Cửa Ngục" PosX="8258" PosY="5528" />
-				<KeyTrigger ID="13114" TriggerID="2" ObstacleTriggerID="1" DynamicObsLabel="1" Name="Cơ quan" PosX="8122" PosY="5428" CollectTick="10000" />
-				<ObstacleTrigger ID="13115" TriggerID="1" Name="Cửa Ngục" PosX="7930" PosY="5689" />
-				<KeyTrigger ID="13114" TriggerID="5" ObstacleTriggerID="6" DynamicObsLabel="6" Name="Cơ quan" PosX="10168" PosY="5009" CollectTick="10000" />
-				<ObstacleTrigger ID="13115" TriggerID="6" Name="Cửa Ngục" PosX="10527" PosY="4766" />
-				<KeyTrigger ID="13114" TriggerID="6" ObstacleTriggerID="5" DynamicObsLabel="5" Name="Cơ quan" PosX="10348" PosY="4711" CollectTick="10000" />
-				<ObstacleTrigger ID="13115" TriggerID="5" Name="Cửa Ngục" PosX="10348" PosY="5048" />
-				<KeyTrigger ID="13114" TriggerID="3" ObstacleTriggerID="4" DynamicObsLabel="4" Name="Cơ quan" PosX="9007" PosY="3022" CollectTick="10000" />
-				<ObstacleTrigger ID="13115" TriggerID="4" Name="Cửa Ngục" PosX="9177" PosY="3268" />
-				<KeyTrigger ID="13114" TriggerID="4" ObstacleTriggerID="3" DynamicObsLabel="3" Name="Cơ quan" PosX="9290" PosY="3549" CollectTick="10000" />
-				<ObstacleTrigger ID="13115" TriggerID="3" Name="Cửa Ngục" PosX="8832" PosY="3045" />
+
 			</Triggers>
 			
 			<Tasks>
