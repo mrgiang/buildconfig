@@ -50847,7 +50847,16 @@
      SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999994"
      FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
-         </ItemData>
+	</ItemData>
+	<ItemData ItemID="91443" Name="Đại Thành Skill Pet" Genre="6" DetailType="1"
+     ParticularType="2424" IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="quest_0011_s" ObjDrop="368"
+     Descript="Vật phẩm sử dụng để ngay lập tức lĩnh hội tinh hoa của võ học này ở cấp cao nhất." Series="-1" Price="0"
+     Level="2" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0"
+     SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="999999991"
+     FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+	</ItemData>
   <ItemData ItemID="487" Name="Thùng rượu (5 bình)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Thùng rượu (5 bình)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="189" Level="1" SuiteID="0" Icon="jiuxiang" View="jiuxiang" Intro="Chứa đủ loại rượu. &lt;color=gold&gt;Nhấn chuột phải để mở.&lt;color&gt;" Help="" ObjID="35" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="10000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="200037" DeductOnUse="false" BuffID="-1">
     <ListExtPram Pram="5" Index="1" />
     <UnLockInterval>0</UnLockInterval>
