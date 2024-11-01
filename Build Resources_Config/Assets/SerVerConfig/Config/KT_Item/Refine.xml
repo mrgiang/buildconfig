@@ -90,4 +90,33 @@
   <Refine RefineId="10827" SourceItem="41181" ProduceItem="41182" Fee="1000000" />
 
 
+  <Refine RefineId="4000010" SourceItem="1130008" ProduceItem="1130069" Fee="20000" />
+  <Refine RefineId="4000010" SourceItem="1130018" ProduceItem="1130070" Fee="20000" />
+  <Refine RefineId="4000010" SourceItem="1130028" ProduceItem="1130071" Fee="20000" />
+  <Refine RefineId="4000010" SourceItem="1130038" ProduceItem="1130072" Fee="20000" />
+  <Refine RefineId="4000010" SourceItem="1130048" ProduceItem="1130073" Fee="20000" />
+  
+  <Refine RefineId="4000011" SourceItem="1130069" ProduceItem="1130074" Fee="30000" />
+  <Refine RefineId="4000011" SourceItem="1130070" ProduceItem="1130075" Fee="30000" />
+  <Refine RefineId="4000011" SourceItem="1130071" ProduceItem="1130076" Fee="30000" />
+  <Refine RefineId="4000011" SourceItem="1130072" ProduceItem="1130077" Fee="30000" />
+  <Refine RefineId="4000011" SourceItem="1130073" ProduceItem="1130078" Fee="30000" />
+  
+  <Refine RefineId="4000012" SourceItem="1130074" ProduceItem="1130079" Fee="40000" />
+  <Refine RefineId="4000012" SourceItem="1130075" ProduceItem="1130080" Fee="40000" />
+  <Refine RefineId="4000012" SourceItem="1130076" ProduceItem="1130081" Fee="40000" />
+  <Refine RefineId="4000012" SourceItem="1130077" ProduceItem="1130082" Fee="40000" />
+  <Refine RefineId="4000012" SourceItem="1130078" ProduceItem="1130083" Fee="40000" />
+  
+  <Refine RefineId="4000013" SourceItem="1130079" ProduceItem="1130084" Fee="50000" />
+  <Refine RefineId="4000013" SourceItem="1130080" ProduceItem="1130085" Fee="50000" />
+  <Refine RefineId="4000013" SourceItem="1130081" ProduceItem="1130086" Fee="50000" />
+  <Refine RefineId="4000013" SourceItem="1130082" ProduceItem="1130087" Fee="50000" />
+  <Refine RefineId="4000013" SourceItem="1130083" ProduceItem="1130088" Fee="50000" />
+  
+  <Refine RefineId="4000014" SourceItem="1130084" ProduceItem="1130089" Fee="100000" />
+  <Refine RefineId="4000014" SourceItem="1130085" ProduceItem="1130090" Fee="100000" />
+  <Refine RefineId="4000014" SourceItem="1130086" ProduceItem="1130091" Fee="100000" />
+  <Refine RefineId="4000014" SourceItem="1130087" ProduceItem="1130092" Fee="100000" />
+  <Refine RefineId="4000014" SourceItem="1130088" ProduceItem="1130093" Fee="100000" />
 </ArrayOfRefine>

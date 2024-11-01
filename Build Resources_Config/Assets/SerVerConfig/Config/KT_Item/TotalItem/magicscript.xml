@@ -50994,6 +50994,61 @@
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="1">
      <UnLockInterval>0</UnLockInterval>
      </ItemData>
+	<ItemData ItemID="4000010"
+		Name="Luyện Hóa Trang Sức Nâng Cấp 1" Genre="18" DetailType="2"
+		ParticularType="3"
+		IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="gaizaotu_xiezi"
+		ObjDrop="41"
+		Descript="Vật phẩm sử dụng để luyên hóa trang sức."
+		Series="-1" Price="2000000" Level="1"
+		Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+		MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+	<UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	 	<ItemData ItemID="4000011"
+		Name="Luyện Hóa Trang Sức Nâng Cấp 2" Genre="18" DetailType="2"
+		ParticularType="3"
+		IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="gaizaotu_xiezi"
+		ObjDrop="41"
+		Descript="Vật phẩm sử dụng để luyên hóa trang sức."
+		Series="-1" Price="2000000" Level="1"
+		Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+		MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+	<UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	 	<ItemData ItemID="4000012"
+		Name="Luyện Hóa Trang Sức Nâng Cấp 3" Genre="18" DetailType="2"
+		ParticularType="3"
+		IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="gaizaotu_xiezi"
+		ObjDrop="41"
+		Descript="Vật phẩm sử dụng để luyên hóa trang sức."
+		Series="-1" Price="2000000" Level="1"
+		Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+		MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+	<UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	 	<ItemData ItemID="4000013"
+		Name="Luyện Hóa Trang Sức Nâng Cấp 4" Genre="18" DetailType="2"
+		ParticularType="3"
+		IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="gaizaotu_xiezi"
+		ObjDrop="41"
+		Descript="Vật phẩm sử dụng để luyên hóa trang sức."
+		Series="-1" Price="2000000" Level="1"
+		Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+		MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+	<UnLockInterval>0</UnLockInterval>
+     </ItemData>
+	 	<ItemData ItemID="4000014"
+		Name="Luyện Hóa Trang Sức Nâng Cấp 5" Genre="18" DetailType="2"
+		ParticularType="3"
+		IconBundleDir="Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="gaizaotu_xiezi"
+		ObjDrop="41"
+		Descript="Vật phẩm sử dụng để luyên hóa trang sức."
+		Series="-1" Price="2000000" Level="1"
+		Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+		MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="-1 ">
+	<UnLockInterval>0</UnLockInterval>
+     </ItemData>
 	 
 	<ItemData ItemID="5000000" Name="Hoa hồng" Genre="6" DetailType="1"
      ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
@@ -51027,8 +51082,6 @@
      ScriptID="-1" FightPower="-1 ">
        <UnLockInterval>0</UnLockInterval>
   </ItemData>
-  
-
   <ItemData ItemID="5000004" Name="Bó Hoa Hồng" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
      "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="IconNew_59" ObjDrop="377"
      Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
@@ -51057,4 +51110,6 @@
      MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
+  
+
 </ArrayOfItemData>

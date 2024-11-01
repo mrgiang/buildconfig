@@ -328,7 +328,7 @@
   </ItemData>
  
  <!-- Nâng Cấp Huyết Ngọc -->
-  <ItemData ItemID="21169" Name="Thiên Thượng Hỏa Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130069" Name="Thiên Thượng Hỏa Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2metaldamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="2000" BasicPropPA1Max="2000" Index="1" />
@@ -341,7 +341,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_physics_resist" EnhMAPA1Min="180" EnhMAPA1Max="180" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_hurt_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21170" Name="Kim Trung Sa Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130070" Name="Kim Trung Sa Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2wooddamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="2000" BasicPropPA1Max="2000" Index="1" />
@@ -354,7 +354,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_poison_resist" EnhMAPA1Min="180" EnhMAPA1Max="180" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-   <ItemData ItemID="21171" Name="Đại Trạch Thổ Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+   <ItemData ItemID="1130071" Name="Đại Trạch Thổ Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2waterdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="2000" BasicPropPA1Max="2000" Index="1" />
@@ -367,7 +367,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_cold_resist" EnhMAPA1Min="180" EnhMAPA1Max="180" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_freeze_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21172" Name="Đại Hải Thủy Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130072" Name="Đại Hải Thủy Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2firedamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="2000" BasicPropPA1Max="2000" Index="1" />
@@ -380,7 +380,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_fire_resist" EnhMAPA1Min="180" EnhMAPA1Max="180" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_burn_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21173" Name="Đại Lâm Mộc Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130073" Name="Đại Lâm Mộc Nâng Cấp 1" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2earthdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="2000" BasicPropPA1Max="2000" Index="1" />
@@ -394,7 +394,7 @@
     <ListEnhance EnhTimes="10" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
   
-  <ItemData ItemID="21174" Name="Thiên Thượng Hỏa Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130074" Name="Thiên Thượng Hỏa Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2metaldamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="3000" BasicPropPA1Max="3000" Index="1" />
@@ -407,7 +407,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_physics_resist" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_hurt_resistrate" EnhMAPA1Min="210" EnhMAPA1Max="210" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21175" Name="Kim Trung Sa Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130075" Name="Kim Trung Sa Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2wooddamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="3000" BasicPropPA1Max="3000" Index="1" />
@@ -420,7 +420,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_poison_resist" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_weak_resistrate" EnhMAPA1Min="210" EnhMAPA1Max="210" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-   <ItemData ItemID="21176" Name="Đại Trạch Thổ Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+   <ItemData ItemID="1130076" Name="Đại Trạch Thổ Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2waterdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="3000" BasicPropPA1Max="3000" Index="1" />
@@ -433,7 +433,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_cold_resist" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_freeze_resisttime" EnhMAPA1Min="210" EnhMAPA1Max="210" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21177" Name="Đại Hải Thủy Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130077" Name="Đại Hải Thủy Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2firedamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="3000" BasicPropPA1Max="3000" Index="1" />
@@ -446,7 +446,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_fire_resist" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_burn_resisttime" EnhMAPA1Min="210" EnhMAPA1Max="210" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21178" Name="Đại Lâm Mộc Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130078" Name="Đại Lâm Mộc Nâng Cấp 2" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2earthdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="3000" BasicPropPA1Max="3000" Index="1" />
@@ -461,7 +461,7 @@
   </ItemData>
   
   
-  <ItemData ItemID="21179" Name="Thiên Thượng Hỏa Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130079" Name="Thiên Thượng Hỏa Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2metaldamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="4000" BasicPropPA1Max="4000" Index="1" />
@@ -474,7 +474,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_physics_resist" EnhMAPA1Min="210" EnhMAPA1Max="210" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_hurt_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21180" Name="Kim Trung Sa Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130080" Name="Kim Trung Sa Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2wooddamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="4000" BasicPropPA1Max="4000" Index="1" />
@@ -487,7 +487,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_poison_resist" EnhMAPA1Min="210" EnhMAPA1Max="210" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_weak_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-   <ItemData ItemID="21181" Name="Đại Trạch Thổ Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+   <ItemData ItemID="1130081" Name="Đại Trạch Thổ Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2waterdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="4000" BasicPropPA1Max="4000" Index="1" />
@@ -500,7 +500,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_cold_resist" EnhMAPA1Min="210" EnhMAPA1Max="210" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_freeze_resisttime" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21182" Name="Đại Hải Thủy Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130082" Name="Đại Hải Thủy Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2firedamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="4000" BasicPropPA1Max="4000" Index="1" />
@@ -513,7 +513,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_fire_resist" EnhMAPA1Min="210" EnhMAPA1Max="210" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_burn_resisttime" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21183" Name="Đại Lâm Mộc Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130083" Name="Đại Lâm Mộc Nâng Cấp 3" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2earthdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="4000" BasicPropPA1Max="4000" Index="1" />
@@ -528,7 +528,7 @@
   </ItemData>
   
   
-  <ItemData ItemID="21184" Name="Thiên Thượng Hỏa Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130084" Name="Thiên Thượng Hỏa Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2metaldamage_p" MagicLevel="11" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="5000" BasicPropPA1Max="5000" Index="1" />
@@ -541,7 +541,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_physics_resist" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_hurt_resistrate" EnhMAPA1Min="230" EnhMAPA1Max="230" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21185" Name="Kim Trung Sa Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130085" Name="Kim Trung Sa Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2wooddamage_p" MagicLevel="11" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="5000" BasicPropPA1Max="5000" Index="1" />
@@ -554,7 +554,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_poison_resist" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_weak_resistrate" EnhMAPA1Min="230" EnhMAPA1Max="230" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-   <ItemData ItemID="21186" Name="Đại Trạch Thổ Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+   <ItemData ItemID="1130086" Name="Đại Trạch Thổ Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2waterdamage_p" MagicLevel="11" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="5000" BasicPropPA1Max="5000" Index="1" />
@@ -567,7 +567,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_cold_resist" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_freeze_resisttime" EnhMAPA1Min="230" EnhMAPA1Max="230" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21187" Name="Đại Hải Thủy Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130087" Name="Đại Hải Thủy Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2firedamage_p" MagicLevel="11" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="5000" BasicPropPA1Max="5000" Index="1" />
@@ -580,7 +580,7 @@
     <ListEnhance EnhTimes="8" EnhMAName="damage_fire_resist" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="state_burn_resisttime" EnhMAPA1Min="230" EnhMAPA1Max="230" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
-  <ItemData ItemID="21188" Name="Đại Lâm Mộc Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130088" Name="Đại Lâm Mộc Nâng Cấp 4" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2earthdamage_p" MagicLevel="11" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="5000" BasicPropPA1Max="5000" Index="1" />
@@ -594,7 +594,7 @@
     <ListEnhance EnhTimes="10" EnhMAName="state_stun_resisttime" EnhMAPA1Min="230" EnhMAPA1Max="230" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
   </ItemData>
   
-  <ItemData ItemID="21189" Name="Thiên Thượng Hỏa Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130089" Name="Thiên Thượng Hỏa Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_9" ObjDrop="37" Descript="Trang sức được chế tạo từ hỏa thạch, đeo trên người có thể khắc chế ngũ hành kim" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2metaldamage_p" MagicLevel="12" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="6000" BasicPropPA1Max="6000" Index="1" />
@@ -608,7 +608,7 @@
     <ListEnhance EnhTimes="10" EnhMAName="state_hurt_resistrate" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
 	<ListEnhance EnhTimes="12" EnhMAName="damage_cold_receive_p" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="4" />
   </ItemData>
-  <ItemData ItemID="21190" Name="Kim Trung Sa Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130090" Name="Kim Trung Sa Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_6" ObjDrop="37" Descript="Trang sức được chế tạo từ tinh kim, đeo trên người có thể khắc chế ngũ hành mộc" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2wooddamage_p" MagicLevel="12" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="6000" BasicPropPA1Max="6000" Index="1" />
@@ -622,7 +622,7 @@
     <ListEnhance EnhTimes="10" EnhMAName="state_weak_resistrate" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
 	<ListEnhance EnhTimes="12" EnhMAName="damage_fire_receive_p" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="4" />
   </ItemData>
-   <ItemData ItemID="21191" Name="Đại Trạch Thổ Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+   <ItemData ItemID="1130091" Name="Đại Trạch Thổ Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_5" ObjDrop="37" Descript="Trang sức được chế tạo từ hoàng thổ, đeo trên người có thể khắc chế ngũ hành thủy" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2waterdamage_p" MagicLevel="12" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="6000" BasicPropPA1Max="6000" Index="1" />
@@ -636,7 +636,7 @@
     <ListEnhance EnhTimes="10" EnhMAName="state_freeze_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
 	<ListEnhance EnhTimes="12" EnhMAName="damage_poison_receive_p" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="4" />
   </ItemData>
-  <ItemData ItemID="21192" Name="Đại Hải Thủy Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130092" Name="Đại Hải Thủy Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_4" ObjDrop="37" Descript="Trang sức được chế tạo từ thánh thủy, đeo trên người có thể khắc chế ngũ hành hỏa" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2firedamage_p" MagicLevel="12" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="6000" BasicPropPA1Max="6000" Index="1" />
@@ -650,7 +650,7 @@
     <ListEnhance EnhTimes="10" EnhMAName="state_burn_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="3" />
 	<ListEnhance EnhTimes="12" EnhMAName="damage_light_receive_p" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="4" />
   </ItemData>
-  <ItemData ItemID="21193" Name="Đại Lâm Mộc Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
+  <ItemData ItemID="1130093" Name="Đại Lâm Mộc Nâng Cấp 5" Genre="0" DetailType="13" ParticularType="0" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="YiJian_7" ObjDrop="37" Descript="Trang sức được chế tạo từ thần thụ, đeo trên người có thể khắc chế ngũ hành thổ" Series="0" Price="10000000" Level="10" Stack="1" ResWomanID="-1" ResManID="-1" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="10000000">
     <GreenProp MagicName="magic_me2earthdamage_p" MagicLevel="12" IsActive="true" Index="1" />
     <ListReqProp ReqPropType="36" ReqPropValue="100" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="6000" BasicPropPA1Max="6000" Index="1" />

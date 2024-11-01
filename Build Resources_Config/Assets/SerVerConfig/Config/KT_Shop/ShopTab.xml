@@ -5955,4 +5955,14 @@
     <ShopItem>22043</ShopItem>
     <ShopItem>22044</ShopItem>
   </ShopTab>
+  	<ShopTab ShopName="Cửa hàng đồ phổ trang sức" ShopID="9300" MoneyType="1" Discount="0"
+    TimeSaleStart=""
+    TimeSaleEnd="">
+	<ShopItem>23000</ShopItem>
+	<ShopItem>23001</ShopItem>
+    <ShopItem>23002</ShopItem>
+    <ShopItem>23003</ShopItem>
+    <ShopItem>23004</ShopItem>
+
+  </ShopTab>
 </ArrayOfShopTab>

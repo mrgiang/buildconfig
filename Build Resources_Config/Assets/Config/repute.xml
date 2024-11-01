@@ -15,12 +15,12 @@
 			<level id="10" name="Truyền thuyết" level_up="0" require_level="0"/>
 		</class>
 		<class id="2" name="Quân doanh" default_level="1" daily_limit="0">
-			<level id="1" name="Trung lập" level_up="3060" require_level="0"/>
-			<level id="2" name="Hữu nghị" level_up="6900" require_level="0"/>
-			<level id="3" name="Thân mật" level_up="13020" require_level="0"/>
-			<level id="4" name="Kính trọng" level_up="30400" require_level="0"/>
-			<level id="5" name="Tôn kính" level_up="70190" require_level="0"/>
-			<level id="6" name="Khâm phục" level_up="144260" require_level="0"/>
+			<level id="1" name="Trung lập" level_up="6900" require_level="0"/>
+			<level id="2" name="Hữu nghị" level_up="13020" require_level="0"/>
+			<level id="3" name="Thân mật" level_up="30400" require_level="0"/>
+			<level id="4" name="Kính trọng" level_up="70190" require_level="0"/>
+			<level id="5" name="Tôn kính" level_up="144260" require_level="0"/>
+			<level id="6" name="Khâm phục" level_up="204260" require_level="0"/>
 			<level id="7" name="Hiển hách" level_up="0" require_level="0"/>
 		</class>
 	</camp>
