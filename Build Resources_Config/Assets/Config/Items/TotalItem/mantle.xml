@@ -120,7 +120,7 @@
     <ListReqProp ReqPropType="7" ReqPropValue="1" Index="2" />
     <UnLockInterval>0</UnLockInterval>
   </ItemData>
-  <ItemData ItemID="20767" Name="Phi Phong - GM " Genre="0" DetailType="15" ParticularType="1" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="pifeng_11" ObjDrop="338" Descript="Phi Phong - GM" Series="0" Price="999" Level="10" Stack="1" ResWomanID="10" ResManID="10" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="720000000">
+  <ItemData ItemID="20768" Name="Phi Phong - GM " Genre="0" DetailType="15" ParticularType="1" IconBundleDir= "Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="pifeng_11" ObjDrop="338" Descript="Phi Phong - GM" Series="0" Price="999" Level="10" Stack="1" ResWomanID="10" ResManID="10" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="720000000">
     <ListBasicProp BasicPropType="lifemax_p" BasicPropPA1Min="9999" BasicPropPA1Max="9999" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="9999" BasicPropPA1Max="9999" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
     <ListBasicProp BasicPropType="manamax_p" BasicPropPA1Min="9999" BasicPropPA1Max="9999" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
