@@ -55,5 +55,7 @@
 		<NPC Code="20028" Name="Sứ Giả Báo Danh" MinimapName="Bạch Hổ Đường" VisibleOnMinimap="1" Title="Bạch Hổ Đường" X="3873" Y="1640" Dir="1" ScriptID="400012"/>
 		<!--Phuongtuong-->
 		<NPC Code="245" Name="Quan Quân" MinimapName="Quan Quân" VisibleOnMinimap="1" Title="Cửa Hàng Danh Vọng" X="4280" Y="2380" Dir="1" ScriptID="38"/>		
+		<NPC Code="999999995" Name="Hot Tiktoker" MinimapName="Hot Tiktoker" VisibleOnMinimap="1" Title="Mini Event" X="4126" Y="2511" Dir="1" ScriptID="999999990"/>		
+
   </NPCs>
 </Map>
