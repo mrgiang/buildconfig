@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	SỰ KIỆN PHONG HỎA LIÊN THÀNH
+	- Config: Thiết lập sự kiện
+		- RequireLevel: Cấp độ yêu cầu
+		- MinPlayers: Số người chơi tối thiểu
+		- MaxPlayers: Số người chơi tối đa
+	- EventMap: Thông tin bản đồ sự kiện
+		- EnterMapID: ID bản đồ sự kiện
+		- EnterPosX: Tọa độ X tiến vào (cũng là vị trí hồi sinh khi chết)
+		- EnterPosX: Tọa độ Y tiến vào (cũng là vị trí hồi sinh khi chết)
+		- CityMapID: ID bản đồ thành thị
+		- CityPosX: Tọa độ X ở thành thị khi thoát sự kiện
+		- CityPosY: Tọa độ Y ở thành thị khi thoát sự kiện
+	- EventPoints: Điểm tích lũy trong sự kiện
+		- ProtectMarshalAwardPeriod: Thời gian bảo vệ nguyên soái mỗi lần tích tăng điểm (Mili-giây)
+		- ProtectMarshalAwardPoint: Số điểm tích lũy có được mỗi lần bảo vệ nguyên soái
+		- KillMonsterPoint: Số điểm có được khi giết quái
+		- KillSiegePoint: Số điểm có được khi giết xe công thành
+		- KillSiegeTeamPoint: Số điểm các thành viên khác trong đội có được khi giết xe công thành
+		- KillBossPoint: Số điểm có được khi giết Boss
+		- KillBossTeamPoint: Số điểm các thành viên khác trong đội có được khi giết Boss
+		- KillBossAllPoint: Số điểm toàn bộ người chơi khác có được khi giết Boss
+	- Awards: Danh sách phần thưởng sự kiện	
+		- Award: Thông tin phần thưởng
+			- FromRank: Từ thứ hạng
+			- ToRank: Đến thứ hạng
+			- ReputeID: ID danh vọng
+			- ReputePoint: Số điểm danh vọng
+			- AwardItem: Thông tin vật phẩm thưởng
+				- ItemID: ID vật phẩm
+				- Quantity: Số lượng
+				- Bound: Nhận khóa hay không (True/False)
+	- NPCs: Danh sách NPC
+		- NPC: Thông tin NPC
+			- ID: ID NPC (xem ở File Npc)
+			- Name: Tên NPC, bỏ trống sẽ lấy thông tin ở File cấu hình
+			- Title: Danh hiệu NPC, bỏ trống sẽ lấy thông tin ở File cấu hình
+			- PosX: Vị trí X
+			- PosY: Vị trí Y
+			- ScriptID: ID script Lua điều khiển (-1 nếu không có)
+	- Teleport: Cổng dịch chuyển
+		- Name: Tên cổng
+		- PosX: Vị trí X (nếu mặc định là dịch chuyển ra ngoài vị trí báo danh thì điền -1)
+		- PosY: Vị trí Y (nếu mặc định là dịch chuyển ra ngoài vị trí báo danh thì điền -1)
+		- ToMapID: Vị trí bản đồ đích đến (nếu cùng bản đồ hiện tại thì điền -1)
+		- ToPosX: Vị trí đích đến X
+		- ToPosY: Vị trí đích đến Y
+	- GroupPositions: Danh sách vị trí xuất hiện của các nhóm
+		- Group: Thông tin nhóm
+			- ID: ID nhóm
+			- DestPosX: Vị trí X sẽ dịch chuyển đến
+			- DestPosY: Vị trí Y sẽ dịch chuyển đến
+			- Position: Vị trí xuất hiện ngẫu nhiên mỗi đợt
+				- PosX: Tọa độ X
+				- PosY: Tọa độ Y
+				- Radius: Phạm vi xuất hiện xung quanh vị trí
+	- Attackers: Danh sách các đối tượng công thành
+		- Monster: Thông tin quái
+			- ID: ID quái (xem ở File Monster)
+			- OrderID: Thứ tự (dùng để đánh dấu con nào gọi ở Round nào)
+			- Name: Tên quái, bỏ trống sẽ lấy thông tin ở File cấu hình
+			- Title: Danh hiệu, bỏ trống sẽ lấy thông tin ở File cấu hình
+			- PosX: Tọa độ X
+			- PosY: Tọa độ Y
+			- BaseHP: Sinh lực cơ bản
+			- HPIncreaseEachLevel: Sinh lực tăng thêm với mỗi cấp
+			- AIScriptID: IDScriptAI điều khiển
+				- Nếu có sử dụng các Skill đánh thì AIScriptID để bằng 100001, sẽ không sử dụng kỹ năng đánh thường của quái như ngoài Map mà thay vào bằng kỹ năng trong danh sách thiết lập (buộc phải thiết lập kỹ năng đánh, nếu không sẽ lỗi)
+			- Skills: Danh sách kỹ năng được sử dụng, gồm 2 tham biến, ngăn cách nhau bởi dấu ; giữa các loại kỹ năng
+				- ID_Cấp
+				- Kỹ năng sẽ được dùng theo thứ tự từ trái sang phải, nếu kỹ năng trước đang chờ hồi phục thì dùng kỹ năng sau
+			- Auras: Danh sách vòng sáng kích hoạt, gồm 2 tham biến, ngăn cách nhau bởi dấu ; giữa các loại vòng sáng
+				- ID_Cấp
+				- Tất cả quái xung quanh sẽ được vòng sáng tương ứng cho đến khi bản thân quái mang vòng sáng bị giết chết
+		- Boss: Thông tin Boss
+			- Tương tự như quái
+		- Siege: Thông tin xe công thành
+			- Tương tự như quái
+	- Defenders: Danh sách các đối tượng thủ thành
+		- Monster: Thông tin quái thủ thành
+			- Tương tự quái công thành
+			- RespawnTicks: Thời gian tái sinh sau khi chết
+		- Marshal: Thông tin nguyên soái thủ thành
+			- Tương tự Boss công thành
+	- Rounds: Thông tin các lượt ra quân của phe công thành
+		- RoundPeriod: Thời gian giãn cách bắt đầu mỗi lượt tấn công
+		- AdditionByPlayers: Số lượng thêm vào tùy theo mỗi khoảng người chơi tương ứng
+			- Monsters: Thêm 1 con quái với mỗi số lượng x người chơi tương ứng
+			- Sieges: Thêm 1 xe công thành với mỗi số lượng x người chơi tương ứng
+			- Bosses: Thêm 1 con Boss với mỗi số lượng x người chơi tương ứng
+		- Round: Thông tin lượt (áp dụng cho từng nhóm)
+			- MonsterCount: Số lượng quái
+			- SiegeCount: Số lượng xe
+			- BossCount: Số lượng Boss
+-->
+<FengHuoLianCheng>
+	<Config RequireLevel="60" MinPlayers="1" MaxPlayers="200" />
+	
+	<EventMap EnterMapID="69" EnterPosX="566" EnterPosY="945" CityMapID="2" CityPosX="8668" CityPosY="5475"/>
+	
+	<EventPoints ProtectMarshalAwardPeriod="15000" ProtectMarshalAwardPoint="15" KillMonsterPoint="5" KillSiegePoint="20" KillSiegeTeamPoint="10" KillBossPoint="200" KillBossTeamPoint="100" KillBossAllPoint="50" />
+	
+	<Awards>
+		<Award FromRank="1" ToRank="1" ReputeID="2" ReputePoint="10">
+			<AwardItem ItemID="188" Quantity="1" Bound="true" />
+			<AwardItem ItemID="10452" Quantity="10" Bound="true" />
+		</Award>
+		<Award FromRank="2" ToRank="2" ReputeID="2" ReputePoint="10">
+			<AwardItem ItemID="187" Quantity="2" Bound="true" />
+			<AwardItem ItemID="10452" Quantity="8" Bound="true" />
+		</Award>
+		<Award FromRank="3" ToRank="3" ReputeID="2" ReputePoint="10">
+			<AwardItem ItemID="186" Quantity="4" Bound="true" />
+			<AwardItem ItemID="10452" Quantity="6" Bound="true" />
+		</Award>
+		<Award FromRank="4" ToRank="10" ReputeID="2" ReputePoint="10">
+			<AwardItem ItemID="185" Quantity="5" Bound="true" />
+			<AwardItem ItemID="10452" Quantity="4" Bound="true" />
+		</Award>
+		<Award FromRank="11" ToRank="50" ReputeID="2" ReputePoint="10">
+			<AwardItem ItemID="185" Quantity="2" Bound="true" />
+			<AwardItem ItemID="10452" Quantity="2" Bound="true" />
+		</Award>
+		<Award FromRank="51" ToRank="100" ReputeID="2" ReputePoint="10">
+			<AwardItem ItemID="184" Quantity="5" Bound="true" />
+			<AwardItem ItemID="10452" Quantity="1" Bound="true" />
+		</Award>
+	</Awards>
+	
+	<NPCs>
+		<NPC ID="20023" Name="Chủ Hiệu Thuốc" Title="" PosX="3794" PosY="596" ScriptID="400041" />
+	</NPCs>
+	
+	<Teleports>
+	</Teleports>
+	
+	<GroupPositions>
+
+	</GroupPositions>
+	
+	<Attackers>
+		
+	</Attackers>
+	
+	<Defenders>
+		<Monster ID="90000" OrderID="1" Name="Pet01" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+		<Monster ID="90001" OrderID="2" Name="Pet06" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+		<Monster ID="90002" OrderID="3" Name="Pet07" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+		<Monster ID="90003" OrderID="4" Name="Pet15" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+		<Monster ID="90004" OrderID="5" Name="Pet16" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+		<Monster ID="90005" OrderID="6" Name="Pet17" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+		<Monster ID="90006" OrderID="7" Name="Pet19" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+		<Monster ID="90007" OrderID="8" Name="Pet20" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+		<Monster ID="90008" OrderID="9" Name="Pet23" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="" />
+	</Defenders>
+	
+	<Rounds RoundPeriod="20000">
+
+	</Rounds>
+	
+	<Weathers>
+		<Monster ID="90000" OrderID="1" Name="Pet01" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="94000_1_1000" />
+	</Weathers>
+</FengHuoLianCheng>

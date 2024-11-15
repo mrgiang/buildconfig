@@ -570,6 +570,7 @@
 	<Bullet ID="1455" Name="Phá Phủ Trầm Chu" MoveKind="1" IsFollowTarget="0" IsComeback="0" StartHeight="0" ExplodeRadius="30" DamageInterval="0" LifeTime="5" MoveSpeed="800" LoopAnimation="1" ExplodeRadiusAddTimes="1" PieceThroughTargetsPercent="0" MaxTargetTouch="1000" />
 -->
 
+  <Bullet ID="9999" Name="Cuồng Lôi Chấn Địa (Đua Pet)" MoveKind="0" IsFollowTarget="0" IsComeback="0" StartHeight="0" ExplodeRadius="30" DamageInterval="0" LifeTime="4" MoveSpeed="0" LoopAnimation="0" ExplodeRadiusAddTimes="0" PieceThroughTargetsPercent="0" MaxTargetTouch="1" />
 
 
 

@@ -26567,9 +26567,19 @@
   
   
   
-  
-  
-  
+ 
+    <Skill Name="qixin_fu_speedpet">
+	<Symbol Name="state_stun_attack">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="100" />
+        <SkillLevelValue Level="21" Value="100" />
+      </Value>
+      <Value ID="2">
+        <SkillLevelValue Level="1" Value="100" />
+        <SkillLevelValue Level="20" Value="100" />
+      </Value>
+    </Symbol>
+  </Skill>
   
   
   
