@@ -160,6 +160,6 @@
 	</Rounds>
 	
 	<Weathers>
-		<Monster ID="90000" OrderID="1" Name="Pet01" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="94000_1_1000" />
+		<Monster ID="90000" OrderID="1" Name="Pet01" Title="" BaseHP="200" HPIncreaseEachLevel="300" AIScriptID="100001" Auras="" Skills="94000_1_0" />
 	</Weathers>
 </FengHuoLianCheng>
