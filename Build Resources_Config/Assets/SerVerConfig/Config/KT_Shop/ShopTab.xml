@@ -5128,7 +5128,6 @@
 	<ShopItem>21126</ShopItem>
 	<ShopItem>21127</ShopItem>
 	<ShopItem>21128</ShopItem>
-	<ShopItem>22046</ShopItem>
     <ShopItem>22047</ShopItem>
     <ShopItem>22048</ShopItem>
     <ShopItem>22049</ShopItem>
@@ -5216,6 +5215,7 @@
     <ShopItem>7023</ShopItem>
     <ShopItem>7024</ShopItem>
     <ShopItem>7025</ShopItem>
+	<ShopItem>7026</ShopItem>
   </ShopTab>
   <ShopTab ShopName="Cửa Hàng Bang Hội" ShopID="226" MoneyType="1" Discount="0" TimeSaleStart=""
     TimeSaleEnd="">

@@ -660,4 +660,70 @@
 		<Sprite Name="QK_17" />
 		<Sprite Name="QK_18" />
 	</Title>
+	<Title ID="108" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/CNCT.unity3d" AtlasName="CNCT" AnimationSpeed="2">
+		<Sprite Name="CNCT_0" />
+		<Sprite Name="CNCT_1" />
+		<Sprite Name="CNCT_2" />
+		<Sprite Name="CNCT_3" />
+		<Sprite Name="CNCT_4" />
+		<Sprite Name="CNCT_5" />
+		<Sprite Name="CNCT_6" />
+		<Sprite Name="CNCT_7" />
+		<Sprite Name="CNCT_8" />
+		<Sprite Name="CNCT_9" />
+		<Sprite Name="CNCT_10" />
+		<Sprite Name="CNCT_11" />
+		<Sprite Name="CNCT_12" />
+		<Sprite Name="CNCT_13" />
+		<Sprite Name="CNCT_14" />
+		<Sprite Name="CNCT_15" />
+		<Sprite Name="CNCT_16" />
+		<Sprite Name="CNCT_17" />
+		<Sprite Name="CNCT_18" />
+		<Sprite Name="CNCT_19" />
+	</Title>
+	<Title ID="109" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/DCAM.unity3d" AtlasName="DCAM" AnimationSpeed="2">
+		<Sprite Name="DCAM_0" />
+		<Sprite Name="DCAM_1" />
+		<Sprite Name="DCAM_2" />
+		<Sprite Name="DCAM_3" />
+		<Sprite Name="DCAM_4" />
+		<Sprite Name="DCAM_5" />
+		<Sprite Name="DCAM_6" />
+		<Sprite Name="DCAM_7" />
+		<Sprite Name="DCAM_8" />
+		<Sprite Name="DCAM_9" />
+		<Sprite Name="DCAM_10" />
+		<Sprite Name="DCAM_11" />
+		<Sprite Name="DCAM_12" />
+		<Sprite Name="DCAM_13" />
+		<Sprite Name="DCAM_14" />
+		<Sprite Name="DCAM_15" />
+		<Sprite Name="DCAM_16" />
+		<Sprite Name="DCAM_17" />
+		<Sprite Name="DCAM_18" />
+		<Sprite Name="DCAM_19" />
+	</Title>
+	<Title ID="110" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/VBT.unity3d" AtlasName="VBT" AnimationSpeed="2">
+		<Sprite Name="VBT_0" />
+		<Sprite Name="VBT_1" />
+		<Sprite Name="VBT_2" />
+		<Sprite Name="VBT_3" />
+		<Sprite Name="VBT_4" />
+		<Sprite Name="VBT_5" />
+		<Sprite Name="VBT_6" />
+		<Sprite Name="VBT_7" />
+		<Sprite Name="VBT_8" />
+		<Sprite Name="VBT_9" />
+		<Sprite Name="VBT_10" />
+		<Sprite Name="VBT_11" />
+		<Sprite Name="VBT_12" />
+		<Sprite Name="VBT_13" />
+		<Sprite Name="VBT_14" />
+		<Sprite Name="VBT_15" />
+		<Sprite Name="VBT_16" />
+		<Sprite Name="VBT_17" />
+		<Sprite Name="VBT_18" />
+		<Sprite Name="VBT_19" />
+	</Title>
 </SpecialTitle>

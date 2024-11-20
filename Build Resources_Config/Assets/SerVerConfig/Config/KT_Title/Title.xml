@@ -44,5 +44,8 @@
 	<Title ID="915" SpecialID="105" Text="Trưởng lão - Cái Bang" Description="Danh hiệu cao cấp của phái Cái Bang. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000426"/>
 	<Title ID="916" SpecialID="106" Text="Sát thủ" Description="Danh hiệu Sát thủ. Có hiệu lực vĩnh viễn." Duration="-1" DataID="-1"/>
 	<Title ID="917" SpecialID="107" Text="Quốc Kỳ" Description="Quốc Kỳ." Duration="-1" DataID="-1"/>
+	<Title ID="918" SpecialID="108" Text="Trưởng lão - Thiên Nhẫn" Description="Danh hiệu cao cấp của phái Thiên Nhẫn. Có hiệu lực vĩnh viễn." Duration="-1" DataID="10003641"/>
+	<Title ID="919" SpecialID="109" Text="Đệ Cứng Admin" Description="Danh hiệu cao cấp . Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000632"/>
+	<Title ID="920" SpecialID="110" Text="Vua Bóng Tối" Description="Danh hiệu cao cấp . Có hiệu lực vĩnh viễn." Duration="-1" DataID="10000632"/>
 
 </Titles>
