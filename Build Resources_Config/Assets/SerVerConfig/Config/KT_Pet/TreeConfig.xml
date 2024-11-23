@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	CẤU HÌNH PET
+	- Limitation: Giới hạn
+		- MaxCanTake: Số lượng pet tối đa có thể mang theo
+		- MaxLevel: Cấp độ tối đa
+		- MaxSkill: Số lượng kỹ năng tối đa
+		- MaxJoy: Số điểm vui vẻ tối đa
+		- MaxLife: Số điểm tuổi thọ tối đa
+	- Base: Thông tin cơ bản
+		- BaseAttackSkillID: ID kỹ năng đánh thường cơ bản
+		- LevelUpRemainPoints: Số điểm tiềm năng cộng thêm mỗi khi lên cấp
+		- DieLoseLife: Số điểm tuổi thọ mất khi chết
+		- CallFightRequịreJoyOver: Xuất chiến yêu cầu phải có tối thiểu bao nhiêu điểm vui vẻ
+		- CallFightRequịreLifeOver: Xuất chiến yêu cầu phải có tối thiểu bao nhiêu điểm tuổi thọ
+		- CallFightCostJoy: Xuất chiến tiêu hao bao nhiêu điểm vui vẻ
+		- SubJoyInterval: Thời gian mỗi khoảng sẽ giảm độ vui vẻ của tinh linh đi 1 điểm (mili-giây)
+		- OwnerExpP: % kinh nghiệm nhận được từ chủ nhân khi giết quái
+	- Items: Danh sách vật phẩm chức năng
+		- ResetAttributesItemID: ID vật phẩm tẩy điểm tiềm năng
+		- SkillStudyMedicineItemID: ID vật phẩm lĩnh hội đan
+	- Feed: Thông tin các vật phẩm chức năng
+		- Joyful: Độ vui vẻ
+			- Item: Thông tin vật phẩm
+				- ItemID: ID vật phẩm
+				- Point: Số điểm tăng thêm
+		- Life: Tuổi thọ
+			- Item: Thông tin vật phẩm
+				- ItemID: ID vật phẩm
+				- Point: Số điểm tăng thêm
+		- Enlightenment: Lĩnh ngộ
+			- Item: Thông tin vật phẩm
+				- ItemID: ID vật phẩm
+				- Point: Số điểm tăng thêm
+	- ExpList: Danh sách kinh nghiệm thăng cấp theo cấp độ đánh dấu từ 1
+		- Value: Giá trị kinh nghiệm yêu cầu
+	- Scrolls: Danh sách sách kỹ năng
+		- Scroll: Thông tin sách
+			- ItemID: ID vật phẩm sách
+			- SkillID: ID kỹ năng sẽ học được
+	- SkillLevelUp: Thông tin thăng cấp kỹ năng
+		- LevelUpData: Thông tin thăng cấp (đánh số từ 1)
+			- Rate: Tỷ lệ %
+			- RequireEnlightenment: Số điểm lĩnh ngộ yêu cầu
+	- SkillStudyRates: Danh sách tỷ lệ học được kỹ năng mới theo cấp độ hiện tại của kỹ năng (đánh số từ 0), nếu hỏng sẽ đè lên kỹ năng bất kỳ hiện có
+		- Data: Dữ liệu
+			- StudyNewRate: Tỷ lệ học mới (%)
+-->
+<TreeConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Limitation MaxCanTake="3" MapId="1" />
+	
+	<GrowTrees>
+		<GrowTree ID="1" Name="" ResID="999999001_999999101_999999201" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="0"/>
+		<GrowTree ID="2" Name="" ResID="999999002_999999102_999999202" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="1"/>
+		<GrowTree ID="3" Name="" ResID="999999003_999999103_999999203" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="2"/>
+		<GrowTree ID="4" Name="" ResID="999999004_999999104_999999204" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="3"/>
+		<GrowTree ID="5" Name="" ResID="999999005_999999105_999999205" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="4"/>
+		<GrowTree ID="6" Name="" ResID="999999006_999999106_999999206" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="5"/>
+	</GrowTrees>
+
+	
+	<GrowUps>
+		<GrowUp Rate="1" ReqLevel="10" Point="5" MaxLevel="100" RequireMoney="0" RequirePoint="0"/>
+		<GrowUp Rate="2" ReqLevel="10" Point="5" MaxLevel="150" RequireMoney="200000" RequirePoint="0"/>
+		<GrowUp Rate="3" ReqLevel="10" Point="5" MaxLevel="200" RequireMoney="180000" RequirePoint="20000"/>
+	</GrowUps>
+	
+	<Scrolls>
+	
+	</Scrolls>
+	
+	<SkillLevelUp>
+
+	</SkillLevelUp>
+	
+</TreeConfig>
