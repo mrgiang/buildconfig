@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	TẦN LĂNG
+	- Config: Thiết lập
+		- LimitLevel: Cấp độ tối thiểu vào
+		- DurationPerDay: Thời gian vào tối đa mỗi ngày
+		- MonsterLevel: Cấp độ quái
+	- Event: Thông tin sự kiện
+		- Relive: Thông tin điểm hồi sinh
+			- MapID: ID bản đồ hồi sinh
+			- PosX: Vị trí X điểm hồi sinh
+			- PosY: Vị trí Y điểm hồi sinh
+		- Stage: Thông tin tầng
+			- ID: Thứ tự tầng
+			- MapID: ID bản đồ tầng
+			- NPCs: Danh sách NPC
+				- ID: ID NPC
+				- PosX: Vị trí đứng X
+				- PosY: Vị trí đứng Y
+			- Monsters: Danh sách quái và Boss
+				- Monster: Thông tin quái
+					- ID: ID quái
+					- Name: Tên quái, bỏ trống sẽ lấy thông tin ở File cấu hình
+					- Title: Danh hiệu quái, bỏ trống sẽ lấy thông tin ở File cấu hình
+					- PosX: Vị trí X
+					- PosY: Vị trí Y
+					- BaseHP: Sinh lực cơ bản
+					- HPIncreaseEachLevel: Sinh lực tăng thêm với mỗi cấp
+					- AIType: Loại AI (0: Quái thường, 1: Quái tinh anh, 2: Quái thủ lĩnh, 3: Boss, 4: Hải tặc, 5: Quái chữ đỏ)
+					- Series: Ngũ hành (-1: Ngẫu nhiên, 1: Kim, 2: Mộc, 3: Thủy, 4: Hỏa, 5: Thổ)
+					- AIScriptID: IDScriptAI điều khiển
+						- Nếu có sử dụng các Skill đánh thì AIScriptID để bằng 100001, sẽ không sử dụng kỹ năng đánh thường của quái như ngoài Map mà thay vào bằng kỹ năng trong danh sách thiết lập (buộc phải thiết lập kỹ năng đánh, nếu không sẽ lỗi)
+					- RespawnTicks: Thời gian tái sinh
+					- Skills: Danh sách kỹ năng được sử dụng, gồm 2 tham biến, ngăn cách nhau bởi dấu ; giữa các loại kỹ năng
+						- ID_Cấp
+						- Kỹ năng sẽ được dùng theo thứ tự từ trái sang phải, nếu kỹ năng trước đang chờ hồi phục thì dùng kỹ năng sau
+					- Auras: Danh sách vòng sáng kích hoạt, gồm 2 tham biến, ngăn cách nhau bởi dấu ; giữa các loại vòng sáng
+						- ID_Cấp
+						- Tất cả quái xung quanh sẽ được vòng sáng tương ứng cho đến khi bản thân quái mang vòng sáng bị giết chết
+				- Boss: Tương tự quái (mỗi khi đến giờ sẽ chọn ngẫu nhiên 1 trong số các con có cùng thời gian xuất hiện)
+					- SpawnAt: Xuất hiện vào giờ cố định tương ứng
+				- MiniBoss: Danh sách Boss Mini, sẽ chọn ngẫu nhiên 1 trong số này để xuất hiện sau mỗi khoảng tương ứng
+					- MinDuration: Thời gian ngẫu nhiên tối thiểu sau khi Boss cũ bị giết
+					- MaxDuration: Thời gian ngẫu nhiên tối đa sau khi Boss cũ bị giết
+			- Teleport: Cổng dịch chuyển
+				- Name: Tên cổng
+				- PosX: Vị trí X
+				- PosY: Vị trí Y
+				- ToMapID: Vị trí bản đồ đích đến
+				- ToPosX: Vị trí đích đến X
+				- ToPosY: Vị trí đích đến Y
+			
+-->
+<BossGrow>				
+	<Boss ID="80000" Name="Người Tuyết Không Lạnh" Title="" PosX="7890" PosY="4411" BaseHP="6100200" HPIncreaseEachLevel="3100000" AIType="3" Series="-1" AIScriptID="100001" SpawnAt="15:00" Auras="14256_20" Skills="14201_49_3000;14200_49_9000;14210_49_8000;14211_49_7000;14213_49_6000;14219_49_5000;14206_49_4000;14208_49_3000" />
+</BossGrow>

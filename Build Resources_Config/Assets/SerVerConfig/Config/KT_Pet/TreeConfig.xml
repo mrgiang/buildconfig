@@ -47,7 +47,7 @@
 			- StudyNewRate: Tỷ lệ học mới (%)
 -->
 <TreeConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<Limitation MaxCanTake="3" MapId="1" />
+	<Limitation MaxCanTake="6" MapId="1" />
 	
 	<GrowTrees>
 		<GrowTree ID="1" Name="" ResID="999999001_999999101_999999201" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="0"/>

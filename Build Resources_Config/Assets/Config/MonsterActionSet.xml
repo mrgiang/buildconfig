@@ -656,4 +656,6 @@
   
   <Set ID="enemy1700" BundleDir="Resources/NPC/enemy1700" Use8Dir="true" PosX="0" PosY="10" Height="100" AutoFlip="false" />
   <Set ID="enemy1670" BundleDir="Resources/NPC/enemy1670" Use8Dir="true" PosX="0" PosY="10" Height="100" AutoFlip="false" />  
+  <Set ID="passerby5000" BundleDir="Resources/NPC/passerby5000" Use8Dir="false" PosX="150" PosY="194" Height="150" AutoFlip="false" />
+
   </MonsterActionSet>

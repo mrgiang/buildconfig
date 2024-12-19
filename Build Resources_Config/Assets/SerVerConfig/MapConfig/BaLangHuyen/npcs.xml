@@ -34,6 +34,7 @@
 		  <NPC Code="13103" Name="Tiêu Viễn Tứ" MinimapName="Vận Tiêu Sứ" VisibleOnMinimap="1" Title="Ba Lăng huyện Vận Tiêu Sứ(Đào Hoa Nguyên)" X="709" Y="746" Dir="1" ScriptID="-1"/>	
 		  
 		  <NPC Code="999999996" Name="OniKing" MinimapName="Admin" VisibleOnMinimap="1" Title="Ad lõ - Lưu dữ liệu" X="3776" Y="3457" Dir="1" ScriptID="999999996"/>	
+		  <NPC Code="999999994" Name="Cây Thông" MinimapName="Admin" VisibleOnMinimap="1" Title="Noel" X="5776" Y="3010" Dir="1" ScriptID="-1"/>	
 
 		  </NPCs>
 </Map>

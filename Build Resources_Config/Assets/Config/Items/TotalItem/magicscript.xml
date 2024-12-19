@@ -51172,5 +51172,59 @@
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
   
+    <ItemData ItemID="5000020" Name="Hoa Tuyết" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/EventIcon.unity3d" IconAtlasName="EventIcon"
+     Image="5000020" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000021" Name="Cà Rốt" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/EventIcon.unity3d" IconAtlasName="EventIcon"
+     Image="5000021" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000022" Name="Khăn Giáng Sinh" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/EventIcon.unity3d" IconAtlasName="EventIcon"
+     Image="5000022" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000023" Name="Nón Giáng Sinh" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/EventIcon.unity3d" IconAtlasName="EventIcon"
+     Image="5000023" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000024" Name="Người Tuyết Đỏ" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/EventIcon.unity3d" IconAtlasName="EventIcon" Image="5000024" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200305" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000025" Name="Người Tuyết Đặc Biệt" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/EventIcon.unity3d" IconAtlasName="EventIcon" Image="5000025" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000026" Name="Túi Quà Token" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="jh_libao4" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  
 
 </ArrayOfItemData>

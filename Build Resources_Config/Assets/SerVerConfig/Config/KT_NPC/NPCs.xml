@@ -1004,7 +1004,7 @@
     <NPC ID="999999205" ResName="passerby0169" Title="" Name="Cây Vàng" />
     <NPC ID="999999206" ResName="passerby0169" Title="" Name="Cây Vàng" />
 	
-	
+	<NPC ID="999999994" ResName="passerby5000" Title="Noel" Name="Cây Thông" />
 	<NPC ID="999999995" ResName="enemy0177" Title="" Name="Hot Girl" />
 	<NPC ID="999999996" ResName="passerby112" Title="" Name="OniKing" />
 </NPCs>

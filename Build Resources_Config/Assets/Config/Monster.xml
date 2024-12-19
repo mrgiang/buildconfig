@@ -1384,4 +1384,6 @@
   <Monster ID="90006" ResName="Pet19" Name="Pet19 " Title="" MonsterType="0" Level="1" Treasure="1" Elemental="0" MaxHP="-1" MoveSpeed="5" AtkSpeed="901" AIID="100000" Camp="65535" Auras="" Skills="" DropProfile="" />
   <Monster ID="90007" ResName="Pet20" Name="Pet20 " Title="" MonsterType="0" Level="1" Treasure="1" Elemental="0" MaxHP="-1" MoveSpeed="5" AtkSpeed="901" AIID="100000" Camp="65535" Auras="" Skills="" DropProfile="" />
   <Monster ID="90008" ResName="Pet23" Name="Pet23 " Title="" MonsterType="0" Level="1" Treasure="1" Elemental="0" MaxHP="-1" MoveSpeed="5" AtkSpeed="901" AIID="100000" Camp="65535" Auras="" Skills="" DropProfile="" />
+  <Monster ID="80000" ResName="Pet06" Name="Người Tuyết Không Lạnh" Title="Thần Cấp" MonsterType="0" Level="200" Treasure="24" Elemental="0" MaxHP="500000000" MoveSpeed="12" AtkSpeed="18" AIID="100001" Camp="65535" Auras="14256_20" Skills="14200_30_9000;14210_30_8000;14211_30_7000;14213_30_6000;14219_30_5000;14206_30_4000;14208_30_3000;14232_30_-1" DropProfile="" />	
+
 </Monsters>
