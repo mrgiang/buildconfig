@@ -25,7 +25,7 @@
 	<Script ID="12" Dir="NPC/Common/ThuKho.lua" />
 	<Script ID="13" Dir="NPC/Common/XaPhu.lua" />
 	<Script ID="14" Dir="NPC/Common/TienTrang.lua" />
-	<Script ID="15" Dir="NPC/Common/bangHoiLienMinhSu.lua" />
+	<Script ID="15" Dir="NPC/Common/BangHoiLienMinhSu.lua" />
 	<Script ID="16" Dir="NPC/Common/QuanLanhTho.lua" />
 	<Script ID="17" Dir="NPC/Common/QuanQuanNhu.lua" />
 	<Script ID="18" Dir="NPC/Common/TrieuNguyenTinh.lua" />
@@ -155,10 +155,27 @@
 	<Script ID="156" Dir="NPC/TayTuyDao/TayTuyDaiSu.lua" />
 	<Script ID="157" Dir="NPC/Common/NPCText.lua" />
 	<Script ID="158" Dir="NPC/ThienVuongBang/LauNhatQuan.lua" />
+	<Script ID="159" Dir="NPC/TieuGiaoCoc/TrieuKhan.lua" />
+	<Script ID="160" Dir="NPC/TieuGiaoCoc/HoangPhi.lua" />
+	<Script ID="161" Dir="NPC/NguDocGiao/DiepPhieuPheu.lua" />
+	<Script ID="162" Dir="NPC/NguDocGiao/HoPhienCo.lua" />
+	<Script ID="163" Dir="NPC/NguDocGiao/LuTieuBan.lua" />
+
+	<Script ID="200" Dir="NPC/Common/MaXuyenSon.lua" />
+	<Script ID="201" Dir="NPC/Common/MaVan.lua" />
+	<Script ID="202" Dir="NPC/Common/HinhBoDau.lua" />
+	<Script ID="203" Dir="NPC/LienServer/XaPhuLienServer.lua" />
+	<Script ID="000218" Dir="NPC/LienServer/TrieuNguyenTinh.lua" />
+	<Script ID="000219" Dir="NPC/LienServer/HoanNhanLongHuc.lua" />
+	<Script ID="000000" Dir="NPC/Common/BachThuLam.lua" />
+	<Script ID="919199" Dir="Test/Test.lua" />
+	<Script ID="900001" Dir="NPC/Common/LuongTieuTieu.lua" />
+	<Script ID="400030" Dir="Activity/EmperorTomb/EmperorTomb_LiangXiaoXiao.lua" />
+	<Script ID="400031" Dir="Activity/EmperorTomb/EmperorTomb_GuanYiDao.lua" />
 	<!-- End -->
 	
 	<!-- Item -->
-	<Script ID="100001" Dir="Test/Item_Test.lua" />
+	<Script ID="190101" Dir="Test/Item_Test.lua" />
 	<Script ID="200002" Dir="Item/Common/TruyenThongPhu_TanThuThon.lua" />
 	<Script ID="200003" Dir="Item/Common/TruyenThongPhu_ThanhThi.lua" />
 	<Script ID="200004" Dir="Item/Common/TruyenThongPhu_MonPhai.lua" />
@@ -232,6 +249,30 @@
 	<Script ID="200072" Dir="Item/Common/TranhDoatDanhVongBai.lua" />
 	<Script ID="200073" Dir="Item/Common/DanhVongLanhTho.lua" />
 	<Script ID="200074" Dir="Item/Common/TanLang.lua" />
+	<Script ID="200075" Dir="Item/Common/TrangSach.lua" />
+
+	<Script ID="200076" Dir="Item/Common/BachLuyenHoan.lua" />
+	<Script ID="200077" Dir="Item/Common/DuLongDanhVongLenh.lua" />
+	<Script ID="200078" Dir="Item/Common/DuLongTuLuyenPhu.lua"/>
+	<Script ID="200079" Dir="Item/Common/DinhVangDuLong.lua"/>
+	<Script ID="200080" Dir="Item/Common/DuLongUyDanhPhu.lua"/>
+	<Script ID="200081" Dir="Item/Common/TrungDuLong.lua"/>
+	<Script ID="200082" Dir="Item/Common/VoLamMatTich.lua"/>'
+	<Script ID="200083" Dir="Item/Common/TayTuyKinh.lua"/>
+	<Script ID="200084" Dir="Item/Common/TuLuyenDon.lua"/>
+	<Script ID="200085" Dir="Item/Common/TranPhap.lua"/>
+	<Script ID="200086" Dir="Item/Common/CauHonNgoc.lua"/>
+	<Script ID="200089" Dir="Item/Common/TranPhapCao.lua"/>
+	<Script ID="200090" Dir="Item/Common/TranPhapDB.lua"/>
+	<Script ID="200091" Dir="Item/Common/TinhKhiTanTrung.lua" />
+	<Script ID="200092" Dir="Item/Common/TinhKhiTanDai.lua" />
+	<Script ID="200093" Dir="Item/Common/HoatKhiTanTrung.lua" />
+	<Script ID="200094" Dir="Item/Common/HoatKhiTanDai.lua" />
+	<Script ID="200095" Dir="Item/Common/TuiTanThu.lua"/>
+	<Script ID="200096" Dir="Item/Common/DuLongKinhNghiemPhu.lua"/>
+	<Script ID="200097" Dir="Item/Common/BanhItBatBao.lua"/>
+	<Script ID="200098" Dir="Item/Common/RuongDaMinhChau.lua"/>
+	<Script ID="200099" Dir="Item/Common/RuongTranhDoatLT.lua"/>
 	<!-- End -->
 	
 	<!-- Grow Point -->
@@ -250,6 +291,23 @@
 	<Script ID="400010" Dir="Activity/BaiHuTang/BaiHuTangHuWei_Nan.lua" />
 	<Script ID="400011" Dir="Activity/BaiHuTang/BaiHuTangCheFu.lua" />
 	<Script ID="400012" Dir="Activity/BaiHuTang/BaiHuTangChuanSongRen_ChengShi.lua" />
+	<Script ID="000128" Dir="NPC/BachHoDuong/BaoDanhBachHoBac.lua" />
+	<Script ID="000127" Dir="NPC/BachHoDuong/BaoDanhBachHoDong.lua" />
+	<Script ID="000129" Dir="NPC/BachHoDuong/BaoDanhBachHoNam.lua" />
+	<Script ID="000126" Dir="NPC/BachHoDuong/BaoDanhBachHoTay.lua" />
+	<Script ID="000131" Dir="NPC/BachHoDuong/TruyenTongBHD.lua" />
+	<Script ID="000130" Dir="NPC/BachHoDuong/XaPhuBHD.lua" />
+	<!-- End -->
+	<Script ID="400020" Dir="Activity/TeamBattle/TeamBattle_BattleHallNPC.lua" />	
+	<!-- Copy Scenes -->
+	<Script ID="500000" Dir="CopyScene/XoYo/XoYo_BaoMing_ZhaoKan.lua" />
+	<Script ID="500001" Dir="CopyScene/XoYo/XoYo_WaitingRoom_LiaoKuo.lua" />
+	<Script ID="500002" Dir="CopyScene/XoYo/XoYoChuanSongRen_ChengShi.lua" />
+	<Script ID="500003" Dir="CopyScene/XoYo/XoYo_HuangFei.lua" />
+	
+	<Script ID="900000" Dir="CopyScene/MilitaryCamp/MilitaryCamp_BaoMing_ZhaoKan.lua" />
+	<Script ID="900001" Dir="CopyScene/MilitaryCamp/MilitaryCamp_WaitingRoom_LiaoKuo.lua" />
+	<Script ID="900002" Dir="CopyScene/MilitaryCamp/MilitaryCampChuanSongRen_ChengShi.lua" />	
 	<!-- End -->
 	
 </ScriptIndex>
