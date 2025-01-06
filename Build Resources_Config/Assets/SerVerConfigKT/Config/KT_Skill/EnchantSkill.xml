@@ -599,7 +599,7 @@
 				<Value ID="1" Type="1">
 					<SkillLevelValue Level="1" Value="-9" />
 					<SkillLevelValue Level="5" Value="-18" />
-					<SkillLevelValue Level="10" Value="-27" />
+					<SkillLevelValue Level="10" Value="-23" />
 				</Value>
 			</Symbol>
 		</RelatedSkill>
@@ -610,6 +610,16 @@
 					<SkillLevelValue Level="1" Value="-9" />
 					<SkillLevelValue Level="5" Value="-18" />
 					<SkillLevelValue Level="10" Value="-27" />
+				</Value>
+			</Symbol>
+		</RelatedSkill>
+		
+		<RelatedSkill ID="155">
+			<Symbol Name="skill_mintimepercast_v">
+				<Value ID="1" Type="1">
+					<SkillLevelValue Level="1" Value="-90" />
+					<SkillLevelValue Level="5" Value="-180" />
+					<SkillLevelValue Level="10" Value="-270" />
 				</Value>
 			</Symbol>
 		</RelatedSkill>
@@ -973,13 +983,13 @@
 		<RelatedSkill ID="490">
 			<Symbol Name="state_palsy_attack">
 				<Value ID="1" Type="1">
-					<SkillLevelValue Level="1" Value="7" />
-					<SkillLevelValue Level="10" Value="20" />
+					<SkillLevelValue Level="1" Value="2" />
+					<SkillLevelValue Level="10" Value="5" />
 				</Value>
 				
 				<Value ID="2" Type="1">
-					<SkillLevelValue Level="1" Value="27" />
-					<SkillLevelValue Level="10" Value="45" />
+					<SkillLevelValue Level="1" Value="9" />
+					<SkillLevelValue Level="10" Value="9" />
 				</Value>
 			</Symbol>
 		</RelatedSkill>

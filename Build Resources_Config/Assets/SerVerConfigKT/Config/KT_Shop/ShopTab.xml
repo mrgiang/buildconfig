@@ -4153,24 +4153,6 @@
   </ShopTab>
 	<ShopTab ShopName="Khuyến Mại" ShopID="203" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">
 		<ShopItem>5000</ShopItem> <!--Thỏi vàng-->
-		<ShopItem>5001</ShopItem> <!--Vô hạn truyền tống phù-->
-		<ShopItem>5002</ShopItem> <!--Can Khôn phù-->
-		
-		<ShopItem>5003</ShopItem>
-	<!--	<ShopItem>5004</ShopItem>
-		<ShopItem>5005</ShopItem>
-		<ShopItem>5006</ShopItem>-->
-		<ShopItem>5007</ShopItem> <!--Tu Luyện đơn -->
-		
-		<!--<ShopItem>5008</ShopItem>
-		<ShopItem>5009</ShopItem>-->
-		<ShopItem>5010</ShopItem><!--Nguyệt ảnh nguyên thạch thô-->
-		<!--<ShopItem>5011</ShopItem>
-		<ShopItem>5012</ShopItem>-->
-		<ShopItem>5551</ShopItem>
-		<ShopItem>5552</ShopItem>
-		<ShopItem>5576</ShopItem>
-		<!-- <ShopItem>5553</ShopItem> -->
 	</ShopTab>
 	<ShopTab ShopName="Huyền Tinh" ShopID="204" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">
 		<ShopItem>5013</ShopItem>
@@ -4186,10 +4168,7 @@
 		<ShopItem>5020</ShopItem>
 		<ShopItem>5021</ShopItem>
 		<ShopItem>5022</ShopItem>
-
 		<ShopItem>5025</ShopItem>
-
-
 		<ShopItem>5032</ShopItem>
 		<ShopItem>5033</ShopItem>
 		<ShopItem>5034</ShopItem>
@@ -4269,27 +4248,7 @@
 		<ShopItem>5098</ShopItem>
 		<ShopItem>5099</ShopItem>
 	</ShopTab>	
-	<ShopTab ShopName="Khuyến Mại" ShopID="207" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
-		<ShopItem>5100</ShopItem>
-		<ShopItem>5101</ShopItem>
-		<!-- <ShopItem>5102</ShopItem> -->
-		<ShopItem>5103</ShopItem>
-		<ShopItem>5104</ShopItem>
-		<ShopItem>5105</ShopItem>
-		<ShopItem>5582</ShopItem>
-		<ShopItem>5583</ShopItem>
-		<ShopItem>5584</ShopItem>
-		<ShopItem>5106</ShopItem>
-		
-	</ShopTab>	
-	<ShopTab ShopName="Huyền Tinh" ShopID="208" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
-		<ShopItem>5108</ShopItem>
-		<ShopItem>5109</ShopItem>
-		<ShopItem>5110</ShopItem>
-		<ShopItem>5111</ShopItem>
-		<ShopItem>5112</ShopItem>
-		<ShopItem>5113</ShopItem>
-	</ShopTab>	
+	
 	<ShopTab ShopName="Thường Dùng" ShopID="209" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
 		<ShopItem>5114</ShopItem>
 		<ShopItem>5115</ShopItem>
@@ -4340,106 +4299,84 @@
 		<ShopItem>5158</ShopItem>
 	</ShopTab>	
 	<ShopTab ShopName="Thường dùng" ShopID="211" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">
-		<ShopItem>5159</ShopItem>
-		<ShopItem>5160</ShopItem>
-		<ShopItem>5161</ShopItem>
-		<ShopItem>5162</ShopItem>
-		<ShopItem>5165</ShopItem>
-		<ShopItem>5166</ShopItem>
-		<ShopItem>5190</ShopItem>
-		
-		<ShopItem>5177</ShopItem>
-		<ShopItem>5178</ShopItem>
-		<!--<ShopItem>5169</ShopItem>-->		
-	<!--<ShopItem>5171</ShopItem>
-		<ShopItem>5172</ShopItem>
-		<ShopItem>5173</ShopItem>-->	
-		<ShopItem>5107</ShopItem>
-		<ShopItem>5179</ShopItem>
-		<ShopItem>5180</ShopItem>
-		<ShopItem>5577</ShopItem>
-		<ShopItem>5181</ShopItem>
-		<ShopItem>5182</ShopItem>
-		<ShopItem>5578</ShopItem>
-		<!-- <ShopItem>5183</ShopItem>
-		<ShopItem>5184</ShopItem> bí cảnh
-		<ShopItem>5185</ShopItem>
-		<ShopItem>5186</ShopItem>
-		<ShopItem>5187</ShopItem>-->
-		<ShopItem>5188</ShopItem>
-		<ShopItem>5189</ShopItem>
-		<!--<ShopItem>5191</ShopItem>
-		<ShopItem>5192</ShopItem>
-		<ShopItem>5193</ShopItem>-->
+		<ShopItem>5165</ShopItem>           vô hạn truyền tống phù 7 ngày
+		<ShopItem>5166</ShopItem>			vô hạn truyền tống phù 30 ngày
+		<ShopItem>5002</ShopItem> <!--Can Khôn phù-->
+		<ShopItem>5159</ShopItem>			Bạch Cầu Hoàn
+		<ShopItem>5160</ShopItem>			Đại bạch cầu hoàn
+		<ShopItem>5007</ShopItem> <!--Tu Luyện đơn -->
+		<ShopItem>5551</ShopItem> Bản đồ bí cảnh
+		<ShopItem>5163</ShopItem>			thùng rượu 5
+		<ShopItem>5164</ShopItem>			thùng rươu 50
+		<ShopItem>5103</ShopItem>			Linh chi lục tiểu mệnh hoàn
+		<ShopItem>5104</ShopItem>			Khí Hoàn
+		<ShopItem>5105</ShopItem>			Hoàn Đơn
+		<ShopItem>5179</ShopItem>			tinh khí tán tiểu
+		<ShopItem>5180</ShopItem>			tinh khí tán đại
+		<ShopItem>5577</ShopItem>			tinh khí tán cực đại
+		<ShopItem>5181</ShopItem>			hoạt khí tán tiểu
+		<ShopItem>5182</ShopItem>			hoạt khí tán đại	
+		<ShopItem>5578</ShopItem>			hoạt khí tán cực đại
+		<ShopItem>5170</ShopItem>			Cửu chuyển tục mệnh hoàn
+		<ShopItem>5188</ShopItem>			óc truyền tinh tiểu
+		<ShopItem>5189</ShopItem>			óc truyền tinh đại
+
 	</ShopTab>
-	<!-- <ShopTab ShopName="Huyền Tinh" ShopID="212" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">	 -->
-		<!-- <ShopItem>5194</ShopItem> -->
-		<!-- <ShopItem>5195</ShopItem> -->
-		<!-- <ShopItem>5196</ShopItem> -->
-		<!-- <ShopItem>5198</ShopItem> -->
-		<!-- <ShopItem>5199</ShopItem> -->
-		<!-- <ShopItem>5554</ShopItem> -->
-	<!-- </ShopTab> -->
+	 <ShopTab ShopName="Huyền Tinh" ShopID="212" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">	 -->
+		 <ShopItem>5194</ShopItem> HT 1
+		 <ShopItem>5195</ShopItem> HT 3
+		 <ShopItem>5591</ShopItem> HT 3
+		 <ShopItem>5196</ShopItem> 	HT 5
+		 <ShopItem>5592</ShopItem> 	HT 6
+		 <ShopItem>5593</ShopItem> 	HT 7
+		 <ShopItem>5594</ShopItem> 	HT 8
+		 <ShopItem>5595</ShopItem> 	HT 9
+		 <ShopItem>5596</ShopItem> 	HT 10
+		 <ShopItem>5597</ShopItem> 	HT 11
+		 <ShopItem>5598</ShopItem> 	HT 12
+
+	 </ShopTab> 
 	<ShopTab ShopName="Đạo Cụ" ShopID="213" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">	
-		<ShopItem>5200</ShopItem>
-		<ShopItem>5201</ShopItem>
-		<ShopItem>5546</ShopItem>
-		<ShopItem>5163</ShopItem>
-		<ShopItem>5164</ShopItem>
-		<!-- <ShopItem>5167</ShopItem> -->
-		<ShopItem>5168</ShopItem>
-		<ShopItem>5170</ShopItem>
-		<ShopItem>5174</ShopItem>
-		<ShopItem>5175</ShopItem>
-		<ShopItem>5176</ShopItem>
-		
-		<ShopItem>5579</ShopItem>
-		<ShopItem>5580</ShopItem>
-		<ShopItem>5581</ShopItem>
-		<ShopItem>5103</ShopItem>
-		<ShopItem>5104</ShopItem>
-		<ShopItem>5105</ShopItem>
-	<!--<ShopItem>5201</ShopItem>
-		<ShopItem>5202</ShopItem>
-		<ShopItem>5203</ShopItem>
-		<ShopItem>5204</ShopItem>
-		<ShopItem>5205</ShopItem>
-		<ShopItem>5206</ShopItem>
-		<ShopItem>5207</ShopItem>
-		<ShopItem>5208</ShopItem>
-		<ShopItem>5209</ShopItem>
-		<ShopItem>5210</ShopItem>
-		<ShopItem>5211</ShopItem>
-		<ShopItem>5212</ShopItem>
-		<ShopItem>5213</ShopItem>-->
+		<ShopItem>5198</ShopItem>   Rương Hồn Thạch 100
+		<ShopItem>5199</ShopItem> 	Rương Hồn Thạch 1000
+		<ShopItem>5554</ShopItem> 	Rương Hồn Thạch 5000
+		<ShopItem>5107</ShopItem>			rương dạ minh châu 100
+		<ShopItem>5200</ShopItem>			lệnh bài chúc phúc sơ
+		<ShopItem>5201</ShopItem>			lệnh bài chúc phúc trung
+		<ShopItem>5175</ShopItem>	Kim tề cấp 3
+		<ShopItem>5174</ShopItem>	Kim Tề cấp 4
+		<ShopItem>5546</ShopItem>	thẻ đổi tên
+		<ShopItem>5552</ShopItem>	Thẻ đổi môn phái
+		<ShopItem>5176</ShopItem>	lệnh bài tẩy tuỷ
+		<ShopItem>5168</ShopItem>	Lệnh bài triệu hồi gia tộc
+		<ShopItem>5599</ShopItem>	Uy Danh Lệnh
+		<ShopItem>5579</ShopItem>	Rương Ma Đao Thạch
+		<ShopItem>5580</ShopItem>	Rương Hộ Giáp Phiến
+		<ShopItem>5581</ShopItem>	Rương Ngũ Hành Thạch
+		<ShopItem>5010</ShopItem><!--Nguyệt ảnh nguyên thạch thô-->
+		<ShopItem>5576</ShopItem>	NGuyệt ảnh thạch
+	</ShopTab>
+		<ShopTab ShopName="Khuyến Mãi" ShopID="207" MoneyType="3" Discount="0" TimeSaleStart="11112023" TimeSaleEnd="12122023">	
+		<ShopItem>5200</ShopItem>			lệnh bài chúc phúc sơ
+		<ShopItem>5201</ShopItem>			lệnh bài chúc phúc trung
+		<ShopItem>5579</ShopItem>	Rương Ma Đao Thạch
+		<ShopItem>5580</ShopItem>	Rương Hộ Giáp Phiến
+		<ShopItem>5581</ShopItem>	Rương Ngũ Hành Thạch
 	</ShopTab>
 	<ShopTab ShopName="Đạo Cụ" ShopID="215" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">	
-		<!-- <ShopItem>5214</ShopItem> -->
-		<!-- <ShopItem>5215</ShopItem> -->
-		<!-- <ShopItem>5216</ShopItem> -->
-		<!-- <ShopItem>5217</ShopItem> -->
-		<!-- <ShopItem>5218</ShopItem> -->
-		<!-- <ShopItem>5219</ShopItem> -->
-		<ShopItem>5226</ShopItem>
-		<ShopItem>5227</ShopItem> 
-		<ShopItem>5228</ShopItem>
-		<ShopItem>5229</ShopItem>
+		<ShopItem>5200</ShopItem>			lệnh bài chúc phúc sơ
+		<ShopItem>5201</ShopItem>			lệnh bài chúc phúc trung
+		<ShopItem>5579</ShopItem>	Rương Ma Đao Thạch
+		<ShopItem>5580</ShopItem>	Rương Hộ Giáp Phiến
+		<ShopItem>5581</ShopItem>	Rương Ngũ Hành Thạch
 	</ShopTab>
 	<ShopTab ShopName="Thường Dùng" ShopID="214" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
 		<ShopItem>5220</ShopItem>
 		<ShopItem>5221</ShopItem>
 		<ShopItem>5222</ShopItem>
 		<ShopItem>5223</ShopItem>
-		<!--<ShopItem>5224</ShopItem>
-		<ShopItem>5225</ShopItem>-->
 		<ShopItem>5226</ShopItem>
 		<ShopItem>5227</ShopItem> 
-		<ShopItem>5228</ShopItem>
-		<ShopItem>5229</ShopItem>
-		<!-- <ShopItem>5230</ShopItem>
-		<ShopItem>5231</ShopItem>
-		<ShopItem>5232</ShopItem>
-		<ShopItem>5233</ShopItem>-->	
 
 	</ShopTab>
 	<ShopTab ShopName="Trang Bị Nghĩa Quân - Kim" ShopID="216" MoneyType="1" Discount="0" TimeSaleStart="" TimeSaleEnd="">	
@@ -4771,6 +4708,22 @@
 		<ShopItem>5543</ShopItem>
 		<ShopItem>5544</ShopItem>
 		<ShopItem>5545</ShopItem>
-   
+   </ShopTab>
+		<ShopTab ShopName="Chiến Mã" ShopID="227" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+		 <ShopItem>5190</ShopItem>			dây cương thần bí chứa ngựa 8x
+		 <ShopItem>5228</ShopItem>
+		<ShopItem>5229</ShopItem>
+		 <ShopItem>5177</ShopItem>			mã bài xích thố
+		<ShopItem>5178</ShopItem>			mã bài bôn tiêu
+	</ShopTab>
+	<ShopTab ShopName="Giao Dịch" ShopID="228" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+		<ShopItem>5161</ShopItem>			thỏi vàng nhỏ
+		<ShopItem>5162</ShopItem>			thỏi vàng đại
+		<ShopItem>5585</ShopItem> 		KNB 1 Vạn
+		<ShopItem>5586</ShopItem> 		KNB 2 Vạn
+		<ShopItem>5587</ShopItem>		 KNB 5 Vạn
+		<ShopItem>5588</ShopItem>		 KNB 10 Vạn
+		<ShopItem>5589</ShopItem>		 KNB 50 Vạn
+		<ShopItem>5590</ShopItem>		 KNB 100 Vạn
 	</ShopTab>
 </ArrayOfShopTab>

@@ -866,9 +866,9 @@
   <MapDropInfo MonsterName="Ô Sơn Thanh" MonsterID="2424" DropCount="1" DropProfile="ZHJvcHJhdGVfYm9zc185NV9odW8udHh0" />
   <MapDropInfo MonsterName="Trần Vô Mệnh" MonsterID="2425" DropCount="1" DropProfile="ZHJvcHJhdGVfYm9zc185NV90dS50eHQ=" />
   <MapDropInfo MonsterName="Tà Hồn Sư" MonsterID="2429" DropCount="1" DropProfile="ZjFfc3BlY2lhbC50eHQ=" />
-  <MapDropInfo MonsterName="Quỷ Mẫu" MonsterID="2432" DropCount="1" DropProfile="ZjJfc3BlY2lhbC50eHQ=" />
-  <MapDropInfo MonsterName="Lý Thanh" MonsterID="2435" DropCount="1" DropProfile="ZjNfc3BlY2lhbC50eHQ=" />
-  <MapDropInfo MonsterName="Khiên Hồn Sư" MonsterID="2438" DropCount="1" DropProfile="ZjRfc3BlY2lhbC50eHQ=" />
+  <MapDropInfo MonsterName="Quỷ Mẫu" MonsterID="2432" DropCount="1" DropProfile="ZjFfc3BlY2lhbC50eHQ=" />
+  <MapDropInfo MonsterName="Lý Thanh" MonsterID="2435" DropCount="1" DropProfile="ZjFfc3BlY2lhbC50eHQ=" />
+  <MapDropInfo MonsterName="Khiên Hồn Sư" MonsterID="2438" DropCount="1" DropProfile="ZjFfc3BlY2lhbC50eHQ=" />
   <MapDropInfo MonsterName="Đồ Tôn" MonsterID="2451" DropCount="1" DropProfile="c21hbGxfYm9zcy50eHQ=" />
   <MapDropInfo MonsterName="Hiên Viên Thanh Thanh" MonsterID="2452" DropCount="1" DropProfile="c21hbGxfYm9zcy50eHQ=" />
   <MapDropInfo MonsterName="Thái Sử Khang" MonsterID="2453" DropCount="1" DropProfile="c21hbGxfYm9zcy50eHQ=" />
@@ -969,24 +969,24 @@
   <MapDropInfo MonsterName="Cơ Quan Nhân Phục Chế" MonsterID="2932" DropCount="1" DropProfile="eGlhb2d1YWkudHh0" />
   <MapDropInfo MonsterName="Cơ Quan Nhân Phục Chế" MonsterID="2933" DropCount="1" DropProfile="eGlhb2d1YWkudHh0" />
     <!-- bosss 95 -->
-  <MapDropInfo MonsterName="Nhu Tiểu Thúy" MonsterID="2934" DropCount="8" DropProfile="NhuTieuThuy9zcm9zc185NV9qaW4udHh0" />
-  <MapDropInfo MonsterName="Trương Thiện Đức" MonsterID="2935" DropCount="8" DropProfile="TruongThienDuccHJhdGV5NV9tdS50eHQ" />
-  <MapDropInfo MonsterName="Giả Dật Sơn" MonsterID="2936" DropCount="8" DropProfile="GiaGiatSonZHJvcHJhdGVfV9zaHVpLnR4dA" />
-  <MapDropInfo MonsterName="Ô Sơn Thanh" MonsterID="2937" DropCount="8" DropProfile="OSonThanhZHJvcHJhdGV9odW8udW8Hh0" />
-  <MapDropInfo MonsterName="Trần Vô Mệnh" MonsterID="2938" DropCount="8" DropProfile="TranVoMenhZHJvHJhd185NV90dS50eHQ" />
+  <MapDropInfo MonsterName="Nhu Tiểu Thúy" MonsterID="2934" DropCount="8" DropProfile="NhuTieuThuy9zcm85NV9qaW4udHh0" />
+  <MapDropInfo MonsterName="Trương Thiện Đức" MonsterID="2935" DropCount="8" DropProfile="TruongThienDucGV5NV9tdS50eHQ0" />
+  <MapDropInfo MonsterName="Giả Dật Sơn" MonsterID="2936" DropCount="8" DropProfile="GiaGiatSonZHJvcHJ9zaHVpLnR4dA" />
+  <MapDropInfo MonsterName="Ô Sơn Thanh" MonsterID="2937" DropCount="8" DropProfile="OSonThanhZHJvcdGV9odW8udW8Hh0" />
+  <MapDropInfo MonsterName="Trần Vô Mệnh" MonsterID="2938" DropCount="8" DropProfile="TranVoMenhZHJvHJ65NV90dS50eHQ" />
   <!-- bosss 55 -->
-  <MapDropInfo MonsterName="Vân Tuyết Sơn" MonsterID="2969" DropCount="8" DropProfile="VanTuyetSOnFGX4dWVzaGFuLnR4dA" />
+  <MapDropInfo MonsterName="Vân Tuyết Sơn" MonsterID="2969" DropCount="8" DropProfile="VanTuyetSOnFG4VzaGFuLnR4dA" />
   <MapDropInfo MonsterName="Hình Bổ Đầu" MonsterID="2970" DropCount="8" DropProfile="HinhBoDauW5nYnV0b3UudHh0" />
-  <MapDropInfo MonsterName="Vạn Lão Điên" MonsterID="2971" DropCount="8" DropProfile="VanLaoDienDHsYW9kaWFuLnR4dA" />
-  <MapDropInfo MonsterName="Cao Sĩ Hiền" MonsterID="2972" DropCount="8" DropProfile="CaoSiHienYW9zaGl4aWFuLnR4dA" />
-  <MapDropInfo MonsterName="Thác Bạt Sơn Uyên" MonsterID="2973" DropCount="8" DropProfile="ThacBatSonUyendWFuLYXNoYW5nR4dA" />
-  <MapDropInfo MonsterName="Dương Liễu" MonsterID="2974" DropCount="8" DropProfile="DuongLieuYm9zc195YW5nbGl1LnR4dA" />
+  <MapDropInfo MonsterName="Vạn Lão Điên" MonsterID="2971" DropCount="8" DropProfile="VanLaoDienDHsYW9aWFuLnR4dA" />
+  <MapDropInfo MonsterName="Cao Sĩ Hiền" MonsterID="2972" DropCount="8" DropProfile="CaoSiHienYW9aGl4aWuR4dA" />
+  <MapDropInfo MonsterName="Thác Bạt Sơn Uyên" MonsterID="2973" DropCount="8" DropProfile="ThacBatSonUyenLYoYW5nR4dA" />
+  <MapDropInfo MonsterName="Dương Liễu" MonsterID="2974" DropCount="8" DropProfile="DuongLieuYm9YW5nbGl1LnR4dA" />
    <!-- bosss 75 --> 
-  <MapDropInfo MonsterName="Thần Thương Phương Vãn" MonsterID="2978" DropCount="8" DropProfile="ThanThuongPhuongVandmYW5nd2FuLnR4dA" />
-  <MapDropInfo MonsterName="Triệu Ứng Tiên" MonsterID="2979" DropCount="8" DropProfile="TrieuUngTienWluZ3hpYW4udHh0" />
-  <MapDropInfo MonsterName="Hương Ngọc Tiên" MonsterID="2980" DropCount="8" DropProfile="HuongNgocTienZ3l1eGlhbi50eHQ=" />
-  <MapDropInfo MonsterName="Man Tăng Bất Giới Hòa Thượng" MonsterID="2981" DropCount="8" DropProfile="ManTangBatGioiHoaThuongNoYW5nLnR4dA" />
-  <MapDropInfo MonsterName="Nam Quách Nho" MonsterID="2982" DropCount="8" DropProfile="NamQuachNhoYm9zc19uYW5ndW50eHQ" />
+  <MapDropInfo MonsterName="Thần Thương Phương Vãn" MonsterID="2978" DropCount="8" DropProfile="ThanThuongPhuongVandmLnR4dA" />
+  <MapDropInfo MonsterName="Triệu Ứng Tiên" MonsterID="2979" DropCount="8" DropProfile="TrieuUngTienWZ3hpYW4udHh0" />
+  <MapDropInfo MonsterName="Hương Ngọc Tiên" MonsterID="2980" DropCount="8" DropProfile="HuongNgocTienZ3lGlhbi50eHQ=" />
+  <MapDropInfo MonsterName="Man Tăng Bất Giới Hòa Thượng" MonsterID="2981" DropCount="8" DropProfile="ManTangBatGioiHoaThuongN5d" />
+  <MapDropInfo MonsterName="Nam Quách Nho" MonsterID="2982" DropCount="8" DropProfile="NamQuachNhoYm9zW5ndW50eHQ" />
   
   <MapDropInfo MonsterName="Sói Hoang" MonsterID="3139" DropCount="1" DropProfile="eG95b2dhbWVfbHYxLnR4dA==" />
   <MapDropInfo MonsterName="Sói Hoang" MonsterID="3140" DropCount="1" DropProfile="eG95b2dhbWVfbHYxLnR4dA==" />
@@ -1269,6 +1269,8 @@
   <MapDropInfo MonsterName="Diệp Tịnh" MonsterID="6916" DropCount="1" DropProfile="eWVqaW5nLnR4dA==" />
   <MapDropInfo MonsterName="Bảo Ngọc" MonsterID="6917" DropCount="1" DropProfile="YmFveXUudHh0" />
   <MapDropInfo MonsterName="Tần Thủy Hoàng" MonsterID="6918" DropCount="1" DropProfile="MTIwYm9zcy50eHQ=" />
+  <MapDropInfo MonsterName="Tần Thủy Hoàng" MonsterID="2426" DropCount="1" DropProfile="MTIwYm9zcy50eHQ=" />
+  <MapDropInfo MonsterName="Tần Thủy Hoàng" MonsterID="2475" DropCount="1" DropProfile="MTIwYm9zcy50eHQ=" />
   <MapDropInfo MonsterName="Gấu Đen" MonsterID="6998" DropCount="1" DropProfile="d2FuaHVhZ3VfYmxhY2tiZWFyLnR4dA==" />
   <MapDropInfo MonsterName="Mộ Dung Yến" MonsterID="7265" DropCount="1" DropProfile="a3VhZnVib3NzXzEudHh0" />
   <MapDropInfo MonsterName="Lâu la Thực Nguyệt" MonsterID="7267" DropCount="1" DropProfile="a3VhZnV4aWFvZ3VhaS50eHQ=" />
@@ -1439,7 +1441,7 @@
   <MapDropInfo MonsterName="Kim Thống Lĩnh" MonsterID="2517" DropCount="3" DropProfile="DropThongLinhtongkimSo" />  
   <MapDropInfo MonsterName="Kim Phó Tướng" MonsterID="2518" DropCount="3" DropProfile="DropPhoTuongtongkimSo" />  
   <MapDropInfo MonsterName="Kim Đại Tướng" MonsterID="2519" DropCount="3" DropProfile="DropDaiTuongtongkimSo" />
-
   <MapDropInfo MonsterName="Tống Nguyên Soái" MonsterID="2514" DropCount="3" DropProfile="DropSoaitongkimSo" />  
-  <MapDropInfo MonsterName="Kim Nguyên Soái" MonsterID="2520" DropCount="3" DropProfile="DropSoaitongkimSo" />  
+  <MapDropInfo MonsterName="Kim Nguyên Soái" MonsterID="2520" DropCount="3" DropProfile="DropSoaitongkimSo" />
+  
 </ArrayOfMapDropInfo>

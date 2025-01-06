@@ -16,7 +16,7 @@
 	Number : Là số lượng tương ứng của mỗi vật phẩm | Nếu type là tiền thì Number là số tiền
 -->
 <ConfigBox xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Boxs IDBox="1" BoxName="初级令牌（30声望）" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="1" BoxName="Sơ cấp lệnh bài (30 Danh vọng )" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="338" Number="1" Series="0" TimeLimit="0" Rate="3000" Lock="0" />
     <Items Type="0" ItemID="339" Number="1" Series="0" TimeLimit="0" Rate="2000" Lock="0" />
     <Items Type="0" ItemID="340" Number="1" Series="0" TimeLimit="0" Rate="1000" Lock="0" />
@@ -29,7 +29,7 @@
     <Items Type="0" ItemID="188" Number="1" Series="0" TimeLimit="0" Rate="300" Lock="0" />
     <Items Type="0" ItemID="189" Number="1" Series="0" TimeLimit="0" Rate="100" Lock="0" />
   </Boxs>
-  <Boxs IDBox="2" BoxName="家族令牌（初级）" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="2" BoxName="Gia tộc lệnh bài ( Sơ cấp )" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="-1" Number="1" Series="0" TimeLimit="0" Rate="1000" Lock="0" />
     <Items Type="0" ItemID="-1" Number="1" Series="0" TimeLimit="0" Rate="500" Lock="0" />
     <Items Type="0" ItemID="-1" Number="1" Series="0" TimeLimit="0" Rate="300" Lock="0" />
@@ -38,27 +38,27 @@
     <Items Type="0" ItemID="189" Number="1" Series="0" TimeLimit="0" Rate="100" Lock="1" />
     <Items Type="0" ItemID="190" Number="1" Series="0" TimeLimit="0" Rate="10" Lock="1" />
   </Boxs>
-  <Boxs IDBox="3" BoxName="6级玄晶" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="3" BoxName="6 Cấp Huyền Tinh" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="188" Number="1" Series="0" TimeLimit="0" Rate="7000" Lock="0" />
     <Items Type="2" ItemID="-1" Number="100000" Series="0" TimeLimit="0" Rate="2000" Lock="0" />
     <Items Type="0" ItemID="189" Number="1" Series="0" TimeLimit="0" Rate="1000" Lock="0" />
   </Boxs>
-  <Boxs IDBox="4" BoxName="7级玄晶" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="4" BoxName="7 Cấp Huyền Tinh" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="189" Number="1" Series="0" TimeLimit="0" Rate="8400" Lock="0" />
     <Items Type="2" ItemID="-1" Number="300000" Series="0" TimeLimit="0" Rate="1500" Lock="0" />
     <Items Type="0" ItemID="190" Number="1" Series="0" TimeLimit="0" Rate="100" Lock="0" />
   </Boxs>
-  <Boxs IDBox="5" BoxName="7级玄晶" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="5" BoxName="7 Cấp Huyền Tinh" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="189" Number="1" Series="0" TimeLimit="0" Rate="7700" Lock="0" />
     <Items Type="2" ItemID="-1" Number="600000" Series="0" TimeLimit="0" Rate="1500" Lock="0" />
     <Items Type="0" ItemID="190" Number="1" Series="0" TimeLimit="0" Rate="800" Lock="0" />
   </Boxs>
-  <Boxs IDBox="6" BoxName="8级玄晶" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="6" BoxName="8 Cấp Huyền Tinh" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="190" Number="1" Series="0" TimeLimit="0" Rate="8700" Lock="0" />
     <Items Type="2" ItemID="-1" Number="1000000" Series="0" TimeLimit="0" Rate="1000" Lock="0" />
     <Items Type="0" ItemID="191" Number="1" Series="0" TimeLimit="0" Rate="300" Lock="0" />
   </Boxs>
-  <Boxs IDBox="7" BoxName="牛栏寨腰牌" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="7" BoxName="Ngưu Lan trại lệnh bài" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="2951" Number="1" Series="0" TimeLimit="0" Rate="200" Lock="0" />
     <Items Type="0" ItemID="2952" Number="1" Series="0" TimeLimit="0" Rate="800" Lock="0" />
     <Items Type="0" ItemID="2953" Number="1" Series="0" TimeLimit="0" Rate="100" Lock="0" />
@@ -241,7 +241,7 @@
     <Items Type="0" ItemID="753" Number="1" Series="0" TimeLimit="0" Rate="3100" Lock="0" />
     <Items Type="0" ItemID="754" Number="1" Series="0" TimeLimit="0" Rate="700" Lock="0" />
   </Boxs>
-  <Boxs IDBox="28" BoxName="8级玄晶" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="28" BoxName="8 Cấp Huyền Tinh" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="8350" Lock="0" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="1500" Lock="0" />
     <Items Type="0" ItemID="394" Number="1" Series="0" TimeLimit="43200" Rate="150" Lock="0" />
@@ -271,7 +271,7 @@
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="2500" Lock="0" />
     <Items Type="0" ItemID="391" Number="1" Series="0" TimeLimit="43200" Rate="7000" Lock="0" />
   </Boxs>
-  <Boxs IDBox="32" BoxName="8级玄晶" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="32" BoxName="8 Cấp Huyền Tinh" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="9600" Lock="0" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="350" Lock="0" />
     <Items Type="0" ItemID="394" Number="1" Series="0" TimeLimit="43200" Rate="50" Lock="0" />
@@ -298,7 +298,7 @@
     <Items Type="0" ItemID="351" Number="1" Series="0" TimeLimit="43200" Rate="3700" Lock="1" />
     <Items Type="0" ItemID="352" Number="1" Series="0" TimeLimit="43200" Rate="1300" Lock="1" />
   </Boxs>
-  <Boxs IDBox="37" BoxName="优惠券：3折购买1个7级玄晶" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="37" BoxName="优惠券：3折购买1个7 Cấp Huyền Tinh" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="845" Number="1" Series="0" TimeLimit="43200" Rate="400" Lock="1" />
     <Items Type="0" ItemID="846" Number="1" Series="0" TimeLimit="43200" Rate="80" Lock="1" />
     <Items Type="0" ItemID="843" Number="1" Series="0" TimeLimit="43200" Rate="1900" Lock="1" />
@@ -331,12 +331,12 @@
     <Items Type="0" ItemID="292" Number="1" Series="0" TimeLimit="43200" Rate="1060" Lock="1" />
     <Items Type="0" ItemID="846" Number="1" Series="0" TimeLimit="43200" Rate="10" Lock="1" />
   </Boxs>
-  <Boxs IDBox="41" BoxName="7级玄晶（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="41" BoxName="7 Cấp Huyền Tinh（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="391" Number="1" Series="0" TimeLimit="43200" Rate="8400" Lock="1" />
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="1500" Lock="1" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="100" Lock="1" />
   </Boxs>
-  <Boxs IDBox="42" BoxName="8级玄晶（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="42" BoxName="8 Cấp Huyền Tinh（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="8400" Lock="1" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="1500" Lock="1" />
     <Items Type="0" ItemID="394" Number="1" Series="0" TimeLimit="43200" Rate="100" Lock="1" />
@@ -487,7 +487,7 @@
     <Items Type="0" ItemID="337" Number="1" Series="0" TimeLimit="0" Rate="-1" Lock="1" />
     <Items Type="0" ItemID="337" Number="1" Series="0" TimeLimit="0" Rate="-1" Lock="1" />
   </Boxs>
-  <Boxs IDBox="55" BoxName="7级玄晶" TotalRate="1000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="55" BoxName="7 Cấp Huyền Tinh" TotalRate="1000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="391" Number="1" Series="0" TimeLimit="43200" Rate="668" Lock="0" />
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="30" Lock="0" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="2" Lock="0" />
@@ -516,7 +516,7 @@
     <Items Type="0" ItemID="1099" Number="1" Series="0" TimeLimit="43200" Rate="3" Lock="0" />
     <Items Type="0" ItemID="-1" Number="0" Series="0" TimeLimit="0" Rate="-1" Lock="0" />
   </Boxs>
-  <Boxs IDBox="58" BoxName="7级玄晶（绑定）" TotalRate="1000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="58" BoxName="7 Cấp Huyền Tinh（绑定）" TotalRate="1000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="391" Number="1" Series="0" TimeLimit="43200" Rate="859" Lock="0" />
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="100" Lock="0" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="10" Lock="0" />
@@ -559,17 +559,17 @@
     <Items Type="1" ItemID="-1" Number="100000" Series="0" TimeLimit="0" Rate="40000" Lock="0" />
     <Items Type="1" ItemID="-1" Number="300000" Series="0" TimeLimit="0" Rate="4000" Lock="0" />
   </Boxs>
-  <Boxs IDBox="64" BoxName="7级玄晶（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="64" BoxName="7 Cấp Huyền Tinh（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="391" Number="1" Series="0" TimeLimit="43200" Rate="8400" Lock="1" />
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="1500" Lock="1" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="100" Lock="1" />
   </Boxs>
-  <Boxs IDBox="65" BoxName="8级玄晶（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="65" BoxName="8 Cấp Huyền Tinh（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="8400" Lock="1" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="1500" Lock="1" />
     <Items Type="0" ItemID="394" Number="1" Series="0" TimeLimit="43200" Rate="100" Lock="1" />
   </Boxs>
-  <Boxs IDBox="66" BoxName="7级玄晶（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="66" BoxName="7 Cấp Huyền Tinh（绑定的）" TotalRate="10000" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="391" Number="1" Series="0" TimeLimit="43200" Rate="8400" Lock="1" />
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="1500" Lock="1" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="100" Lock="1" />
@@ -643,7 +643,7 @@
     <Items Type="0" ItemID="1254" Number="1" Series="0" TimeLimit="0" Rate="300" Lock="0" />
     <Items Type="0" ItemID="927" Number="1" Series="0" TimeLimit="0" Rate="200" Lock="0" />
   </Boxs>
-  <Boxs IDBox="74" BoxName="7级玄晶（绑定的）" TotalRate="10109" LimitWeek="0" LimitDay="0">
+  <Boxs IDBox="74" BoxName="7 Cấp Huyền Tinh（绑定的）" TotalRate="10109" LimitWeek="0" LimitDay="0">
     <Items Type="0" ItemID="391" Number="1" Series="0" TimeLimit="43200" Rate="8000" Lock="0" />
     <Items Type="0" ItemID="392" Number="1" Series="0" TimeLimit="43200" Rate="1000" Lock="0" />
     <Items Type="0" ItemID="393" Number="1" Series="0" TimeLimit="43200" Rate="100" Lock="0" />
@@ -715,23 +715,53 @@
     <Items Type="0" ItemID="1074" Number="1" Series="0" TimeLimit="0" Rate="500" Lock="0" />
   </Boxs>
   <Boxs IDBox="100" BoxName="Rương vừa đẹp vừa cao quý" TotalRate="10000" LimitWeek="10" LimitDay="0">
-    <Items Type="0" ItemID="190" Series="0" TimeLimit="0" Number="1" Rate="9290" Lock="1" />
+    <Items Type="0" ItemID="190" Series="0" TimeLimit="0" Number="1" Rate="9300" Lock="1" />
      <Items Type="0" ItemID="191" Series="0" TimeLimit="0" Number="1" Rate="500" Lock="1" />
      <Items Type="0" ItemID="192" Series="0" TimeLimit="0" Number="1" Rate="150" Lock="1" />
     <Items Type="0" ItemID="193"  Series="0" TimeLimit="0" Number="1" Rate="50" Lock="1" />
-     <Items Type="0" ItemID="194" Series="0" TimeLimit="0" Number="1" Rate="10" Lock="1" />
+     <Items Type="0" ItemID="194" Series="0" TimeLimit="0" Number="1" Rate="0" Lock="1" />
   </Boxs>
-   <Boxs IDBox="337" BoxName="Túi Phúc Hoàng Kim" TotalRate="8800" LimitWeek="0" LimitDay="0">
-    <Items Type="5" ItemID="-1" Series="0" TimeLimit="0" Number="10000" Rate="3000" Lock="1" />
+   <Boxs IDBox="337" BoxName="Túi Phúc Hoàng Kim" TotalRate="6200" LimitWeek="0" LimitDay="0">
     <Items Type="3" ItemID="-1" Series="0" TimeLimit="0" Number="25" Rate="2000" Lock="1" />
-    <Items Type="5" ItemID="-1" Series="0" TimeLimit="0" Number="25000" Rate="1000" Lock="1" />
-    <Items Type="5" ItemID="-1" Series="0" TimeLimit="0" Number="30000" Rate="1500" Lock="1" />
-    <Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="1000" Rate="500" Lock="1" />
-    <Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="2500" Rate="300" Lock="1" />
+	<Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="2000" Rate="2000" Lock="1" />
+	<Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="3000" Rate="1000" Lock="1" />
+	<Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="5000" Rate="500" Lock="1" />
+    <Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="7000" Rate="300" Lock="1" />
     <Items Type="3" ItemID="-1" Series="0" TimeLimit="0" Number="100" Rate="200" Lock="1" />
     <Items Type="3" ItemID="-1" Series="0" TimeLimit="0" Number="300" Rate="100" Lock="1" />
-    <Items Type="5" ItemID="-1" Series="0" TimeLimit="0" Number="50000" Rate="100" Lock="1" />
-    <Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="30000" Rate="100" Lock="1" />
-
+    <Items Type="5" ItemID="-1" Series="0" TimeLimit="0" Number="30000" Rate="100" Lock="1" />
+   </Boxs>
+  <Boxs IDBox="335" BoxName="Rương thi đấu môn phái" TotalRate="10000" LimitWeek="0" LimitDay="0">
+    <Items Type="0" ItemID="187" Series="0" TimeLimit="0" Number="1" Rate="2000" Lock="1" />
+    <Items Type="0" ItemID="188" Series="0" TimeLimit="0" Number="1" Rate="1900" Lock="1" />
+    <Items Type="0" ItemID="189" Series="0" TimeLimit="0" Number="1" Rate="100" Lock="1" />
+    <Items Type="1" ItemID="-1" Series="0" TimeLimit="0" Number="50000" Rate="500" Lock="1" />
+    <Items Type="0" ItemID="338" Series="0" TimeLimit="0" Number="1" Rate="1500" Lock="1" />
+    <Items Type="0" ItemID="339" Series="0" TimeLimit="0" Number="1" Rate="1500" Lock="1" />
+    <Items Type="0" ItemID="340" Series="0" TimeLimit="0" Number="1" Rate="2500" Lock="1" />
+    
   </Boxs>
+   <Boxs IDBox="591" BoxName="Rương tranh đoạt lãnh thổ" TotalRate="10000" LimitWeek="0" LimitDay="0">
+    <Items Type="0" ItemID="2410" Series="0" TimeLimit="0" Number="1" Rate="2000" Lock="1" />
+     <Items Type="0" ItemID="2412" Series="0" TimeLimit="0" Number="1" Rate="2000" Lock="1" />
+     <Items Type="0" ItemID="2414" Series="0" TimeLimit="0" Number="1" Rate="2000" Lock="1" />
+    <Items Type="0" ItemID="2416"  Series="0" TimeLimit="0" Number="1" Rate="2000" Lock="1" />
+     <Items Type="0" ItemID="2418" Series="0" TimeLimit="0" Number="1" Rate="2000" Lock="1" />
+   </Boxs>
+   
 </ConfigBox>
+<!--
+	=== Hướng dẫn config randombox ===
+	=== Hướng dẫn config randombox ===
+	
+	Khai báo 1 Boxs ID mới thì IDBox cần phải khác nhau không được giống nhau
+	Tổng số lượng RATE phải điền đúng nếu ko sẽ gây lỗi
+	LimitWeek : Tối đa 1 tuần được mở mấy lần  | Nếu để là 0 thì không giới hạn
+	LimitDay : Tối đa 1 ngày được mở mấy lần | Nếu để là 0 thì không giới hạn
+	Lock : 0 Là không khóa | 1 là có khóa
+	Type : Là kiểu tong đó : 0 là vật phẩm | 1 là bạc khóa , 2: là bạc , 3 là đồng khóa , 4 là đồng	| 5 là Exp
+  Serier : là đồ theo hệ
+  TimeLimit : thời gian đồ có thể dùng
+  ItemID là ID đồ của vật phẩm 
+	Number : Là số lượng tương ứng của mỗi vật phẩm | Nếu type là tiền thì Number là số tiền
+-->

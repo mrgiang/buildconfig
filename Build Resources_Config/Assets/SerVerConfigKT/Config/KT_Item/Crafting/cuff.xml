@@ -9566,7 +9566,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9584,7 +9584,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9602,7 +9602,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9620,7 +9620,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9638,7 +9638,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9656,7 +9656,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9674,7 +9674,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9692,7 +9692,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9710,7 +9710,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9728,7 +9728,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9746,7 +9746,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9764,7 +9764,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9782,7 +9782,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9800,7 +9800,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9818,7 +9818,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9836,7 +9836,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9854,7 +9854,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9872,7 +9872,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9890,7 +9890,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9908,7 +9908,7 @@
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="93" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="2" EnhMAPA1Max="2" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="state_stun_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />

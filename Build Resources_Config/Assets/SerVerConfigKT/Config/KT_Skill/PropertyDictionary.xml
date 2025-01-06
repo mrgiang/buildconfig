@@ -10,7 +10,7 @@
   <Property ID="85" Name="magic_lifemax_v" SymbolName="lifemax_v" Description="Sinh lực tối đa: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
   <Property ID="86" Name="magic_lifemax_p" SymbolName="lifemax_p" Description="Sinh lực tối đa: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
   <Property ID="87" Name="magic_life_v" SymbolName="life_v" Description="Sinh lực hiện tại: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
-  <Property ID="88" Name="magic_lifereplenish_v" SymbolName="lifereplenish_v" Description="Mỗi 5 giây phục hồi sinh lực: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
+  <Property ID="88" Name="magic_lifereplenish_v" SymbolName="lifereplenish_v" Description="Mỗi 5 giây phục hồi sinh lực: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
   <Property ID="89" Name="magic_fastlifereplenish_v" SymbolName="fastlifereplenish_v" Description="Mỗi nửa giây phục hồi sinh lực: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
   <Property ID="90" Name="magic_manamax_v" SymbolName="manamax_v" Description="Nội lực tối đa: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
   <Property ID="91" Name="magic_manamax_p" SymbolName="manamax_p" Description="Nội lực tối đa: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
@@ -26,8 +26,8 @@
   <Property ID="101" Name="magic_dexterity_v" SymbolName="dexterity_v" Description="Thân pháp: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
   <Property ID="102" Name="magic_vitality_v" SymbolName="vitality_v" Description="Ngoại công: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
   <Property ID="103" Name="magic_energy_v" SymbolName="energy_v" Description="Nội công: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
-  <Property ID="104" Name="magic_poisontimereduce_p" SymbolName="poisontimereduce_p" Description="Thời gian trúng độc: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
-  <Property ID="105" Name="magic_poisondamagereduce_v" SymbolName="poisondamagereduce_v" Description="Độc sát: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="true" />
+  <Property ID="104" Name="magic_poisontimereduce_p" SymbolName="poisontimereduce_p" Description="Giảm thời gian trúng độc: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
+  <Property ID="105" Name="magic_poisondamagereduce_v" SymbolName="poisondamagereduce_v" Description="Giảm sát thương độc: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="true" />
   <Property ID="106" Name="magic_fastwalkrun_p" SymbolName="fastwalkrun_p" Description="Tốc độ di chuyển: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
   <Property ID="107" Name="magic_fastwalkrun_v" SymbolName="fastwalkrun_v" Description="Tốc độ di chuyển: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
   <Property ID="108" Name="magic_attackspeed_v" SymbolName="attackspeed_v" Description="Tốc độ xuất chiêu hệ ngoại công: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
@@ -80,8 +80,8 @@
   <Property ID="155" Name="magic_autoattacknpc" SymbolName="autoattacknpc" Description="" IsPercent="false" />
   <Property ID="156" Name="magic_dynamicmagicshield_v" SymbolName="dynamicmagicshield_v" Description="Hóa giải sát thương: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;, không vượt quá sát thương ban đầu &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
   <Property ID="157" Name="magic_nomovespeed" SymbolName="nomovespeed" Description="" IsPercent="false" />
-  <Property ID="158" Name="magic_changefeature1" SymbolName="changefeature1" Description="" IsPercent="false" />
-  <Property ID="159" Name="magic_changefeature2" SymbolName="changefeature2" Description="" IsPercent="false" />
+  <Property ID="158" Name="magic_changefeature1" SymbolName="changefeature1" Description="Xác suất tránh công tầm xa: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
+  <Property ID="159" Name="magic_changefeature2" SymbolName="changefeature2" Description="Xác suất tránh công cận chiến: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
   <Property ID="160" Name="magic_stealfeature" SymbolName="stealfeature" Description="Kỹ năng ngụy trang còn: &lt;color=#ffff1a&gt;%s lần&lt;color&gt;" IsPercent="false" />
   <Property ID="161" Name="magic_addstealfeatureskill" SymbolName="addstealfeatureskill" Description="Kỹ năng ngụy trang còn: &lt;color=#ffff1a&gt;%s lần&lt;color&gt;" IsPercent="false" />
   <Property ID="162" Name="magic_lucky_v_partner" SymbolName="lucky_v_partner" Description="May mắn: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="true" />
@@ -102,8 +102,8 @@
   <Property ID="177" Name="magic_manareplenish_p" SymbolName="manareplenish_p" Description="Hiệu suất hồi phục nội lực: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
   <Property ID="178" Name="magic_revive" SymbolName="revive" Description="Trị thương, phục hồi sinh lực &lt;color=#ffff1a&gt;%s%%&lt;color&gt;, nội lực &lt;color=#ffff1a&gt;%s%%&lt;color&gt;, thể lực &lt;color=#ffff1a&gt;%s%%&lt;color&gt; cho đối phương" IsPercent="false" />
   <Property ID="179" Name="magic_ignoreskill" SymbolName="ignoreskill" Description="Xác suất né tránh hoàn toàn sát thương %s &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
-  <Property ID="180" Name="magic_ignoreinitiative" SymbolName="ignoreinitiative" Description="" IsPercent="false" />
-  <Property ID="181" Name="magic_infectcurse" SymbolName="infectcurse" Description="" IsPercent="false" />
+  <Property ID="180" Name="magic_ignoreinitiative" SymbolName="ignoreinitiative" Description="Phá bỏ &lt;color=#ffff1a&gt;%s&lt;color&gt; trạng thái hỗ trợ của đối thủ, đồng thời trong suốt thời gian chịu tác dụng của hiệu ứng, trạng thái tương tự sẽ không thể được kích hoạt lên bản thân" IsPercent="false" />
+  <Property ID="181" Name="magic_infectcurse" SymbolName="infectcurse" Description="Tấn công mục tiêu sẽ bị phản &lt;color=#ffff1a&gt;%s%%&lt;color&gt; sát thương" IsPercent="false" />
   <Property ID="182" Name="magic_infectpoison" SymbolName="infectpoison" Description="Lây độc công &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
   <Property ID="183" Name="magic_ignoredefenseenhance_v" SymbolName="ignoredefenseenhance_v" Description="Bỏ qua né tránh đối thủ: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
   <Property ID="184" Name="magic_ignoredefenseenhance_p" SymbolName="ignoredefenseenhance_p" Description="Bỏ qua né tránh đối thủ: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
@@ -121,7 +121,7 @@
   <Property ID="196" Name="magic_poisontimeenhance_p" SymbolName="poisontimeenhance_p" Description="Thời gian duy trì độc: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
   <Property ID="197" Name="magic_protected" SymbolName="protected" Description="" IsPercent="true" />
   <Property ID="198" Name="magic_removestate" SymbolName="removestate" Description="" IsPercent="false" />
-  <Property ID="199" Name="magic_removeshield" SymbolName="removeshield" Description="" IsPercent="false" />
+  <Property ID="199" Name="magic_removeshield" SymbolName="removeshield" Description="Phá bỏ trạng thái &lt;color=#ffff1a&gt;[Thuần Dương Vô Cực]&lt;color&gt; của đối thủ, đồng thời trong suốt thời gian chịu tác dụng của hiệu ứng, &lt;color=#ffff1a&gt;[Thuần Dương Vô Cực]&lt;color&gt; không thể được kích hoạt" IsPercent="false" />
   <Property ID="200" Name="magic_skilldamageptrim" SymbolName="skilldamageptrim" Description="Phát huy lực tấn công cơ bản: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
   <Property ID="201" Name="magic_defencedeadlystrikedamagetrim" SymbolName="defencedeadlystrikedamagetrim" Description="Chịu sát thương chí mạng: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
   <Property ID="202" Name="magic_seriesenhance" SymbolName="seriesenhance" Description="Cường hóa ngũ hành tương khắc: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="false" />
@@ -139,17 +139,17 @@
   <Property ID="214" Name="magic_adddomainskill2" SymbolName="adddomainskill2" Description="" IsPercent="false" />
   <Property ID="215" Name="magic_adddomainskill3" SymbolName="adddomainskill3" Description="" IsPercent="false" />
   <Property ID="216" Name="magic_stealskillstate" SymbolName="stealskillstate" Description="Đã đánh cắp trạng thái thành công, tiếp tục thi triển trạng thái đánh cắp" IsPercent="false" />
-  <Property ID="217" Name="magic_wastemanap" SymbolName="wastemanap" Description="Hút nội lực mục tiêu: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
+  <Property ID="217" Name="magic_wastemanap" SymbolName="wastemanap" Description="Triệt tiêu nội lực: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
   <Property ID="218" Name="magic_ignoreattack" SymbolName="ignoreattack" Description="Cách mỗi &lt;color=#ffff1a&gt;%s giây&lt;color&gt; bỏ qua nửa giây tấn công" IsPercent="false" />
   <Property ID="219" Name="magic_damage_added" SymbolName="npcdamageadded" Description="Sát thương quái: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
   <Property ID="220" Name="magic_seriesstate_added" SymbolName="seriesstate_added" Description="" IsPercent="false" />
   <Property ID="221" Name="magic_addenchant" SymbolName="addenchant" Description="" IsPercent="false" />
   <Property ID="222" Name="magic_locked" SymbolName="locked_state" Description="" IsPercent="false" />
-  <Property ID="223" Name="magic_ignoreresist_p" SymbolName="ignoreresist_p" Description="Tỷ lệ bỏ qua kháng &lt;color=#ffff1a&gt;%s%%&lt;color&gt;: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
+  <Property ID="223" Name="magic_ignoreresist_p" SymbolName="ignoreresist_p" Description="Tỷ lệ bỏ qua kháng %s: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
   <Property ID="224" Name="magic_defense_state" SymbolName="defense_state" Description="" IsPercent="false" />
   <Property ID="225" Name="magic_hide_all" SymbolName="hide_all" Description="" IsPercent="false" />
   <Property ID="226" Name="magic_clearcd" SymbolName="clear_cd" Description="Xóa giãn cách thi triển của tất cả võ công" IsPercent="false" />
-  <Property ID="227" Name="magic_rdclifewithdis" SymbolName="rdclifewithdis" Description="" IsPercent="false" />
+  <Property ID="227" Name="magic_rdclifewithdis" SymbolName="rdclifewithdis" Description="Mỗi nửa giây, căn cứ khoảng cách đã dịch chuyển so với lần trước đó, gây sát thương phát huy lực tấn công cơ bản &lt;color=#ffff1a&gt;%s%% * khoảng cách dịch chuyển&lt;color&gt;, tối đa khoảng cách mỗi lần &lt;color=#ffff1a&gt;%s&lt;color&gt;." IsPercent="false" />
   <Property ID="228" Name="magic_runattackmany" SymbolName="runattack_many" Description="" IsPercent="false" />
   <Property ID="229" Name="magic_addedwithenemycount" SymbolName="addedwith_enemycount" Description="Mỗi lần có thêm 1 kẻ địch xung quanh phạm vi &lt;color=#ffff1a&gt;%s&lt;color&gt; sẽ tăng các thuộc tính sau, cộng dồn tối đa &lt;color=#ffff1a&gt;%s&lt;color&gt; hiệu quả:" IsPercent="false" />
   <Property ID="230" Name="magic_runattack_damageadded" SymbolName="runattack_damageadded" Description="Tấn công sau mỗi lần chạm mục tiêu: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="false" />
@@ -318,9 +318,9 @@
   <Property ID="1809" Name="magic_skilladdition_addmissilenum" SymbolName="addmissilenum" Description="Số lượng của &lt;color=orange&gt;%s&lt;color&gt;: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
   <Property ID="1810" Name="magic_skilladdition_addflyskill" SymbolName="addflyskill" Description="" IsPercent="false" />
   <Property ID="1811" Name="magic_skilladdition_addvanishskill" SymbolName="addvanishskill" Description="" IsPercent="false" />
-  <Property ID="1812" Name="magic_skilladdition_addmagicbydist" SymbolName="addmagicbydist" Description="" IsPercent="false" />
+  <Property ID="1812" Name="magic_skilladdition_addmagicbydist" SymbolName="addmagicbydist" Description="Thời gian gây trạng thái &lt;color=#ffff1a&gt;%s&lt;color&gt; tính bằng &lt;color=#ffff1a&gt;khoảng cách với đối thủ * %s&lt;color&gt;, khoảng cách tối đa &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
   <Property ID="1813" Name="magic_skilladdition_superpose_magic" SymbolName="superposemagic" Description="Cộng dồn tối đa: &lt;color=#ffff1a&gt;%s lần&lt;color&gt;" IsPercent="false" />
-  <Property ID="1814" Name="magic_skilladdition_keephide" SymbolName="keephide" Description="Sử dụng không bị mất ẩn thân" IsPercent="false" />
+  <Property ID="1814" Name="magic_skilladdition_keephide" SymbolName="keephide" Description="Sử dụng kỹ năng này không bị mất trạng thái ẩn thân" IsPercent="false" />
   <Property ID="1815" Name="magic_skilladdition_end" SymbolName="magic_skilladdition_end" Description="" IsPercent="false" />
   <Property ID="2128" Name="magic_missileaddition_begin" SymbolName="magic_missileaddition_begin" Description="" IsPercent="false" />
   <Property ID="2129" Name="magic_missileaaddition_addrange" SymbolName="addmissilerange" Description="Phạm vi hiệu quả: &lt;color=#ffff1a&gt;%s ô&lt;color&gt;" IsPercent="false" />
@@ -439,11 +439,11 @@
   <Property ID="4420" Name="state_zhican_resistrate" SymbolName="state_zhican_resistrate" Description="" IsPercent="false" />
   <Property ID="4421" Name="state_zhican_attacktime" SymbolName="state_zhican_attacktime" Description="" IsPercent="false" />
   <Property ID="4422" Name="state_zhican_attackrate" SymbolName="state_zhican_attackrate" Description="" IsPercent="false" />
-  <Property ID="4423" Name="state_float_attack" SymbolName="state_float_attack" Description="Tỷ lệ tạo thành phù không: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;, duy trì &lt;color=#ffff1a&gt;%s giây&lt;color&gt;" IsPercent="false" />
-  <Property ID="4424" Name="state_float_resisttime" SymbolName="state_float_resisttime" Description="" IsPercent="false" />
-  <Property ID="4425" Name="state_float_resistrate" SymbolName="state_float_resistrate" Description="" IsPercent="false" />
-  <Property ID="4426" Name="state_float_attacktime" SymbolName="state_float_attacktime" Description="" IsPercent="false" />
-  <Property ID="4427" Name="state_float_attackrate" SymbolName="state_float_attackrate" Description="" IsPercent="false" />
+  <Property ID="4423" Name="state_float_attack" SymbolName="state_float_attack" Description="Tỷ lệ hút mục tiêu lên cao: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;, duy trì &lt;color=#ffff1a&gt;%s giây&lt;color&gt;" IsPercent="false" />
+  <Property ID="4424" Name="state_float_resisttime" SymbolName="state_float_resisttime" Description="Thời gian bị hút lên cao: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
+  <Property ID="4425" Name="state_float_resistrate" SymbolName="state_float_resistrate" Description="Xác suất bị hút lên cao: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
+  <Property ID="4426" Name="state_float_attacktime" SymbolName="state_float_attacktime" Description="Thời gian gây hút lên cao: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
+  <Property ID="4427" Name="state_float_attackrate" SymbolName="state_float_attackrate" Description="Xác suất gây hút lên cao: &lt;color=#ffff1a&gt;%s&lt;color&gt;" IsPercent="false" />
   <Property ID="4428" Name="state_hurt_ignore" SymbolName="state_hurt_ignore" Description="Hóa giải và miễn nhiễm &lt;color=#ffff1a&gt;thọ thương&lt;color&gt;" IsPercent="false" />
   <Property ID="4429" Name="state_weak_ignore" SymbolName="state_weak_ignore" Description="Hóa giải và miễn nhiễm &lt;color=#ffff1a&gt;suy yếu&lt;color&gt;" IsPercent="false" />
   <Property ID="4430" Name="state_slowall_ignore" SymbolName="state_slowall_ignore" Description="Hóa giải và miễn nhiễm &lt;color=#ffff1a&gt;làm chậm&lt;color&gt;" IsPercent="false" />
@@ -458,7 +458,13 @@
   <Property ID="4439" Name="state_silence_ignore" SymbolName="state_silence_ignore" Description="Hóa giải và miễn nhiễm &lt;color=#ffff1a&gt;bất lực&lt;color&gt;" IsPercent="false" />
   <Property ID="4440" Name="state_drag_ignore" SymbolName="state_drag_ignore" Description="Hóa giải và miễn nhiễm &lt;color=#ffff1a&gt;kéo lại&lt;color&gt;" IsPercent="false" />
   <Property ID="4441" Name="state_zhican_ignore" SymbolName="state_zhican_ignore" Description="" IsPercent="false" />
-  <Property ID="4442" Name="state_float_ignore" SymbolName="state_float_ignore" Description="" IsPercent="false" />
-  
-  <Property ID="4443" Name="magic_end" SymbolName="magic_end" Description="" IsPercent="false" />
+  <Property ID="4442" Name="state_float_ignore" SymbolName="state_float_ignore" Description="Hóa giải và miễn nhiễm &lt;color=#ffff1a&gt;hút lên cao&lt;color&gt;" IsPercent="false" />
+  <Property ID="4444" Name="magic_absorb_lower_chop_damage" SymbolName="absorb_lower_chop_damage" Description="&lt;br&gt;&lt;color=#ffffff&gt;Kỹ năng &lt;color=#00ff00&gt;[Lục Khí Hóa Công]&lt;color&gt;&lt;br&gt;Có tỷ lệ hóa giải sát thương gây ra bởi người chơi có &lt;color=#ffff1a&gt;quan hàm thấp hơn&lt;color&gt;&lt;color&gt;" IsPercent="false" />
+  <Property ID="4445" Name="magic_baotay_hanvu_hanngoc_quyet" SymbolName="hanngoc_quyet" Description="&lt;br&gt;&lt;color=#ffffff&gt;&lt;color=#00ff00&gt;[Hàn Ngọc Quyết]&lt;color&gt;&lt;br&gt;Giảm tỷ lệ bất động, tê, băng, loạn, đánh lui, kéo lại. &lt;color=#ffff1a&gt;Được hồi phục thể lực&lt;color&gt;&lt;color&gt;" IsPercent="false" />
+  <Property ID="4446" Name="magic_giay_doanvien_dulong_chankhi" SymbolName="dulong_chankhi" Description="&lt;br&gt;&lt;color=#ffffff&gt;&lt;color=#00ff00&gt;[Du Long Chân Khí]&lt;color&gt;&lt;br&gt;Chân khí lưu chuyển. &lt;color=#ffff1a&gt;Mỗi 15s tăng hiệu quả Ngũ Hành tương khắc, tốc độ cho đồng đội&lt;color&gt;&lt;color&gt;" IsPercent="false" />
+  <Property ID="4447" Name="magic_ao_vuuy_thiennguyen_tamphap" SymbolName="thiennguyen_tamphap" Description="&lt;br&gt;&lt;color=#ffffff&gt;&lt;color=#00ff00&gt;[Thiên Nguyên Tâm Pháp]&lt;color&gt;&lt;br&gt;Có hiệu quả thanh lọc mọi phiền não,&lt;color=#ffff1a&gt;khiến tâm tính thanh tịnh, ôn hoà&lt;color&gt;&lt;color&gt;" IsPercent="false" />
+  <Property ID="4447" Name="magic_non_lanhtho_thongvi_hienhoa" SymbolName="thongvi_hienhoa" Description="&lt;br&gt;&lt;color=#ffffff&gt;&lt;color=#00ff00&gt;[Thông Vi Hiển Hóa]&lt;color&gt;&lt;br&gt;Luyện khí hoàn thần. &lt;color=#ffff1a&gt;Có thể ngưng tụ các năng lực tiêu tán của trang bị lại&lt;color&gt;&lt;color&gt;" IsPercent="false" />
+  <Property ID="4448" Name="magic_pphong_tuha_thancong" SymbolName="tuha_thancong" Description="&lt;br&gt;&lt;color=#ffffff&gt;&lt;color=#00ff00&gt;[Tử Hà Thần Công]&lt;color&gt;&lt;br&gt;Giúp mình giảm &lt;color=#ffff1a&gt;bất động, tê liệt, đóng băng, hoảng loạn, bị đánh lùi, kéo lại.&lt;color&gt;&lt;color&gt;" IsPercent="false" />
+
+  <Property ID="4449" Name="magic_end" SymbolName="magic_end" Description="" IsPercent="false" />
 </PropertyDictionary>

@@ -2,21 +2,21 @@
 <BossModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <TotalBoss>
   <!-- boss 95 -->
-    <RespanBoss BossID="2934" BossName="Nhu Tiểu Thúy[Kim 95]" BossLevel="95" TimePoint="12:35|18:35|22:35">
+    <RespanBoss BossID="2934" BossName="Nhu Tiểu Thúy[Kim 95]" BossLevel="95" TimePoint="12:35|15:35|18:35|22:35">
       <ListMap MapName="Sắc Lặc Xuyên" MapCode="114" PosX="1030" PosY="6520" />
       <ListMap MapName="Hoa Sơn" MapCode="116" PosX="1435" PosY="4281" />
       <ListMap MapName="Miêu Lĩnh" MapCode="119" PosX="3129" PosY="5933" />
       <ListMap MapName="Thục Cương Bí Cảnh" MapCode="117" PosX="2615" PosY="6294" />
       <ListMap MapName="Vũ Lăng Sơn" MapCode="121" PosX="1087" PosY="3714" />
     </RespanBoss>
-    <RespanBoss BossID="2935" BossName="Trương Thiện Đức[Mộc 95]" BossLevel="95" TimePoint="12:35|18:35|22:35">
+    <RespanBoss BossID="2935" BossName="Trương Thiện Đức[Mộc 95]" BossLevel="95" TimePoint="12:35|15:35|18:35|22:35">
       <ListMap MapName="Sắc Lặc Xuyên" MapCode="114" PosX="8212" PosY="5758" />
       <ListMap MapName="Thục Cương Bí Cảnh" MapCode="117" PosX="797" PosY="1177" />
       <ListMap MapName="Hoa Sơn" MapCode="116" PosX="807" PosY="1306" />
       <ListMap MapName="Gia Dụ Quan" MapCode="115" PosX="8761" PosY="959" />
       <ListMap MapName="Miêu Lĩnh" MapCode="119" PosX="6761" PosY="819" />
     </RespanBoss>
-    <RespanBoss BossID="2936" BossName="Giả Dật Sơn[Thủy 95]" BossLevel="95" TimePoint="12:35|18:35|22:35">
+    <RespanBoss BossID="2936" BossName="Giả Dật Sơn[Thủy 95]" BossLevel="95" TimePoint="12:35|15:35|18:35|22:35">
       <ListMap MapName="Vũ Lăng Sơn" MapCode="121" PosX="8816" PosY="897" />
       <ListMap MapName="Thục Cương Bí Cảnh" MapCode="117" PosX="6040" PosY="5298" />
       <ListMap MapName="Miêu Lĩnh" MapCode="119" PosX="9527" PosY="5013" />
@@ -24,14 +24,14 @@
       <ListMap MapName="Vũ Di Sơn" MapCode="120" PosX="11717" PosY="2580" />
       <ListMap MapName="Sắc Lặc Xuyên" MapCode="114" PosX="8763" PosY="1619" />
     </RespanBoss>
-    <RespanBoss BossID="2937" BossName="Ô Sơn Thanh[Hỏa 95]" BossLevel="95" TimePoint="12:35|18:35|22:35">
+    <RespanBoss BossID="2937" BossName="Ô Sơn Thanh[Hỏa 95]" BossLevel="95" TimePoint="12:35|15:35|18:35|22:35">
       <ListMap MapName="Vũ Lăng Sơn" MapCode="121" PosX="3351" PosY="1203" />
       <ListMap MapName="Vũ Di Sơn" MapCode="120" PosX="4122" PosY="8037" />
       <ListMap MapName="Phong Đô Quỷ Thành" MapCode="118" PosX="4325" PosY="1131" />
       <ListMap MapName="Hoa Sơn" MapCode="116" PosX="7837" PosY="4142" />
       <ListMap MapName="Gia Dụ Quan" MapCode="115" PosX="879" PosY="4234" />
     </RespanBoss>
-    <RespanBoss BossID="2938" BossName="Trần Vô Mệnh[Thổ 95]" BossLevel="95" TimePoint="12:35|18:35|22:35">
+    <RespanBoss BossID="2938" BossName="Trần Vô Mệnh[Thổ 95]" BossLevel="95" TimePoint="12:35|15:35|18:35|22:35">
       <ListMap MapName="Gia Dụ Quan" MapCode="115" PosX="8275" PosY="6546" />
       <ListMap MapName="Hoa Sơn" MapCode="116" PosX="5452" PosY="7595" />
       <ListMap MapName="Phong Đô Quỷ Thành" MapCode="118" PosX="6254" PosY="5588" />
@@ -55,7 +55,7 @@
       <!-- <ListMap MapName="Hiệp Đạo Liên Sever" MapCode="126" PosX="12673" PosY="4976" /> -->
     <!-- </RespanBoss> -->
 	<!-- Boss 75 -->
-    <RespanBoss BossID="2978" BossName="Thần Thương Phương Vãn[Kim 75]" BossLevel="75" TimePoint="12:32|18:32|22:32">
+    <RespanBoss BossID="2978" BossName="Thần Thương Phương Vãn[Kim 75]" BossLevel="75" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Hoàng Lăng Đoàn Thị" MapCode="105" PosX="11411" PosY="3172" />
       <ListMap MapName="Hoàng Lăng Đoàn Thị" MapCode="105" PosX="8239" PosY="785" />
       <ListMap MapName="Hoàng Lăng Đoàn Thị" MapCode="105" PosX="3294" PosY="3861" />
@@ -63,7 +63,7 @@
       <ListMap MapName="Phong Lăng Độ" MapCode="100" PosX="5345" PosY="3712" />
       <ListMap MapName="Mê Cung Sa Mạc" MapCode="101" PosX="2351" PosY="7960" />
     </RespanBoss>
-    <RespanBoss BossID="2979" BossName="Triệu Ứng Tiên[Mộc 75]" BossLevel="75" TimePoint="12:32|18:32|22:32">
+    <RespanBoss BossID="2979" BossName="Triệu Ứng Tiên[Mộc 75]" BossLevel="75" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Phong Lăng Độ" MapCode="100" PosX="2375" PosY="2893" />
       <ListMap MapName="Phong Lăng Độ" MapCode="100" PosX="7725" PosY="4269" />
       <ListMap MapName="Cửu Nghi Khê" MapCode="106" PosX="1563" PosY="5835" />
@@ -72,7 +72,7 @@
       <ListMap MapName="Mê Cung Sa Mạc" MapCode="101" PosX="3694" PosY="2195" />
       <ListMap MapName="Mê Cung Sa Mạc" MapCode="101" PosX="4535" PosY="692" />
     </RespanBoss>
-    <RespanBoss BossID="2980" BossName="Hương Ngọc Tiên[Thủy 75]" BossLevel="75" TimePoint="12:32|18:32|22:32">
+    <RespanBoss BossID="2980" BossName="Hương Ngọc Tiên[Thủy 75]" BossLevel="75" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Phong Lăng Độ" MapCode="100" PosX="1441" PosY="1195" />
       <ListMap MapName="Phong Lăng Độ" MapCode="100" PosX="6347" PosY="1285" />
       <ListMap MapName="Kiếm Các Thục Đạo" MapCode="104" PosX="2051" PosY="1938" />
@@ -81,7 +81,7 @@
       <ListMap MapName="Cửu Nghi Khê" MapCode="106" PosX="8027" PosY="2025" />
       <ListMap MapName="Cửu Nghi Khê" MapCode="106" PosX="9346" PosY="4064" />
     </RespanBoss>
-    <RespanBoss BossID="2981" BossName="Man Tăng Bất Giới Hòa Thượng[Hỏa 75]" BossLevel="75" TimePoint="12:32|18:32|22:32">
+    <RespanBoss BossID="2981" BossName="Man Tăng Bất Giới Hòa Thượng[Hỏa 75]" BossLevel="75" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Kiếm Các Thục Đạo" MapCode="104" PosX="6827" PosY="1451" />
       <ListMap MapName="Kiếm Các Thục Đạo" MapCode="104" PosX="6773" PosY="3082" />
       <ListMap MapName="Cửu Nghi Khê" MapCode="106" PosX="8866" PosY="8559" />
@@ -91,7 +91,7 @@
       <ListMap MapName="Thục Cương Sơn" MapCode="103" PosX="5046" PosY="1828" />
       <ListMap MapName="Thục Cương Sơn" MapCode="103" PosX="1320" PosY="2931" />
     </RespanBoss>
-    <RespanBoss BossID="2982" BossName="Nam Quách Nho[Thổ 75]" BossLevel="75" TimePoint="12:32|18:32|22:32">
+    <RespanBoss BossID="2982" BossName="Nam Quách Nho[Thổ 75]" BossLevel="75" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Hoàng Lăng Đoàn Thị" MapCode="105" PosX="11985" PosY="5666" />
       <ListMap MapName="Kiếm Các Thục Đạo" MapCode="104" PosX="9510" PosY="5173" />
       <ListMap MapName="Kê Quán Động" MapCode="102" PosX="2620" PosY="2094" />
@@ -101,7 +101,7 @@
       <ListMap MapName="Kê Quán Động" MapCode="102" PosX="2033" PosY="8491" />
     </RespanBoss>
 	<!-- Boss 55 -->
-    <RespanBoss BossID="2973" BossName="Thác Bạt Sơn Uyên[Kim 55]" BossLevel="55" TimePoint="12:30|18:30|22:30">
+    <RespanBoss BossID="2973" BossName="Thác Bạt Sơn Uyên[Kim 55]" BossLevel="55" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Hoàng Lăng Kim Quốc 3" MapCode="67" PosX="5905" PosY="5393" />
       <ListMap MapName="Hoàng Lăng Kim Quốc 3" MapCode="67" PosX="10352" PosY="4433" />
       <ListMap MapName="Hoàng Lăng Kim Quốc 3" MapCode="67" PosX="11755" PosY="5510" />
@@ -115,7 +115,7 @@
       <ListMap MapName="Tây Tháp Lâm" MapCode="66" PosX="579" PosY="4779" />
       <ListMap MapName="Tây Tháp Lâm" MapCode="66" PosX="829" PosY="1604" />
     </RespanBoss>
-    <RespanBoss BossID="2969" BossName="Vân Tuyết Sơn[Mộc 55]" BossLevel="55" TimePoint="12:30|18:30|22:30">
+    <RespanBoss BossID="2969" BossName="Vân Tuyết Sơn[Mộc 55]" BossLevel="55" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Tây Bắc Lư Vĩ Đãng" MapCode="75" PosX="5873" PosY="2058" />
       <ListMap MapName="Tây Bắc Lư Vĩ Đãng" MapCode="75" PosX="4651" PosY="3513" />
       <ListMap MapName="Tây Bắc Lư Vĩ Đãng" MapCode="75" PosX="2702" PosY="5691" />
@@ -130,7 +130,7 @@
       <ListMap MapName="Tây Rừng Nguyên Sinh" MapCode="74" PosX="4352" PosY="2762" />
       <ListMap MapName="Tây Rừng Nguyên Sinh" MapCode="74" PosX="3144" PosY="5396" />
     </RespanBoss>
-    <RespanBoss BossID="2974" BossName="Dương Liễu[Thủy 55]" BossLevel="55" TimePoint="12:30|18:30|22:30">
+    <RespanBoss BossID="2974" BossName="Dương Liễu[Thủy 55]" BossLevel="55" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Hoàng Lăng Kim Quốc 3" MapCode="67" PosX="11772" PosY="3390" />
       <ListMap MapName="Hoàng Lăng Kim Quốc 3" MapCode="67" PosX="15612" PosY="4449" />
       <ListMap MapName="Tây Long Hổ Huyễn Cảnh" MapCode="69" PosX="3337" PosY="6869" />
@@ -144,7 +144,7 @@
       <ListMap MapName="Tây Tháp Lâm" MapCode="66" PosX="785" PosY="3993" />
       <ListMap MapName="Tây Tháp Lâm" MapCode="66" PosX="840" PosY="580" />
     </RespanBoss>
-    <RespanBoss BossID="2971" BossName="Vạn Lão Điên[Hỏa 55]" BossLevel="55" TimePoint="12:30|18:30|22:30">
+    <RespanBoss BossID="2971" BossName="Vạn Lão Điên[Hỏa 55]" BossLevel="55" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Trong Bách Hoa Trận" MapCode="72" PosX="8030" PosY="2030" />
       <ListMap MapName="Trong Bách Hoa Trận" MapCode="72" PosX="7771" PosY="4087" />
       <ListMap MapName="Trong Bách Hoa Trận" MapCode="72" PosX="5559" PosY="7472" />
@@ -161,7 +161,7 @@
       <ListMap MapName="Cửu Lão Động 3" MapCode="71" PosX="11819" PosY="2566" />
       <ListMap MapName="Cửu Lão Động 3" MapCode="71" PosX="8478" PosY="7518" />
     </RespanBoss>
-    <RespanBoss BossID="2972" BossName="Cao Sĩ Hiền[Thổ 55]" BossLevel="55" TimePoint="12:30|18:30|22:30">
+    <RespanBoss BossID="2972" BossName="Cao Sĩ Hiền[Thổ 55]" BossLevel="55" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Trong Bách Hoa Trận" MapCode="72" PosX="9382" PosY="3442" />
       <ListMap MapName="Trong Bách Hoa Trận" MapCode="72" PosX="9800" PosY="5601" />
       <ListMap MapName="Trong Bách Hoa Trận" MapCode="72" PosX="2847" PosY="7528" />
@@ -178,7 +178,7 @@
       <ListMap MapName="Cửu Lão Động 3" MapCode="71" PosX="10124" PosY="4445" />
       <ListMap MapName="Cửu Lão Động 3" MapCode="71" PosX="10214" PosY="5500" />
     </RespanBoss>
-    <RespanBoss BossID="2970" BossName="Hình Bổ Đầu[Thổ 55]" BossLevel="55" TimePoint="12:30|18:30|22:30">
+    <RespanBoss BossID="2970" BossName="Hình Bổ Đầu[Thổ 55]" BossLevel="55" TimePoint="02:35|09:35|12:35|15:35|18:35|22:35">
       <ListMap MapName="Tây Bắc Lư Vĩ Đãng" MapCode="75" PosX="7256" PosY="1469" />
       <ListMap MapName="Tây Bắc Lư Vĩ Đãng" MapCode="75" PosX="4061" PosY="1896" />
       <ListMap MapName="Tây Bắc Lư Vĩ Đãng" MapCode="75" PosX="2883" PosY="4447" />

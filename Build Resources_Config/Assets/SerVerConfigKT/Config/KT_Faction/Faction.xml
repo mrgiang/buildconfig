@@ -3,7 +3,7 @@
 	<Faction ID="0" Name="Tân thủ" Elemental="0" Gender="-1">
 	</Faction>
 	<Faction ID="1" Name="Thiếu Lâm" Elemental="1" Gender="0">
-		<Sub ID="1" Name="Đao Thiếu" IsPhysical="1">
+		<Sub ID="1" Name="Đao Thiếu" IsPhysical="1" UseAS="true">
 			<Skill ID="21" />
 			<Skill ID="22" />
 			<Skill ID="23" />
@@ -15,9 +15,9 @@
 			<Skill ID="27" />
 			<Skill ID="252" />
 			<Skill ID="819" />
-			<!--<Skill ID="820" />-->
+			<Skill ID="820" />
 		</Sub>
-		<Sub ID="2" Name="Côn Thiếu" IsPhysical="1">
+		<Sub ID="2" Name="Côn Thiếu" IsPhysical="1" UseAS="true">
 			<Skill ID="29" />
 			<Skill ID="30" />
 			<Skill ID="31" />
@@ -29,11 +29,11 @@
 			<Skill ID="36" />
 			<Skill ID="255" />
 			<Skill ID="821" />
-			<!--<Skill ID="822" />-->
+			<Skill ID="822" />
 		</Sub>
 	</Faction>
 	<Faction ID="2" Name="Thiên Vương" Elemental="1" Gender="-1">
-		<Sub ID="1" Name="Thương Thiên" IsPhysical="1">
+		<Sub ID="1" Name="Thương Thiên" IsPhysical="1" UseAS="false">
 			<Skill ID="38" />
 			<Skill ID="40" />
 			<Skill ID="41" />
@@ -45,9 +45,9 @@
 			<Skill ID="47" />
 			<Skill ID="259" />
 			<Skill ID="823" />
-			<!-- <Skill ID="824" /> -->
+			<Skill ID="824" />
 		</Sub>
-		<Sub ID="2" Name="Chùy Thiên" IsPhysical="1">
+		<Sub ID="2" Name="Chùy Thiên" IsPhysical="1" UseAS="false">
 			<Skill ID="50" />
 			<Skill ID="52" />
 			<Skill ID="41" />
@@ -59,11 +59,11 @@
 			<Skill ID="56" />
 			<Skill ID="262" />
 			<Skill ID="825" />
-			<!-- <Skill ID="826" /> -->
+			<Skill ID="826" />
 		</Sub>
 	</Faction>
 	<Faction ID="3" Name="Đường Môn" Elemental="2" Gender="-1">
-		<Sub ID="1" Name="Hãm Tĩnh" IsPhysical="1">
+		<Sub ID="1" Name="Hãm Tĩnh" IsPhysical="1" UseAS="true">
 			<Skill ID="69" />
 			<Skill ID="70" />
 			<Skill ID="64" />
@@ -75,9 +75,9 @@
 			<Skill ID="74" />
 			<Skill ID="265" />
 			<Skill ID="827" />
-			<!-- <Skill ID="828" /> -->
+			<Skill ID="828" />
 		</Sub>
-		<Sub ID="2" Name="Tụ Tiễn" IsPhysical="1">
+		<Sub ID="2" Name="Tụ Tiễn" IsPhysical="1" UseAS="true">
 			<Skill ID="59" />
 			<Skill ID="60" />
 			<Skill ID="64" />
@@ -89,11 +89,11 @@
 			<Skill ID="66" />
 			<Skill ID="268" />
 			<Skill ID="829" />
-			<!-- <Skill ID="830" /> -->
+			<Skill ID="830" />
 		</Sub>
 	</Faction>
 	<Faction ID="4" Name="Ngũ Độc" Elemental="2" Gender="-1">
-		<Sub ID="1" Name="Đao Độc" IsPhysical="1">
+		<Sub ID="1" Name="Đao Độc" IsPhysical="1" UseAS="true">
 			<Skill ID="76" />
 			<Skill ID="77" />
 			<Skill ID="78" />
@@ -105,9 +105,9 @@
 			<Skill ID="83" />
 			<Skill ID="271" />
 			<Skill ID="831" />
-			<!-- <Skill ID="832" /> -->
+			<Skill ID="832" />
 		</Sub>
-		<Sub ID="2" Name="Chưởng Độc" IsPhysical="0">
+		<Sub ID="2" Name="Chưởng Độc" IsPhysical="0" UseAS="true">
 			<Skill ID="86" />
 			<Skill ID="87" />
 			<Skill ID="92" />
@@ -119,11 +119,11 @@
 			<Skill ID="93" />
 			<Skill ID="274" />
 			<Skill ID="833" />
-			<!-- <Skill ID="834" /> -->
+			<Skill ID="834" />
 		</Sub>
 	</Faction>
 	<Faction ID="5" Name="Nga My" Elemental="3" Gender="1">
-		<Sub ID="1" Name="Chưởng Nga" IsPhysical="0">
+		<Sub ID="1" Name="Chưởng Nga" IsPhysical="0" UseAS="true">
 			<Skill ID="96" />
 			<Skill ID="97" />
 			<Skill ID="98" />
@@ -135,9 +135,9 @@
 			<Skill ID="103" />
 			<Skill ID="280" />
 			<Skill ID="835" />
-			<!-- <Skill ID="836" /> -->
+			<Skill ID="836" />
 		</Sub>
-		<Sub ID="2" Name="Phụ Trợ" IsPhysical="0">
+		<Sub ID="2" Name="Phụ Trợ" IsPhysical="0" UseAS="true">
 			<Skill ID="107" />
 			<Skill ID="106" />
 			<Skill ID="98" />
@@ -149,11 +149,11 @@
 			<Skill ID="108" />
 			<Skill ID="482" />
 			<Skill ID="837" />
-			<!-- <Skill ID="838" /> -->
+			<Skill ID="838" />
 		</Sub>
 	</Faction>
 	<Faction ID="6" Name="Thúy Yên" Elemental="3" Gender="-1">
-		<Sub ID="1" Name="Kiếm Thúy" IsPhysical="0">
+		<Sub ID="1" Name="Kiếm Thúy" IsPhysical="0" UseAS="true">
 			<Skill ID="111" />
 			<Skill ID="112" />
 			<Skill ID="113" />
@@ -165,9 +165,9 @@
 			<Skill ID="117" />
 			<Skill ID="485" />
 			<Skill ID="839" />
-			<!-- <Skill ID="840" /> -->
+			<Skill ID="840" />
 		</Sub>
-		<Sub ID="2" Name="Đao Thúy" IsPhysical="1">
+		<Sub ID="2" Name="Đao Thúy" IsPhysical="1" UseAS="true">
 			<Skill ID="120" />
 			<Skill ID="121" />
 			<Skill ID="122" />
@@ -179,11 +179,11 @@
 			<Skill ID="125" />
 			<Skill ID="486" />
 			<Skill ID="841" />
-			<!-- <Skill ID="842" /> -->
+			<Skill ID="842" />
 		</Sub>
 	</Faction>
 	<Faction ID="7" Name="Cái Bang" Elemental="4" Gender="-1">
-		<Sub ID="1" Name="Chưởng Cái" IsPhysical="0">
+		<Sub ID="1" Name="Chưởng Cái" IsPhysical="0" UseAS="true">
 			<Skill ID="128" />
 			<Skill ID="129" />
 			<Skill ID="130" />
@@ -195,9 +195,9 @@
 			<Skill ID="134" />
 			<Skill ID="487" />
 			<Skill ID="843" />
-			<!-- <Skill ID="844" /> -->
+			<Skill ID="844" />
 		</Sub>
-		<Sub ID="2" Name="Côn Cái" IsPhysical="1">
+		<Sub ID="2" Name="Côn Cái" IsPhysical="1" UseAS="true">
 			<Skill ID="137" />
 			<Skill ID="138" />
 			<Skill ID="139" />
@@ -209,11 +209,11 @@
 			<Skill ID="141" />
 			<Skill ID="488" />
 			<Skill ID="845" />
-			<!-- <Skill ID="846" /> -->
+			<Skill ID="846" />
 		</Sub>
 	</Faction>
 	<Faction ID="8" Name="Thiên Nhẫn" Elemental="4" Gender="-1">
-		<Sub ID="1" Name="Chiến Nhẫn" IsPhysical="1">
+		<Sub ID="1" Name="Chiến Nhẫn" IsPhysical="1" UseAS="true">
 			<Skill ID="143" />
 			<Skill ID="144" />
 			<Skill ID="492" />
@@ -225,9 +225,9 @@
 			<Skill ID="149" />
 			<Skill ID="493" />
 			<Skill ID="847" />
-			<!-- <Skill ID="848" /> -->
+			<Skill ID="848" />
 		</Sub>
-		<Sub ID="2" Name="Ma Nhẫn" IsPhysical="0">
+		<Sub ID="2" Name="Ma Nhẫn" IsPhysical="0" UseAS="true">
 			<Skill ID="151" />
 			<Skill ID="152" />
 			<Skill ID="154" />
@@ -239,11 +239,11 @@
 			<Skill ID="156" />
 			<Skill ID="496" />
 			<Skill ID="849" />
-			<!-- <Skill ID="850" /> -->
+			<Skill ID="850" />
 		</Sub>
 	</Faction>
 	<Faction ID="9" Name="Võ Đang" Elemental="5" Gender="-1">
-		<Sub ID="1" Name="Khí Võ" IsPhysical="0">
+		<Sub ID="1" Name="Khí Võ" IsPhysical="0" UseAS="true">
 			<Skill ID="159" />
 			<Skill ID="160" />
 			<Skill ID="161" />
@@ -255,9 +255,9 @@
 			<Skill ID="165" />
 			<Skill ID="498" />
 			<Skill ID="851" />
-			<!-- <Skill ID="852" /> -->
+			<Skill ID="852" />
 		</Sub>
-		<Sub ID="2" Name="Kiếm Võ" IsPhysical="1">
+		<Sub ID="2" Name="Kiếm Võ" IsPhysical="1" UseAS="true">
 			<Skill ID="167" />
 			<Skill ID="168" />
 			<Skill ID="783" />
@@ -269,11 +269,11 @@
 			<Skill ID="171" />
 			<Skill ID="500" />
 			<Skill ID="853" />
-			<!-- <Skill ID="854" /> -->
+			<Skill ID="854" />
 		</Sub>
 	</Faction>
 	<Faction ID="10" Name="Côn Lôn" Elemental="5" Gender="-1">
-		<Sub ID="1" Name="Đao Côn" IsPhysical="1">
+		<Sub ID="1" Name="Đao Côn" IsPhysical="1" UseAS="true">
 			<Skill ID="175" />
 			<Skill ID="176" />
 			<Skill ID="179" />
@@ -285,9 +285,9 @@
 			<Skill ID="181" />
 			<Skill ID="698" />
 			<Skill ID="855" />
-			<!-- <Skill ID="856" /> -->
+			<Skill ID="856" />
 		</Sub>
-		<Sub ID="2" Name="Kiếm Côn" IsPhysical="0">
+		<Sub ID="2" Name="Kiếm Côn" IsPhysical="0" UseAS="true">
 			<Skill ID="188" />
 			<Skill ID="189" />
 			<Skill ID="179" />
@@ -299,11 +299,11 @@
 			<Skill ID="192" />
 			<Skill ID="767" />
 			<Skill ID="857" />
-			<!-- <Skill ID="858" /> -->
+			<Skill ID="858" />
 		</Sub>
 	</Faction>
 	<Faction ID="11" Name="Minh Giáo" Elemental="2" Gender="-1">
-		<Sub ID="1" Name="Chùy Minh" IsPhysical="1">
+		<Sub ID="1" Name="Chùy Minh" IsPhysical="1" UseAS="false">
 			<Skill ID="194" />
 			<Skill ID="196" />
 			<Skill ID="199" />
@@ -315,9 +315,9 @@
 			<Skill ID="202" />
 			<Skill ID="769" />
 			<Skill ID="859" />
-			<!-- <Skill ID="860" /> -->
+			<Skill ID="860" />
 		</Sub>
-		<Sub ID="2" Name="Kiếm Minh" IsPhysical="0">
+		<Sub ID="2" Name="Kiếm Minh" IsPhysical="0" UseAS="true">
 			<Skill ID="205" />
 			<Skill ID="206" />
 			<Skill ID="207" />
@@ -329,11 +329,11 @@
 			<Skill ID="211" />
 			<Skill ID="772" />
 			<Skill ID="861" />
-			<!-- <Skill ID="862" /> -->
+			<Skill ID="862" />
 		</Sub>
 	</Faction>
 	<Faction ID="12" Name="Đoàn Thị" Elemental="3" Gender="-1">
-		<Sub ID="1" Name="Chỉ Đoàn" IsPhysical="1">
+		<Sub ID="1" Name="Chỉ Đoàn" IsPhysical="1" UseAS="false">
 			<Skill ID="213" />
 			<Skill ID="215" />
 			<Skill ID="216" />
@@ -345,9 +345,9 @@
 			<Skill ID="223" />
 			<Skill ID="775" />
 			<Skill ID="863" />
-			<!-- <Skill ID="864" /> -->
+			<Skill ID="864" />
 		</Sub>
-		<Sub ID="2" Name="Khí Đoàn" IsPhysical="0">
+		<Sub ID="2" Name="Khí Đoàn" IsPhysical="0" UseAS="true">
 			<Skill ID="226" />
 			<Skill ID="227" />
 			<Skill ID="228" />
@@ -359,7 +359,7 @@
 			<Skill ID="232" />
 			<Skill ID="778" />
 			<Skill ID="865" />
-			<!-- <Skill ID="866" /> -->
+			<Skill ID="866" />
 		</Sub>
 	</Faction>
 </Factions>

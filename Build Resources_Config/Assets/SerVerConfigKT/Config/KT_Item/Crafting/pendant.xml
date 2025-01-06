@@ -9590,6 +9590,7 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+<!--  KIM -->			  
   <ItemData ItemID="12608" Name="Chiến Thần Hàn Ngọc Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bạch Ngân_Ngọc bội hệ kim" QualityPrefix="6" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="711" Level="10" SuiteID="0" Icon="pendant_m_111" View="pendant_m_111_s" Intro="" Help="" ObjID="26" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="180000" ItemValue="30000000" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="8" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
@@ -9626,6 +9627,7 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+  <!--  Moc --> 				
   <ItemData ItemID="12610" Name="Chiến Thần Hàn Ngọc Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bạch Ngân_Ngọc bội hệ mộc" QualityPrefix="6" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="713" Level="10" SuiteID="0" Icon="pendant_m_111" View="pendant_m_111_s" Intro="" Help="" ObjID="26" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="180000" ItemValue="30000000" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="8" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
@@ -9662,6 +9664,7 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+   <!--  Thuy -->				 
   <ItemData ItemID="12612" Name="Chiến Thần Hàn Ngọc Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bạch Ngân_Ngọc bội hệ thủy" QualityPrefix="6" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="715" Level="10" SuiteID="0" Icon="pendant_m_111" View="pendant_m_111_s" Intro="" Help="" ObjID="26" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="180000" ItemValue="30000000" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="8" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
@@ -9698,6 +9701,8 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+   
+   <!--  Hoa -->				
   <ItemData ItemID="12614" Name="Chiến Thần Hàn Ngọc Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bạch Ngân_Ngọc bội hệ hỏa" QualityPrefix="6" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="717" Level="10" SuiteID="0" Icon="pendant_m_111" View="pendant_m_111_s" Intro="" Help="" ObjID="26" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="180000" ItemValue="30000000" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="8" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
@@ -9734,6 +9739,7 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+   <!--  Thổ -->				  
   <ItemData ItemID="12616" Name="Chiến Thần Hàn Ngọc Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bạch Ngân_Ngọc bội hệ thổ" QualityPrefix="6" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="719" Level="10" SuiteID="0" Icon="pendant_m_111" View="pendant_m_111_s" Intro="" Help="" ObjID="26" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="180000" ItemValue="30000000" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="8" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
@@ -9770,11 +9776,12 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+ <!--  KIM -->			  
   <ItemData ItemID="12618" Name="Chiến Thần Đằng Vân Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Hoàng Kim_Ngọc bội hệ kim" QualityPrefix="7" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="721" Level="10" SuiteID="0" Icon="pendant_m_112" View="pendant_m_112_s" Intro="" Help="" ObjID="26" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="240000" ItemValue="93333333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9792,7 +9799,7 @@
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9806,11 +9813,12 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+   <!--  MOC -->				
   <ItemData ItemID="12620" Name="Chiến Thần Đằng Vân Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Hoàng Kim_Ngọc bội hệ mộc" QualityPrefix="7" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="723" Level="10" SuiteID="0" Icon="pendant_m_112" View="pendant_m_112_s" Intro="" Help="" ObjID="26" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="240000" ItemValue="93333333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9828,7 +9836,7 @@
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9842,11 +9850,12 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+   <!--  THỦY -->				   
   <ItemData ItemID="12622" Name="Chiến Thần Đằng Vân Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Hoàng Kim_Ngọc bội hệ thủy" QualityPrefix="7" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="725" Level="10" SuiteID="0" Icon="pendant_m_112" View="pendant_m_112_s" Intro="" Help="" ObjID="26" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="240000" ItemValue="93333333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9864,7 +9873,7 @@
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9878,11 +9887,13 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+   
+   <!--  HỎA -->				  
   <ItemData ItemID="12624" Name="Chiến Thần Đằng Vân Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Hoàng Kim_Ngọc bội hệ hỏa" QualityPrefix="7" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="727" Level="10" SuiteID="0" Icon="pendant_m_112" View="pendant_m_112_s" Intro="" Help="" ObjID="26" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="240000" ItemValue="93333333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9900,7 +9911,7 @@
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9914,11 +9925,12 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+   <!--  THỔ -->				  
   <ItemData ItemID="12626" Name="Chiến Thần Đằng Vân Bội" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Hoàng Kim_Ngọc bội hệ thổ" QualityPrefix="7" Category="1" Genre="2" Stack="1" DetailType="11" ParticularType="729" Level="10" SuiteID="0" Icon="pendant_m_112" View="pendant_m_112_s" Intro="" Help="" ObjID="26" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="240000" ItemValue="93333333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9936,7 +9948,7 @@
     <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
-    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="3" EnhMAPA2Max="3" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="16" EnhMAPA1Max="16" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
     <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
     <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
     <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
@@ -9950,4 +9962,5 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+ 
 </ArrayOfItemData>

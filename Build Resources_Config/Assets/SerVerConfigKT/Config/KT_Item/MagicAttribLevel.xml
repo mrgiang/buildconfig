@@ -104,6 +104,7 @@
   <MagicAttribLevel Name="Tăng tốc độ đánh ngoại" Suffix="Phi Yến" IsDarkness="0" Level="24" MagicName="attackspeed_v" MA1Min="40" MA1Max="40" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="14" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Tăng tốc độ đánh ngoại" Suffix="Phi Yến" IsDarkness="0" Level="25" MagicName="attackspeed_v" MA1Min="41" MA1Max="42" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="15" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Tăng tốc độ đánh ngoại" Suffix="Phi Yến" IsDarkness="0" Level="26" MagicName="attackspeed_v" MA1Min="43" MA1Max="43" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="16" ItemValue="0" Series="-1" />
+  
   <MagicAttribLevel Name="Tăng tốc độ đánh nội" Suffix="Linh Vũ" IsDarkness="0" Level="1" MagicName="castspeed_v" MA1Min="1" MA1Max="3" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="1" ItemValue="1000" Series="-1" />
   <MagicAttribLevel Name="Tăng tốc độ đánh nội" Suffix="Linh Vũ" IsDarkness="0" Level="2" MagicName="castspeed_v" MA1Min="4" MA1Max="5" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="2" ItemValue="1670" Series="-1" />
   <MagicAttribLevel Name="Tăng tốc độ đánh nội" Suffix="Linh Vũ" IsDarkness="0" Level="3" MagicName="castspeed_v" MA1Min="6" MA1Max="7" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="3" ItemValue="2780" Series="-1" />
@@ -130,6 +131,9 @@
   <MagicAttribLevel Name="Tăng tốc độ đánh nội" Suffix="Linh Vũ" IsDarkness="0" Level="24" MagicName="castspeed_v" MA1Min="40" MA1Max="40" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="14" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Tăng tốc độ đánh nội" Suffix="Linh Vũ" IsDarkness="0" Level="25" MagicName="castspeed_v" MA1Min="41" MA1Max="42" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="15" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Tăng tốc độ đánh nội" Suffix="Linh Vũ" IsDarkness="0" Level="26" MagicName="castspeed_v" MA1Min="43" MA1Max="43" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="16" ItemValue="0" Series="-1" />
+ 
+
+
   <MagicAttribLevel Name="Bỏ qua né tránh đối phương" Suffix="Truy Ảnh" IsDarkness="0" Level="1" MagicName="ignoredefenseenhance_v" MA1Min="1" MA1Max="10" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="1" ItemValue="4000" Series="-1" />
   <MagicAttribLevel Name="Bỏ qua né tránh đối phương" Suffix="Truy Ảnh" IsDarkness="0" Level="2" MagicName="ignoredefenseenhance_v" MA1Min="11" MA1Max="20" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="2" ItemValue="6680" Series="-1" />
   <MagicAttribLevel Name="Bỏ qua né tránh đối phương" Suffix="Truy Ảnh" IsDarkness="0" Level="3" MagicName="ignoredefenseenhance_v" MA1Min="21" MA1Max="30" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="3" ItemValue="11120" Series="-1" />
@@ -182,6 +186,8 @@
   <MagicAttribLevel Name="Tăng tốc độ chạy" Suffix="Tật Phong" IsDarkness="0" Level="24" MagicName="fastwalkrun_p" MA1Min="50" MA1Max="50" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="14" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Tăng tốc độ chạy" Suffix="Tật Phong" IsDarkness="0" Level="25" MagicName="fastwalkrun_p" MA1Min="51" MA1Max="52" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="15" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Tăng tốc độ chạy" Suffix="Tật Phong" IsDarkness="0" Level="26" MagicName="fastwalkrun_p" MA1Min="53" MA1Max="53" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="16" ItemValue="0" Series="-1" />
+ 
+
   <MagicAttribLevel Name="Phản đòn tấn công vật lý" Suffix="Phản Phệ" IsDarkness="0" Level="1" MagicName="meleedamagereturn_p" MA1Min="1" MA1Max="1" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="1" ItemValue="1000" Series="-1" />
   <MagicAttribLevel Name="Phản đòn tấn công vật lý" Suffix="Phản Phệ" IsDarkness="0" Level="2" MagicName="meleedamagereturn_p" MA1Min="2" MA1Max="2" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="2" ItemValue="1670" Series="-1" />
   <MagicAttribLevel Name="Phản đòn tấn công vật lý" Suffix="Phản Phệ" IsDarkness="0" Level="3" MagicName="meleedamagereturn_p" MA1Min="3" MA1Max="3" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="3" ItemValue="2780" Series="-1" />
@@ -208,6 +214,8 @@
   <MagicAttribLevel Name="Phản đòn tấn công vật lý" Suffix="Phản Phệ" IsDarkness="0" Level="24" MagicName="meleedamagereturn_p" MA1Min="24" MA1Max="24" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="14" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Phản đòn tấn công vật lý" Suffix="Phản Phệ" IsDarkness="0" Level="25" MagicName="meleedamagereturn_p" MA1Min="25" MA1Max="25" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="15" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Phản đòn tấn công vật lý" Suffix="Phản Phệ" IsDarkness="0" Level="26" MagicName="meleedamagereturn_p" MA1Min="26" MA1Max="26" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="16" ItemValue="0" Series="-1" />
+ 
+
   <MagicAttribLevel Name="Hút sinh" Suffix="Hấp Tinh" IsDarkness="0" Level="1" MagicName="steallife_p" MA1Min="1" MA1Max="1" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="1" ItemValue="5000" Series="-1" />
   <MagicAttribLevel Name="Hút sinh" Suffix="Hấp Tinh" IsDarkness="0" Level="2" MagicName="steallife_p" MA1Min="2" MA1Max="2" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="2" ItemValue="7150" Series="-1" />
   <MagicAttribLevel Name="Hút sinh" Suffix="Hấp Tinh" IsDarkness="0" Level="3" MagicName="steallife_p" MA1Min="3" MA1Max="3" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="3" ItemValue="10210" Series="-1" />
@@ -234,6 +242,9 @@
   <MagicAttribLevel Name="Hút sinh" Suffix="Hấp Tinh" IsDarkness="0" Level="24" MagicName="steallife_p" MA1Min="24" MA1Max="24" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="14" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Hút sinh" Suffix="Hấp Tinh" IsDarkness="0" Level="25" MagicName="steallife_p" MA1Min="25" MA1Max="25" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="15" ItemValue="0" Series="-1" />
   <MagicAttribLevel Name="Hút sinh" Suffix="Hấp Tinh" IsDarkness="0" Level="26" MagicName="steallife_p" MA1Min="26" MA1Max="26" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="16" ItemValue="0" Series="-1" />
+ 
+ 
+ 
   <MagicAttribLevel Name="Hút nội" Suffix="Bắc Minh" IsDarkness="0" Level="1" MagicName="stealmana_p" MA1Min="1" MA1Max="1" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="1" ItemValue="5000" Series="-1" />
   <MagicAttribLevel Name="Hút nội" Suffix="Bắc Minh" IsDarkness="0" Level="2" MagicName="stealmana_p" MA1Min="2" MA1Max="2" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="2" ItemValue="7150" Series="-1" />
   <MagicAttribLevel Name="Hút nội" Suffix="Bắc Minh" IsDarkness="0" Level="3" MagicName="stealmana_p" MA1Min="3" MA1Max="3" MA2Min="100" MA2Max="100" MA3Min="0" MA3Max="0" ReqLevel="3" ItemValue="10210" Series="-1" />
@@ -936,6 +947,8 @@
   <MagicAttribLevel Name="Tăng băng phòng" Suffix="Nghịch Thủy" IsDarkness="1" Level="24" MagicName="damage_cold_resist" MA1Min="126" MA1Max="140" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="14" ItemValue="0" Series="5" />
   <MagicAttribLevel Name="Tăng băng phòng" Suffix="Nghịch Thủy" IsDarkness="1" Level="25" MagicName="damage_cold_resist" MA1Min="141" MA1Max="155" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="15" ItemValue="0" Series="5" />
   <MagicAttribLevel Name="Tăng băng phòng" Suffix="Nghịch Thủy" IsDarkness="1" Level="26" MagicName="damage_cold_resist" MA1Min="156" MA1Max="170" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="16" ItemValue="0" Series="5" />
+  
+  
   <MagicAttribLevel Name="Làm đối thủ choáng" Suffix="Hoàng Long" IsDarkness="1" Level="1" MagicName="state_stun_attacktime" MA1Min="1" MA1Max="10" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="1" ItemValue="3000" Series="5" />
   <MagicAttribLevel Name="Làm đối thủ choáng" Suffix="Hoàng Long" IsDarkness="1" Level="2" MagicName="state_stun_attacktime" MA1Min="11" MA1Max="20" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="2" ItemValue="5000" Series="5" />
   <MagicAttribLevel Name="Làm đối thủ choáng" Suffix="Hoàng Long" IsDarkness="1" Level="3" MagicName="state_stun_attacktime" MA1Min="21" MA1Max="30" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="3" ItemValue="8335" Series="5" />
@@ -962,6 +975,8 @@
   <MagicAttribLevel Name="Làm đối thủ choáng" Suffix="Hoàng Long" IsDarkness="1" Level="24" MagicName="state_stun_attacktime" MA1Min="251" MA1Max="280" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="16.8" ItemValue="0" Series="5" />
   <MagicAttribLevel Name="Làm đối thủ choáng" Suffix="Hoàng Long" IsDarkness="1" Level="25" MagicName="state_stun_attacktime" MA1Min="281" MA1Max="310" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="18.4" ItemValue="0" Series="5" />
   <MagicAttribLevel Name="Làm đối thủ choáng" Suffix="Hoàng Long" IsDarkness="1" Level="26" MagicName="state_stun_attacktime" MA1Min="311" MA1Max="340" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="20" ItemValue="0" Series="5" />
+
+
   <MagicAttribLevel Name="Giảm thời gian thọ thương" Suffix="Tuyệt" IsDarkness="1" Level="1" MagicName="state_hurt_resisttime" MA1Min="1" MA1Max="5" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="1" ItemValue="2000" Series="2" />
   <MagicAttribLevel Name="Giảm thời gian thọ thương" Suffix="Tuyệt" IsDarkness="1" Level="2" MagicName="state_hurt_resisttime" MA1Min="6" MA1Max="10" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="2" ItemValue="3334" Series="2" />
   <MagicAttribLevel Name="Giảm thời gian thọ thương" Suffix="Tuyệt" IsDarkness="1" Level="3" MagicName="state_hurt_resisttime" MA1Min="11" MA1Max="15" MA2Min="-1" MA2Max="-1" MA3Min="0" MA3Max="0" ReqLevel="3" ItemValue="5560" Series="2" />

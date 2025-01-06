@@ -9,7 +9,6 @@
 <Titles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Title ID="0" Text="Pew Pew Pew Pew" Description="Danh hiệu Test" Duration="-1" />
 	<Title ID="1" Text="Danh hiệu có thời hạn" Description="Danh hiệu Test 22" Duration="1" />
-	
 	<Title ID="100" Text="Tân nhân vương - Thiếu Lâm" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiếu Lâm. Có hiệu lực trong vòng 1 tuần." Duration="168" />
 	<Title ID="101" Text="Tân nhân vương - Thiên Vương" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Thiên Vương. Có hiệu lực trong vòng 1 tuần." Duration="168" />
 	<Title ID="102" Text="Tân nhân vương - Cái Bang" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Cái Bang. Có hiệu lực trong vòng 1 tuần." Duration="168" />

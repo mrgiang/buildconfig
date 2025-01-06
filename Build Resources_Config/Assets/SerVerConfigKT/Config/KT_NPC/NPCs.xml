@@ -353,7 +353,7 @@
 	  <NPC ID="653" ResName="critter059a" Title="" Name="Ma Ma Nhĩ" />
 	  <NPC ID="656" ResName="passerby097" Title="" Name="Trương Thiện Đức" />
 	  <NPC ID="657" ResName="enemy037" Title="" Name="Hương Ngọc Tiên" />
-	  <NPC ID="658" ResName="enemy037" Title="" Name="Hình Bổ Đầu " />
+	  <NPC ID="658" ResName="enemy037" Title="Bổ Đầu Hình Bộ Lao Tù" Name="Hình Bổ Đầu " Talk="Talk some!!" Tasks="-1" Operations="0" SaleID="0" LuaScriptFile="NPC/Common/HinhBoDau.lua" Display="1" IsSafe="2"/>
 	  <NPC ID="660" ResName="critter079a" Title="" Name="Mặc Cơ " />
 	  <NPC ID="661" ResName="enemy037" Title="" Name="Từ Bân Kiếm" />
 	  <NPC ID="662" ResName="critter091" Title="" Name="A Bố" />
@@ -968,7 +968,7 @@
 	  <NPC ID="1932" ResName="enemy062" Title="" Name="Thiết Mộc Chân" />
 	  <NPC ID="2353" ResName="passerby014" Title="" Name="Hướng dẫn Đào Nguyên" />
 	  <NPC ID="2400" ResName="passerby001" Title="&lt;color=green&gt;Bán Vũ Khí Đặc Chế&lt;/color&gt;" Name="Hoa Minh" />
-	  <NPC ID="2441" ResName="passerby069" Title="&lt;color=green&gt;Phát Khâu Môn-Quân sư&lt;/color&gt;" Name="Lương Tiếu Tiếu" />
+	  <NPC ID="2441" ResName="passerby069" Title="&lt;color=green&gt;Phát Khâu Môn-Quân sư&lt;/color&gt;" Name="Lương Tiếu Tiếu" Talk="Talk some!!" Tasks="-1" Operations="0" SaleID="0" LuaScriptFile="NPC/Common/LuongTieuTieu.lua" Display="1" IsSafe="2" />
 	  <NPC ID="2442" ResName="passerby055" Title="&lt;color=green&gt;Thần bổ&lt;/color&gt;" Name="Ngô Dụng" />
 	  <NPC ID="2443" ResName="passerby090" Title="&lt;color=green&gt;Phát Khâu Môn-Diệt Chúc Sứ&lt;/color&gt;" Name="Tôn Cương" />
 	  <NPC ID="2444" ResName="enemy035" Title="&lt;color=green&gt;Phát Khâu Môn-Chưởng Đăng Sứ&lt;/color&gt;" Name="Tống Thu Thu" />
@@ -1200,7 +1200,7 @@
 	  <NPC ID="3230" ResName="passerby018" Title="&lt;color=green&gt;Tiệm thuốc&lt;/color&gt;" Name="Liễu Khoát" />
 	  <NPC ID="3231" ResName="passerby018" Title="&lt;color=green&gt;Gia công đại sư&lt;/color&gt;" Name="Liễu Khoát" />
 	  <NPC ID="3232" ResName="passerby018" Title="&lt;color=green&gt;Chế tạo đại sư&lt;/color&gt;" Name="Liễu Khoát" />
-	  <NPC ID="3234" ResName="passerby075" Title="&lt;color=green&gt;Tầm Bảo Nhân&lt;/color&gt;" Name="Hoàng Phỉ" />
+	  <NPC ID="3234" ResName="passerby075" Title="&lt;color=green&gt;Tầm Bảo Nhân&lt;/color&gt;" Name="Hoàng Phỉ" Talk="Talk some!!" Tasks="-1" Operations="0" SaleID="0" LuaScriptFile="NPC/BaoDanhTDC/HoangPhi.lua" Display="1" IsSafe="2" />
 	  <NPC ID="3237" ResName="passerby106" Title="&lt;color=green&gt;Hướng Dẫn Tiêu Dao Cốc&lt;/color&gt;" Name="Triệu Khản" />
 	  <NPC ID="3238" ResName="passerby106" Title="&lt;color=green&gt;Quan Ghi Danh Tiêu Dao Cốc&lt;/color&gt;" Name="Triệu Khản" />
 	  <NPC ID="3239" ResName="passerby015" Title="" Name="Cai Ngục Thiên Lao" />

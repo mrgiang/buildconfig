@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	VÒNG QUAY MAY MẮN
+	- Config: Thiết lập vòng quay
+		- Activate: Kích hoạt vòng quay
+		- LimitLevel: Giới hạn cấp độ
+		- RequireToken: Yêu cầu đồng cho mỗi lượt quay
+		- RequireBoundToken: Yêu cầu đồng khóa cho mỗi lượt quay
+		- RequireItemID: Yêu cầu vé quay may mắn
+	- CellData: Dữ liệu ô quay (phải có chính xác 28 ô)
+		- Cell: Thông tin ô vật phẩm
+			- ItemID: ID vật phẩm
+			- Quantity: Số lượng
+			- RateUsingToken: Tỷ lệ quay vào nếu sử dụng đồng (phần 10.000)
+			- RateUsingBoundToken: Tỷ lệ quay vào nếu sử dụng đồng khóa (phần 10.000)
+			- RateUsingCard: Tỷ lệ quay vào nếu sử dụng thẻ (phần 10.000)
+			- CheckPoint: Khi số lượt quay đạt các ngưỡng tương ứng mới quay vào ô này, ngăn cách bởi dấu ; (-1 nếu không áp dụng)
+			- NotifyAfterTaken: Thông báo khi nhận
+			=> Khi có CheckPoint thì Rate sẽ luôn luôn là 0%
+			- EffectType: màu sắc của vòng tròn xoay quanh (-1 là không có gì) màu từ 1-7
+-->
+<KTLuckyCircle>
+	<Config Activate="true" LimitLevel="80" />
+	<Requiration RequireToken="1000" RequireBoundToken="1000" RequireItemID="2169" />
+	<CellData>
+		<Cell ItemID="394" Quantity="1" RateUsingToken="1" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="201;412;641;805;1007;1212;1435;1651;1844;2088;2215;2426;2632;2855;3062;3274;3489;3610;3825;4026;4212;4444;4650;4819;5017;5264;5423;5625;5852;6012;6223;6412;6611;6802;7005;7207;7409;7614;7804;8019;8288;8413;8603;8819;9094;9215;9403;9619;9896;10057;10258;10417;10621;10802;11005;11227;11405;11607;11808;12021;12231;12412;12606;12805;13041;13231;13451;13611;13802;14012;14214;14421;14632;14845;15046;15264;15454;15632;15823;16041;16216;16461;16621;16800;17001;17211;17421;17641;17805;18007;18209;18401;18603;18805;19017;19221;19427;19605;19807;20008" NotifyAfterTaken="true" EffectType="1"/>
+			<!--1 Ô Vàng HT 9 -->
+		<Cell ItemID="350" Quantity="5" RateUsingToken="400" RateUsingBoundToken="300" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--2 Ô trắng Tinh Lực Đại -->
+		<Cell ItemID="556" Quantity="1" RateUsingToken="800" RateUsingBoundToken="1000" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--3 Ô trắng Uy Danh Lệnh -->
+		<Cell ItemID="395" Quantity="1" RateUsingToken="1" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="true" EffectType="2"/>
+			<!--4 Ô Đỏ HT 10 -->
+		<Cell ItemID="611" Quantity="1" RateUsingToken="800" RateUsingBoundToken="1000" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--5 Ô trắng Thành Phẩm Lãnh Thổ-->
+		<Cell ItemID="15027" Quantity="2" RateUsingToken="400" RateUsingBoundToken="100" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--6 Ô trắng Ruong Hon Thach -->
+		<Cell ItemID="514" Quantity="1" RateUsingToken="300" RateUsingBoundToken="900" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--7 Ô vang LB Chúc Phúc Trung -->
+		<Cell ItemID="403" Quantity="1" RateUsingToken="300" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--8 Ô trắng Thoi Vang Dai -->
+		<Cell ItemID="767" Quantity="10" RateUsingToken="1" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="201;412;641;805;1007;1212;1435;1651;1844;2088;2215;2426;2632;2855;3062;3274;3489;3610;3825;4026;4212;4444;4650;4819;5017;5264;5423;5625;5852;6012;6223;6412;6611;6802;7005;7207;7409;7614;7804;8019;8288;8413;8603;8819;9094;9215;9403;9619;9896;10057;10258;10417;10621;10802;11005;11227;11405;11607;11808;12021;12231;12412;12606;12805;13041;13231;13451;13611;13802;14012;14214;14421;14632;14845;15046;15264;15454;15632;15823;16041;16216;16461;16621;16800;17001;17211;17421;17641;17805;18007;18209;18401;18603;18805;19017;19221;19427;19605;19807;20008" NotifyAfterTaken="true" EffectType="1"/>
+			<!--9 Ô Vàng Ruong VSV -->
+		<Cell ItemID="513" Quantity="1" RateUsingToken="600" RateUsingBoundToken="991" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--10 Ô trắng LB Chúc Phúc Sơ -->
+		<Cell ItemID="353" Quantity="5" RateUsingToken="100" RateUsingBoundToken="100" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--11 Ô trắng Hoat Lực Đại -->
+		<Cell ItemID="1074" Quantity="50" RateUsingToken="194" RateUsingBoundToken="1" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="true" EffectType="-1"/>
+			<!--12 Ô trắng Tiền du long -->
+		<Cell ItemID="391" Quantity="1" RateUsingToken="700" RateUsingBoundToken="900" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--13 Ô trắng HT 7 -->
+		<Cell ItemID="350" Quantity="5" RateUsingToken="450" RateUsingBoundToken="200" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--14 Ô trắng Tinh Lực Đại -->
+		<Cell ItemID="403" Quantity="2" RateUsingToken="1" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="true" EffectType="3"/>
+			<!--15 Ô Tim Vang Dai -->
+		<Cell ItemID="353" Quantity="5" RateUsingToken="450" RateUsingBoundToken="200" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--16 Ô trắng Hoat Lực Đại -->
+		<Cell ItemID="392" Quantity="1" RateUsingToken="500" RateUsingBoundToken="200" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--17 Ô trắng HT 8 -->
+		<Cell ItemID="600" Quantity="1" RateUsingToken="800" RateUsingBoundToken="1000" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--18 Ô trắng Tu Luyen Don -->
+		<Cell ItemID="1074" Quantity="50" RateUsingToken="100" RateUsingBoundToken="1" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="true" EffectType="-1"/>
+			<!--19 Ô trắng Bách tiền du long -->
+		<Cell ItemID="402" Quantity="1" RateUsingToken="800" RateUsingBoundToken="500" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--20 Ô Trang Thoi Vang Nho -->
+		<Cell ItemID="3485" Quantity="1" RateUsingToken="-1" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="201;412;641;805;1007;1212;1435;1651;1844;2088;2215;2426;2632;2855;3062;3274;3489;3610;3825;4026;4212;4444;4650;4819;5017;5264;5423;5625;5852;6012;6223;6412;6611;6802;7005;7207;7409;7614;7804;8019;8288;8413;8603;8819;9094;9215;9403;9619;9896;10057;10258;10417;10621;10802;11005;11227;11405;11607;11808;12021;12231;12412;12606;12805;13041;13231;13451;13611;13802;14012;14214;14421;14632;14845;15046;15264;15454;15632;15823;16041;16216;16461;16621;16800;17001;17211;17421;17641;17805;18007;18209;18401;18603;18805;19017;19221;19427;19605;19807;20008" NotifyAfterTaken="true" EffectType="1"/>
+			<!--21 Ô Vang Ho cat Tuong -->
+		<Cell ItemID="527" Quantity="1" RateUsingToken="100" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--22 Ô Trang Lien Dau Hac Thiet LB -->
+		<Cell ItemID="15027" Quantity="5" RateUsingToken="100" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="true" EffectType="3"/>
+			<!--23 Ô Tim Ruong Hon Thach -->
+		<Cell ItemID="393" Quantity="1" RateUsingToken="1" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="201;412;641;805;1007;1212;1435;1651;1844;2088;2215;2426;2632;2855;3062;3274;3489;3610;3825;4026;4212;4444;4650;4819;5017;5264;5423;5625;5852;6012;6223;6412;6611;6802;7005;7207;7409;7614;7804;8019;8288;8413;8603;8819;9094;9215;9403;9619;9896;10057;10258;10417;10621;10802;11005;11227;11405;11607;11808;12021;12231;12412;12606;12805;13041;13231;13451;13611;13802;14012;14214;14421;14632;14845;15046;15264;15454;15632;15823;16041;16216;16461;16621;16800;17001;17211;17421;17641;17805;18007;18209;18401;18603;18805;19017;19221;19427;19605;19807;20008" NotifyAfterTaken="true" EffectType="1"/>
+			<!--24 Ô Vàng HT 9 -->
+		<Cell ItemID="402" Quantity="1" RateUsingToken="100" RateUsingBoundToken="500" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--25 Ô trắng Thoi Vang Nho -->
+		<Cell ItemID="504" Quantity="1" RateUsingToken="800" RateUsingBoundToken="00" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--26 Ô Trang Thành Phẩm Tiêu Dao -->
+		<Cell ItemID="767" Quantity="10" RateUsingToken="1" RateUsingBoundToken="-1" RateUsingCard="-1" CheckPoint="201;412;641;805;1007;1212;1435;1651;1844;2088;2215;2426;2632;2855;3062;3274;3489;3610;3825;4026;4212;4444;4650;4819;5017;5264;5423;5625;5852;6012;6223;6412;6611;6802;7005;7207;7409;7614;7804;8019;8288;8413;8603;8819;9094;9215;9403;9619;9896;10057;10258;10417;10621;10802;11005;11227;11405;11607;11808;12021;12231;12412;12606;12805;13041;13231;13451;13611;13802;14012;14214;14421;14632;14845;15046;15264;15454;15632;15823;16041;16216;16461;16621;16800;17001;17211;17421;17641;17805;18007;18209;18401;18603;18805;19017;19221;19427;19605;19807;20008" NotifyAfterTaken="true" EffectType="1"/>
+			<!--27 Ô Vàng Ruong VSV  -->
+		<Cell ItemID="391" Quantity="1" RateUsingToken="600" RateUsingBoundToken="1000" RateUsingCard="-1" CheckPoint="-1" NotifyAfterTaken="false" EffectType="-1"/>
+			<!--28 Ô Trang HT7  -->
+	</CellData>
+</KTLuckyCircle>

@@ -8701,7 +8701,7 @@
   <TotalRecipe ID="1335" Category="2" Kind="17" Storage="1" Name="Phá Thiên Chùy - Hoàng Quang" Icon="meleeweapon_n_chui_510" Belong="6" SkillLevel="90" Cost="10000" ExpGain="100000" MakeTime="54">
     <ListProduceOut Rate="76" Series="2" Bind="0" ItemTemplateID="10940" />
     <ListProduceOut Rate="20" Series="2" Bind="0" ItemTemplateID="10960" />
-    <ListProduceOut Rate="4" Series="1" Bind="0" ItemTemplateID="11000" />
+    <ListProduceOut Rate="4" Series="2" Bind="0" ItemTemplateID="11000" />
     <ListStuffRequest Number="4" Series="0" Bind="0" ItemTemplateID="2203" />
     <ListStuffRequest Number="4" Series="0" Bind="0" ItemTemplateID="2202" />
   </TotalRecipe>
@@ -10663,6 +10663,119 @@
   <TotalRecipe ID="1736" Category="6" Kind="46" Storage="1" Name="Hoa Tình" Icon="quest_0019_s" Belong="10" SkillLevel="60" Cost="150" ExpGain="7200" MakeTime="54">
     <ListProduceOut Rate="100" Series="0" Bind="1" ItemTemplateID="1169" />
     <ListStuffRequest Number="1" Series="0" Bind="0" ItemTemplateID="2460" />
+  </TotalRecipe>
+  <!--clone 9x 4%  sang 10x  -->
+  
+  <TotalRecipe ID="1737" Category="5" Kind="13" Storage="1" Name="Long Uyên Kiếm - Lạc Lôi" Icon="meleeweapon_n_jian_110" Belong="6" SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="5" Bind="0" ItemTemplateID="10750" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  
+  <TotalRecipe ID="1738" Category="1" Kind="15" Storage="1" Name="Kim Cô Bổng - Phi Yến" Icon="meleeweapon_n_gun_310" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="1" Bind="0" ItemTemplateID="10590" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2323" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2322" />
+  </TotalRecipe>
+   <TotalRecipe ID="1739" Category="1" Kind="16" Storage="1" Name="Phá Thiên Kích - Hoàng Quang" Icon="meleeweapon_n_qiang_410" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="1" Bind="0" ItemTemplateID="10600" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2323" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="1740" Category="1" Kind="17" Storage="1" Name="Phá Thiên Chùy - Hoàng Quang" Icon="meleeweapon_n_chui_510" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="1" Bind="0" ItemTemplateID="10610" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="1750" Category="2" Kind="14" Storage="1" Name="Yển Nguyệt Đao - Phi Yến" Icon="meleeweapon_n_dao_210" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="2" Bind="0" ItemTemplateID="10620" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="1760" Category="2" Kind="12" Storage="1" Name="Thanh Long Triền Thủ - Linh Vũ" Icon="meleeweapon_n_chanshou_610" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="2" Bind="0" ItemTemplateID="10630" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2243" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2242" />
+  </TotalRecipe>
+  <TotalRecipe ID="1770" Category="3" Kind="14" Storage="1" Name="Yển Nguyệt Đao - Phi Yến" Icon="meleeweapon_n_dao_210" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="3" Bind="0" ItemTemplateID="10640" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="1780" Category="3" Kind="12" Storage="1" Name="Thanh Long Triền Thủ - Hoàng Quang" Icon="meleeweapon_n_chanshou_610" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="3" Bind="0" ItemTemplateID="10650" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2243" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2242" />
+  </TotalRecipe>
+  <TotalRecipe ID="1790" Category="3" Kind="12" Storage="1" Name="Thanh Long Triền Thủ - Linh Vũ" Icon="meleeweapon_n_chanshou_610" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="3" Bind="0" ItemTemplateID="10660" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2243" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2242" />
+  </TotalRecipe>
+   <TotalRecipe ID="2700" Category="3" Kind="13" Storage="1" Name="Long Uyên Kiếm - Linh Vũ" Icon="meleeweapon_n_jian_110" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="3" Bind="0" ItemTemplateID="10670" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="2710" Category="4" Kind="15" Storage="1" Name="Kim Cô Bổng - Phi Yến" Icon="meleeweapon_n_gun_310" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="4" Bind="0" ItemTemplateID="10680" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2323" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2322" />
+  </TotalRecipe>
+   <TotalRecipe ID="2720" Category="4" Kind="16" Storage="1" Name="Phá Thiên Kích - Phi Yến" Icon="meleeweapon_n_qiang_410" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="4" Bind="0" ItemTemplateID="10690" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2323" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="2730" Category="4" Kind="12" Storage="1" Name="Thanh Long Triền Thủ - Linh Vũ" Icon="meleeweapon_n_chanshou_610" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="4" Bind="0" ItemTemplateID="10700" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2243" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2242" />
+  </TotalRecipe>
+  <TotalRecipe ID="2740" Category="4" Kind="14" Storage="1" Name="Yển Nguyệt Đao - Linh Vũ" Icon="meleeweapon_n_dao_210" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="4" Bind="0" ItemTemplateID="10710" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="2750" Category="5" Kind="14" Storage="1" Name="Yển Nguyệt Đao - Phi Yến" Icon="meleeweapon_n_dao_210" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="5" Bind="0" ItemTemplateID="10720" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="2760" Category="5" Kind="13" Storage="1" Name="Long Uyên Kiếm - Phi Yến" Icon="meleeweapon_n_jian_110" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="5" Bind="0" ItemTemplateID="10730" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="2770" Category="5" Kind="13" Storage="1" Name="Long Uyên Kiếm - Linh Vũ" Icon="meleeweapon_n_jian_110" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="5" Bind="0" ItemTemplateID="10740" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+   <TotalRecipe ID="2790" Category="2" Kind="19" Storage="1" Name="Long Hành Đao - Phi Yến" Icon="rangeweapon_n_feidao_210" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="2" Bind="0" ItemTemplateID="12697" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="3700" Category="2" Kind="20" Storage="1" Name="Thiên Ngoại Phi Tiên - Phi Yến" Icon="rangeweapon_n_xiujian_310" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="2" Bind="0" ItemTemplateID="12707" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="3710" Category="2" Kind="13" Storage="1" Name="Long Uyên Kiếm - Linh Vũ" Icon="meleeweapon_n_jian_110" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="4" Bind="0" ItemTemplateID="11010" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="3720" Category="1" Kind="14" Storage="1" Name="Yển Nguyệt Đao - Phi Yến" Icon="meleeweapon_n_dao_210" Belong="6"  SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+    <ListProduceOut Rate="100" Series="1" Bind="0" ItemTemplateID="10580" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+    <ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
+  </TotalRecipe>
+  <TotalRecipe ID="3730" Category="2" Kind="17" Storage="1" Name="Phá Thiên Chùy - Hoàng Quang" Icon="meleeweapon_n_chui_510" Belong="6" SkillLevel="100" Cost="100000" ExpGain="1000000" MakeTime="54">
+	<ListProduceOut Rate="100" Series="2" Bind="0" ItemTemplateID="11000" />
+	<ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2203" />
+	<ListStuffRequest Number="40" Series="0" Bind="0" ItemTemplateID="2202" />
   </TotalRecipe>
   <TotalExp Level="1" Exp="0" />
   <TotalExp Level="2" Exp="100" />

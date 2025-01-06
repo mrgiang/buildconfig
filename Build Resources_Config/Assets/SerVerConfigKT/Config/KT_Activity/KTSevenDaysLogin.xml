@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SevenDaysLogin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="7 ngày dăng nhập" IsOpen="true">
+ 
+ <Item ID="1" Days="1">
+    <RollAwardItem ItemID="389" Number="1" Rate="5" />
+    <RollAwardItem ItemID="388" Number="1" Rate="10" />
+    <RollAwardItem ItemID="387" Number="2" Rate="25" />
+    <RollAwardItem ItemID="387" Number="1" Rate="60" />
+  </Item>
+  <Item ID="2" Days="2">
+    <RollAwardItem ItemID="390" Number="1" Rate="5" />
+    <RollAwardItem ItemID="389" Number="1" Rate="10" />
+    <RollAwardItem ItemID="388" Number="2" Rate="25" />
+    <RollAwardItem ItemID="388" Number="1" Rate="60" />
+  </Item>
+  <Item ID="3" Days="3">
+    <RollAwardItem ItemID="391" Number="1" Rate="5" />
+    <RollAwardItem ItemID="390" Number="1" Rate="10" />
+    <RollAwardItem ItemID="389" Number="1" Rate="25" />
+    <RollAwardItem ItemID="388" Number="2" Rate="60" />
+  </Item>
+  <Item ID="4" Days="4">
+    <RollAwardItem ItemID="391" Number="1" Rate="5" />
+    <RollAwardItem ItemID="390" Number="1" Rate="10" />
+    <RollAwardItem ItemID="389" Number="2" Rate="25" />
+    <RollAwardItem ItemID="389" Number="1" Rate="60" />
+  </Item>
+  <Item ID="5" Days="5">
+    <RollAwardItem ItemID="392" Number="1" Rate="5" />
+    <RollAwardItem ItemID="391" Number="1" Rate="10" />
+    <RollAwardItem ItemID="390" Number="1" Rate="25" />
+    <RollAwardItem ItemID="389" Number="2" Rate="60" />
+  </Item>
+  <Item ID="6" Days="6">
+    <RollAwardItem ItemID="392" Number="1" Rate="5" />
+    <RollAwardItem ItemID="391" Number="1" Rate="10" />
+    <RollAwardItem ItemID="390" Number="2" Rate="25" />
+    <RollAwardItem ItemID="390" Number="1" Rate="60" />
+  </Item>
+  <Item ID="7" Days="7">
+    <RollAwardItem ItemID="393" Number="1" Rate="5" />
+    <RollAwardItem ItemID="392" Number="1" Rate="10" />
+    <RollAwardItem ItemID="391" Number="1" Rate="25" />
+    <RollAwardItem ItemID="390" Number="2" Rate="60" />
+  </Item>
+ 
+</SevenDaysLogin>
