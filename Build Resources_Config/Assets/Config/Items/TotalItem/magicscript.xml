@@ -51226,5 +51226,59 @@
      <UnLockInterval>0</UnLockInterval>
   </ItemData>
   
+      <ItemData ItemID="5000030" Name="Lá dong" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="quest_0086_s" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000031" Name="Gạo nếp" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="lianzifen" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000032" Name="Đậu xanh" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="vn_lvdou" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+	<ItemData ItemID="5000033" Name="Thịt tươi" Genre="6" DetailType="1"
+     ParticularType="2479" IconBundleDir= "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1"
+     Image="quest_0069_s" ObjDrop="377" Descript="Nguyên liệu event"
+     Series="-1" Price="0" Level="1" Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0"
+     Expansionset="0" SmeltableQuality="0" MeltableQuality="0" BuffID="-1" DeductOnUse="false"
+     ScriptID="-1" FightPower="-1 ">
+       <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000034" Name="Bánh Giầy " Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="zongzi2" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200305" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000035" Name="Bánh Chưng" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="vn_dazongzi" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="5000036" Name="Bánh Chưng Token" Genre="6" DetailType="1" ParticularType="2485" IconBundleDir=
+     "Icon/ItemIcon_1.unity3d" IconAtlasName="ItemIcon_1" Image="zongzi3" ObjDrop="377"
+     Descript="Quà ngày lễ" Series="-1" Price="0" Level="1"
+     Stack="5000" ResWomanID="-1" ResManID="-1" SuiteID="0" Expansionset="0" SmeltableQuality="0"
+     MeltableQuality="0" BuffID="-1" DeductOnUse="false" ScriptID="200307" FightPower="-1 ">
+     <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  
 
 </ArrayOfItemData>
