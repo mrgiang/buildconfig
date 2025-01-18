@@ -26,7 +26,7 @@
 		- SpawnAfter: Xuất hiện sau khoảng thời gian (-1 nếu ngay lập tức)
 -->
 
-<MiJing EventID="12" Duration="7200000" RequireLevel="80" LimitRoundPerDay="2">
+<MiJing EventID="12" Duration="7200000" RequireLevel="50" LimitRoundPerDay="2">
 	<!-- Thông tin bản đồ -->
 	<MapInfo ID="343" EnterPosX="1225" EnterPosY="1239" />
 	<!-- Vật phẩm Bản Đồ Bí Cảnh -->

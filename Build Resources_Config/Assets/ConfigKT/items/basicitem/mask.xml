@@ -1,0 +1,17 @@
+﻿<ArrayOfItemData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- Đẹp Bình Thường -->
+  <!-- <ItemData ItemID="13756" Name="Mặt nạ - Noel - Nam" Genre="0" DetailType="11" ParticularType="2" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" QualityPrefix="0" Category="1" Stack="1" Level="1" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="" Help="" ObjID="32" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="1" ItemValue="1800000" MakeCost="153000" ResMale="1" ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1"> -->
+  <!-- <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" /> -->
+  <!-- <GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" /> -->
+  <!-- <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" /> -->
+  <!-- <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" /> -->
+  <!-- <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" /> -->
+  <!-- </ItemData> -->
+  <ItemData ItemID="13756" Name="Mặt nạ - Noel - Nam" Genre="0" DetailType="11" ParticularType="2" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0176" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
+    <GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
+    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
+    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
+    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+  </ItemData>
+</ArrayOfItemData>

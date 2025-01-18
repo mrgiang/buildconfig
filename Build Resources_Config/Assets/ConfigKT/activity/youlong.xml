@@ -1,0 +1,69 @@
+﻿<YouLong EventID="13" Duration="3600000" RequireLevel="50" LimitRoundPerDay="20" KickOutIfNoChallengeFor="360000" ChallengeDuration="300000" RequireItem="1026">
+  <Item MoonStoneID="928" YouLongCoinID="1074" />
+  <Map ID="1665" EnterPosX="941" EnterPosY="563" />
+  <NPC ID="3690" Name="" Title="" PosX="715" PosY="647" />
+  <Boss ID="3689" Name="" Title="" PosX="715" PosY="647" BaseHP="50000" HPIncreaseEachLevel="1000" AIType="5" AIScriptID="100001" Auras="" Skills="489_5_20000;134_5_-1" />
+  <Awards Count="60" MaxTryTime="4">
+    <Award ID="590" Number="1" Rate="10" AppearRate="1" NumberOfCoins="18" />
+    <Award ID="344" Number="1" Rate="60" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="1036" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1038" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1039" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1040" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1041" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1042" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1034" Number="1" Rate="10" AppearRate="1" NumberOfCoins="10" />
+    <Award ID="1032" Number="1" Rate="80" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="1035" Number="1" Rate="60" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="513" Number="1" Rate="30" AppearRate="1" NumberOfCoins="18" />
+    <Award ID="579" Number="1" Rate="20" AppearRate="1" NumberOfCoins="3" />
+    <Award ID="739" Number="1" Rate="30" AppearRate="1" NumberOfCoins="5" />
+    <Award ID="488" Number="1" Rate="30" AppearRate="3" NumberOfCoins="1" />
+    <Award ID="916" Number="1" Rate="1" AppearRate="1" NumberOfCoins="100" />
+    <Award ID="917" Number="1" Rate="1" AppearRate="1" NumberOfCoins="100" />
+    <Award ID="1031" Number="1" Rate="20" AppearRate="3" NumberOfCoins="4" />
+    <Award ID="590" Number="1" Rate="10" AppearRate="1" NumberOfCoins="18" />
+    <Award ID="344" Number="1" Rate="60" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="1036" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1037" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1038" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1039" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1040" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1041" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1042" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1034" Number="1" Rate="10" AppearRate="1" NumberOfCoins="10" />
+    <Award ID="1032" Number="1" Rate="80" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="1035" Number="1" Rate="60" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="513" Number="1" Rate="30" AppearRate="1" NumberOfCoins="18" />
+    <Award ID="579" Number="1" Rate="20" AppearRate="1" NumberOfCoins="3" />
+    <Award ID="739" Number="1" Rate="30" AppearRate="1" NumberOfCoins="5" />
+    <Award ID="488" Number="1" Rate="30" AppearRate="3" NumberOfCoins="1" />
+    <Award ID="916" Number="1" Rate="1" AppearRate="1" NumberOfCoins="100" />
+    <Award ID="917" Number="1" Rate="1" AppearRate="1" NumberOfCoins="100" />
+    <Award ID="1031" Number="1" Rate="20" AppearRate="3" NumberOfCoins="4" />
+    <Award ID="187" Number="1" Rate="50" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="188" Number="1" Rate="30" AppearRate="1" NumberOfCoins="2" />
+    <Award ID="189" Number="1" Rate="10" AppearRate="1" NumberOfCoins="10" />
+    <Award ID="190" Number="1" Rate="5" AppearRate="1" NumberOfCoins="30" />
+    <Award ID="920" Number="1" Rate="50" AppearRate="1" NumberOfCoins="5" />
+    <Award ID="590" Number="1" Rate="10" AppearRate="1" NumberOfCoins="18" />
+    <Award ID="344" Number="1" Rate="60" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="1036" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1037" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1038" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1039" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1040" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1041" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1042" Number="1" Rate="1" AppearRate="1" NumberOfCoins="50" />
+    <Award ID="1034" Number="1" Rate="10" AppearRate="1" NumberOfCoins="10" />
+    <Award ID="1032" Number="1" Rate="80" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="1035" Number="1" Rate="60" AppearRate="1" NumberOfCoins="1" />
+    <Award ID="513" Number="1" Rate="30" AppearRate="1" NumberOfCoins="18" />
+    <Award ID="579" Number="1" Rate="20" AppearRate="1" NumberOfCoins="3" />
+    <Award ID="739" Number="1" Rate="30" AppearRate="1" NumberOfCoins="5" />
+    <Award ID="488" Number="1" Rate="30" AppearRate="3" NumberOfCoins="1" />
+    <Award ID="916" Number="1" Rate="1" AppearRate="1" NumberOfCoins="100" />
+    <Award ID="917" Number="1" Rate="1" AppearRate="1" NumberOfCoins="100" />
+    <Award ID="1031" Number="1" Rate="20" AppearRate="3" NumberOfCoins="4" />
+  </Awards>
+</YouLong>

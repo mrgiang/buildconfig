@@ -28,9 +28,9 @@
 		- EnableCaptchaForBattle: Phần thưởng bạc khóa khi trả lời đúng Captcha
 -->
 <ServerConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<LimitAccount MaxCCU="1000" LimitAccountPerIPAddress="1600" />
+	<LimitAccount MaxCCU="10" LimitAccountPerIPAddress="16" />
 	<MonsterAI EnableMonsterAIRandomMove="true" EnableMonsterAI="true" />
-	<Threading MaxUpdateGridThread="5" MaxPlayerStoryBoardThread="5" MaxMonsterTimer="5" MaxBuffTimer="1" />
-	<GameConfig LimitLevel="230" KuaFuServerEnable = "true" />
+	<Threading MaxUpdateGridThread="1" MaxPlayerStoryBoardThread="1" MaxMonsterTimer="1" MaxBuffTimer="1" />
+	<GameConfig LimitLevel="59" KuaFuServerEnable = "true" />
 	<Captcha EnableCaptcha="false" EnableCaptchaForIOS="false" CaptchaAppearMinPeriod="30000" CaptchaAppearMaxPeriod="36000" CaptchaTeamPlayersOnly="true" CaptchaAppearFromTime="9:00" CaptchaAppearToTime="23:59" CaptchaExpAddPerLevel="500" CaptchaBoundMoneyAddPerLevel="100" EnableCaptchaForBattle="true"/>
 </ServerConfig>
