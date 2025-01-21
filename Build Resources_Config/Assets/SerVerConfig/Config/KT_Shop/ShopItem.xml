@@ -13297,16 +13297,16 @@
 	<ShopItem ID="22046" ItemID="10900" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="1"
     LimitType="-1" LimitValue="-1" />
-	<ShopItem ID="22047" ItemID="5000020" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	<ShopItem ID="22047" ItemID="5000030" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	<ShopItem ID="22048" ItemID="5000021" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	<ShopItem ID="22048" ItemID="5000031" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	<ShopItem ID="22049" ItemID="5000022" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	<ShopItem ID="22049" ItemID="5000032" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
-	<ShopItem ID="22050" ItemID="5000023" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
+	<ShopItem ID="22050" ItemID="5000033" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"
     OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="10"
     LimitType="-1" LimitValue="-1" />
     <ShopItem ID="23000" ItemID="4000010" Series="0" Bind="0" ReputeDBID="-1" ReputeLevel="-1"

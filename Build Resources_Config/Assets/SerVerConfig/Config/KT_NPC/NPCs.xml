@@ -989,6 +989,10 @@
 	<NPC ID="999999004" ResName="passerby0171" Title="" Name="Hạt Cây" />
 	<NPC ID="999999005" ResName="passerby0171" Title="" Name="Hạt Cây" />
 	<NPC ID="999999006" ResName="passerby0171" Title="" Name="Hạt Cây" />
+	<NPC ID="999999007" ResName="passerby0171" Title="" Name="Hạt Cây" />
+	<NPC ID="999999008" ResName="passerby0171" Title="" Name="Hạt Cây" />
+	<NPC ID="999999009" ResName="passerby0171" Title="" Name="Hạt Cây" />
+
 
     <NPC ID="999999101" ResName="passerby0168" Title="" Name="Cây Xanh" />
 	<NPC ID="999999102" ResName="passerby0168" Title="" Name="Cây Xanh" />
@@ -996,13 +1000,20 @@
     <NPC ID="999999104" ResName="passerby0168" Title="" Name="Cây Xanh" />
     <NPC ID="999999105" ResName="passerby0168" Title="" Name="Cây Xanh" />
     <NPC ID="999999106" ResName="passerby0168" Title="" Name="Cây Xanh" />
+	<NPC ID="999999107" ResName="passerby0168" Title="" Name="Cây Xanh" />
+    <NPC ID="999999108" ResName="passerby0168" Title="" Name="Cây Xanh" />
+    <NPC ID="999999109" ResName="passerby0168" Title="" Name="Cây Xanh" />
+
 	
 	<NPC ID="999999201" ResName="passerby0169" Title="" Name="Cây Vàng" />
 	<NPC ID="999999202" ResName="passerby0169" Title="" Name="Cây Vàng" />
     <NPC ID="999999203" ResName="passerby0169" Title="" Name="Cây Vàng" />
     <NPC ID="999999204" ResName="passerby0169" Title="" Name="Cây Vàng" />
     <NPC ID="999999205" ResName="passerby0169" Title="" Name="Cây Vàng" />
-    <NPC ID="999999206" ResName="passerby0169" Title="" Name="Cây Vàng" />
+    <NPC ID="999999207" ResName="passerby0169" Title="" Name="Cây Vàng" />
+	<NPC ID="999999208" ResName="passerby0169" Title="" Name="Cây Vàng" />
+    <NPC ID="999999209" ResName="passerby0169" Title="" Name="Cây Vàng" />
+
 	
 	<NPC ID="999999994" ResName="passerby5000" Title="Noel" Name="Cây Thông" />
 	<NPC ID="999999995" ResName="enemy0177" Title="" Name="Hot Girl" />

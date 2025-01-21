@@ -47,7 +47,7 @@
 			- StudyNewRate: Tỷ lệ học mới (%)
 -->
 <TreeConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<Limitation MaxCanTake="6" MapId="1" />
+	<Limitation MaxCanTake="9" MapId="1" />
 	
 	<GrowTrees>
 		<GrowTree ID="1" Name="" ResID="999999001_999999101_999999201" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="0"/>
@@ -56,6 +56,10 @@
 		<GrowTree ID="4" Name="" ResID="999999004_999999104_999999204" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="3"/>
 		<GrowTree ID="5" Name="" ResID="999999005_999999105_999999205" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="4"/>
 		<GrowTree ID="6" Name="" ResID="999999006_999999106_999999206" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="5"/>
+		<GrowTree ID="7" Name="" ResID="999999007_999999107_999999207" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="5"/>
+		<GrowTree ID="8" Name="" ResID="999999008_999999108_999999208" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="5"/>
+		<GrowTree ID="9" Name="" ResID="999999009_999999109_999999209" Rate="1_2_3" CollectTick="3000" ReqLevel="200" ReqTree="5"/>
+
 	</GrowTrees>
 
 	
