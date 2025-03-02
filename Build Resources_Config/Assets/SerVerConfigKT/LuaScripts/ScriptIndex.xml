@@ -310,4 +310,6 @@
 	<Script ID="900002" Dir="CopyScene/MilitaryCamp/MilitaryCampChuanSongRen_ChengShi.lua" />	
 	<!-- End -->
 	
+	<Script ID="910001" Dir="VerLua/VerLua_Default.lua" />	
+
 </ScriptIndex>

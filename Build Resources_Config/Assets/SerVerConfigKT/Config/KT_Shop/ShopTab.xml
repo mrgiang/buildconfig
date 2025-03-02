@@ -4369,6 +4369,7 @@
 		<ShopItem>5579</ShopItem>	Rương Ma Đao Thạch
 		<ShopItem>5580</ShopItem>	Rương Hộ Giáp Phiến
 		<ShopItem>5581</ShopItem>	Rương Ngũ Hành Thạch
+		<ShopItem>5551</ShopItem> Bản đồ bí cảnh
 	</ShopTab>
 	<ShopTab ShopName="Thường Dùng" ShopID="214" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
 		<ShopItem>5220</ShopItem>

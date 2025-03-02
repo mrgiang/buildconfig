@@ -2,7 +2,7 @@
 <BaiHuTang ID="10">
 	<!-- Sự kiện chuẩn bị -->
 	<Prepare>
-		<Activity ActivityID="100" ActivityLevel="80" MapIDs="226;227;228;229;234;235;236;237" />
+		<Activity ActivityID="100" ActivityLevel="80" MapIDs="226;234" />
 	</Prepare>
 	
 	<!-- Bạch Hổ Đường 1 -->
@@ -10,8 +10,8 @@
 		<!-- Uy danh, danh vọng khi giết Boss -->
 		<ReputeInfo GuildKillBossPrestige="5" OtherPrestige="2" GuildKillBossRepute="4" OtherRepute="1" />
 	
-		<Activity ActivityID="101" ActivityLevel="80" MapIDs="226;227;228;229" />
-		<Activity ActivityID="106" ActivityLevel="120" MapIDs="234;235;236;237" />
+		<Activity ActivityID="101" ActivityLevel="80" MapIDs="226" />
+		<Activity ActivityID="106" ActivityLevel="120" MapIDs="234" />
 		
 		<Monsters>
 			<Monster IDs="101_2660;106_2662;110_3683" Name="" Title="" PosX="969" PosY="1287" BaseHP="300" HPIncreaseEachLevel="100" AIType="0" RespawnTick="10000" AIScriptID="100000" />
@@ -106,8 +106,8 @@
 		<!-- Uy danh khi giết Boss -->
 		<ReputeInfo GuildKillBossPrestige="10" OtherPrestige="4" GuildKillBossRepute="7" OtherRepute="1" />
 		
-		<Activity ActivityID="102" ActivityLevel="80" MapIDs="230;231" />
-		<Activity ActivityID="107" ActivityLevel="120" MapIDs="238;239" />
+		<Activity ActivityID="102" ActivityLevel="80" MapIDs="230" />
+		<Activity ActivityID="107" ActivityLevel="120" MapIDs="238" />
 		
 		<Monsters>
 			<Monster IDs="102_2681;107_2683;111_3685" Name="" Title="" PosX="969" PosY="1287" BaseHP="350" HPIncreaseEachLevel="100" AIType="0" RespawnTick="10000" AIScriptID="100000" />

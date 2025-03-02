@@ -1,14 +1,11 @@
 ﻿<ActivityList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <_Act ID="1" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Chiến Trường Tống Kim" MapCode="-7" NPCID="2607" LevelJoin="60" _State="CANJOIN" MsgTips="Chạy đến chiêu mộ sứ tống, kim ở các thành thị để báo danh">
+  <_Act ID="1" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Chiến Trường Tống Kim(Liên Server)" MapCode="-7" NPCID="2607" LevelJoin="60" _State="CANJOIN" MsgTips="Chạy đến chiêu mộ sứ tống, kim ở các thành thị để báo danh">
     <ItemReward>13148</ItemReward>
     <ItemReward>13141</ItemReward>
     <ItemReward>13143</ItemReward>
     <ItemReward>645</ItemReward>
     <ItemReward>644</ItemReward>
     <ItemReward>643</ItemReward>
-    <Time Hours="11" Minute="0" />
-    <Time Hours="17" Minute="0" />
-    <Time Hours="21" Minute="0" />
   </_Act>
   <!-- <_Act ID="3" DayOfWeek="2 6 7 8" ActivityName="Tống Kim Liên Server" MapCode="-7" NPCID="2607" LevelJoin="120" _State="CANJOIN" MsgTips="Chạy đến chiêu mộ sứ tống, kim ở các thành thị để báo danh"> -->
   <!-- <ItemReward>13148</ItemReward> -->
@@ -45,7 +42,7 @@
   <!-- <Time Hours="20" Minute="20" /> -->
   <!-- <Time Hours="21" Minute="0" /> -->
   <!-- </_Act> -->
-  <_Act ID="7" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Chúc Phúc" MapCode="-5" NPCID="2601" LevelJoin="50" _State="CANJOIN">
+  <_Act ID="7" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Chúc Phúc" MapCode="23" NPCID="3237" LevelJoin="50" _State="CANJOIN">
     <ItemReward>13148</ItemReward>
     <ItemReward>337</ItemReward>
   </_Act>
@@ -57,7 +54,7 @@
     <ItemReward>186</ItemReward>
     <ItemReward>187</ItemReward>
   </_Act>
-  <_Act ID="9" DayOfWeek="7 8" ActivityName="Tranh Đoạt Lãnh Thổ" MapCode="-7" NPCID="3406" LevelJoin="80" _State="CANJOIN">
+  <_Act ID="9" DayOfWeek="7 8" ActivityName="Tranh Đoạt Lãnh Thổ(Liên Server)" MapCode="-7" NPCID="3406" LevelJoin="80" _State="CANJOIN">
     <ItemReward>13149</ItemReward>
     <ItemReward>187</ItemReward>
     <ItemReward>188</ItemReward>
@@ -75,7 +72,7 @@
     <ItemReward>189</ItemReward>
     <ItemReward>190</ItemReward>
   </_Act>
-  <_Act ID="11" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Võ Lâm Liên Đấu" MapCode="-7" NPCID="3385" LevelJoin="100" _State="CANJOIN">
+  <_Act ID="11" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Võ Lâm Liên Đấu(Liên Server)" MapCode="-7" NPCID="3385" LevelJoin="100" _State="CANJOIN">
     <ItemReward>13149</ItemReward>
     <ItemReward>13148</ItemReward>
     <ItemReward>527</ItemReward>
@@ -84,7 +81,7 @@
     <ItemReward>530</ItemReward>
     <Time Hours="19" Minute="00" />
   </_Act>
-  <_Act ID="12" DayOfWeek="3" ActivityName="Thi Đấu Môn Phái" MapCode="-1" NPCID="0" LevelJoin="50" _State="CANJOIN">
+  <_Act ID="12" DayOfWeek="3" ActivityName="Thi Đấu Môn Phái(Liên Server)" MapCode="-1" NPCID="0" LevelJoin="50" _State="CANJOIN">
     <ItemReward>13148</ItemReward>
     <ItemReward>13149</ItemReward>
     <ItemReward>338</ItemReward>
@@ -115,19 +112,6 @@
     <ItemReward>649</ItemReward>
     <ItemReward>186</ItemReward>
     <ItemReward>187</ItemReward>
-    <Time Hours="0" Minute="30" />
-    <Time Hours="1" Minute="30" />
-    <Time Hours="12" Minute="30" />
-    <Time Hours="13" Minute="30" />
-    <Time Hours="14" Minute="30" />
-    <Time Hours="15" Minute="30" />
-    <Time Hours="16" Minute="30" />
-    <Time Hours="17" Minute="30" />
-    <Time Hours="18" Minute="30" />
-    <Time Hours="19" Minute="30" />
-    <Time Hours="20" Minute="30" />
-    <Time Hours="21" Minute="30" />
-    <Time Hours="22" Minute="30" />
   </_Act>
   <!-- <_Act ID="15" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Bách Man Sơn" MapCode="0" NPCID="0" LevelJoin="90" _State="CANJOIN"> -->
   <!-- <ItemReward>13141</ItemReward> -->
