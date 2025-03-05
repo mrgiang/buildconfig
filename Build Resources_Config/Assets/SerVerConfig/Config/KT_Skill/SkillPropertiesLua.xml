@@ -26583,7 +26583,14 @@
   
   
   
-  
+    <Skill Name="effectground">
+	<Symbol Name="skill_statetime">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="-1" />
+        <SkillLevelValue Level="2" Value="-1" />
+      </Value>
+    </Symbol>
+  </Skill>
   
   
   
