@@ -243,6 +243,8 @@
 	<StateEffect Id="2459" PosType="body" PosX="-70" PosY="-100" Layer="1" EffectBundle="Resources/SkillAnimation/Precast/2459.unity3d" IconBundle="" IconName="" Loop="1" Buff="0" Tip="Dục Huyết Thao Phong - Hiệu ứngHiệp Thế - Hiệu ứng" />
 -->
 
-
+	<StateEffect Id="3000" PosType="ground" PosX="0" PosY="10" Layer="0" EffectBundle="Resources/Effect/VSAA.unity3d" IconBundle="" IconName="" Loop="1" Buff="1" Tip="Vòng Sáng - Huyết Thủ" />
+	<StateEffect Id="3001" PosType="ground" PosX="0" PosY="30" Layer="0" EffectBundle="Resources/Effect/VSAB.unity3d" IconBundle="" IconName="" Loop="1" Buff="1" Tip="Vòng Sáng - Thiên Nhân Trảm" />
+	<StateEffect Id="3002" PosType="ground" PosX="0" PosY="30" Layer="0" EffectBundle="Resources/Effect/VSAC.unity3d" IconBundle="" IconName="" Loop="1" Buff="1" Tip="Vòng Sáng - Vạn Nhân Đồ" />
 
 </StateEffects>
