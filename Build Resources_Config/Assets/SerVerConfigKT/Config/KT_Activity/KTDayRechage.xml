@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DayRechage>
-	<DayRechageAward ID="1" MinYuanBao="10000" GoodsIDs="15027,1|185,10|15000,5" />
-	<DayRechageAward ID="2" MinYuanBao="20000" GoodsIDs="15027,2|187,10|15000,10" />
-	<DayRechageAward ID="3" MinYuanBao="40000" GoodsIDs="15027,4|188,5|402,3|15006,1" />
-	<DayRechageAward ID="4" MinYuanBao="70000" GoodsIDs="15028,1|189,1|402,5|15006,2" />
-	<DayRechageAward ID="5" MinYuanBao="100000" GoodsIDs="15028,2|190,1|403,1|15007,1" />
-	<DayRechageAward ID="6" MinYuanBao="150000" GoodsIDs="15028,3|190,2|403,2|15007,2" />
-	<DayRechageAward ID="7" MinYuanBao="250000" GoodsIDs="1074,300|191,1|403,3|15008,1" />
+	<DayRechageAward ID="1" MinYuanBao="10000" GoodsIDs="15027,2|187,10|15000,10" />
+	<DayRechageAward ID="2" MinYuanBao="20000" GoodsIDs="15027,4|188,5|402,3|15006,1" />
+	<DayRechageAward ID="3" MinYuanBao="40000" GoodsIDs="15028,1|189,1|402,5|15006,2" />
+	<DayRechageAward ID="4" MinYuanBao="70000" GoodsIDs="15028,2|190,1|403,1|15007,1" />
+	<DayRechageAward ID="5" MinYuanBao="100000" GoodsIDs="1074,200|190,2|403,2|15007,2" />
+	<DayRechageAward ID="6" MinYuanBao="150000" GoodsIDs="1074,300|191,1|403,3|15008,1" />
 </DayRechage>

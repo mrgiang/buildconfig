@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<BattleConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" BattleName="Tống Kim Sơ Cấp" MapID="38" RegisterDualtion="20" BattleDualtion="30" ReviceAwardDualtion="30" MinLevel="190" MaxLevel="195">
+<BattleConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" BattleName="Tống Kim Sơ Cấp" MapID="38" RegisterDualtion="20" BattleDualtion="480" ReviceAwardDualtion="30" MinLevel="190" MaxLevel="195">
   
   
   <!-- Ngày trong tuần sẽ có sự kiện-->
