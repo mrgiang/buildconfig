@@ -97,9 +97,9 @@
 
 	<!-- Phần thưởng danh vọng vượt ải -->
 	<Repute>
-		<Stage Difficulty="1" OneRound="1" TwoRound="1" ThreeRound="1" FourRound="1" FiveRound="2" LossRound="1" />
-		<Stage Difficulty="2" OneRound="1" TwoRound="1" ThreeRound="2" FourRound="2" FiveRound="3" LossRound="1" />
-		<Stage Difficulty="3" OneRound="1" TwoRound="2" ThreeRound="3" FourRound="3" FiveRound="4" LossRound="1" />
+		<Stage Difficulty="1" OneRound="1" TwoRound="1" ThreeRound="1" FourRound="1" FiveRound="2" LossRound="0" />
+		<Stage Difficulty="2" OneRound="1" TwoRound="1" ThreeRound="2" FourRound="2" FiveRound="3" LossRound="0" />
+		<Stage Difficulty="3" OneRound="1" TwoRound="2" ThreeRound="3" FourRound="3" FiveRound="4" LossRound="0" />
 	</Repute>
 
 	<!-- Bản đồ báo danh -->

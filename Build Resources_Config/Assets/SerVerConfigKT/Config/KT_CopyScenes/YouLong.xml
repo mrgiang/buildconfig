@@ -43,7 +43,7 @@
 			- AppearRate: Tỷ lệ xuất hiện trong khung quà thưởng
 			- NumberOfCoins: Đổi được bao nhiêu Tiền Du Long
 -->
-<YouLong EventID="13" Duration="3600000" RequireLevel="50" LimitRoundPerDay="100" KickOutIfNoChallengeFor="360000" ChallengeDuration="300000" RequireItem="1026">
+<YouLong EventID="13" Duration="3600000" RequireLevel="50" LimitRoundPerDay="10000" KickOutIfNoChallengeFor="360000" ChallengeDuration="300000" RequireItem="1026">
 	<Item MoonStoneID="928" YouLongCoinID="1074" />
 	<Map ID="1665" EnterPosX="941" EnterPosY="563" />
 	<NPC ID="3690" Name="" Title="" PosX="715" PosY="647" />

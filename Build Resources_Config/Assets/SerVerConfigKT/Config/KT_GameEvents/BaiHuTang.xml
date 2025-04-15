@@ -72,7 +72,7 @@
 			<Monster IDs="101_2660;106_2662;110_3683" Name="" Title="" PosX="2685" PosY="1234" BaseHP="300" HPIncreaseEachLevel="100" AIType="0" RespawnTick="10000" AIScriptID="100000" />
 		</Monsters>
 		
-		<Boss IDs="101_2661;106_2663;110_3684" Name="" Title="" RandomPos="2684_1441;2019_1810;1969_943;3432_974;3545_1794" BaseHP="2000" HPIncreaseEachLevel="200" AIType="3" SpawnAfter="300000" AIScriptID="100000" />
+		<Boss IDs="101_2661;106_2663;110_3684" Name="" Title="" RandomPos="2684_1441;2019_1810;1969_943;3432_974;3545_1794" BaseHP="2000" HPIncreaseEachLevel="200" AIType="3" SpawnAfter="30000" AIScriptID="100000" />
 		
 		<Teleport ID="5340" Name="Bạch Hổ Đường [Tầng 2]" PosX="4240" PosY="2116" Radius="100" />
 		
@@ -168,7 +168,7 @@
 			<Monster IDs="102_2681;107_2683;111_3685" Name="" Title="" PosX="2685" PosY="1234" BaseHP="350" HPIncreaseEachLevel="100" AIType="0" RespawnTick="10000" AIScriptID="100000" />
 		</Monsters>
 		
-		<Boss IDs="102_2682;107_2684;111_3686" Name="" Title="" RandomPos="2684_1441;2019_1810;1969_943;3432_974;3545_1794" BaseHP="3500" HPIncreaseEachLevel="350" AIType="3" SpawnAfter="300000" AIScriptID="100000" />
+		<Boss IDs="102_2682;107_2684;111_3686" Name="" Title="" RandomPos="2684_1441;2019_1810;1969_943;3432_974;3545_1794" BaseHP="3500" HPIncreaseEachLevel="350" AIType="3" SpawnAfter="30000" AIScriptID="100000" />
 		
 		<Teleport ID="5340" Name="Bạch Hổ Đường [Tầng 3]" PosX="4240" PosY="2116" Radius="100" />
 		
@@ -256,7 +256,7 @@
 			<Monster IDs="103_2685;108_2687;112_3687" Name="" Title="" PosX="2685" PosY="1234" BaseHP="400" HPIncreaseEachLevel="100" AIType="0" RespawnTick="10000" AIScriptID="100000" />
 		</Monsters>
 		
-		<Boss IDs="103_2686;108_2688;112_3688" Name="" Title="" RandomPos="2684_1441;2019_1810;1969_943;3432_974;3545_1794" BaseHP="5000" HPIncreaseEachLevel="500" AIType="3" SpawnAfter="300000" AIScriptID="100000" />
+		<Boss IDs="103_2686;108_2688;112_3688" Name="" Title="" RandomPos="2684_1441;2019_1810;1969_943;3432_974;3545_1794" BaseHP="5000" HPIncreaseEachLevel="500" AIType="3" SpawnAfter="30000" AIScriptID="100000" />
 		
 		<Teleport ID="5340" Name="Đại điện Bạch Hổ Đường" PosX="4240" PosY="2116" Radius="100" />
 		
