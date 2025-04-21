@@ -1,0 +1,20 @@
+﻿<gift_token xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <gift ID="53" name="5 VND" ios="5000" />
+   <gift ID="54" name="10 VND" ios="10000" />
+   <gift ID="55" name="20 VND" ios="20000" />
+   <gift ID="56" name="50 VND" ios="50000" />
+   <gift ID="57" name="100 VND" ios="100000" />
+   <gift ID="58" name="200 VND" ios="200000" />
+   <gift ID="59" name="500 VND" ios="500000" />
+   <gift ID="60" name="1000 VND" ios="1000000" />
+   <gift ID="61" name="2000 VND" ios="2000000" />
+   <gift ID="62" name="5000 VND" ios="5000000" />
+   <gift ID="63" name="10000 VN" ios="10000000" />
+   <gift ID="66" name="40 VND" ios="40000" />
+   <gift ID="67" name="400 VND" ios="400000" />
+   <gift ID="68" name="600 VND" ios="600000" />
+   <gift ID="69" name="300 VND" ios="300000" />
+   <gift ID="71" name="30 VND" ios="30000" />
+   <gift ID="72" name="60 VND" ios="60000" />
+   <gift ID="73" name="80 VND" ios="80000" />   
+</gift_token>
