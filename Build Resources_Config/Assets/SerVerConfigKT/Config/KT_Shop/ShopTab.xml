@@ -4747,4 +4747,30 @@
 		<ShopItem>5589</ShopItem>		 KNB 50 Vạn
 		<ShopItem>5590</ShopItem>		 KNB 100 Vạn
 	</ShopTab>
+	
+	<ShopTab ShopName="Cửa hàng Hạng Liên danh vọng Thịnh Hạ 2010" ShopID="229" MoneyType="1" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+    <ShopItem>5600</ShopItem>
+    <ShopItem>5601</ShopItem>
+    <ShopItem>5602</ShopItem>
+    <ShopItem>5603</ShopItem>
+    <ShopItem>5604</ShopItem>
+    <ShopItem>5605</ShopItem>
+    <ShopItem>5606</ShopItem>
+    <ShopItem>5607</ShopItem>
+    <ShopItem>5608</ShopItem>
+    <ShopItem>5609</ShopItem>
+  </ShopTab>
+  
+  	<ShopTab ShopName="Cửa hàng Giới chỉ danh vọng Đại Hội" ShopID="230" MoneyType="1" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+    <ShopItem>5610</ShopItem>
+    <ShopItem>5611</ShopItem>
+    <ShopItem>5612</ShopItem>
+    <ShopItem>5613</ShopItem>
+    <ShopItem>5614</ShopItem>
+    <ShopItem>5615</ShopItem>
+    <ShopItem>5616</ShopItem>
+    <ShopItem>5617</ShopItem>
+    <ShopItem>5618</ShopItem>
+    <ShopItem>5619</ShopItem>
+  </ShopTab>
 </ArrayOfShopTab>
