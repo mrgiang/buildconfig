@@ -241,8 +241,8 @@
 			<level id="3" name="Truyền thuyết" level_up="0" require_level="0"/>
 		</class>
 		<class id="6" name="Di tích Hàn Vũ" default_level="1" daily_limit="0">
-			<level id="1" name="Trung lập" level_up="3000" require_level="0"/>
-			<level id="2" name="Hữu nghị" level_up="6000" require_level="0"/>
+			<level id="1" name="Trung lập" level_up="5000" require_level="0"/>
+			<level id="2" name="Hữu nghị" level_up="10000" require_level="0"/>
 			<level id="3" name="Thân mật" level_up="0" require_level="0"/>
 		</class>
 		<class id="7" name="Mỹ nhân" default_level="1" daily_limit="0" tips="Tích lũy uy tín">

@@ -4773,4 +4773,28 @@
     <ShopItem>5618</ShopItem>
     <ShopItem>5619</ShopItem>
   </ShopTab>
+	<ShopTab ShopName="Cửa hàng Bội Liên Server" ShopID="231" MoneyType="1" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+    <ShopItem>5620</ShopItem>
+    <ShopItem>5621</ShopItem>
+    <ShopItem>5622</ShopItem>
+    <ShopItem>5623</ShopItem>
+    <ShopItem>5624</ShopItem>
+    <ShopItem>5625</ShopItem>
+    <ShopItem>5626</ShopItem>
+    <ShopItem>5627</ShopItem>
+    <ShopItem>5628</ShopItem>
+    <ShopItem>5629</ShopItem>
+  </ShopTab>
+  	<ShopTab ShopName="Cửa hàng Tay Hàn Vũ" ShopID="232" MoneyType="1" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+    <ShopItem>5630</ShopItem>
+    <ShopItem>5631</ShopItem>
+    <ShopItem>5632</ShopItem>
+    <ShopItem>5633</ShopItem>
+    <ShopItem>5634</ShopItem>
+    <ShopItem>5635</ShopItem>
+    <ShopItem>5636</ShopItem>
+    <ShopItem>5637</ShopItem>
+    <ShopItem>5638</ShopItem>
+    <ShopItem>5639</ShopItem>
+  </ShopTab>
 </ArrayOfShopTab>
