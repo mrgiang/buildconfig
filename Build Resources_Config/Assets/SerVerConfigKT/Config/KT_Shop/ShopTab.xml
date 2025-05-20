@@ -4345,11 +4345,9 @@
 		<ShopItem>5201</ShopItem>			lệnh bài chúc phúc trung
 		<ShopItem>5175</ShopItem>	Kim tề cấp 3
 		<ShopItem>5174</ShopItem>	Kim Tề cấp 4
-		<ShopItem>5546</ShopItem>	thẻ đổi tên
 		<ShopItem>5552</ShopItem>	Thẻ đổi môn phái
 		<ShopItem>5176</ShopItem>	lệnh bài tẩy tuỷ
 		<ShopItem>5168</ShopItem>	Lệnh bài triệu hồi gia tộc
-		<ShopItem>5599</ShopItem>	Uy Danh Lệnh
 		<ShopItem>5579</ShopItem>	Rương Ma Đao Thạch
 		<ShopItem>5580</ShopItem>	Rương Hộ Giáp Phiến
 		<ShopItem>5581</ShopItem>	Rương Ngũ Hành Thạch
@@ -4740,12 +4738,6 @@
 	<ShopTab ShopName="Giao Dịch" ShopID="228" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">
 		<ShopItem>5161</ShopItem>			thỏi vàng nhỏ
 		<ShopItem>5162</ShopItem>			thỏi vàng đại
-		<ShopItem>5585</ShopItem> 		KNB 1 Vạn
-		<ShopItem>5586</ShopItem> 		KNB 2 Vạn
-		<ShopItem>5587</ShopItem>		 KNB 5 Vạn
-		<ShopItem>5588</ShopItem>		 KNB 10 Vạn
-		<ShopItem>5589</ShopItem>		 KNB 50 Vạn
-		<ShopItem>5590</ShopItem>		 KNB 100 Vạn
 	</ShopTab>
 	
 	<ShopTab ShopName="Cửa hàng Hạng Liên danh vọng Thịnh Hạ 2010" ShopID="229" MoneyType="1" Discount="0" TimeSaleStart="" TimeSaleEnd="">

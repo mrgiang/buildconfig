@@ -1657,7 +1657,7 @@
     <ListExtPram Pram="1" Index="3" />
     <ListExtPram Pram="6" Index="4" />
     <ListExtPram Pram="0" Index="5" />
-    <ListExtPram Pram="150" Index="6" />
+    <ListExtPram Pram="1500" Index="6" />
     <UnLockInterval>0</UnLockInterval>
   </ItemData>
   <ItemData ItemID="580" Name="Tuyết Tham Phản Khí Hoàn - Rương" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Tuyết Tham Phản Khí Hoàn - Rương" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="242" Level="1" SuiteID="0" Icon="medicine_216_xiang" View="medicine_216_xiang" Intro="Tuyết Sâm Hoàn: Mỗi nửa giây nội lực &lt;color=gold&gt;+650&lt;color&gt;, liên tục trong &lt;color=gold&gt;5&lt;color&gt; giây, cấp &lt;color=gold&gt;100&lt;color&gt; được dùng!" Help="" ObjID="35" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="0" MakeCost="72000" ResMale="0" ResFemale="0" FightPower="0" ScriptID="200029" DeductOnUse="false" BuffID="-1">
@@ -1666,7 +1666,7 @@
     <ListExtPram Pram="1" Index="3" />
     <ListExtPram Pram="6" Index="4" />
     <ListExtPram Pram="0" Index="5" />
-    <ListExtPram Pram="150" Index="6" />
+    <ListExtPram Pram="1500" Index="6" />
     <UnLockInterval>0</UnLockInterval>
   </ItemData>
   <ItemData ItemID="581" Name="Dao Trì Đại Hoàn Đơn - Rương" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Dao Trì Đại Hoàn Đơn - Rương" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="243" Level="1" SuiteID="0" Icon="medicine_316_xiang" View="medicine_316_xiang" Intro="Dao Trì Đơn: Mỗi nửa giây sinh lực, nội lực &lt;color=gold&gt;+390&lt;color&gt;, liên tục trong &lt;color=gold&gt;5&lt;color&gt; giây, cấp &lt;color=gold&gt;100&lt;color&gt; được dùng!" Help="" ObjID="35" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="0" MakeCost="72000" ResMale="0" ResFemale="0" FightPower="0" ScriptID="200029" DeductOnUse="false" BuffID="-1">
@@ -1675,7 +1675,7 @@
     <ListExtPram Pram="1" Index="3" />
     <ListExtPram Pram="6" Index="4" />
     <ListExtPram Pram="0" Index="5" />
-    <ListExtPram Pram="150" Index="6" />
+    <ListExtPram Pram="1500" Index="6" />
     <UnLockInterval>0</UnLockInterval>
   </ItemData>
   <ItemData ItemID="582" Name="Rương Hồn Thạch (100 cái)" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Rương Hồn Thạch (100 cái)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="244" Level="1" SuiteID="0" Icon="qingtongbaoxiang" View="qingtongbaoxiang" Intro="Chứa đầy Ngũ Hành Hồn Thạch.&lt;enter&gt;&lt;color=gold&gt;Nhấn sử dụng để dùng&lt;color&gt; Có thể nhận được 100 Ngũ Hành Hồn Thạch" Help="" ObjID="35" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="200028" DeductOnUse="false" BuffID="-1">

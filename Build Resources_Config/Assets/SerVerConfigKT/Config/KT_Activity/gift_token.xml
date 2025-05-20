@@ -17,4 +17,7 @@
    <gift ID="71" name="30 VND" ios="30000" />
    <gift ID="72" name="60 VND" ios="60000" />
    <gift ID="73" name="80 VND" ios="80000" />   
+   <gift ID="80" name="20 VND" ios="20000" />   
+   <gift ID="81" name="20 VND" ios="20000" />   
+   <gift ID="83" name="20 VND" ios="20000" />   
 </gift_token>

@@ -126,8 +126,8 @@
 				<Monster ID="2270" Name="" Title="" PosX="4923" PosY="4652" BaseHP="845440" HPIncreaseEachLevel="225" AIType="5" Series="1" AIScriptID="100000" RespawnTicks="40000" Auras="106_10" Skills="" />
 				
 				<MiniBoss MinDuration="1200000" MaxDuration="3200000">
-					<Boss ID="2429" Name="" Title="" PosX="10639" PosY="5739" BaseHP="22222000" HPIncreaseEachLevel="3100" AIType="3" Series="-1" AIScriptID="100000" Auras="106_10" Skills="" Prestige="1" />
-					<Boss ID="2432" Name="" Title="" PosX="5403" PosY="2796" BaseHP="22222000" HPIncreaseEachLevel="3100" AIType="3" Series="-1" AIScriptID="100000" Auras="106_10" Skills="" Prestige="1" />
+					<Boss ID="2429" Name="" Title="" PosX="7180" PosY="4222" BaseHP="22222000" HPIncreaseEachLevel="3100" AIType="3" Series="-1" AIScriptID="100000" Auras="106_10" Skills="" Prestige="1" />
+					<Boss ID="2432" Name="" Title="" PosX="8470" PosY="3557" BaseHP="22222000" HPIncreaseEachLevel="3100" AIType="3" Series="-1" AIScriptID="100000" Auras="106_10" Skills="" Prestige="1" />
 				</MiniBoss>
 				
 				

@@ -3564,25 +3564,25 @@
   <ShopItem ID="5618" ItemID="13065" Series="3" Bind="1" ReputeDBID="1101" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
   <ShopItem ID="5619" ItemID="13066" Series="2" Bind="1" ReputeDBID="1101" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
   
-  <ShopItem ID="5620" ItemID="12618" Series="2" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5621" ItemID="12619" Series="2" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5622" ItemID="12620" Series="5" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5623" ItemID="12621" Series="5" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5624" ItemID="12622" Series="4" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5625" ItemID="12623" Series="4" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5626" ItemID="12624" Series="1" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5627" ItemID="12625" Series="1" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5628" ItemID="12626" Series="3" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5629" ItemID="12627" Series="3" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5620" ItemID="12618" Series="2" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5621" ItemID="12619" Series="2" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5622" ItemID="12620" Series="5" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5623" ItemID="12621" Series="5" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5624" ItemID="12622" Series="4" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5625" ItemID="12623" Series="4" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5626" ItemID="12624" Series="1" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5627" ItemID="12625" Series="1" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5628" ItemID="12626" Series="3" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5629" ItemID="12627" Series="3" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
   
-  <ShopItem ID="5630" ItemID="7485" Series="2" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5631" ItemID="7486" Series="2" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5632" ItemID="7487" Series="5" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5633" ItemID="7488" Series="5" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5634" ItemID="7489" Series="4" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5635" ItemID="7490" Series="4" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5636" ItemID="7491" Series="1" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5637" ItemID="7492" Series="1" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5638" ItemID="7493" Series="3" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
-  <ShopItem ID="5639" ItemID="7494" Series="3" Bind="1" ReputeDBID="1201" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5630" ItemID="7485" Series="2" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5631" ItemID="7486" Series="2" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5632" ItemID="7487" Series="5" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5633" ItemID="7488" Series="5" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5634" ItemID="7489" Series="4" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5635" ItemID="7490" Series="4" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5636" ItemID="7491" Series="1" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5637" ItemID="7492" Series="1" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5638" ItemID="7493" Series="3" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
+  <ShopItem ID="5639" ItemID="7494" Series="3" Bind="1" ReputeDBID="506" ReputeLevel="3" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" />
 </ArrayOfShopItem> 
