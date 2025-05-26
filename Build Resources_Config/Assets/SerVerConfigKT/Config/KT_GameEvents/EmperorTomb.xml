@@ -59,11 +59,11 @@
 			
 -->
 <EmperorTomb>
-	<Config LimitLevel="100" DurationPerDay="7200000" NightPearlItemID="796" MonsterLevel="115" />
+	<Config LimitLevel="130" DurationPerDay="7200000" NightPearlItemID="796" MonsterLevel="115" />
 	<Event>
 		<Relive MapID="1536" PosX="3991" PosY="6362" />
 		
-		<Stage ID="1" MapID="1536" RequireNightPearl="0">
+		<Stage ID="1" MapID="1536" RequireNightPearl="0" LimitLevel="130">
 			<SafeZones>
 				<Zone PosX="3991" PosY="6362" Radius="1000" />
 			</SafeZones>
@@ -138,7 +138,7 @@
 			</Teleports>
 		</Stage>
 		
-		<Stage ID="2" MapID="1537" RequireNightPearl="1">
+		<Stage ID="2" MapID="1537" RequireNightPearl="1" LimitLevel="130">
 			<SafeZones>
 				
 			</SafeZones>
@@ -284,7 +284,7 @@
 			</Teleports>
 		</Stage>
 		
-		<Stage ID="3" MapID="1538" RequireNightPearl="2">
+		<Stage ID="3" MapID="1538" RequireNightPearl="2" LimitLevel="135">
 			<SafeZones>
 				
 			</SafeZones>

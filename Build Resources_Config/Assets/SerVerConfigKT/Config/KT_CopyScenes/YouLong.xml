@@ -71,7 +71,7 @@
 		<Award ID="15012" Number="1" Rate="1" AppearRate="1" NumberOfCoins="100" />
 		<Award ID="1034" Number="1" Rate="10" AppearRate="40" NumberOfCoins="10" />
 		<Award ID="1032" Number="1" Rate="80" AppearRate="80" NumberOfCoins="3" />
-		<Award ID="1035" Number="1" Rate="60" AppearRate="80" NumberOfCoins="3" />
+		<Award ID="492" Number="1" Rate="60" AppearRate="80" NumberOfCoins="50" />
 		<Award ID="513" Number="1" Rate="30" AppearRate="30" NumberOfCoins="18" />
 		<Award ID="514" Number="1" Rate="20" AppearRate="30" NumberOfCoins="18" />
 		<Award ID="515" Number="1" Rate="10" AppearRate="30" NumberOfCoins="18" />
@@ -80,7 +80,7 @@
 		<Award ID="488" Number="1" Rate="30" AppearRate="50" NumberOfCoins="3" />
 		<Award ID="916" Number="1" Rate="1" AppearRate="5" NumberOfCoins="100" />
 		<Award ID="917" Number="1" Rate="1" AppearRate="5" NumberOfCoins="100" />
-		<Award ID="1031" Number="1" Rate="20" AppearRate="60" NumberOfCoins="4" />
+		<Award ID="492" Number="1" Rate="20" AppearRate="60" NumberOfCoins="50" />
 		<Award ID="15027" Number="1" Rate="20" AppearRate="60" NumberOfCoins="4" />
 		<Award ID="15028" Number="1" Rate="10" AppearRate="40" NumberOfCoins="6" />
 		<Award ID="15029" Number="1" Rate="1" AppearRate="10" NumberOfCoins="10" />

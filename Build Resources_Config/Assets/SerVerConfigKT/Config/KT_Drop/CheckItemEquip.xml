@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	DANH SÁCH CÁC VẬT PHẨM SẼ THÔNG BÁO KHI NGƯỜI CHƠI NHẶT
+	Item: Thông tin vật phẩm
+		- ID: ID vật phẩm
+		- BossOnly: Chỉ thông báo khi nhặt vật phẩm rơi từ Boss
+-->
+<CheckItemEquip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- 2444 Hòa Thị Ngọc  Hòa Thị Bích 819 20 tích tiêu + tích nạp-->
+	<Item ID="1" ReputeDBID="902" ReputeLevel="2" ResID="2444" NumCheck="200" ResIDAdd="819" NumAdd="20" />
+
+	<!-- End -->
+</CheckItemEquip>
