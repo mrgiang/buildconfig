@@ -17,4 +17,6 @@
 	<!-- xxx -->
 	<TotalRechageAward ID="14" MinYuanBao="3000000" GoodsIDs="15029,3|1074,1500|3470,1|15010,2" />
 	<TotalRechageAward ID="15" MinYuanBao="3500000" GoodsIDs="15029,3|819,5|1074,2000|15010,2" />
+	<TotalRechageAward ID="16" MinYuanBao="4000000" GoodsIDs="15029,3|819,5|1074,3500|15010,2" />
+	<TotalRechageAward ID="17" MinYuanBao="5000000" GoodsIDs="15029,3|16001,1|1074,2000|15010,2" />
 </TotalRechage>

@@ -21,4 +21,7 @@
 	<Title ID="109" Text="Tân nhân vương - Ngũ Độc" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Ngũ Độc. Có hiệu lực trong vòng 1 tuần." Duration="168" />
 	<Title ID="110" Text="Tân nhân vương - Đường Môn" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Đường Môn. Có hiệu lực trong vòng 1 tuần." Duration="168" />
 	<Title ID="111" Text="Tân nhân vương - Minh Giáo" Description="Danh hiệu dành cho quán quân vô địch đấu trường thi đấu môn phái Minh Giáo. Có hiệu lực trong vòng 1 tuần." Duration="168" />
+	
+	<Title ID="200" Text="Danh hiệu - Nhất Đẳng Vương Gia" Description="Danh hiệu dành cho phiếu cơm." Duration="-1" />
+
 </Titles>

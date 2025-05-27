@@ -10,7 +10,7 @@
 		- AnimationSpeed: Thời gian thực thi hiệu ứng danh hiệu động (đơn vị giây, không chứa số thập phân)
 -->
 <SpecialTitle>
-	<Title ID="1" Duration="168" EffectID="-1" BundleDir="AnimatedTitle/volamminhchu.unity3d" AtlasName="volamminhchu" AnimationSpeed="2">
+	<Title ID="200" Duration="168" EffectID="-1" BundleDir="AnimatedTitle/dragonfly.unity3d" AtlasName="dragonfly" AnimationSpeed="2">
 		<Sprite Name="000" />
 		<Sprite Name="001" />
 		<Sprite Name="002" />
@@ -29,6 +29,33 @@
 		<Sprite Name="015" />
 		<Sprite Name="016" />
 		<Sprite Name="017" />
+		<Sprite Name="018" />
+		<Sprite Name="019" />
+		<Sprite Name="020" />
+		<Sprite Name="021" />
+		<Sprite Name="022" />
+		<Sprite Name="023" />
+		<Sprite Name="024" />
+		<Sprite Name="025" />
+		<Sprite Name="026" />
+		<Sprite Name="027" />
+		<Sprite Name="028" />
+		<Sprite Name="029" />
+		<Sprite Name="030" />
+		<Sprite Name="031" />
+		<Sprite Name="032" />
+		<Sprite Name="033" />
+		<Sprite Name="034" />
+		<Sprite Name="035" />
+		<Sprite Name="036" />
+		<Sprite Name="037" />
+		<Sprite Name="038" />
+		<Sprite Name="039" />
+		<Sprite Name="040" />
+		<Sprite Name="041" />
+		<Sprite Name="042" />
+		<Sprite Name="043" />
+		<Sprite Name="044" />
 	</Title>
 	<Title ID="2" Duration="168" EffectID="-1" BundleDir="Common/AnimatedTitle/ThienVuong.unity3d" AtlasName="ThienVuong" AnimationSpeed="2">
 		<Sprite Name="00000" />

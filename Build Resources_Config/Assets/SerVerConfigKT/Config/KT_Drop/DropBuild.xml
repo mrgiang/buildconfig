@@ -3093,49 +3093,39 @@
   <DropProfile DropProfileID="YmlnX2Jvc3MudHh0" Money="0" BindMoney="0" ItemID="2101" ItemName="Mảnh[Kĩ năng]cao cấp" Rate="10000" LuckyRate="0" />
    <!-- Train Quái Tần Lăng -->
   <DropProfile DropProfileID="ZjFfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh cấp 5" Rate="12000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjFfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="15000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh cấp 5" Rate="1500" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="1200" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="120" LuckyRate="0" />
-  <!-- Train Quái Tần Lăng -->
+  <!-- Train Quái Tần Lăng 1-->
   <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="280000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="80000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="8000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="800" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="100" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="15000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2438" ItemName="Mảnh Trường Minh Đăng" Rate="150000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2440" ItemName="Mảnh Ban Sơn Ấn" Rate="40000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjFfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2442" ItemName="Mảnh Mạc Kim Phù" Rate="60000" LuckyRate="0" />
-  
+  <!-- Train Quái Tần Lăng 2-->
   <DropProfile DropProfileID="ZjNfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="250000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjNfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="25000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjNfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="2500" LuckyRate="0" />
   <DropProfile DropProfileID="ZjNfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="200" LuckyRate="0" />
   <DropProfile DropProfileID="ZjNfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="2440" ItemName="Mảnh Ban Sơn Ấn" Rate="40000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjNfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="15000" LuckyRate="0" />
- 
+  <!-- Train Quái Tần Lăng 3-->
   <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="280000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="80000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="8000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="800" LuckyRate="0" />
   <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="100" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="15000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2438" ItemName="Mảnh Trường Minh Đăng" Rate="150000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2440" ItemName="Mảnh Ban Sơn Ấn" Rate="40000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjJfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2442" ItemName="Mảnh Mạc Kim Phù" Rate="60000" LuckyRate="0" />
   <!-- Train Quái Tần Lăng --> 
   <DropProfile DropProfileID="ZjFfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="187" ItemName="Huyền Tinh thường (cấp 5)" Rate="587500" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="188" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="100000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="189" ItemName="Huyền Tinh thường (cấp 7)" Rate="10000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="189" ItemName="Huyền Tinh thường (cấp 7)" Rate="1000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjFfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="15000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="2438" ItemName="Mảnh Trường Minh Đăng" Rate="150000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="2440" ItemName="Mảnh Ban Sơn Ấn" Rate="40000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjFfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="2442" ItemName="Mảnh Mạc Kim Phù" Rate="60000" LuckyRate="0" />
   
   <DropProfile DropProfileID="ZjJfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="388" ItemName="Huyền Tinh Cấp 4" Rate="12000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjJfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="15000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjJfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="1500" LuckyRate="0" />
   <DropProfile DropProfileID="ZjJfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="1200" LuckyRate="0" />
   <DropProfile DropProfileID="ZjJfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="391" ItemName="Huyền Tinh thường (cấp 7)" Rate="120" LuckyRate="0" />
@@ -3163,12 +3153,10 @@
   <DropProfile DropProfileID="ZjRfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="50000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="5000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="391" ItemName="Huyền Tinh thường (cấp 7)" Rate="500" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjRfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="180000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfZW5lbXkudHh0" Money="0" BindMoney="0" ItemID="2442" ItemName="Mảnh Mạc Kim Phù" Rate="60000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="388" ItemName="Huyền Tinh Cấp 4" Rate="408970" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="389" ItemName="Huyền Tinh Cấp 5" Rate="10000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="390" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="1000" LuckyRate="0" />
-  <DropProfile DropProfileID="ZjRfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="330000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="809" ItemName="1 miếng Vải phượng vũ" Rate="30" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfbGVhZGVyLnR4dA==" Money="0" BindMoney="0" ItemID="2442" ItemName="Mảnh Mạc Kim Phù" Rate="250000" LuckyRate="0" />
   <DropProfile DropProfileID="ZjRfc3BlY2lhbC50eHQ=" Money="0" BindMoney="0" ItemID="186" ItemName="Huyền Tinh Cấp 4" Rate="303400" LuckyRate="0" />
@@ -3187,7 +3175,6 @@
   <DropProfile DropProfileID="c21hbGxfYm9zcy50eHQ=" Money="0" BindMoney="0" ItemID="188" ItemName="Huyền Tinh có vết nứt (cấp 6)" Rate="100000" LuckyRate="0" />
   <DropProfile DropProfileID="c21hbGxfYm9zcy50eHQ=" Money="0" BindMoney="0" ItemID="189" ItemName="Huyền Tinh thường (cấp 7)" Rate="10000" LuckyRate="0" />
   <DropProfile DropProfileID="c21hbGxfYm9zcy50eHQ=" Money="0" BindMoney="0" ItemID="189" ItemName="Huyền Tinh thường (cấp 7)" Rate="1000" LuckyRate="0" />
-  <DropProfile DropProfileID="c21hbGxfYm9zcy50eHQ=" Money="0" BindMoney="0" ItemID="2436" ItemName="Mảnh Dạ Minh Châu" Rate="15000" LuckyRate="0" />
   <DropProfile DropProfileID="c21hbGxfYm9zcy50eHQ=" Money="0" BindMoney="0" ItemID="2438" ItemName="Mảnh Trường Minh Đăng" Rate="150000" LuckyRate="0" />
   <DropProfile DropProfileID="c21hbGxfYm9zcy50eHQ=" Money="0" BindMoney="0" ItemID="2440" ItemName="Mảnh Ban Sơn Ấn" Rate="40000" LuckyRate="0" />
   <DropProfile DropProfileID="c21hbGxfYm9zcy50eHQ=" Money="0" BindMoney="0" ItemID="2442" ItemName="Mảnh Mạc Kim Phù" Rate="60000" LuckyRate="0" />

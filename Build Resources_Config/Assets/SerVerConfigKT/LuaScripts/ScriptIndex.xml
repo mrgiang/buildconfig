@@ -273,6 +273,10 @@
 	<Script ID="200097" Dir="Item/Common/BanhItBatBao.lua"/>
 	<Script ID="200098" Dir="Item/Common/RuongDaMinhChau.lua"/>
 	<Script ID="200099" Dir="Item/Common/RuongTranhDoatLT.lua"/>
+	
+	<Script ID="201000" Dir="Item/Common/TheBaiDanhHieu.lua"/>
+	<Script ID="201001" Dir="Item/Common/ThaiVanTruyNguyet.lua"/>
+	<Script ID="201002" Dir="Item/Common/ThuongHaiNguyetMinh.lua"/>
 	<!-- End -->
 	
 	<!-- Grow Point -->

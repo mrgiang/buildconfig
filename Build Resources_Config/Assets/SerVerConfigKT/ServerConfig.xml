@@ -31,6 +31,6 @@
 	<LimitAccount MaxCCU="10" LimitAccountPerIPAddress="16" />
 	<MonsterAI EnableMonsterAIRandomMove="true" EnableMonsterAI="true" />
 	<Threading MaxUpdateGridThread="1" MaxPlayerStoryBoardThread="1" MaxMonsterTimer="1" MaxBuffTimer="1" />
-	<GameConfig LimitLevel="130_135_140_145_150" KuaFuServerEnable = "true" RemainAddPoint="50" RebornAddPoint="10" />
+	<GameConfig LimitLevel="130_135_140_145_150" KuaFuServerEnable = "true" RemainAddPoint="70" RebornAddPoint="10" BonusSkillPoint="7"/>
 	<Captcha EnableCaptcha="false" EnableCaptchaForIOS="false" CaptchaAppearMinPeriod="30000" CaptchaAppearMaxPeriod="36000" CaptchaTeamPlayersOnly="true" CaptchaAppearFromTime="9:00" CaptchaAppearToTime="23:59" CaptchaExpAddPerLevel="500" CaptchaBoundMoneyAddPerLevel="100" EnableCaptchaForBattle="true"/>
 </ServerConfig>

@@ -314,9 +314,9 @@
   </camp>
   <camp id="9" name="Tần Lăng">
     <class id="1" name="Tần Lăng-Quan Phủ" default_level="1" daily_limit="0">
-      <level id="1" name="Trung lập" level_up="2000" require_level="0" />
-      <level id="2" name="Hữu nghị" level_up="4000" require_level="0" />
-      <level id="3" name="Thân mật" level_up="6000" require_level="0" />
+      <level id="1" name="Trung lập" level_up="20000" require_level="0" />
+      <level id="2" name="Hữu nghị" level_up="40000" require_level="0" />
+      <level id="3" name="Thân mật" level_up="60000" require_level="0" />
       <level id="4" name="Khâm phục" level_up="0" require_level="0" />
     </class>
     <class id="2" name="Tần Lăng-Phát Khâu Môn" default_level="1" daily_limit="0">
