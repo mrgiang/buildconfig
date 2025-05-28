@@ -4789,4 +4789,7 @@
     <ShopItem>5638</ShopItem>
     <ShopItem>5639</ShopItem>
   </ShopTab>
+	<ShopTab ShopName="Shop Token" ShopID="233" MoneyType="6" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+    <ShopItem>5640</ShopItem>
+  </ShopTab>
 </ArrayOfShopTab>
