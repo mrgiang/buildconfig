@@ -1,4 +1,5 @@
-﻿<SkillPropertiesLua xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SkillPropertiesLua xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Skill Name="exp_x2_2hour">
     <Symbol Name="expenhance_p">
       <Value ID="1">
@@ -195,7 +196,7 @@
   <Skill Name="boss_qixingluoshagun">
     <Symbol Name="physicsdamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="420" />
+        <SkillLevelValue Level="1" Value="720" />
         <SkillLevelValue Level="2" Value="495" />
         <SkillLevelValue Level="20" Value="900" />
       </Value>
@@ -2736,7 +2737,7 @@
         <SkillLevelValue Level="1" Value="100" />
         <SkillLevelValue Level="10" Value="100" />
         <SkillLevelValue Level="20" Value="120" />
-        <SkillLevelValue Level="21" Value="121" />
+		<SkillLevelValue Level="21" Value="121" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -5241,7 +5242,7 @@
         <SkillLevelValue Level="1" Value="1" />
       </Value>
     </Symbol>
-    <Symbol Name="state_fixed_attack">
+	<Symbol Name="state_fixed_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="100" />
@@ -5617,24 +5618,24 @@
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="60" />
-        <SkillLevelValue Level="10" Value="105" />
-        <SkillLevelValue Level="20" Value="155" />
-        <SkillLevelValue Level="21" Value="160" />
+        <SkillLevelValue Level="1" Value="50" />
+        <SkillLevelValue Level="10" Value="95" />
+        <SkillLevelValue Level="20" Value="145" />
+        <SkillLevelValue Level="21" Value="152" />
       </Value>
     </Symbol>
     <Symbol Name="colddamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="470" />
-        <SkillLevelValue Level="10" Value="541" />
-        <SkillLevelValue Level="20" Value="745" />
-        <SkillLevelValue Level="21" Value="788" />
+        <SkillLevelValue Level="1" Value="570" />
+        <SkillLevelValue Level="10" Value="741" />
+        <SkillLevelValue Level="20" Value="845" />
+        <SkillLevelValue Level="21" Value="888" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="530" />
-        <SkillLevelValue Level="10" Value="619" />
-        <SkillLevelValue Level="20" Value="834" />
-        <SkillLevelValue Level="21" Value="882" />
+        <SkillLevelValue Level="1" Value="630" />
+        <SkillLevelValue Level="10" Value="819" />
+        <SkillLevelValue Level="20" Value="934" />
+        <SkillLevelValue Level="21" Value="982" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -5752,7 +5753,7 @@
         <SkillLevelValue Level="1" Value="100" />
         <SkillLevelValue Level="20" Value="600" />
         <SkillLevelValue Level="21" Value="650" />
-        <SkillLevelValue Level="22" Value="650" />
+		<SkillLevelValue Level="22" Value="650" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -5768,7 +5769,7 @@
         <SkillLevelValue Level="1" Value="90" />
         <SkillLevelValue Level="20" Value="270" />
         <SkillLevelValue Level="21" Value="270" />
-        <SkillLevelValue Level="22" Value="270" />
+		<SkillLevelValue Level="22" Value="270" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
@@ -5936,32 +5937,40 @@
   <Skill Name="qianyangshenzhi">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="50" />
-        <SkillLevelValue Level="10" Value="60" />
-        <SkillLevelValue Level="20" Value="70" />
-        <SkillLevelValue Level="21" Value="75" />
+        <SkillLevelValue Level="1" Value="30" />
+        <SkillLevelValue Level="10" Value="35" />
+        <SkillLevelValue Level="20" Value="40" />
+        <SkillLevelValue Level="21" Value="41" />
+        <SkillLevelValue Level="22" Value="42" />
+        <SkillLevelValue Level="28" Value="42" />
+        <SkillLevelValue Level="29" Value="42" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="40" />
-        <SkillLevelValue Level="10" Value="50" />
-        <SkillLevelValue Level="20" Value="60" />
-        <SkillLevelValue Level="21" Value="65" />
+        <SkillLevelValue Level="1" Value="30" />
+        <SkillLevelValue Level="10" Value="35" />
+        <SkillLevelValue Level="20" Value="40" />
+        <SkillLevelValue Level="21" Value="41" />
+        <SkillLevelValue Level="22" Value="42" />
+        <SkillLevelValue Level="28" Value="42" />
+        <SkillLevelValue Level="29" Value="42" />
       </Value>
     </Symbol>
     <Symbol Name="colddamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="550" />
-        <SkillLevelValue Level="10" Value="650" />
-        <SkillLevelValue Level="20" Value="850" />
-        <SkillLevelValue Level="21" Value="855" />
+        <SkillLevelValue Level="1" Value="250" />
+        <SkillLevelValue Level="10" Value="350" />
+        <SkillLevelValue Level="20" Value="550" />
+        <SkillLevelValue Level="21" Value="555" />
+        <SkillLevelValue Level="22" Value="555" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="715" />
-        <SkillLevelValue Level="10" Value="825" />
-        <SkillLevelValue Level="20" Value="1115" />
-        <SkillLevelValue Level="21" Value="1120" />
+        <SkillLevelValue Level="1" Value="300" />
+        <SkillLevelValue Level="10" Value="400" />
+        <SkillLevelValue Level="20" Value="650" />
+        <SkillLevelValue Level="21" Value="655" />
+        <SkillLevelValue Level="22" Value="655" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -5976,7 +5985,7 @@
         <SkillLevelValue Level="1" Value="100" />
         <SkillLevelValue Level="20" Value="300" />
         <SkillLevelValue Level="21" Value="300" />
-        <SkillLevelValue Level="22" Value="300" />
+		<SkillLevelValue Level="22" Value="300" />
       </Value>
     </Symbol>
     <Symbol Name="state_hurt_attack">
@@ -5984,7 +5993,7 @@
         <SkillLevelValue Level="1" Value="7" />
         <SkillLevelValue Level="10" Value="20" />
         <SkillLevelValue Level="20" Value="30" />
-        <SkillLevelValue Level="21" Value="30" />
+		<SkillLevelValue Level="21" Value="30" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="18" />
@@ -5996,7 +6005,7 @@
         <SkillLevelValue Level="1" Value="7" />
         <SkillLevelValue Level="10" Value="20" />
         <SkillLevelValue Level="20" Value="30" />
-        <SkillLevelValue Level="21" Value="30" />
+		<SkillLevelValue Level="21" Value="30" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="18" />
@@ -6007,7 +6016,7 @@
     <Symbol Name="missile_hitcount">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="5" />
+		<SkillLevelValue Level="10" Value="5" />
         <SkillLevelValue Level="20" Value="5" />
       </Value>
     </Symbol>
@@ -6068,28 +6077,28 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
         <SkillLevelValue Level="10" Value="10" />
-        <SkillLevelValue Level="11" Value="10" />
+		<SkillLevelValue Level="11" Value="10" />
       </Value>
     </Symbol>
     <Symbol Name="skillselfdamagetrim">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
         <SkillLevelValue Level="10" Value="10" />
-        <SkillLevelValue Level="11" Value="10" />
+		<SkillLevelValue Level="11" Value="10" />
       </Value>
     </Symbol>
     <Symbol Name="state_slowall_attacktime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="80" />
-        <SkillLevelValue Level="11" Value="80" />
+		<SkillLevelValue Level="11" Value="80" />
       </Value>
     </Symbol>
     <Symbol Name="state_burn_resisttime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="120" />
-        <SkillLevelValue Level="11" Value="120" />
+		<SkillLevelValue Level="11" Value="120" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -6248,18 +6257,18 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="810" />
-        <SkillLevelValue Level="10" Value="810" />
-        <SkillLevelValue Level="18" Value="810" />
-        <SkillLevelValue Level="19" Value="810" />
+        <SkillLevelValue Level="1" Value="360" />
+        <SkillLevelValue Level="10" Value="360" />
+        <SkillLevelValue Level="18" Value="360" />
+        <SkillLevelValue Level="19" Value="360" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="810" />
-        <SkillLevelValue Level="10" Value="810" />
-        <SkillLevelValue Level="18" Value="810" />
-        <SkillLevelValue Level="19" Value="810" />
+        <SkillLevelValue Level="1" Value="360" />
+        <SkillLevelValue Level="10" Value="360" />
+        <SkillLevelValue Level="18" Value="360" />
+        <SkillLevelValue Level="19" Value="360" />
       </Value>
     </Symbol>
     <Symbol Name="skill_skillexp_v">
@@ -6282,7 +6291,7 @@
         <SkillLevelValue Level="1" Value="45" />
         <SkillLevelValue Level="10" Value="80" />
         <SkillLevelValue Level="11" Value="82" />
-      </Value>
+     </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
@@ -6321,7 +6330,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="7" />
         <SkillLevelValue Level="10" Value="40" />
-        <SkillLevelValue Level="11" Value="42" />
+		<SkillLevelValue Level="11" Value="42" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="18" />
@@ -6332,7 +6341,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="7" />
         <SkillLevelValue Level="10" Value="40" />
-        <SkillLevelValue Level="11" Value="42" />
+		<SkillLevelValue Level="11" Value="42" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="18" />
@@ -6348,16 +6357,16 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="810" />
-        <SkillLevelValue Level="20" Value="810" />
-        <SkillLevelValue Level="21" Value="810" />
+        <SkillLevelValue Level="1" Value="540" />
+        <SkillLevelValue Level="20" Value="540" />
+        <SkillLevelValue Level="21" Value="540" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="810" />
-        <SkillLevelValue Level="20" Value="810" />
-        <SkillLevelValue Level="21" Value="810" />
+        <SkillLevelValue Level="1" Value="540" />
+        <SkillLevelValue Level="20" Value="540" />
+        <SkillLevelValue Level="21" Value="540" />
       </Value>
     </Symbol>
   </Skill>
@@ -6522,94 +6531,52 @@
   <Skill Name="beimingshengong">
     <Symbol Name="dynamicmagicshield_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="120" />
-        <SkillLevelValue Level="10" Value="275" />
-        <SkillLevelValue Level="11" Value="280" />
+        <SkillLevelValue Level="1" Value="50" />
+        <SkillLevelValue Level="10" Value="180" />
+        <SkillLevelValue Level="11" Value="189" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="45" />
+        <SkillLevelValue Level="1" Value="30" />
       </Value>
     </Symbol>
     <Symbol Name="state_palsy_resistrate">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="10" Value="1145" />
-        <SkillLevelValue Level="11" Value="1150" />
+        <SkillLevelValue Level="10" Value="1000" />
+        <SkillLevelValue Level="11" Value="1050" />
       </Value>
     </Symbol>
     <Symbol Name="state_confuse_resistrate">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="10" Value="1145" />
-        <SkillLevelValue Level="11" Value="1150" />
+        <SkillLevelValue Level="10" Value="1000" />
+        <SkillLevelValue Level="11" Value="1050" />
       </Value>
     </Symbol>
     <Symbol Name="state_knock_resistrate">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="10" Value="1145" />
-        <SkillLevelValue Level="11" Value="1150" />
+        <SkillLevelValue Level="10" Value="1000" />
+        <SkillLevelValue Level="11" Value="1050" />
       </Value>
     </Symbol>
     <Symbol Name="state_drag_resistrate">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="10" Value="1145" />
-        <SkillLevelValue Level="11" Value="1150" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_burn_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="10" Value="1145" />
-        <SkillLevelValue Level="20" Value="1150" />
+        <SkillLevelValue Level="10" Value="1000" />
+        <SkillLevelValue Level="11" Value="1050" />
       </Value>
     </Symbol>
   </Skill>
   <Skill Name="beimingshengong_team">
     <Symbol Name="dynamicmagicshield_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="45" />
-        <SkillLevelValue Level="10" Value="105" />
-        <SkillLevelValue Level="12" Value="115" />
+        <SkillLevelValue Level="1" Value="30" />
+        <SkillLevelValue Level="10" Value="90" />
+        <SkillLevelValue Level="12" Value="99" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="20" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_palsy_resistrate">
-      <Value ID="1">
         <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="300" />
-        <SkillLevelValue Level="11" Value="305" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_confuse_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="300" />
-        <SkillLevelValue Level="11" Value="305" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_knock_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="300" />
-        <SkillLevelValue Level="11" Value="305" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_drag_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="300" />
-        <SkillLevelValue Level="11" Value="305" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_burn_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="300" />
-        <SkillLevelValue Level="20" Value="305" />
       </Value>
     </Symbol>
   </Skill>
@@ -6624,16 +6591,16 @@
     </Symbol>
     <Symbol Name="colddamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="350" />
-        <SkillLevelValue Level="10" Value="512" />
-        <SkillLevelValue Level="20" Value="602" />
-        <SkillLevelValue Level="21" Value="637" />
+        <SkillLevelValue Level="1" Value="450" />
+        <SkillLevelValue Level="10" Value="612" />
+        <SkillLevelValue Level="20" Value="702" />
+        <SkillLevelValue Level="21" Value="737" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="450" />
-        <SkillLevelValue Level="10" Value="548" />
-        <SkillLevelValue Level="20" Value="658" />
-        <SkillLevelValue Level="21" Value="700" />
+        <SkillLevelValue Level="1" Value="550" />
+        <SkillLevelValue Level="10" Value="748" />
+        <SkillLevelValue Level="20" Value="858" />
+        <SkillLevelValue Level="21" Value="900" />
       </Value>
     </Symbol>
     <Symbol Name="state_slowall_attack">
@@ -6727,8 +6694,8 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="2" Value="5" />
+        <SkillLevelValue Level="1" Value="4" />
+        <SkillLevelValue Level="2" Value="4" />
       </Value>
     </Symbol>
     <Symbol Name="skill_missilenum_v">
@@ -6754,9 +6721,9 @@
     </Symbol>
     <Symbol Name="state_burn_resisttime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="20" />
-        <SkillLevelValue Level="20" Value="155" />
-        <SkillLevelValue Level="21" Value="161" />
+        <SkillLevelValue Level="1" Value="10" />
+        <SkillLevelValue Level="20" Value="135" />
+        <SkillLevelValue Level="21" Value="141" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -6813,12 +6780,6 @@
         <SkillLevelValue Level="11" Value="941" />
       </Value>
     </Symbol>
-    <Symbol Name="fastlifereplenish_v">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="200" />
-        <SkillLevelValue Level="10" Value="750" />
-      </Value>
-    </Symbol>
     <Symbol Name="steallife_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
@@ -6834,12 +6795,6 @@
         <SkillLevelValue Level="1" Value="100" />
         <SkillLevelValue Level="10" Value="250" />
         <SkillLevelValue Level="11" Value="250" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_statetime">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="54" />
-        <SkillLevelValue Level="2" Value="54" />
       </Value>
     </Symbol>
   </Skill>
@@ -6923,10 +6878,10 @@
     </Symbol>
     <Symbol Name="damage_fire_resist">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="50" />
-        <SkillLevelValue Level="10" Value="80" />
-        <SkillLevelValue Level="20" Value="100" />
-        <SkillLevelValue Level="21" Value="105" />
+        <SkillLevelValue Level="1" Value="30" />
+        <SkillLevelValue Level="10" Value="60" />
+        <SkillLevelValue Level="20" Value="80" />
+        <SkillLevelValue Level="21" Value="84" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -6948,107 +6903,23 @@
     </Symbol>
     <Symbol Name="colddamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="499" />
-        <SkillLevelValue Level="10" Value="827" />
-        <SkillLevelValue Level="20" Value="990" />
-        <SkillLevelValue Level="21" Value="995" />
+        <SkillLevelValue Level="1" Value="299" />
+        <SkillLevelValue Level="10" Value="427" />
+        <SkillLevelValue Level="20" Value="670" />
+        <SkillLevelValue Level="21" Value="693" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="765" />
-        <SkillLevelValue Level="10" Value="922" />
-        <SkillLevelValue Level="20" Value="1075" />
-        <SkillLevelValue Level="21" Value="1080" />
+        <SkillLevelValue Level="1" Value="365" />
+        <SkillLevelValue Level="10" Value="522" />
+        <SkillLevelValue Level="20" Value="774" />
+        <SkillLevelValue Level="21" Value="703" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="20" Value="200" />
-        <SkillLevelValue Level="21" Value="200" />
-      </Value>
-    </Symbol>
-    <!--     <Symbol Name="skill_startevent">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="868" />
-        <SkillLevelValue Level="20" Value="868" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_startevent1">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="869" />
-        <SkillLevelValue Level="20" Value="869" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_startevent2">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="870" />
-        <SkillLevelValue Level="20" Value="870" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_startevent3">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="871" />
-        <SkillLevelValue Level="20" Value="871" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_startevent4">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="872" />
-        <SkillLevelValue Level="20" Value="872" />
-      </Value>
-    </Symbol> -->
-    <Symbol Name="state_slowall_attack">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="10" Value="45" />
-        <SkillLevelValue Level="20" Value="50" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="45" />
-        <SkillLevelValue Level="20" Value="45" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_weak_attack">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="10" Value="30" />
-        <SkillLevelValue Level="20" Value="35" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="18" />
-        <SkillLevelValue Level="20" Value="18" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_hurt_attack">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="10" Value="30" />
-        <SkillLevelValue Level="20" Value="35" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="18" />
-        <SkillLevelValue Level="20" Value="18" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_stun_attack">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="20" Value="20" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="18" />
-        <SkillLevelValue Level="20" Value="18" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_burn_attack">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="20" Value="25" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="36" />
-        <SkillLevelValue Level="20" Value="54" />
-        <SkillLevelValue Level="21" Value="54" />
+        <SkillLevelValue Level="20" Value="250" />
+        <SkillLevelValue Level="21" Value="250" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -7058,13 +6929,24 @@
         <SkillLevelValue Level="21" Value="200" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_hitcount">
+    <Symbol Name="state_hurt_attack">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="6" />
-        <SkillLevelValue Level="2" Value="6" />
+        <SkillLevelValue Level="1" Value="15" />
+        <SkillLevelValue Level="10" Value="30" />
+        <SkillLevelValue Level="20" Value="45" />
+      </Value>
+      <Value ID="2">
+        <SkillLevelValue Level="1" Value="18" />
+        <SkillLevelValue Level="20" Value="18" />
       </Value>
     </Symbol>
-    <!--     <Symbol Name="addskilldamagep">
+    <Symbol Name="missile_hitcount">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="4" />
+        <SkillLevelValue Level="2" Value="4" />
+      </Value>
+    </Symbol>
+    <Symbol Name="addskilldamagep">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="866" />
       </Value>
@@ -7073,7 +6955,7 @@
         <SkillLevelValue Level="20" Value="50" />
         <SkillLevelValue Level="21" Value="50" />
       </Value>
-    </Symbol> -->
+    </Symbol>
   </Skill>
   <Skill Name="liumaishenjian_child">
     <Symbol Name="state_hurt_attack">
@@ -7086,10 +6968,10 @@
         <SkillLevelValue Level="20" Value="18" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_hitcount">
+	<Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="6" />
-        <SkillLevelValue Level="2" Value="6" />
+        <SkillLevelValue Level="1" Value="4" />
+        <SkillLevelValue Level="2" Value="4" />
       </Value>
     </Symbol>
   </Skill>
@@ -7107,8 +6989,8 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="6" />
-        <SkillLevelValue Level="2" Value="6" />
+        <SkillLevelValue Level="1" Value="4" />
+        <SkillLevelValue Level="2" Value="4" />
       </Value>
     </Symbol>
   </Skill>
@@ -7861,7 +7743,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="750" />
         <SkillLevelValue Level="10" Value="1250" />
-        <SkillLevelValue Level="11" Value="1255" />
+        <SkillLevelValue Level="11" Value="1475" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -8173,8 +8055,8 @@
     <Symbol Name="deadlystrikeenhance_r">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="180" />
-        <SkillLevelValue Level="10" Value="350" />
-        <SkillLevelValue Level="12" Value="350" />
+        <SkillLevelValue Level="10" Value="450" />
+        <SkillLevelValue Level="12" Value="495" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -10875,7 +10757,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="-15" />
         <SkillLevelValue Level="10" Value="-45" />
-        <SkillLevelValue Level="11" Value="-46" />
+		<SkillLevelValue Level="11" Value="-46" />
       </Value>
     </Symbol>
     <Symbol Name="adddefense_v">
@@ -11161,9 +11043,9 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="-7" />
         <SkillLevelValue Level="10" Value="-15" />
-        <SkillLevelValue Level="20" Value="-15" />
+		<SkillLevelValue Level="20" Value="-15" />
       </Value>
-    </Symbol>
+    </Symbol>	
     <Symbol Name="skill_statetime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="-1" />
@@ -11182,16 +11064,16 @@
     </Symbol>
     <Symbol Name="firedamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="220" />
-        <SkillLevelValue Level="10" Value="415" />
-        <SkillLevelValue Level="20" Value="546" />
-        <SkillLevelValue Level="21" Value="563" />
+        <SkillLevelValue Level="1" Value="120" />
+        <SkillLevelValue Level="10" Value="315" />
+        <SkillLevelValue Level="20" Value="446" />
+        <SkillLevelValue Level="21" Value="463" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="369" />
-        <SkillLevelValue Level="10" Value="585" />
-        <SkillLevelValue Level="20" Value="623" />
-        <SkillLevelValue Level="21" Value="644" />
+        <SkillLevelValue Level="1" Value="169" />
+        <SkillLevelValue Level="10" Value="385" />
+        <SkillLevelValue Level="20" Value="423" />
+        <SkillLevelValue Level="21" Value="444" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -11261,14 +11143,14 @@
     </Symbol>
     <Symbol Name="firedamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="475" />
-        <SkillLevelValue Level="10" Value="575" />
+        <SkillLevelValue Level="1" Value="375" />
+        <SkillLevelValue Level="10" Value="475" />
         <SkillLevelValue Level="20" Value="785" />
         <SkillLevelValue Level="21" Value="795" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="515" />
-        <SkillLevelValue Level="10" Value="615" />
+        <SkillLevelValue Level="1" Value="415" />
+        <SkillLevelValue Level="10" Value="515" />
         <SkillLevelValue Level="20" Value="815" />
         <SkillLevelValue Level="21" Value="895" />
       </Value>
@@ -11294,7 +11176,7 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="4" />
+        <SkillLevelValue Level="1" Value="2" />
         <SkillLevelValue Level="10" Value="4" />
         <SkillLevelValue Level="20" Value="4" />
         <SkillLevelValue Level="22" Value="5" />
@@ -11353,14 +11235,14 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="3" />
         <SkillLevelValue Level="10" Value="15" />
-        <SkillLevelValue Level="11" Value="16" />
+		<SkillLevelValue Level="11" Value="16" />
       </Value>
     </Symbol>
     <Symbol Name="skillselfdamagetrim">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="3" />
         <SkillLevelValue Level="10" Value="15" />
-        <SkillLevelValue Level="11" Value="16" />
+		<SkillLevelValue Level="11" Value="16" />
       </Value>
     </Symbol>
     <Symbol Name="state_burn_attacktime">
@@ -11551,7 +11433,7 @@
       <Value ID="2">
         <SkillLevelValue Level="1" Value="1" />
         <SkillLevelValue Level="10" Value="10" />
-        <SkillLevelValue Level="11" Value="10" />
+		<SkillLevelValue Level="11" Value="10" />
       </Value>
     </Symbol>
     <Symbol Name="lifemax_p">
@@ -11954,16 +11836,16 @@
     </Symbol>
     <Symbol Name="firedamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="373" />
-        <SkillLevelValue Level="10" Value="447" />
-        <SkillLevelValue Level="20" Value="572" />
-        <SkillLevelValue Level="21" Value="585" />
+        <SkillLevelValue Level="1" Value="273" />
+        <SkillLevelValue Level="10" Value="347" />
+        <SkillLevelValue Level="20" Value="472" />
+        <SkillLevelValue Level="21" Value="485" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="411" />
-        <SkillLevelValue Level="10" Value="502" />
-        <SkillLevelValue Level="20" Value="632" />
-        <SkillLevelValue Level="21" Value="649" />
+        <SkillLevelValue Level="1" Value="311" />
+        <SkillLevelValue Level="10" Value="402" />
+        <SkillLevelValue Level="20" Value="532" />
+        <SkillLevelValue Level="21" Value="549" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -13248,9 +13130,9 @@
     </Symbol>
     <Symbol Name="state_slowall_resisttime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="25" />
-        <SkillLevelValue Level="20" Value="145" />
-        <SkillLevelValue Level="21" Value="151" />
+        <SkillLevelValue Level="1" Value="10" />
+        <SkillLevelValue Level="20" Value="135" />
+        <SkillLevelValue Level="21" Value="141" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -13420,14 +13302,8 @@
     <Symbol Name="lifemax_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="55" />
-        <SkillLevelValue Level="11" Value="57" />
-      </Value>
-    </Symbol>
-    <Symbol Name="damage_cold_resist">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="50" />
+        <SkillLevelValue Level="10" Value="70" />
+        <SkillLevelValue Level="11" Value="72" />
       </Value>
     </Symbol>
   </Skill>
@@ -13435,11 +13311,11 @@
     <Symbol Name="dynamicmagicshield_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="50" />
-        <SkillLevelValue Level="10" Value="250" />
-        <SkillLevelValue Level="11" Value="252" />
+        <SkillLevelValue Level="10" Value="200" />
+        <SkillLevelValue Level="11" Value="210" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="55" />
+        <SkillLevelValue Level="1" Value="40" />
       </Value>
     </Symbol>
     <Symbol Name="damage_return_receive_p">
@@ -13447,12 +13323,6 @@
         <SkillLevelValue Level="1" Value="-10" />
         <SkillLevelValue Level="10" Value="-45" />
         <SkillLevelValue Level="13" Value="-52" />
-      </Value>
-    </Symbol>
-    <Symbol Name="damage_cold_resist">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="50" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -13510,18 +13380,18 @@
   <Skill Name="aoxuexiaofeng">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="35" />
-        <SkillLevelValue Level="10" Value="55" />
-        <SkillLevelValue Level="20" Value="75" />
-        <SkillLevelValue Level="21" Value="77" />
+        <SkillLevelValue Level="1" Value="85" />
+        <SkillLevelValue Level="10" Value="125" />
+        <SkillLevelValue Level="20" Value="145" />
+        <SkillLevelValue Level="21" Value="145" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="45" />
-        <SkillLevelValue Level="10" Value="55" />
-        <SkillLevelValue Level="20" Value="75" />
-        <SkillLevelValue Level="21" Value="78" />
+        <SkillLevelValue Level="1" Value="70" />
+        <SkillLevelValue Level="10" Value="110" />
+        <SkillLevelValue Level="20" Value="130" />
+        <SkillLevelValue Level="21" Value="135" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -13563,10 +13433,10 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="4" />
-        <SkillLevelValue Level="20" Value="4" />
-        <SkillLevelValue Level="21" Value="4" />
+        <SkillLevelValue Level="1" Value="5" />
+        <SkillLevelValue Level="10" Value="5" />
+        <SkillLevelValue Level="20" Value="5" />
+        <SkillLevelValue Level="21" Value="5" />
       </Value>
     </Symbol>
     <Symbol Name="missile_speed_v">
@@ -13578,32 +13448,32 @@
   <Skill Name="xiaofengsanlianji">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="50" />
-        <SkillLevelValue Level="10" Value="60" />
-        <SkillLevelValue Level="20" Value="71" />
-        <SkillLevelValue Level="21" Value="71" />
-      </Value>
-    </Symbol>
-    <Symbol Name="physicsenhance_p">
-      <Value ID="1">
         <SkillLevelValue Level="1" Value="60" />
         <SkillLevelValue Level="10" Value="70" />
         <SkillLevelValue Level="20" Value="80" />
         <SkillLevelValue Level="21" Value="82" />
       </Value>
     </Symbol>
+    <Symbol Name="physicsenhance_p">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="80" />
+        <SkillLevelValue Level="10" Value="90" />
+        <SkillLevelValue Level="20" Value="100" />
+        <SkillLevelValue Level="21" Value="101" />
+      </Value>
+    </Symbol>
     <Symbol Name="lightingdamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="206" />
-        <SkillLevelValue Level="10" Value="417" />
-        <SkillLevelValue Level="20" Value="531" />
-        <SkillLevelValue Level="21" Value="539" />
+        <SkillLevelValue Level="1" Value="236" />
+        <SkillLevelValue Level="10" Value="437" />
+        <SkillLevelValue Level="20" Value="571" />
+        <SkillLevelValue Level="21" Value="589" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="258" />
-        <SkillLevelValue Level="10" Value="375" />
-        <SkillLevelValue Level="20" Value="623" />
-        <SkillLevelValue Level="21" Value="631" />
+        <SkillLevelValue Level="1" Value="288" />
+        <SkillLevelValue Level="10" Value="512" />
+        <SkillLevelValue Level="20" Value="653" />
+        <SkillLevelValue Level="21" Value="676" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -13733,7 +13603,7 @@
         <SkillLevelValue Level="11" Value="630" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="40" />
+        <SkillLevelValue Level="1" Value="60" />
       </Value>
     </Symbol>
     <Symbol Name="fastwalkrun_p">
@@ -13746,8 +13616,8 @@
     <Symbol Name="skill_statetime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="36" />
-        <SkillLevelValue Level="10" Value="54" />
-        <SkillLevelValue Level="11" Value="54" />
+        <SkillLevelValue Level="10" Value="90" />
+        <SkillLevelValue Level="11" Value="90" />
       </Value>
     </Symbol>
   </Skill>
@@ -13755,8 +13625,8 @@
     <Symbol Name="state_knock_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="65" />
-        <SkillLevelValue Level="10" Value="65" />
-        <SkillLevelValue Level="11" Value="65" />
+        <SkillLevelValue Level="10" Value="100" />
+        <SkillLevelValue Level="11" Value="100" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="10" />
@@ -13770,8 +13640,8 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="2" />
-        <SkillLevelValue Level="2" Value="2" />
+        <SkillLevelValue Level="1" Value="3" />
+        <SkillLevelValue Level="2" Value="3" />
       </Value>
     </Symbol>
   </Skill>
@@ -13781,13 +13651,6 @@
         <SkillLevelValue Level="1" Value="50" />
         <SkillLevelValue Level="10" Value="200" />
         <SkillLevelValue Level="11" Value="210" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_slowall_resisttime">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="75" />
-        <SkillLevelValue Level="20" Value="175" />
-        <SkillLevelValue Level="21" Value="181" />
       </Value>
     </Symbol>
     <Symbol Name="state_stun_resisttime">
@@ -13837,14 +13700,14 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="180" />
-        <SkillLevelValue Level="10" Value="180" />
+        <SkillLevelValue Level="1" Value="18" />
+        <SkillLevelValue Level="10" Value="18" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="180" />
-        <SkillLevelValue Level="10" Value="180" />
+        <SkillLevelValue Level="1" Value="18" />
+        <SkillLevelValue Level="10" Value="18" />
       </Value>
     </Symbol>
     <Symbol Name="skill_skillexp_v">
@@ -13871,14 +13734,14 @@
     </Symbol>
     <Symbol Name="skill_maxmissile">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="12" />
-        <SkillLevelValue Level="10" Value="12" />
+        <SkillLevelValue Level="1" Value="32" />
+        <SkillLevelValue Level="10" Value="32" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="90" />
-        <SkillLevelValue Level="10" Value="90" />
+        <SkillLevelValue Level="1" Value="18" />
+        <SkillLevelValue Level="10" Value="18" />
       </Value>
     </Symbol>
   </Skill>
@@ -13970,8 +13833,8 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="90" />
-        <SkillLevelValue Level="10" Value="90" />
+        <SkillLevelValue Level="1" Value="120" />
+        <SkillLevelValue Level="10" Value="120" />
       </Value>
     </Symbol>
   </Skill>
@@ -14376,14 +14239,14 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1417" />
         <SkillLevelValue Level="10" Value="2025" />
-        <SkillLevelValue Level="20" Value="2735" />
-        <SkillLevelValue Level="21" Value="2740" />
+        <SkillLevelValue Level="20" Value="2227" />
+        <SkillLevelValue Level="21" Value="2338" />
       </Value>
       <Value ID="3">
         <SkillLevelValue Level="1" Value="1732" />
         <SkillLevelValue Level="10" Value="2475" />
-        <SkillLevelValue Level="20" Value="2922" />
-        <SkillLevelValue Level="21" Value="2968" />
+        <SkillLevelValue Level="20" Value="2722" />
+        <SkillLevelValue Level="21" Value="2858" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -14419,68 +14282,10 @@
         <SkillLevelValue Level="21" Value="9" />
       </Value>
     </Symbol>
-    <Symbol Name="skill_mintimepercast_v">
+	<Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="36" />
         <SkillLevelValue Level="2" Value="36" />
-      </Value>
-    </Symbol>
-  </Skill>
-  <Skill Name="leidongjiutian_child">
-    <Symbol Name="appenddamage_p">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="120" />
-        <SkillLevelValue Level="20" Value="120" />
-        <SkillLevelValue Level="21" Value="122" />
-      </Value>
-    </Symbol>
-    <Symbol Name="lightingdamage_v">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="640" />
-        <SkillLevelValue Level="10" Value="1003" />
-        <SkillLevelValue Level="20" Value="1318" />
-        <SkillLevelValue Level="21" Value="1384" />
-      </Value>
-      <Value ID="3">
-        <SkillLevelValue Level="1" Value="960" />
-        <SkillLevelValue Level="10" Value="1226" />
-        <SkillLevelValue Level="20" Value="1611" />
-        <SkillLevelValue Level="21" Value="1692" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_stun_attack">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="10" Value="30" />
-        <SkillLevelValue Level="20" Value="40" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="18" />
-        <SkillLevelValue Level="20" Value="18" />
-      </Value>
-    </Symbol>
-    <Symbol Name="missile_hitcount">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="5" />
-      </Value>
-    </Symbol>
-    <Symbol Name="seriesdamage_r">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="20" Value="250" />
-        <SkillLevelValue Level="21" Value="250" />
-      </Value>
-    </Symbol>
-    <Symbol Name="missile_range">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="0" />
-      </Value>
-      <Value ID="3">
-        <SkillLevelValue Level="1" Value="5" />
       </Value>
     </Symbol>
   </Skill>
@@ -14708,22 +14513,6 @@
       <Value ID="2">
         <SkillLevelValue Level="1" Value="1" />
         <SkillLevelValue Level="2" Value="2" />
-      </Value>
-    </Symbol>
-    <Symbol Name="appenddamage_p">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="15" />
-        <SkillLevelValue Level="20" Value="20" />
-        <SkillLevelValue Level="21" Value="21" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skillselfdamagetrim">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="15" />
-        <SkillLevelValue Level="20" Value="20" />
-        <SkillLevelValue Level="21" Value="21" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -15590,25 +15379,25 @@
   <Skill Name="pidishi">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="125" />
-        <SkillLevelValue Level="20" Value="175" />
-        <SkillLevelValue Level="21" Value="180" />
+        <SkillLevelValue Level="1" Value="150" />
+        <SkillLevelValue Level="20" Value="300" />
+        <SkillLevelValue Level="21" Value="305" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="95" />
-        <SkillLevelValue Level="10" Value="125" />
-        <SkillLevelValue Level="20" Value="195" />
-        <SkillLevelValue Level="21" Value="196" />
+        <SkillLevelValue Level="1" Value="295" />
+        <SkillLevelValue Level="10" Value="390" />
+        <SkillLevelValue Level="20" Value="475" />
+        <SkillLevelValue Level="21" Value="480" />
       </Value>
     </Symbol>
     <Symbol Name="poisondamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="600" />
-        <SkillLevelValue Level="10" Value="800" />
-        <SkillLevelValue Level="20" Value="1100" />
-        <SkillLevelValue Level="21" Value="1150" />
+        <SkillLevelValue Level="1" Value="900" />
+        <SkillLevelValue Level="10" Value="1270" />
+        <SkillLevelValue Level="20" Value="1870" />
+        <SkillLevelValue Level="21" Value="1919" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="9" />
@@ -15873,15 +15662,15 @@
   <Skill Name="longtunshi">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="90" />
-        <SkillLevelValue Level="10" Value="120" />
+        <SkillLevelValue Level="1" Value="80" />
+        <SkillLevelValue Level="10" Value="110" />
         <SkillLevelValue Level="20" Value="130" />
         <SkillLevelValue Level="21" Value="135" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="120" />
+        <SkillLevelValue Level="1" Value="100" />
         <SkillLevelValue Level="10" Value="150" />
         <SkillLevelValue Level="20" Value="200" />
         <SkillLevelValue Level="21" Value="205" />
@@ -15889,10 +15678,10 @@
     </Symbol>
     <Symbol Name="poisondamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="225" />
-        <SkillLevelValue Level="10" Value="375" />
-        <SkillLevelValue Level="20" Value="515" />
-        <SkillLevelValue Level="21" Value="525" />
+        <SkillLevelValue Level="1" Value="170" />
+        <SkillLevelValue Level="10" Value="300" />
+        <SkillLevelValue Level="20" Value="510" />
+        <SkillLevelValue Level="21" Value="515" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="18" />
@@ -16198,7 +15987,7 @@
         <SkillLevelValue Level="10" Value="5" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_range">
+	<Symbol Name="missile_range">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="10" />
@@ -16230,7 +16019,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="80" />
-        <SkillLevelValue Level="11" Value="85" />
+		<SkillLevelValue Level="11" Value="85" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -16442,10 +16231,10 @@
     </Symbol>
     <Symbol Name="poisondamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="350" />
-        <SkillLevelValue Level="10" Value="455" />
-        <SkillLevelValue Level="20" Value="575" />
-        <SkillLevelValue Level="21" Value="585" />
+        <SkillLevelValue Level="1" Value="500" />
+        <SkillLevelValue Level="10" Value="680" />
+        <SkillLevelValue Level="20" Value="830" />
+        <SkillLevelValue Level="21" Value="871" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="36" />
@@ -16654,7 +16443,7 @@
         <SkillLevelValue Level="21" Value="3" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_range">
+	<Symbol Name="missile_range">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="10" />
@@ -16695,10 +16484,10 @@
     </Symbol>
     <Symbol Name="poisondamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="425" />
-        <SkillLevelValue Level="10" Value="635" />
-        <SkillLevelValue Level="20" Value="1050" />
-        <SkillLevelValue Level="21" Value="1065" />
+        <SkillLevelValue Level="1" Value="868" />
+        <SkillLevelValue Level="10" Value="1240" />
+        <SkillLevelValue Level="20" Value="1764" />
+        <SkillLevelValue Level="21" Value="1832" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="36" />
@@ -16927,7 +16716,7 @@
         <SkillLevelValue Level="1" Value="72" />
         <SkillLevelValue Level="20" Value="72" />
       </Value>
-    </Symbol>
+    </Symbol>	
     <Symbol Name="firedamage_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="250" />
@@ -16944,7 +16733,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="15" />
         <SkillLevelValue Level="10" Value="30" />
-        <SkillLevelValue Level="11" Value="31" />
+		<SkillLevelValue Level="11" Value="31" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="10" Value="36" />
@@ -16961,7 +16750,7 @@
         <SkillLevelValue Level="1" Value="36" />
         <SkillLevelValue Level="10" Value="36" />
       </Value>
-    </Symbol>
+	  </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="-1" />
@@ -17631,8 +17420,8 @@
     </Symbol>
     <Symbol Name="skill_deadlystrike_r">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="212" />
-        <SkillLevelValue Level="20" Value="212" />
+        <SkillLevelValue Level="1" Value="10" />
+        <SkillLevelValue Level="20" Value="10" />
       </Value>
     </Symbol>
     <Symbol Name="missile_missrate">
@@ -21924,12 +21713,6 @@
         <SkillLevelValue Level="12" Value="37" />
       </Value>
     </Symbol>
-    <Symbol Name="state_weak_resisttime">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="60" />
-      </Value>
-    </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="-1" />
@@ -21947,10 +21730,10 @@
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="95" />
-        <SkillLevelValue Level="10" Value="115" />
-        <SkillLevelValue Level="20" Value="125" />
-        <SkillLevelValue Level="21" Value="130" />
+        <SkillLevelValue Level="1" Value="150" />
+        <SkillLevelValue Level="10" Value="177" />
+        <SkillLevelValue Level="20" Value="210" />
+        <SkillLevelValue Level="21" Value="215" />
       </Value>
     </Symbol>
     <Symbol Name="physicsdamage_v">
@@ -22021,18 +21804,18 @@
   <Skill Name="aluohanshengong">
     <Symbol Name="meleedamagereturn_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="7" />
-        <SkillLevelValue Level="10" Value="10" />
-        <SkillLevelValue Level="20" Value="30" />
-        <SkillLevelValue Level="23" Value="31" />
+        <SkillLevelValue Level="1" Value="10" />
+        <SkillLevelValue Level="10" Value="20" />
+        <SkillLevelValue Level="20" Value="40" />
+        <SkillLevelValue Level="22" Value="40" />
       </Value>
     </Symbol>
     <Symbol Name="rangedamagereturn_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="7" />
-        <SkillLevelValue Level="10" Value="10" />
-        <SkillLevelValue Level="20" Value="30" />
-        <SkillLevelValue Level="23" Value="31" />
+        <SkillLevelValue Level="1" Value="10" />
+        <SkillLevelValue Level="10" Value="20" />
+        <SkillLevelValue Level="20" Value="40" />
+        <SkillLevelValue Level="22" Value="40" />
       </Value>
     </Symbol>
   </Skill>
@@ -22040,17 +21823,17 @@
     <Symbol Name="meleedamagereturn_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="7" />
+        <SkillLevelValue Level="10" Value="10" />
         <SkillLevelValue Level="20" Value="15" />
-        <SkillLevelValue Level="23" Value="16" />
+        <SkillLevelValue Level="22" Value="16" />
       </Value>
     </Symbol>
     <Symbol Name="rangedamagereturn_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="7" />
+        <SkillLevelValue Level="10" Value="10" />
         <SkillLevelValue Level="20" Value="15" />
-        <SkillLevelValue Level="23" Value="16" />
+        <SkillLevelValue Level="22" Value="16" />
       </Value>
     </Symbol>
   </Skill>
@@ -22076,20 +21859,6 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="-1" />
         <SkillLevelValue Level="2" Value="-1" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_mintimepercast_v">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="1080" />
-        <SkillLevelValue Level="10" Value="740" />
-        <SkillLevelValue Level="11" Value="740" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_mintimepercastonhorse_v">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="1080" />
-        <SkillLevelValue Level="10" Value="740" />
-        <SkillLevelValue Level="11" Value="740" />
       </Value>
     </Symbol>
   </Skill>
@@ -22150,23 +21919,9 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="36" />
-        <SkillLevelValue Level="10" Value="36" />
-        <SkillLevelValue Level="12" Value="36" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_mintimepercast_v">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="1080" />
-        <SkillLevelValue Level="10" Value="740" />
-        <SkillLevelValue Level="11" Value="740" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skill_mintimepercastonhorse_v">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="1080" />
-        <SkillLevelValue Level="10" Value="740" />
-        <SkillLevelValue Level="11" Value="740" />
+        <SkillLevelValue Level="1" Value="150" />
+        <SkillLevelValue Level="10" Value="270" />
+        <SkillLevelValue Level="12" Value="270" />
       </Value>
     </Symbol>
   </Skill>
@@ -22229,18 +21984,18 @@
   <Skill Name="tianzhujuedao">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="75" />
-        <SkillLevelValue Level="10" Value="95" />
-        <SkillLevelValue Level="20" Value="105" />
-        <SkillLevelValue Level="21" Value="107" />
+        <SkillLevelValue Level="1" Value="90" />
+        <SkillLevelValue Level="10" Value="122" />
+        <SkillLevelValue Level="20" Value="152" />
+        <SkillLevelValue Level="21" Value="154" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="95" />
-        <SkillLevelValue Level="10" Value="105" />
-        <SkillLevelValue Level="20" Value="115" />
-        <SkillLevelValue Level="21" Value="117" />
+        <SkillLevelValue Level="1" Value="100" />
+        <SkillLevelValue Level="10" Value="120" />
+        <SkillLevelValue Level="20" Value="160" />
+        <SkillLevelValue Level="21" Value="165" />
       </Value>
     </Symbol>
     <Symbol Name="physicsdamage_v">
@@ -22267,8 +22022,8 @@
     <Symbol Name="seriesdamage_r">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="20" Value="250" />
-        <SkillLevelValue Level="21" Value="250" />
+        <SkillLevelValue Level="20" Value="500" />
+        <SkillLevelValue Level="21" Value="500" />
       </Value>
     </Symbol>
     <Symbol Name="state_hurt_attack">
@@ -22284,10 +22039,10 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="3" />
-        <SkillLevelValue Level="20" Value="3" />
-        <SkillLevelValue Level="21" Value="3" />
+        <SkillLevelValue Level="1" Value="5" />
+        <SkillLevelValue Level="10" Value="5" />
+        <SkillLevelValue Level="20" Value="5" />
+        <SkillLevelValue Level="21" Value="5" />
       </Value>
     </Symbol>
   </Skill>
@@ -22484,9 +22239,9 @@
     </Symbol>
     <Symbol Name="infectcurse">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="30" />
-        <SkillLevelValue Level="11" Value="30" />
+        <SkillLevelValue Level="1" Value="4" />
+        <SkillLevelValue Level="10" Value="40" />
+        <SkillLevelValue Level="11" Value="42" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -22503,13 +22258,13 @@
     <Symbol Name="missile_hitcount">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="5" />
+        <SkillLevelValue Level="10" Value="8" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="10" Value="200" />
+        <SkillLevelValue Level="10" Value="100" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
@@ -22558,10 +22313,10 @@
         <SkillLevelValue Level="1" Value="300" />
         <SkillLevelValue Level="10" Value="1000" />
         <SkillLevelValue Level="11" Value="1000" />
-        <SkillLevelValue Level="12" Value="1000" />
+		<SkillLevelValue Level="12" Value="1000" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="39" />
+        <SkillLevelValue Level="1" Value="49" />
       </Value>
     </Symbol>
     <Symbol Name="posionweaken">
@@ -22579,7 +22334,7 @@
         <SkillLevelValue Level="1" Value="20" />
         <SkillLevelValue Level="10" Value="210" />
         <SkillLevelValue Level="11" Value="211" />
-        <SkillLevelValue Level="11" Value="212" />
+		<SkillLevelValue Level="11" Value="212" />
       </Value>
     </Symbol>
     <Symbol Name="deadlystrikedamageenhance_p">
@@ -22587,7 +22342,7 @@
         <SkillLevelValue Level="1" Value="50" />
         <SkillLevelValue Level="10" Value="110" />
         <SkillLevelValue Level="11" Value="111" />
-        <SkillLevelValue Level="12" Value="112" />
+		<SkillLevelValue Level="12" Value="112" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -22610,8 +22365,8 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="180" />
-        <SkillLevelValue Level="2" Value="180" />
+        <SkillLevelValue Level="1" Value="270" />
+        <SkillLevelValue Level="2" Value="270" />
       </Value>
     </Symbol>
   </Skill>
@@ -22796,17 +22551,17 @@
   <Skill Name="fumogunfa">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="75" />
-        <SkillLevelValue Level="20" Value="75" />
-        <SkillLevelValue Level="21" Value="77" />
+        <SkillLevelValue Level="1" Value="105" />
+        <SkillLevelValue Level="20" Value="105" />
+        <SkillLevelValue Level="21" Value="110" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="125" />
-        <SkillLevelValue Level="10" Value="175" />
-        <SkillLevelValue Level="20" Value="185" />
-        <SkillLevelValue Level="21" Value="187" />
+        <SkillLevelValue Level="1" Value="185" />
+        <SkillLevelValue Level="10" Value="230" />
+        <SkillLevelValue Level="20" Value="280" />
+        <SkillLevelValue Level="21" Value="289" />
       </Value>
     </Symbol>
     <Symbol Name="physicsdamage_v">
@@ -22931,15 +22686,15 @@
     <Symbol Name="lifemax_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="20" Value="35" />
-        <SkillLevelValue Level="21" Value="36" />
+        <SkillLevelValue Level="20" Value="50" />
+        <SkillLevelValue Level="21" Value="52" />
       </Value>
     </Symbol>
     <Symbol Name="lifereplenish_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="20" Value="15" />
-        <SkillLevelValue Level="21" Value="16" />
+        <SkillLevelValue Level="20" Value="20" />
+        <SkillLevelValue Level="21" Value="21" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -22952,32 +22707,32 @@
   <Skill Name="qixingluoshagun">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="55" />
-        <SkillLevelValue Level="10" Value="75" />
-        <SkillLevelValue Level="20" Value="105" />
-        <SkillLevelValue Level="21" Value="106" />
+        <SkillLevelValue Level="1" Value="73" />
+        <SkillLevelValue Level="10" Value="105" />
+        <SkillLevelValue Level="20" Value="115" />
+        <SkillLevelValue Level="21" Value="121" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="75" />
-        <SkillLevelValue Level="10" Value="95" />
-        <SkillLevelValue Level="20" Value="115" />
-        <SkillLevelValue Level="21" Value="117" />
+        <SkillLevelValue Level="1" Value="222" />
+        <SkillLevelValue Level="10" Value="275" />
+        <SkillLevelValue Level="20" Value="292" />
+        <SkillLevelValue Level="21" Value="302" />
       </Value>
     </Symbol>
     <Symbol Name="physicsdamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="372" />
-        <SkillLevelValue Level="10" Value="575" />
-        <SkillLevelValue Level="20" Value="642" />
-        <SkillLevelValue Level="21" Value="679" />
+        <SkillLevelValue Level="1" Value="472" />
+        <SkillLevelValue Level="10" Value="675" />
+        <SkillLevelValue Level="20" Value="742" />
+        <SkillLevelValue Level="21" Value="779" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="477" />
-        <SkillLevelValue Level="10" Value="525" />
-        <SkillLevelValue Level="20" Value="850" />
-        <SkillLevelValue Level="21" Value="855" />
+        <SkillLevelValue Level="1" Value="577" />
+        <SkillLevelValue Level="10" Value="825" />
+        <SkillLevelValue Level="20" Value="907" />
+        <SkillLevelValue Level="21" Value="952" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -23007,12 +22762,12 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="5" Value="5" />
-        <SkillLevelValue Level="10" Value="5" />
-        <SkillLevelValue Level="15" Value="5" />
-        <SkillLevelValue Level="20" Value="5" />
-        <SkillLevelValue Level="21" Value="5" />
+        <SkillLevelValue Level="1" Value="5" />
+        <SkillLevelValue Level="5" Value="6" />
+        <SkillLevelValue Level="10" Value="7" />
+        <SkillLevelValue Level="15" Value="8" />
+        <SkillLevelValue Level="20" Value="9" />
+        <SkillLevelValue Level="21" Value="9" />
       </Value>
     </Symbol>
   </Skill>
@@ -23108,13 +22863,13 @@
     <Symbol Name="dynamicmagicshield_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="400" />
-        <SkillLevelValue Level="10" Value="1200" />
-        <SkillLevelValue Level="12" Value="1250" />
+        <SkillLevelValue Level="10" Value="1500" />
+        <SkillLevelValue Level="12" Value="1650" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="60" />
-        <SkillLevelValue Level="10" Value="60" />
-        <SkillLevelValue Level="11" Value="60" />
+        <SkillLevelValue Level="10" Value="90" />
+        <SkillLevelValue Level="11" Value="90" />
       </Value>
     </Symbol>
     <Symbol Name="meleedamagereturn_p">
@@ -23149,8 +22904,8 @@
     <Symbol Name="state_drag_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="35" />
-        <SkillLevelValue Level="10" Value="45" />
-        <SkillLevelValue Level="11" Value="47" />
+        <SkillLevelValue Level="10" Value="85" />
+        <SkillLevelValue Level="11" Value="89" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="14" />
@@ -23165,8 +22920,8 @@
     <Symbol Name="state_fixed_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="35" />
-        <SkillLevelValue Level="10" Value="49" />
-        <SkillLevelValue Level="11" Value="50" />
+        <SkillLevelValue Level="10" Value="85" />
+        <SkillLevelValue Level="11" Value="89" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="45" />
@@ -23176,8 +22931,8 @@
     <Symbol Name="missile_hitcount">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="5" />
-        <SkillLevelValue Level="11" Value="5" />
+        <SkillLevelValue Level="10" Value="8" />
+        <SkillLevelValue Level="11" Value="8" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -23191,16 +22946,16 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="216" />
         <SkillLevelValue Level="10" Value="216" />
-        <SkillLevelValue Level="18" Value="180" />
-        <SkillLevelValue Level="19" Value="180" />
+        <SkillLevelValue Level="18" Value="108" />
+        <SkillLevelValue Level="19" Value="108" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="216" />
         <SkillLevelValue Level="10" Value="216" />
-        <SkillLevelValue Level="18" Value="180" />
-        <SkillLevelValue Level="19" Value="180" />
+        <SkillLevelValue Level="18" Value="108" />
+        <SkillLevelValue Level="19" Value="108" />
       </Value>
     </Symbol>
   </Skill>
@@ -23310,9 +23065,9 @@
     </Symbol>
     <Symbol Name="steallife_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="10" />
-        <SkillLevelValue Level="11" Value="10" />
+        <SkillLevelValue Level="1" Value="10" />
+        <SkillLevelValue Level="10" Value="20" />
+        <SkillLevelValue Level="11" Value="22" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="100" />
@@ -26682,14 +26437,7 @@
         <SkillLevelValue Level="21" Value="375" />
       </Value>
     </Symbol>
-    <Symbol Name="damage_return_receive_p">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="-10" />
-        <SkillLevelValue Level="10" Value="-45" />
-        <SkillLevelValue Level="13" Value="-52" />
-      </Value>
-    </Symbol>
-    <!--     <Symbol Name="ignoreskill">
+<!--     <Symbol Name="ignoreskill">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
         <SkillLevelValue Level="10" Value="5" />
@@ -26874,7 +26622,7 @@
         <SkillLevelValue Level="11" Value="3294" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_range">
+	<Symbol Name="missile_range">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="5" />
         <SkillLevelValue Level="10" Value="5" />
@@ -27010,7 +26758,7 @@
         <SkillLevelValue Level="29" Value="12" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_range">
+	<Symbol Name="missile_range">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="20" />
         <SkillLevelValue Level="10" Value="20" />
@@ -27642,7 +27390,7 @@
     </Symbol>
   </Skill>
   <Skill Name="limoduohun_self">
-    <Symbol Name="autoskill">
+	<Symbol Name="autoskill">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="95" />
         <SkillLevelValue Level="2" Value="95" />
@@ -27676,7 +27424,7 @@
         <SkillLevelValue Level="12" Value="5" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_range">
+	<Symbol Name="missile_range">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="10" />
@@ -27895,14 +27643,14 @@
         <SkillLevelValue Level="2" Value="560" />
         <SkillLevelValue Level="10" Value="640" />
         <SkillLevelValue Level="20" Value="1280" />
-        <SkillLevelValue Level="21" Value="1290" />
+		<SkillLevelValue Level="21" Value="1290" />
       </Value>
       <Value ID="3">
         <SkillLevelValue Level="1" Value="533" />
         <SkillLevelValue Level="2" Value="760" />
         <SkillLevelValue Level="10" Value="960" />
         <SkillLevelValue Level="20" Value="1920" />
-        <SkillLevelValue Level="21" Value="1930" />
+		<SkillLevelValue Level="21" Value="1930" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -27916,12 +27664,12 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="15" />
         <SkillLevelValue Level="20" Value="30" />
-        <SkillLevelValue Level="21" Value="31" />
+		<SkillLevelValue Level="21" Value="31" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="10" Value="15" />
         <SkillLevelValue Level="20" Value="15" />
-        <SkillLevelValue Level="21" Value="15" />
+		<SkillLevelValue Level="21" Value="15" />
       </Value>
     </Symbol>
     <Symbol Name="missile_hitcount">
@@ -28052,7 +27800,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="-35" />
         <SkillLevelValue Level="10" Value="-50" />
-        <SkillLevelValue Level="11" Value="-51" />
+		<SkillLevelValue Level="11" Value="-51" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -28463,10 +28211,10 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="1" />
-        <SkillLevelValue Level="10" Value="2" />
-        <SkillLevelValue Level="11" Value="3" />
-        <SkillLevelValue Level="12" Value="3" />
+        <SkillLevelValue Level="1" Value="3" />
+        <SkillLevelValue Level="10" Value="3" />
+        <SkillLevelValue Level="11" Value="4" />
+        <SkillLevelValue Level="12" Value="4" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -28478,7 +28226,7 @@
     </Symbol>
     <Symbol Name="skill_attackradius">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="380" />
+        <SkillLevelValue Level="1" Value="550" />
       </Value>
     </Symbol>
     <Symbol Name="skill_param1_v">
@@ -28589,9 +28337,9 @@
     </Symbol>
     <Symbol Name="poisontimereduce_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="20" Value="45" />
-        <SkillLevelValue Level="21" Value="46" />
+        <SkillLevelValue Level="1" Value="5" />
+        <SkillLevelValue Level="20" Value="30" />
+        <SkillLevelValue Level="23" Value="35" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -28628,8 +28376,8 @@
     <Symbol Name="skill_statetime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="18" />
-        <SkillLevelValue Level="10" Value="36" />
-        <SkillLevelValue Level="11" Value="36" />
+        <SkillLevelValue Level="10" Value="45" />
+        <SkillLevelValue Level="11" Value="46" />
       </Value>
     </Symbol>
   </Skill>
@@ -28638,14 +28386,14 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="50" />
         <SkillLevelValue Level="10" Value="240" />
-        <SkillLevelValue Level="11" Value="240" />
+        <SkillLevelValue Level="11" Value="260" />
       </Value>
     </Symbol>
     <Symbol Name="state_hurt_attackrate">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="15" />
         <SkillLevelValue Level="10" Value="80" />
-        <SkillLevelValue Level="11" Value="81" />
+        <SkillLevelValue Level="11" Value="84" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -28660,34 +28408,34 @@
     <Symbol Name="addphysicsdamage_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="25" />
-        <SkillLevelValue Level="20" Value="175" />
-        <SkillLevelValue Level="21" Value="176" />
+        <SkillLevelValue Level="20" Value="210" />
+        <SkillLevelValue Level="21" Value="219" />
       </Value>
     </Symbol>
     <Symbol Name="deadlystrikeenhance_r">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="20" Value="50" />
-        <SkillLevelValue Level="21" Value="51" />
+        <SkillLevelValue Level="21" Value="55" />
       </Value>
     </Symbol>
     <Symbol Name="state_hurt_attackrate">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="15" />
         <SkillLevelValue Level="20" Value="80" />
-        <SkillLevelValue Level="23" Value="83" />
+        <SkillLevelValue Level="23" Value="90" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="300" />
         <SkillLevelValue Level="20" Value="500" />
-        <SkillLevelValue Level="21" Value="510" />
+        <SkillLevelValue Level="21" Value="500" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5400" />
+        <SkillLevelValue Level="1" Value="3240" />
         <SkillLevelValue Level="20" Value="5400" />
       </Value>
     </Symbol>
@@ -28696,15 +28444,15 @@
     <Symbol Name="addphysicsdamage_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="20" Value="50" />
-        <SkillLevelValue Level="21" Value="51" />
+        <SkillLevelValue Level="20" Value="60" />
+        <SkillLevelValue Level="21" Value="63" />
       </Value>
     </Symbol>
     <Symbol Name="deadlystrikeenhance_r">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="20" Value="26" />
-        <SkillLevelValue Level="21" Value="26" />
+        <SkillLevelValue Level="20" Value="30" />
+        <SkillLevelValue Level="21" Value="33" />
       </Value>
     </Symbol>
     <Symbol Name="state_hurt_attackrate">
@@ -28716,7 +28464,7 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5400" />
+        <SkillLevelValue Level="1" Value="3240" />
         <SkillLevelValue Level="20" Value="5400" />
       </Value>
     </Symbol>
@@ -28787,17 +28535,9 @@
   <Skill Name="tiangangzhanqi">
     <Symbol Name="state_weak_resistrate">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="10" Value="125" />
-        <SkillLevelValue Level="20" Value="175" />
-      </Value>
-    </Symbol>
-    <Symbol Name="damage_poison_resist">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="60" />
-        <SkillLevelValue Level="20" Value="80" />
-        <SkillLevelValue Level="21" Value="84" />
+        <SkillLevelValue Level="1" Value="10" />
+        <SkillLevelValue Level="10" Value="100" />
+        <SkillLevelValue Level="20" Value="150" />
       </Value>
     </Symbol>
     <Symbol Name="lifereplenish_p">
@@ -28859,7 +28599,7 @@
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="1" />
-        <SkillLevelValue Level="2" Value="1" />
+        <SkillLevelValue Level="2" Value="2" />
       </Value>
     </Symbol>
     <Symbol Name="addstartskill">
@@ -28905,11 +28645,11 @@
         <SkillLevelValue Level="1" Value="1" />
       </Value>
     </Symbol>
-    <!--     <Symbol Name="state_fixed_ignore">
+    <Symbol Name="state_fixed_ignore">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
       </Value>
-    </Symbol> -->
+    </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="18" />
@@ -28949,26 +28689,26 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="50" />
         <SkillLevelValue Level="10" Value="80" />
-        <SkillLevelValue Level="11" Value="81" />
+        <SkillLevelValue Level="11" Value="85" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="105" />
         <SkillLevelValue Level="10" Value="150" />
-        <SkillLevelValue Level="11" Value="152" />
+        <SkillLevelValue Level="11" Value="157" />
       </Value>
     </Symbol>
     <Symbol Name="physicsdamage_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="236" />
         <SkillLevelValue Level="10" Value="337" />
-        <SkillLevelValue Level="11" Value="340" />
+        <SkillLevelValue Level="11" Value="354" />
       </Value>
       <Value ID="3">
         <SkillLevelValue Level="1" Value="288" />
         <SkillLevelValue Level="10" Value="412" />
-        <SkillLevelValue Level="11" Value="415" />
+        <SkillLevelValue Level="11" Value="433" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -28991,8 +28731,8 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="5" />
+        <SkillLevelValue Level="1" Value="11" />
+        <SkillLevelValue Level="10" Value="11" />
       </Value>
     </Symbol>
     <Symbol Name="runattack_damageadded">
@@ -29072,8 +28812,8 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="5" />
+        <SkillLevelValue Level="1" Value="11" />
+        <SkillLevelValue Level="10" Value="11" />
       </Value>
     </Symbol>
     <Symbol Name="missile_range">
@@ -29097,7 +28837,7 @@
     </Symbol>
   </Skill>
   <Skill Name="benleizuanlongqiang_child">
-    <!--<Symbol Name="prop_invincibility">
+	<!--<Symbol Name="prop_invincibility">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
       </Value>
@@ -29157,9 +28897,9 @@
     </Symbol>
     <Symbol Name="superposemagic">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="19" />
-        <SkillLevelValue Level="10" Value="49" />
-        <SkillLevelValue Level="11" Value="50" />
+        <SkillLevelValue Level="1" Value="99" />
+        <SkillLevelValue Level="10" Value="99" />
+        <SkillLevelValue Level="11" Value="102" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -29193,9 +28933,9 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="36" />
-        <SkillLevelValue Level="10" Value="45" />
-        <SkillLevelValue Level="11" Value="45" />
+        <SkillLevelValue Level="1" Value="108" />
+        <SkillLevelValue Level="10" Value="270" />
+        <SkillLevelValue Level="11" Value="288" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -29515,8 +29255,8 @@
     <Symbol Name="skill_statetime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="36" />
-        <SkillLevelValue Level="10" Value="36" />
-        <SkillLevelValue Level="11" Value="36" />
+        <SkillLevelValue Level="10" Value="90" />
+        <SkillLevelValue Level="11" Value="94" />
       </Value>
     </Symbol>
   </Skill>
@@ -29620,17 +29360,17 @@
     <Symbol Name="appenddamage_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="45" />
-        <SkillLevelValue Level="10" Value="75" />
-        <SkillLevelValue Level="20" Value="95" />
-        <SkillLevelValue Level="21" Value="96" />
+        <SkillLevelValue Level="10" Value="88" />
+        <SkillLevelValue Level="20" Value="94" />
+        <SkillLevelValue Level="21" Value="98" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="70" />
-        <SkillLevelValue Level="10" Value="90" />
+        <SkillLevelValue Level="10" Value="100" />
         <SkillLevelValue Level="20" Value="110" />
-        <SkillLevelValue Level="21" Value="111" />
+        <SkillLevelValue Level="21" Value="115" />
       </Value>
     </Symbol>
     <Symbol Name="physicsdamage_v">
@@ -29758,12 +29498,12 @@
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="9" />
-        <SkillLevelValue Level="11" Value="9" />
+        <SkillLevelValue Level="10" Value="10" />
+        <SkillLevelValue Level="11" Value="11" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="380" />
-        <SkillLevelValue Level="10" Value="380" />
+        <SkillLevelValue Level="1" Value="1600" />
+        <SkillLevelValue Level="10" Value="1600" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -29794,20 +29534,20 @@
     </Symbol>
     <Symbol Name="deadlystrikeenhance_r">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="16" />
-        <SkillLevelValue Level="2" Value="16" />
+        <SkillLevelValue Level="1" Value="24" />
+        <SkillLevelValue Level="2" Value="24" />
       </Value>
     </Symbol>
     <Symbol Name="addphysicsdamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="7" />
-        <SkillLevelValue Level="2" Value="7" />
+        <SkillLevelValue Level="1" Value="20" />
+        <SkillLevelValue Level="2" Value="20" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="54" />
-        <SkillLevelValue Level="2" Value="54" />
+        <SkillLevelValue Level="1" Value="90" />
+        <SkillLevelValue Level="2" Value="90" />
       </Value>
     </Symbol>
   </Skill>
@@ -29820,15 +29560,15 @@
         <SkillLevelValue Level="1" Value="11" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="180" />
-        <SkillLevelValue Level="10" Value="180" />
+        <SkillLevelValue Level="1" Value="810" />
+        <SkillLevelValue Level="10" Value="810" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="360" />
-        <SkillLevelValue Level="10" Value="360" />
-        <SkillLevelValue Level="11" Value="360" />
+        <SkillLevelValue Level="1" Value="1080" />
+        <SkillLevelValue Level="10" Value="1080" />
+        <SkillLevelValue Level="11" Value="1080" />
       </Value>
     </Symbol>
   </Skill>
@@ -29840,8 +29580,7 @@
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="1" />
-        <SkillLevelValue Level="10" Value="9" />
-        <SkillLevelValue Level="11" Value="9" />
+        <SkillLevelValue Level="10" Value="10" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -29868,15 +29607,15 @@
     <Symbol Name="skilldamageptrim">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
-        <SkillLevelValue Level="10" Value="7" />
-        <SkillLevelValue Level="11" Value="7" />
+        <SkillLevelValue Level="10" Value="10" />
+        <SkillLevelValue Level="11" Value="11" />
       </Value>
     </Symbol>
     <Symbol Name="skillselfdamagetrim">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
-        <SkillLevelValue Level="10" Value="7" />
-        <SkillLevelValue Level="11" Value="7" />
+        <SkillLevelValue Level="10" Value="10" />
+        <SkillLevelValue Level="11" Value="11" />
       </Value>
     </Symbol>
     <Symbol Name="superposemagic">
@@ -29888,31 +29627,31 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="90" />
-        <SkillLevelValue Level="2" Value="90" />
+        <SkillLevelValue Level="1" Value="117" />
+        <SkillLevelValue Level="2" Value="117" />
       </Value>
     </Symbol>
   </Skill>
   <Skill Name="chuitian120">
     <Symbol Name="skilldamageptrim">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="15" />
-        <SkillLevelValue Level="11" Value="16" />
+        <SkillLevelValue Level="1" Value="5" />
+        <SkillLevelValue Level="10" Value="30" />
+        <SkillLevelValue Level="11" Value="35" />
       </Value>
     </Symbol>
     <Symbol Name="skillselfdamagetrim">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="15" />
-        <SkillLevelValue Level="11" Value="16" />
+        <SkillLevelValue Level="1" Value="5" />
+        <SkillLevelValue Level="10" Value="30" />
+        <SkillLevelValue Level="11" Value="35" />
       </Value>
     </Symbol>
     <Symbol Name="lifemax_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="30" />
-        <SkillLevelValue Level="11" Value="32" />
+        <SkillLevelValue Level="10" Value="50" />
+        <SkillLevelValue Level="11" Value="55" />
       </Value>
     </Symbol>
     <Symbol Name="poisontimereduce_p">
@@ -29939,29 +29678,29 @@
     <Symbol Name="skilldamageptrim">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="2" />
-        <SkillLevelValue Level="10" Value="7" />
-        <SkillLevelValue Level="11" Value="8" />
+        <SkillLevelValue Level="10" Value="15" />
+        <SkillLevelValue Level="11" Value="16" />
       </Value>
     </Symbol>
     <Symbol Name="skillselfdamagetrim">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="2" />
-        <SkillLevelValue Level="10" Value="7" />
-        <SkillLevelValue Level="11" Value="8" />
+        <SkillLevelValue Level="10" Value="15" />
+        <SkillLevelValue Level="11" Value="16" />
       </Value>
     </Symbol>
     <Symbol Name="lifemax_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="15" />
-        <SkillLevelValue Level="11" Value="15" />
+        <SkillLevelValue Level="10" Value="25" />
+        <SkillLevelValue Level="11" Value="27" />
       </Value>
     </Symbol>
     <Symbol Name="poisontimereduce_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="2" />
-        <SkillLevelValue Level="10" Value="10" />
-        <SkillLevelValue Level="13" Value="11" />
+        <SkillLevelValue Level="10" Value="15" />
+        <SkillLevelValue Level="13" Value="20" />
       </Value>
     </Symbol>
     <Symbol Name="state_hurt_attacktime">
@@ -31387,14 +31126,6 @@
     </Symbol>
   </Skill>
   <Skill Name="tiyunzong">
-    <Symbol Name="state_slowall_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="50" />
-        <SkillLevelValue Level="20" Value="100" />
-        <SkillLevelValue Level="21" Value="102" />
-      </Value>
-    </Symbol>
     <Symbol Name="fastwalkrun_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
@@ -31470,16 +31201,16 @@
     </Symbol>
     <Symbol Name="lightingdamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="1417" />
-        <SkillLevelValue Level="10" Value="2025" />
-        <SkillLevelValue Level="20" Value="2227" />
-        <SkillLevelValue Level="21" Value="2338" />
+        <SkillLevelValue Level="1" Value="519" />
+        <SkillLevelValue Level="10" Value="742" />
+        <SkillLevelValue Level="20" Value="816" />
+        <SkillLevelValue Level="21" Value="857" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="1732" />
-        <SkillLevelValue Level="10" Value="2475" />
-        <SkillLevelValue Level="20" Value="2522" />
-        <SkillLevelValue Level="21" Value="2558" />
+        <SkillLevelValue Level="1" Value="635" />
+        <SkillLevelValue Level="10" Value="907" />
+        <SkillLevelValue Level="20" Value="998" />
+        <SkillLevelValue Level="21" Value="1048" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -31530,20 +31261,6 @@
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="100" />
         <SkillLevelValue Level="20" Value="150" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_freeze_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="80" />
-        <SkillLevelValue Level="10" Value="100" />
-        <SkillLevelValue Level="20" Value="150" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_slowall_resisttime">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="100" />
-        <SkillLevelValue Level="20" Value="135" />
       </Value>
     </Symbol>
     <Symbol Name="castspeed_v">
@@ -31653,9 +31370,9 @@
   <Skill Name="wudangjiuyanggong">
     <Symbol Name="attackenhancebycostmana_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="60" />
-        <SkillLevelValue Level="10" Value="80" />
-        <SkillLevelValue Level="11" Value="81" />
+        <SkillLevelValue Level="1" Value="40" />
+        <SkillLevelValue Level="10" Value="60" />
+        <SkillLevelValue Level="11" Value="61" />
       </Value>
     </Symbol>
     <Symbol Name="state_stun_attackrate">
@@ -31713,14 +31430,14 @@
     </Symbol>
     <Symbol Name="lightingdamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="1145" />
-        <SkillLevelValue Level="10" Value="1745" />
-        <SkillLevelValue Level="11" Value="1755" />
+        <SkillLevelValue Level="1" Value="1247" />
+        <SkillLevelValue Level="10" Value="1782" />
+        <SkillLevelValue Level="11" Value="1871" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="1390" />
-        <SkillLevelValue Level="10" Value="1890" />
-        <SkillLevelValue Level="11" Value="1900" />
+        <SkillLevelValue Level="1" Value="1690" />
+        <SkillLevelValue Level="10" Value="2415" />
+        <SkillLevelValue Level="11" Value="2536" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -31732,8 +31449,8 @@
     <Symbol Name="missile_hitcount">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="7" />
-        <SkillLevelValue Level="11" Value="7" />
+        <SkillLevelValue Level="10" Value="8" />
+        <SkillLevelValue Level="11" Value="8" />
       </Value>
     </Symbol>
   </Skill>
@@ -31948,16 +31665,16 @@
   <Skill Name="wuwoxinfa">
     <Symbol Name="manashield_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="60" />
-        <SkillLevelValue Level="10" Value="90" />
-        <SkillLevelValue Level="11" Value="95" />
+        <SkillLevelValue Level="1" Value="20" />
+        <SkillLevelValue Level="10" Value="85" />
+        <SkillLevelValue Level="11" Value="89" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="3240" />
         <SkillLevelValue Level="10" Value="5400" />
-        <SkillLevelValue Level="11" Value="5400" />
+        <SkillLevelValue Level="11" Value="5490" />
       </Value>
     </Symbol>
     <Symbol Name="state_freeze_resistrate">
@@ -32117,16 +31834,16 @@
         <SkillLevelValue Level="1" Value="30" />
         <SkillLevelValue Level="20" Value="100" />
         <SkillLevelValue Level="21" Value="105" />
-        <SkillLevelValue Level="22" Value="105" />
+		<SkillLevelValue Level="22" Value="105" />
       </Value>
     </Symbol>
     <Symbol Name="adddefense_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="100" />
-        <SkillLevelValue Level="10" Value="150" />
+		<SkillLevelValue Level="10" Value="150" />
         <SkillLevelValue Level="20" Value="300" />
         <SkillLevelValue Level="21" Value="305" />
-        <SkillLevelValue Level="22" Value="305" />
+		<SkillLevelValue Level="22" Value="305" />
       </Value>
     </Symbol>
   </Skill>
@@ -32135,7 +31852,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="20" />
         <SkillLevelValue Level="20" Value="50" />
-        <SkillLevelValue Level="21" Value="55" />
+		<SkillLevelValue Level="21" Value="55" />
         <SkillLevelValue Level="22" Value="55" />
       </Value>
     </Symbol>
@@ -32143,7 +31860,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="25" />
         <SkillLevelValue Level="20" Value="150" />
-        <SkillLevelValue Level="21" Value="165" />
+		<SkillLevelValue Level="21" Value="165" />
         <SkillLevelValue Level="22" Value="165" />
       </Value>
     </Symbol>
@@ -32152,31 +31869,33 @@
     <Symbol Name="appenddamage_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="40" />
-        <SkillLevelValue Level="10" Value="60" />
-        <SkillLevelValue Level="20" Value="80" />
-        <SkillLevelValue Level="21" Value="81" />
+        <SkillLevelValue Level="10" Value="45" />
+        <SkillLevelValue Level="20" Value="50" />
+        <SkillLevelValue Level="21" Value="51" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="40" />
-        <SkillLevelValue Level="10" Value="50" />
-        <SkillLevelValue Level="20" Value="60" />
-        <SkillLevelValue Level="21" Value="61" />
+        <SkillLevelValue Level="1" Value="56" />
+        <SkillLevelValue Level="10" Value="60" />
+        <SkillLevelValue Level="20" Value="80" />
+        <SkillLevelValue Level="21" Value="80" />
       </Value>
     </Symbol>
     <Symbol Name="lightingdamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="275" />
-        <SkillLevelValue Level="10" Value="345" />
-        <SkillLevelValue Level="20" Value="675" />
-        <SkillLevelValue Level="21" Value="680" />
+        <SkillLevelValue Level="1" Value="220" />
+        <SkillLevelValue Level="10" Value="315" />
+        <SkillLevelValue Level="20" Value="645" />
+        <SkillLevelValue Level="21" Value="645" />
+		<SkillLevelValue Level="22" Value="645" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="300" />
+        <SkillLevelValue Level="1" Value="290" />
         <SkillLevelValue Level="10" Value="385" />
-        <SkillLevelValue Level="20" Value="735" />
-        <SkillLevelValue Level="21" Value="740" />
+        <SkillLevelValue Level="20" Value="704" />
+        <SkillLevelValue Level="21" Value="704" />
+		<SkillLevelValue Level="22" Value="704" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -32236,22 +31955,22 @@
     </Symbol>
   </Skill>
   <Skill Name="taijijianyi">
-    <Symbol Name="appenddamage_p">
+<!-- 	<Symbol Name="appenddamage_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="50" />
-        <SkillLevelValue Level="10" Value="70" />
-        <SkillLevelValue Level="20" Value="90" />
-        <SkillLevelValue Level="21" Value="95" />
+        <SkillLevelValue Level="10" Value="100" />
+        <SkillLevelValue Level="20" Value="150" />
+        <SkillLevelValue Level="21" Value="155" />
       </Value>
-    </Symbol>
-    <Symbol Name="physicsenhance_p">
+    </Symbol> -->
+<!--     <Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="40" />
-        <SkillLevelValue Level="10" Value="60" />
-        <SkillLevelValue Level="20" Value="80" />
-        <SkillLevelValue Level="21" Value="82" />
+        <SkillLevelValue Level="1" Value="50" />
+        <SkillLevelValue Level="10" Value="100" />
+        <SkillLevelValue Level="20" Value="150" />
+        <SkillLevelValue Level="21" Value="155" />
       </Value>
-    </Symbol>
+    </Symbol> -->
     <Symbol Name="state_stun_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="30" />
@@ -32293,9 +32012,9 @@
   <Skill Name="jianqizongheng">
     <Symbol Name="state_stun_attackrate">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="20" Value="60" />
-        <SkillLevelValue Level="21" Value="61" />
+        <SkillLevelValue Level="1" Value="5" />
+        <SkillLevelValue Level="20" Value="50" />
+        <SkillLevelValue Level="21" Value="52" />
       </Value>
     </Symbol>
     <Symbol Name="state_slowall_resistrate">
@@ -32304,20 +32023,6 @@
         <SkillLevelValue Level="10" Value="100" />
         <SkillLevelValue Level="20" Value="150" />
         <SkillLevelValue Level="21" Value="157" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_freeze_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="80" />
-        <SkillLevelValue Level="10" Value="100" />
-        <SkillLevelValue Level="20" Value="150" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_slowall_resisttime">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="100" />
-        <SkillLevelValue Level="20" Value="135" />
       </Value>
     </Symbol>
     <Symbol Name="attackspeed_v">
@@ -32381,7 +32086,7 @@
         <SkillLevelValue Level="1" Value="138" />
         <SkillLevelValue Level="10" Value="150" />
         <SkillLevelValue Level="11" Value="151" />
-        <SkillLevelValue Level="12" Value="152" />
+		<SkillLevelValue Level="12" Value="152" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -32389,7 +32094,7 @@
         <SkillLevelValue Level="1" Value="300" />
         <SkillLevelValue Level="10" Value="250" />
         <SkillLevelValue Level="11" Value="251" />
-        <SkillLevelValue Level="12" Value="252" />
+		<SkillLevelValue Level="12" Value="252" />
       </Value>
     </Symbol>
     <Symbol Name="physicsenhance_p">
@@ -32404,13 +32109,13 @@
         <SkillLevelValue Level="1" Value="930" />
         <SkillLevelValue Level="10" Value="1200" />
         <SkillLevelValue Level="11" Value="1245" />
-        <SkillLevelValue Level="12" Value="1245" />
+		<SkillLevelValue Level="12" Value="1245" />
       </Value>
       <Value ID="3">
         <SkillLevelValue Level="1" Value="1070" />
         <SkillLevelValue Level="10" Value="1400" />
         <SkillLevelValue Level="11" Value="1455" />
-        <SkillLevelValue Level="12" Value="1455" />
+		<SkillLevelValue Level="12" Value="1455" />
       </Value>
     </Symbol>
     <Symbol Name="state_fixed_attack">
@@ -32562,8 +32267,8 @@
         <SkillLevelValue Level="12" Value="12" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="480" />
-        <SkillLevelValue Level="10" Value="480" />
+        <SkillLevelValue Level="1" Value="1600" />
+        <SkillLevelValue Level="10" Value="1600" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -32576,14 +32281,14 @@
   <Skill Name="mizhonghuanying_child">
     <Symbol Name="changefeature1">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="6" />
-        <SkillLevelValue Level="10" Value="6" />
+        <SkillLevelValue Level="1" Value="7" />
+        <SkillLevelValue Level="10" Value="7" />
       </Value>
     </Symbol>
     <Symbol Name="steallifeenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="8" />
+        <SkillLevelValue Level="1" Value="4" />
+        <SkillLevelValue Level="10" Value="6" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="100" />
@@ -32592,8 +32297,8 @@
     </Symbol>
     <Symbol Name="stealmanaenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
-        <SkillLevelValue Level="10" Value="8" />
+        <SkillLevelValue Level="1" Value="4" />
+        <SkillLevelValue Level="10" Value="6" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="100" />
@@ -32610,28 +32315,28 @@
   <Skill Name="jianwuadvancedbook">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="40" />
-        <SkillLevelValue Level="11" Value="42" />
+        <SkillLevelValue Level="1" Value="50" />
+        <SkillLevelValue Level="10" Value="70" />
+        <SkillLevelValue Level="11" Value="72" />
       </Value>
     </Symbol>
-    <Symbol Name="physicsenhance_p">
+	<Symbol Name="physicsenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="40" />
-        <SkillLevelValue Level="11" Value="42" />
+        <SkillLevelValue Level="1" Value="50" />
+        <SkillLevelValue Level="10" Value="70" />
+        <SkillLevelValue Level="11" Value="72" />
       </Value>
     </Symbol>
     <Symbol Name="lightingdamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="115" />
-        <SkillLevelValue Level="10" Value="235" />
-        <SkillLevelValue Level="11" Value="245" />
+        <SkillLevelValue Level="1" Value="346" />
+        <SkillLevelValue Level="10" Value="595" />
+        <SkillLevelValue Level="11" Value="615" />
       </Value>
       <Value ID="3">
-        <SkillLevelValue Level="1" Value="135" />
-        <SkillLevelValue Level="10" Value="265" />
-        <SkillLevelValue Level="11" Value="275" />
+        <SkillLevelValue Level="1" Value="423" />
+        <SkillLevelValue Level="10" Value="705" />
+        <SkillLevelValue Level="11" Value="726" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
@@ -32640,15 +32345,15 @@
         <SkillLevelValue Level="10" Value="250" />
       </Value>
     </Symbol>
-    <Symbol Name="state_stun_attack">
+	<Symbol Name="state_stun_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="40" />
-        <SkillLevelValue Level="11" Value="41" />
+        <SkillLevelValue Level="10" Value="30" />
+        <SkillLevelValue Level="11" Value="30" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="36" />
-        <SkillLevelValue Level="20" Value="36" />
+        <SkillLevelValue Level="1" Value="18" />
+        <SkillLevelValue Level="20" Value="18" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
@@ -32905,9 +32610,9 @@
   <Skill Name="wuxinggu">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="35" />
-        <SkillLevelValue Level="11" Value="38" />
+        <SkillLevelValue Level="1" Value="20" />
+        <SkillLevelValue Level="10" Value="30" />
+        <SkillLevelValue Level="11" Value="32" />
       </Value>
     </Symbol>
     <Symbol Name="poisondamage_v">
@@ -32935,7 +32640,7 @@
     </Symbol>
     <Symbol Name="missile_hitcount">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="5" />
+        <SkillLevelValue Level="1" Value="3" />
         <SkillLevelValue Level="10" Value="5" />
         <SkillLevelValue Level="11" Value="5" />
       </Value>
@@ -33043,13 +32748,6 @@
         <SkillLevelValue Level="1" Value="50" />
         <SkillLevelValue Level="20" Value="350" />
         <SkillLevelValue Level="21" Value="365" />
-      </Value>
-    </Symbol>
-    <Symbol Name="state_stun_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="20" />
-        <SkillLevelValue Level="10" Value="180" />
-        <SkillLevelValue Level="20" Value="182" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -33162,16 +32860,9 @@
   <Skill Name="wangushixin_child">
     <Symbol Name="damage_all_resist">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="-30" />
-        <SkillLevelValue Level="20" Value="-160" />
-        <SkillLevelValue Level="21" Value="-165" />
-      </Value>
-    </Symbol>
-    <Symbol Name="damage_poison_resist">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="-10" />
-        <SkillLevelValue Level="10" Value="-105" />
-        <SkillLevelValue Level="11" Value="-110" />
+        <SkillLevelValue Level="1" Value="-20" />
+        <SkillLevelValue Level="20" Value="-120" />
+        <SkillLevelValue Level="21" Value="-126" />
       </Value>
     </Symbol>
     <Symbol Name="missile_range">
@@ -33287,10 +32978,10 @@
     </Symbol>
     <Symbol Name="poisondamage_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="171" />
-        <SkillLevelValue Level="10" Value="235" />
-        <SkillLevelValue Level="20" Value="275" />
-        <SkillLevelValue Level="21" Value="277" />
+        <SkillLevelValue Level="1" Value="121" />
+        <SkillLevelValue Level="10" Value="140" />
+        <SkillLevelValue Level="20" Value="163" />
+        <SkillLevelValue Level="21" Value="164" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="81" />
@@ -33306,9 +32997,9 @@
     </Symbol>
     <Symbol Name="state_weak_attack">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="55" />
-        <SkillLevelValue Level="20" Value="75" />
+        <SkillLevelValue Level="1" Value="20" />
+        <SkillLevelValue Level="10" Value="45" />
+        <SkillLevelValue Level="20" Value="60" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="36" />
@@ -33431,8 +33122,8 @@
     </Symbol>
     <Symbol Name="steallifeenhance_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="9" />
+        <SkillLevelValue Level="1" Value="2" />
+        <SkillLevelValue Level="10" Value="7" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="100" />
@@ -33441,9 +33132,9 @@
     </Symbol>
     <Symbol Name="lifemax_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="40" />
-        <SkillLevelValue Level="10" Value="80" />
-        <SkillLevelValue Level="12" Value="85" />
+        <SkillLevelValue Level="1" Value="30" />
+        <SkillLevelValue Level="10" Value="70" />
+        <SkillLevelValue Level="12" Value="77" />
       </Value>
     </Symbol>
   </Skill>
@@ -33469,7 +33160,7 @@
         <SkillLevelValue Level="11" Value="5" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_range">
+	<Symbol Name="missile_range">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="5" />
         <SkillLevelValue Level="10" Value="20" />
@@ -34105,7 +33796,7 @@
         <SkillLevelValue Level="21" Value="3294" />
       </Value>
     </Symbol>
-    <Symbol Name="missile_range">
+	<Symbol Name="missile_range">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="10" />
@@ -34217,18 +33908,11 @@
     </Symbol>
   </Skill>
   <Skill Name="chuanxinduci">
-    <Symbol Name="state_stun_resistrate">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="60" />
-        <SkillLevelValue Level="20" Value="120" />
-      </Value>
-    </Symbol>
     <Symbol Name="poisontimeenhance_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
-        <SkillLevelValue Level="10" Value="40" />
-        <SkillLevelValue Level="13" Value="45" />
+        <SkillLevelValue Level="10" Value="35" />
+        <SkillLevelValue Level="13" Value="40" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -34267,22 +33951,12 @@
     <Symbol Name="poisondamage_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="500" />
-        <SkillLevelValue Level="10" Value="1200" />
-        <SkillLevelValue Level="11" Value="1250" />
+        <SkillLevelValue Level="10" Value="1000" />
+        <SkillLevelValue Level="11" Value="1200" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="36" />
-        <SkillLevelValue Level="10" Value="36" />
-      </Value>
-    </Symbol>
-    <Symbol Name="steallife_p">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="75" />
-        <SkillLevelValue Level="10" Value="95" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="75" />
-        <SkillLevelValue Level="10" Value="95" />
+        <SkillLevelValue Level="1" Value="27" />
+        <SkillLevelValue Level="10" Value="27" />
       </Value>
     </Symbol>
     <Symbol Name="missile_hitcount">
@@ -34339,7 +34013,7 @@
         <SkillLevelValue Level="21" Value="250" />
       </Value>
     </Symbol>
-    <Symbol Name="state_weak_attack">
+	<Symbol Name="state_weak_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="15" />
         <SkillLevelValue Level="10" Value="45" />

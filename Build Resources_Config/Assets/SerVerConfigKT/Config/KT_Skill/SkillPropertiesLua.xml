@@ -6257,18 +6257,18 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="810" />
-        <SkillLevelValue Level="10" Value="810" />
-        <SkillLevelValue Level="18" Value="810" />
-        <SkillLevelValue Level="19" Value="810" />
+        <SkillLevelValue Level="1" Value="360" />
+        <SkillLevelValue Level="10" Value="360" />
+        <SkillLevelValue Level="18" Value="360" />
+        <SkillLevelValue Level="19" Value="360" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="810" />
-        <SkillLevelValue Level="10" Value="810" />
-        <SkillLevelValue Level="18" Value="810" />
-        <SkillLevelValue Level="19" Value="810" />
+        <SkillLevelValue Level="1" Value="360" />
+        <SkillLevelValue Level="10" Value="360" />
+        <SkillLevelValue Level="18" Value="360" />
+        <SkillLevelValue Level="19" Value="360" />
       </Value>
     </Symbol>
     <Symbol Name="skill_skillexp_v">
@@ -6357,16 +6357,16 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="810" />
-        <SkillLevelValue Level="20" Value="810" />
-        <SkillLevelValue Level="21" Value="810" />
+        <SkillLevelValue Level="1" Value="540" />
+        <SkillLevelValue Level="20" Value="540" />
+        <SkillLevelValue Level="21" Value="540" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="810" />
-        <SkillLevelValue Level="20" Value="810" />
-        <SkillLevelValue Level="21" Value="810" />
+        <SkillLevelValue Level="1" Value="540" />
+        <SkillLevelValue Level="20" Value="540" />
+        <SkillLevelValue Level="21" Value="540" />
       </Value>
     </Symbol>
   </Skill>
