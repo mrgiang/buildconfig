@@ -31193,10 +31193,10 @@
   <Skill Name="tiandiwuji">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="40" />
-        <SkillLevelValue Level="20" Value="45" />
-        <SkillLevelValue Level="21" Value="46" />
+        <SkillLevelValue Level="1" Value="60" />
+        <SkillLevelValue Level="10" Value="80" />
+        <SkillLevelValue Level="20" Value="90" />
+        <SkillLevelValue Level="21" Value="92" />
       </Value>
     </Symbol>
     <Symbol Name="lightingdamage_v">
@@ -31230,8 +31230,8 @@
     <Symbol Name="state_stun_attack">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="20" />
-        <SkillLevelValue Level="10" Value="22" />
-        <SkillLevelValue Level="20" Value="30" />
+        <SkillLevelValue Level="10" Value="30" />
+        <SkillLevelValue Level="20" Value="45" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="18" />
@@ -31516,13 +31516,14 @@
     <Symbol Name="superposemagic">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="9" />
-        <SkillLevelValue Level="10" Value="19" />
+        <SkillLevelValue Level="10" Value="99" />
+        <SkillLevelValue Level="11" Value="99" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="270" />
-        <SkillLevelValue Level="10" Value="270" />
+        <SkillLevelValue Level="1" Value="810" />
+        <SkillLevelValue Level="10" Value="810" />
       </Value>
     </Symbol>
   </Skill>
