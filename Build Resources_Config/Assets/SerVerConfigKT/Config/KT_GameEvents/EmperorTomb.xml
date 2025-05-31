@@ -59,7 +59,7 @@
 			
 -->
 <EmperorTomb>
-	<Config LimitLevel="130" DurationPerDay="7200000" NightPearlItemID="796" MonsterLevel="115" />
+	<Config LimitLevel="130" DurationPerDay="14400000" NightPearlItemID="796" MonsterLevel="115" />
 	<Event>
 		<Relive MapID="1536" PosX="3991" PosY="6362" />
 		
