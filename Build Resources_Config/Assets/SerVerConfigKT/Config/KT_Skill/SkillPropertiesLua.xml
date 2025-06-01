@@ -32410,8 +32410,8 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="3240" />
-        <SkillLevelValue Level="2" Value="3240" />
+        <SkillLevelValue Level="1" Value="324" />
+        <SkillLevelValue Level="2" Value="324" />
       </Value>
     </Symbol>
     <Symbol Name="skill_cost_v">
