@@ -4203,6 +4203,17 @@
     </Symbol>
   </Skill>
   <Skill Name="yudalihua">
+  	<Symbol Name="missile_range">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="10" />
+      </Value>
+      <Value ID="2">
+        <SkillLevelValue Level="1" Value="0" />
+      </Value>
+      <Value ID="3">
+        <SkillLevelValue Level="1" Value="10" />
+      </Value>
+    </Symbol>
     <Symbol Name="state_fixed_ignore">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
