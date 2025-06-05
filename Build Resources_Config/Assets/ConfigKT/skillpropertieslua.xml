@@ -4203,6 +4203,17 @@
     </Symbol>
   </Skill>
   <Skill Name="yudalihua">
+  	<Symbol Name="missile_range">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="10" />
+      </Value>
+      <Value ID="2">
+        <SkillLevelValue Level="1" Value="0" />
+      </Value>
+      <Value ID="3">
+        <SkillLevelValue Level="1" Value="10" />
+      </Value>
+    </Symbol>
     <Symbol Name="state_fixed_ignore">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
@@ -21719,9 +21730,8 @@
     <Symbol Name="lifemax_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="10" Value="35" />
-        <SkillLevelValue Level="11" Value="36" />
-        <SkillLevelValue Level="12" Value="37" />
+        <SkillLevelValue Level="10" Value="45" />
+        <SkillLevelValue Level="11" Value="47" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -22364,14 +22374,14 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="740" />
-        <SkillLevelValue Level="10" Value="740" />
+        <SkillLevelValue Level="1" Value="540" />
+        <SkillLevelValue Level="10" Value="540" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="740" />
-        <SkillLevelValue Level="10" Value="740" />
+        <SkillLevelValue Level="1" Value="540" />
+        <SkillLevelValue Level="10" Value="540" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">

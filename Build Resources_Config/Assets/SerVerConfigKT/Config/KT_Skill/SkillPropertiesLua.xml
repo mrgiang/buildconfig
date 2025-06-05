@@ -21730,9 +21730,8 @@
     <Symbol Name="lifemax_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="15" />
-        <SkillLevelValue Level="10" Value="35" />
-        <SkillLevelValue Level="11" Value="36" />
-        <SkillLevelValue Level="12" Value="37" />
+        <SkillLevelValue Level="10" Value="45" />
+        <SkillLevelValue Level="11" Value="47" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
@@ -22375,14 +22374,14 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="740" />
-        <SkillLevelValue Level="10" Value="740" />
+        <SkillLevelValue Level="1" Value="540" />
+        <SkillLevelValue Level="10" Value="540" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="740" />
-        <SkillLevelValue Level="10" Value="740" />
+        <SkillLevelValue Level="1" Value="540" />
+        <SkillLevelValue Level="10" Value="540" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">
