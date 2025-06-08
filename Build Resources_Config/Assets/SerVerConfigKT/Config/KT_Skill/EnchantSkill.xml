@@ -665,6 +665,7 @@
 				<Value ID="1" Type="1">
 					<SkillLevelValue Level="1" Value="-9" />
 					<SkillLevelValue Level="10" Value="-18" />
+					<SkillLevelValue Level="20" Value="-36" />
 				</Value>
 			</Symbol>
 		</RelatedSkill>
@@ -674,6 +675,7 @@
 				<Value ID="1" Type="1">
 					<SkillLevelValue Level="1" Value="-18" />
 					<SkillLevelValue Level="10" Value="-180" />
+					<SkillLevelValue Level="20" Value="-360" />
 				</Value>
 			</Symbol>
 			
@@ -681,6 +683,7 @@
 				<Value ID="1" Type="1">
 					<SkillLevelValue Level="1" Value="-18" />
 					<SkillLevelValue Level="10" Value="-180" />
+					<SkillLevelValue Level="20" Value="-360" />				
 				</Value>
 			</Symbol>
 		</RelatedSkill>

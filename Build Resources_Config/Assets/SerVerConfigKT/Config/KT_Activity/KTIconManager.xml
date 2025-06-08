@@ -13,7 +13,7 @@
   <Icons IconID="OpenGuildBox" Name="Bang hội" State="Hide" />
   <Icons IconID="OpenTaskBox" Name="Nhiệm vụ" State="Show" />
   <Icons IconID="OpenBrowsePlayer" Name="Tìm người chơi" State="Hide" />
-  <Icons IconID="OpenMailBox" Name="Thư" State="Hide" />
+  <Icons IconID="OpenMailBox" Name="Thư" State="Show" />
   <Icons IconID="OpenBag" Name="Túi đồ" State="Show" />
   <Icons IconID="OpenRoleInfo" Name="Nhân vật" State="Show" />
   <Icons IconID="OpenSkill" Name="Kỹ năng" State="Show" />
