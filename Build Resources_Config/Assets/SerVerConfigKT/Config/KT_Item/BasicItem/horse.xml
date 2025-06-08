@@ -90,11 +90,11 @@
   </ItemData>
   <ItemData ItemID="3470" Name="Mã bài (Phiên Vũ)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Mã bài (Phiên Vũ)" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="12" ParticularType="12" Level="4" SuiteID="0" Icon="horse_horse012" View="horse_horse001_s" Intro="Một trong tám con ngựa của Chu Mục Vương, cưỡi mây đạp gió&lt;enter&gt;Nhận được kỹ năng &lt;color=yellow&gt;Di Hình Hoán Ảnh&lt;color&gt;, có thể dùng Vô Hạn Truyền Tống Phù để đến được nhiều nơi hơn" Help="" ObjID="32" BindType="2" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="7200000" MakeCost="-1" ResMale="12" ResFemale="12" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListReqProp ReqPropType="5" ReqPropValue="90" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="600" BasicPropPA1Max="600" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="staminamax_v" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
-    <RiderProp RidePropType="lifemax_v" RidePropPA1Min="600" RidePropPA1Max="600" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="2" />
-    <RiderProp RidePropType="armordefense_v" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="3" />
-    <RiderProp RidePropType="staminamax_v" RidePropPA1Min="120" RidePropPA1Max="120" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="4" />
-    <RiderProp RidePropType="allskill_v" RidePropPA1Min="1" RidePropPA1Max="1" RidePropPA2Min="0" RidePropPA2Max="0" RidePropPA3Min="0" RidePropPA3Max="0" Index="5" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
   <ItemData ItemID="3471" Name="Mã bài (Táo Hồng Mã)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kỳ Trân Các (Táo Hồng Mã)" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="12" ParticularType="13" Level="1" SuiteID="0" Icon="horse_horse001" View="horse_horse001_s" Intro="Ngựa thường, khắp nơi đều thấy" Help="" ObjID="32" BindType="2" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="2400" MakeCost="-1" ResMale="1" ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">

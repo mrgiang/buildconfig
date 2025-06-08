@@ -670,6 +670,16 @@
 			</Symbol>
 		</RelatedSkill>
 		
+		<RelatedSkill ID="192">
+			<Symbol Name="skill_mintimepercast_v">
+				<Value ID="1" Type="1">
+					<SkillLevelValue Level="1" Value="-9" />
+					<SkillLevelValue Level="10" Value="-18" />
+					<SkillLevelValue Level="20" Value="-18" />
+				</Value>
+			</Symbol>
+		</RelatedSkill>
+		
 		<RelatedSkill ID="699">
 			<Symbol Name="skill_mintimepercast_v">
 				<Value ID="1" Type="1">
