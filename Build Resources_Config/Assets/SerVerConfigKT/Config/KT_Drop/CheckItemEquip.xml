@@ -8,6 +8,7 @@
 <CheckItemEquip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<!-- 2444 Hòa Thị Ngọc  Hòa Thị Bích 819 20 tích tiêu + tích nạp-->
 	<Item ID="1" ReputeDBID="902" ReputeLevel="2" ResID="2444" NumCheck="200" ResIDAdd="819" NumAdd="20" />
+	<Item ID="2" ReputeDBID="902" ReputeLevel="3" ResID="2444" NumCheck="500" ResIDAdd="819" NumAdd="20" />
 
 	<!-- End -->
 </CheckItemEquip>

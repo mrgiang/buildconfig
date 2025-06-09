@@ -20504,10 +20504,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20523,10 +20523,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20542,10 +20542,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20561,10 +20561,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20580,10 +20580,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20599,10 +20599,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20618,10 +20618,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20637,10 +20637,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20656,10 +20656,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20675,10 +20675,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20694,10 +20694,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20713,10 +20713,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20732,10 +20732,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20751,10 +20751,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20770,10 +20770,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20789,10 +20789,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20808,10 +20808,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20827,10 +20827,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20846,10 +20846,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20865,10 +20865,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20884,10 +20884,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20903,10 +20903,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20922,10 +20922,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20941,10 +20941,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20960,10 +20960,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20979,10 +20979,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -20998,10 +20998,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21017,10 +21017,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21036,10 +21036,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21055,10 +21055,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21074,10 +21074,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21093,10 +21093,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21112,10 +21112,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21131,10 +21131,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21150,10 +21150,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21169,10 +21169,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21188,10 +21188,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21207,10 +21207,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21226,10 +21226,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21245,10 +21245,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21264,10 +21264,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21283,10 +21283,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21302,10 +21302,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="manamax_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21321,10 +21321,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21340,10 +21340,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21359,10 +21359,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21378,10 +21378,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21397,10 +21397,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21416,10 +21416,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21435,10 +21435,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21454,10 +21454,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21473,10 +21473,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21492,10 +21492,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackratingenhance_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21511,10 +21511,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackratingenhance_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21530,10 +21530,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21549,10 +21549,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21568,10 +21568,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21587,10 +21587,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackratingenhance_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21606,10 +21606,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21625,10 +21625,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21644,10 +21644,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21663,10 +21663,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21682,10 +21682,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21701,10 +21701,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21720,10 +21720,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21739,10 +21739,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21758,10 +21758,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21777,10 +21777,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21796,10 +21796,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsdamage_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="attackratingenhance_v" MagicLevel="10" IsActive="true" Index="2" />
@@ -21815,10 +21815,10 @@
     <ListBasicProp BasicPropType="weaponmagicmax_v" BasicPropPA1Min="210" BasicPropPA1Max="210" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
     <ListReqProp ReqPropType="5" ReqPropValue="110" Index="1" />
     <ListEnhance EnhTimes="4" EnhMAName="ignoreresist_p" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="25" EnhMAPA2Max="25" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
-    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
-    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="350" EnhMAPA1Max="350" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
-    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
-    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="8" EnhMAName="deadlystrikeenhance_r" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="weaponbasedamagetrim" EnhMAPA1Min="400" EnhMAPA1Max="400" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="deadlystrikedamageenhance_p" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="skilldamageptrim" EnhMAPA1Min="25" EnhMAPA1Max="25" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
     <ListEnhance EnhTimes="16" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
     <GreenProp MagicName="addphysicsmagic_p" MagicLevel="10" IsActive="true" Index="1" />
     <GreenProp MagicName="castspeed_v" MagicLevel="10" IsActive="true" Index="2" />
