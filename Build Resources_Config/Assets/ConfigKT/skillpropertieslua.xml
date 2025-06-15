@@ -12170,7 +12170,7 @@
         <SkillLevelValue Level="2" Value="2" />
       </Value>
     </Symbol>
-    <Symbol Name="physicsenhance_p">
+    <Symbol Name="addphysicsdamage_p">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="90" />
         <SkillLevelValue Level="10" Value="120" />
