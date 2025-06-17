@@ -12114,6 +12114,18 @@
         <SkillLevelValue Level="1" Value="1" />
       </Value>
     </Symbol>
+    <Symbol Name="skill_mintimepercast_v">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="240" />
+        <SkillLevelValue Level="20" Value="240" />
+      </Value>
+    </Symbol>
+    <Symbol Name="skill_mintimepercastonhorse_v">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="240" />
+        <SkillLevelValue Level="20" Value="240" />
+      </Value>
+    </Symbol>
   </Skill>
   <Skill Name="gungaiadvancedbook">
     <Symbol Name="ignoreskill">
