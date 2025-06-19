@@ -1463,9 +1463,23 @@
 					<SkillLevelValue Level="10" Value="26" />
 				</Value>
 			</Symbol>
+			
+			<Symbol Name="missile_speed_v">
+                <Value ID="1" Type="1">
+                    <SkillLevelValue Level="1" Value="6" />
+                    <SkillLevelValue Level="10" Value="15" />
+                </Value>
+            </Symbol>
+            
+            <Symbol Name="missile_range">
+                <Value ID="3" Type="1">
+                    <SkillLevelValue Level="1" Value="1" />
+                    <SkillLevelValue Level="10" Value="2" />
+                </Value>
+            </Symbol>
 		</RelatedSkill>
 		
-		<RelatedSkill ID="817">
+		<RelatedSkill ID="845">
 			<Symbol Name="state_drag_attack">
 				<Value ID="1" Type="1">
 					<SkillLevelValue Level="1" Value="2" />
