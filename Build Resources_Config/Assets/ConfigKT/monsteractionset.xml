@@ -48,7 +48,7 @@
   <Set ID="boss031" BundleDir="Resources/MonsterActionSet/boss031" Use8Dir="true" />
   <Set ID="boss032" BundleDir="Resources/MonsterActionSet/boss032" Use8Dir="true" />
   <Set ID="critter000" BundleDir="Resources/MonsterActionSet/critter000" Use8Dir="false" />
-  <Set ID="critter001" BundleDir="Resources/MonsterActionSet/critter001" Use8Dir="false" />
+  <Set ID="critter001" BundleDir="Resources/MonsterActionSet/critter001" Use8Dir="true" />
   <Set ID="critter002" BundleDir="Resources/MonsterActionSet/critter002" Use8Dir="false" />
   <Set ID="critter003" BundleDir="Resources/MonsterActionSet/critter003" Use8Dir="false" />
   <Set ID="critter004" BundleDir="Resources/MonsterActionSet/critter004" Use8Dir="false" />
@@ -68,7 +68,7 @@
   <Set ID="critter018" BundleDir="Resources/MonsterActionSet/critter018" Use8Dir="false" />
   <Set ID="critter019" BundleDir="Resources/MonsterActionSet/critter019" Use8Dir="false" />
   <Set ID="critter021" BundleDir="Resources/MonsterActionSet/critter021" Use8Dir="false" />
-  <Set ID="critter022" BundleDir="Resources/MonsterActionSet/critter022" Use8Dir="false" />
+  <Set ID="critter022" BundleDir="Resources/MonsterActionSet/critter022" Use8Dir="true" />
   <Set ID="critter023" BundleDir="Resources/MonsterActionSet/critter023" Use8Dir="false" />
   <Set ID="critter024a" BundleDir="Resources/MonsterActionSet/critter024a" Use8Dir="false" />
   <Set ID="critter024b" BundleDir="Resources/MonsterActionSet/critter024b" Use8Dir="false" />
@@ -84,7 +84,7 @@
   <Set ID="critter031da" BundleDir="Resources/MonsterActionSet/critter031da" Use8Dir="false" />
   <Set ID="critter031db" BundleDir="Resources/MonsterActionSet/critter031db" Use8Dir="false" />
   <Set ID="critter032" BundleDir="Resources/MonsterActionSet/critter032" Use8Dir="false" />
-  <Set ID="critter033" BundleDir="Resources/MonsterActionSet/critter033" Use8Dir="false" />
+  <Set ID="critter033" BundleDir="Resources/MonsterActionSet/critter033" Use8Dir="true" />
   <Set ID="critter034" BundleDir="Resources/MonsterActionSet/critter034" Use8Dir="false" />
   <Set ID="critter035" BundleDir="Resources/MonsterActionSet/critter035" Use8Dir="false" />
   <Set ID="critter036" BundleDir="Resources/MonsterActionSet/critter036" Use8Dir="false" />
