@@ -19,5 +19,6 @@
   <Icons IconID="OpenSkill" Name="Kỹ năng" State="Show" />
   <Icons IconID="OpenLifeSkill" Name="Kỹ năng sống" State="Show" />
   <Icons IconID="Family" Name="Gia Tộc" State="Hide" />
+  <Icons IconID="VIP" Name="VIP" State="Show" />
 
 </IconManager>

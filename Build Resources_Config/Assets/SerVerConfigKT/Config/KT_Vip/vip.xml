@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 sp1 (http://www.altova.com) by liukuo (EMBRACE) -->
+<vip>
+	<class id="0" name="Vip 0" point="0" token="0" spritename="vip_0">
+	</class>
+	<class id="1" name="Vip 1" point="10" token="250000" spritename="vip_1">
+	</class>
+	<class id="2" name="Vip 2" point="50" token="1250000" spritename="vip_2">
+	</class>
+	<class id="3" name="Vip 3" point="100" token="2500000" spritename="vip_3">
+	</class>
+	<class id="4" name="Vip 4" point="150" token="3750000" spritename="vip_4">
+	</class>
+	<class id="5" name="Vip 5" point="200" token="5000000" spritename="vip_5">
+		<Symbol Name="lifemax_v" Level="1" Value="300" />
+		<Symbol Name="manamax_v" Level="1" Value="300" />
+		<Symbol Name="damage_all_resist" Level="1" Value="35" />
+	</class>
+	<class id="6" name="Vip 6" point="640" token="16000000" spritename="vip_6">
+		<Symbol Name="lifemax_v" Level="1" Value="350" />
+		<Symbol Name="manamax_v" Level="1" Value="350" />
+		<Symbol Name="damage_all_resist" Level="1" Value="40" />
+	</class>
+	<class id="7" name="Vip 7" point="760" token="19000000" spritename="vip_7">
+		<Symbol Name="lifemax_v" Level="1" Value="400" />
+		<Symbol Name="manamax_v" Level="1" Value="400" />
+		<Symbol Name="damage_all_resist" Level="1" Value="45" />
+		<Symbol Name="allseriesstateresisttime" Level="1" Value="50" />
+	</class>
+	<class id="8" name="Vip 8" point="880" token="22000000" spritename="vip_8">
+		<Symbol Name="lifemax_v" Level="1" Value="450" />
+		<Symbol Name="manamax_v" Level="1" Value="450" />
+		<Symbol Name="damage_all_resist" Level="1" Value="50" />
+		<Symbol Name="allseriesstateresisttime" Level="1" Value="50" />
+		<Symbol Name="allseriesstateresistrate" Level="1" Value="50" />
+	</class>
+	<class id="9" name="Vip 9" point="1000" token="25000000" spritename="vip_9">
+		<Symbol Name="lifemax_v" Level="1" Value="500" />
+		<Symbol Name="manamax_v" Level="1" Value="500" />
+		<Symbol Name="damage_all_resist" Level="1" Value="60" />
+		<Symbol Name="allseriesstateresisttime" Level="1" Value="75" />
+		<Symbol Name="allseriesstateresistrate" Level="1" Value="75" />
+	</class>
+	<class id="10" name="Vip 10" point="1200" token="40000000" spritename="vip_10">
+		<Symbol Name="lifemax_v" Level="1" Value="1000" />
+		<Symbol Name="manamax_v" Level="1" Value="1000" />
+		<Symbol Name="damage_all_resist" Level="1" Value="100" />
+		<Symbol Name="allseriesstateresisttime" Level="1" Value="100" />
+		<Symbol Name="allseriesstateresistrate" Level="1" Value="100" />
+	</class>
+</vip>
