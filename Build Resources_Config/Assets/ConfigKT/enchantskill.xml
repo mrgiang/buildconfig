@@ -889,33 +889,7 @@
 					<SkillLevelValue Level="10" Value="2" />
 				</Value>
 			</Symbol>
-		</RelatedSkill>
-		
-		<RelatedSkill ID="866">
-			<Symbol Name="missile_range">
-				<Value ID="1" Type="1">
-					<SkillLevelValue Level="1" Value="1" />
-					<SkillLevelValue Level="10" Value="1" />
-				</Value>
-				
-				<Value ID="3" Type="1">
-					<SkillLevelValue Level="1" Value="1" />
-					<SkillLevelValue Level="10" Value="1" />
-				</Value>
-			</Symbol>
-			
-			<Symbol Name="missile_ablility">
-				<Value ID="1" Type="1">
-					<SkillLevelValue Level="1" Value="14" />
-					<SkillLevelValue Level="10" Value="100" />
-				</Value>
-				
-				<Value ID="2" Type="3">
-					<SkillLevelValue Level="1" Value="0" />
-					<SkillLevelValue Level="10" Value="0" />
-				</Value>
-			</Symbol>
-		</RelatedSkill>
+		</RelatedSkill>				
 	</Skill>
 	
 	<Skill ID="19" Name="Cơ Quan Bí Thuật">
