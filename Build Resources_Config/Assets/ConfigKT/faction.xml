@@ -1,6 +1,6 @@
 ﻿<Factions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Faction ID="0" Name="Tân thủ" Elemental="0" Gender="-1"></Faction>
-  <Faction ID="1" Name="Thiếu Lâm" Elemental="1" Gender="0">
+  <Faction ID="1" Name="Thiếu Lâm" Elemental="1" Gender="-1">
     <Sub ID="1" Name="Đao Thiếu" IsPhysical="1">
       <Skill ID="21" />
       <Skill ID="22" />
@@ -120,7 +120,7 @@
       <Skill ID="834" />
     </Sub>
   </Faction>
-  <Faction ID="5" Name="Nga My" Elemental="3" Gender="1">
+  <Faction ID="5" Name="Nga My" Elemental="3" Gender="-1">
     <Sub ID="1" Name="Chưởng Nga" IsPhysical="0">
       <Skill ID="96" />
       <Skill ID="97" />

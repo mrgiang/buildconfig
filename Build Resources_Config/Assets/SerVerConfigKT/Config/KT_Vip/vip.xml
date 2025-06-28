@@ -4,12 +4,24 @@
 	<class id="0" name="Vip 0" point="0" token="0" spritename="vip_0">
 	</class>
 	<class id="1" name="Vip 1" point="10" token="250000" spritename="vip_1">
+		<Symbol Name="lifemax_v" Level="1" Value="100" />
+		<Symbol Name="manamax_v" Level="1" Value="100" />
+		<Symbol Name="damage_all_resist" Level="1" Value="100" />
 	</class>
 	<class id="2" name="Vip 2" point="50" token="1250000" spritename="vip_2">
+		<Symbol Name="lifemax_v" Level="1" Value="150" />
+		<Symbol Name="manamax_v" Level="1" Value="150" />
+		<Symbol Name="damage_all_resist" Level="1" Value="20" />
 	</class>
 	<class id="3" name="Vip 3" point="100" token="2500000" spritename="vip_3">
+		<Symbol Name="lifemax_v" Level="1" Value="200" />
+		<Symbol Name="manamax_v" Level="1" Value="200" />
+		<Symbol Name="damage_all_resist" Level="1" Value="25" />
 	</class>
 	<class id="4" name="Vip 4" point="150" token="3750000" spritename="vip_4">
+		<Symbol Name="lifemax_v" Level="1" Value="250" />
+		<Symbol Name="manamax_v" Level="1" Value="250" />
+		<Symbol Name="damage_all_resist" Level="1" Value="30" />
 	</class>
 	<class id="5" name="Vip 5" point="200" token="5000000" spritename="vip_5">
 		<Symbol Name="lifemax_v" Level="1" Value="300" />
