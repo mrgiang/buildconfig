@@ -22386,14 +22386,14 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="540" />
-        <SkillLevelValue Level="10" Value="540" />
+        <SkillLevelValue Level="1" Value="270" />
+        <SkillLevelValue Level="10" Value="270" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="540" />
-        <SkillLevelValue Level="10" Value="540" />
+        <SkillLevelValue Level="1" Value="270" />
+        <SkillLevelValue Level="10" Value="270" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">

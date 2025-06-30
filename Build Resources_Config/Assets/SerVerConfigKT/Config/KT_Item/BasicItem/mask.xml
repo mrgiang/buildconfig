@@ -1,167 +1,192 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfItemData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-
-<!-- Đẹp Bình Thường -->
-
-	<ItemData ItemID="13754" Name="Mặt nạ - Noel - Nữ" Genre="0" DetailType="11" ParticularType="1" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0177" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40822" Name="Mặt nạ Kinh Nghiệm" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Đặc sản Đại Lý 1" QualityPrefix="0" Category="1" Genre="4" Stack="1" DetailType="13" ParticularType="123" Level="1" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Tăng 20% Kinh nghiệm giết quái" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="10000000" MakeCost="-1" ResMale="45" ResFemale="45" FightPower="10" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<RiderProp RidePropType="lifemax_v" RidePropPA1Min="650" RidePropPA1Max="650" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="2" />
+		<RiderProp RidePropType="armordefense_v" RidePropPA1Min="150" RidePropPA1Max="150" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="3" />
+		<RiderProp RidePropType="staminamax_v" RidePropPA1Min="150" RidePropPA1Max="150" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="4" />
+		<RiderProp RidePropType="allskill_v" RidePropPA1Min="1" RidePropPA1Max="1" RidePropPA2Min="0" RidePropPA2Max="0" RidePropPA3Min="0" RidePropPA3Max="0" Index="5" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13756" Name="Mặt nạ - Noel - Nam" Genre="0" DetailType="11" ParticularType="2" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0176" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="121700" Name="Mặt nạ Long Kiếm" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="30" BasicPropPA1Max="30" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="5" BasicPropPA1Max="5" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="140" BasicPropPA1Max="140" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13758" Name="Mặt nạ - Vương Giả" Genre="0" DetailType="11" ParticularType="3" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;"	Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0170" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="121800" Name="Mặt nạ VIP" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="8" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="100000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="10" BasicPropPA1Max="15" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="190" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="110" BasicPropPA1Max="120" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="steallifeenhance_p" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13760" Name="Mặt nạ - Thiếu Nữ" Genre="0" DetailType="11" ParticularType="4" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0137" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="121900" Name="Mặt nạ Chủ Hôn" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Mặt nạ Chủ Hôn" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="7" SuiteID="0" Icon="gongce_yanhua" View="gongce_yanhua" Intro="Mặt nạ Chủ Hôn" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="300000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="96" Index="1" />
+		<ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="18" EnhMAPA1Max="18" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+		<ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+		<ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+		<ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+		<ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+		<ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+		<ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13761" Name="Mặt nạ - Tiểu Đồng" Genre="0" DetailType="11" ParticularType="5" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0136" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="131500" Name="[Mặt nạ] Wodekapu" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="[Mặt nạ] Wodekapu" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="662" Level="1" SuiteID="0" Icon="Fifa_jixiangwu" View="Fifa_jixiangwu_s" Intro="&lt;enter&gt;&lt;enter&gt;Mặt nạ chuyên dụng hoạt động Thịnh Hạ 2010." Help="" ObjID="32" BindType="0" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="30000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="96" Index="1" />
+		<ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="18" EnhMAPA1Max="18" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+		<ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+		<ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+		<ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+		<ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+		<ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+		<ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13762" Name="Mặt nạ - Lão Nhân" Genre="0" DetailType="11" ParticularType="6" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_1" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="3000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0052" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="2000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="3" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="3" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="60" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="1" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="1" BasicPropPA1Max="5" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="150300" Name="Mặt nạ Giáng Sinh " IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Mặt nạ Giáng Sinh " QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="932" Level="1" SuiteID="0" Icon="snowbox" View="snowbox" Intro="&lt;color=gold&gt;Nhấn sử dụng dể dùng chọn mặt nạ.&lt;color&gt;" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="96" Index="1" />
+		<ListEnhance EnhTimes="4" EnhMAName="manareplenish_v" EnhMAPA1Min="18" EnhMAPA1Max="18" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+		<ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="65" EnhMAPA1Max="65" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+		<ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+		<ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="12" EnhMAPA1Max="12" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+		<ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="20" EnhMAPA1Max="20" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+		<ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="70" EnhMAPA1Max="70" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+		<ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-  
-<!-- Đẹp Vừa Vừa -->
-
-	<ItemData ItemID="13737" Name="Mặt nạ - Ám Quang - Nữ" Genre="0" DetailType="11" ParticularType="7" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_2" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="6000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0265" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="5000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="6" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="6" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40000" Name="Mặt nạ Kinh Nghiệm - Cấp 1" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Đặc sản Đại Lý 1" QualityPrefix="0" Category="1" Genre="4" Stack="1" DetailType="13" ParticularType="123" Level="1" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Tăng 20% Kinh nghiệm giết quái" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="10000000" MakeCost="-1" ResMale="45" ResFemale="45" FightPower="10" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="11" BasicPropPA1Max="11" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="21" BasicPropPA1Max="21" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13738" Name="Mặt nạ - Sát Thủ - Nam" Genre="0" DetailType="11" ParticularType="8" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_2" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="6000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0264" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="5000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="6" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="6" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40001" Name="Mặt nạ Kinh Nghiệm - Cấp 2" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Đặc sản Đại Lý 1" QualityPrefix="0" Category="1" Genre="4" Stack="1" DetailType="13" ParticularType="123" Level="1" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Tăng 20% Kinh nghiệm giết quái" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="20000000" MakeCost="-1" ResMale="45" ResFemale="45" FightPower="10" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="12" BasicPropPA1Max="12" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="22" BasicPropPA1Max="22" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13741" Name="Mặt nạ - Hồng y - Nam" Genre="0" DetailType="11" ParticularType="9" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_2" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="6000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0259" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="5000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="6" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="6" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40002" Name="Mặt nạ Kinh Nghiệm - Cấp 3" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Đặc sản Đại Lý 1" QualityPrefix="0" Category="1" Genre="4" Stack="1" DetailType="13" ParticularType="123" Level="1" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Tăng 20% Kinh nghiệm giết quái" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="30000000" MakeCost="-1" ResMale="45" ResFemale="45" FightPower="10" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="13" BasicPropPA1Max="13" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="23" BasicPropPA1Max="23" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13742" Name="Mặt nạ - Hồng y - Nữ" Genre="0" DetailType="11" ParticularType="10" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_2" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="6000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0258" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="5000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="6" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="6" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40003" Name="Mặt nạ Kinh Nghiệm - Cấp 4" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Đặc sản Đại Lý 1" QualityPrefix="0" Category="1" Genre="4" Stack="1" DetailType="13" ParticularType="123" Level="1" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Tăng 20% Kinh nghiệm giết quái" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="40000000" MakeCost="-1" ResMale="45" ResFemale="45" FightPower="10" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="14" BasicPropPA1Max="14" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="24" BasicPropPA1Max="24" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13751" Name="Mặt nạ - Cầm Y Nữ" Genre="0" DetailType="11" ParticularType="11" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_2" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="6000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0201" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="5000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="6" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="6" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40004" Name="Mặt nạ Kinh Nghiệm - Cấp 5" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Đặc sản Đại Lý 1" QualityPrefix="0" Category="1" Genre="4" Stack="1" DetailType="13" ParticularType="123" Level="1" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Tăng 20% Kinh nghiệm giết quái" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="45" ResFemale="45" FightPower="10" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="15" BasicPropPA1Max="15" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="25" BasicPropPA1Max="25" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="32" StrMAPA1Max="32" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13752" Name="Mặt nạ - Đoạt Mệnh" Genre="0" DetailType="11" ParticularType="12" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_2" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="6000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0202" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="5000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="6" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="6" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40005" Name="Mặt nạ Long Kiếm - Cấp 1" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="60000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="31" BasicPropPA1Max="31" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="6" BasicPropPA1Max="6" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="142" BasicPropPA1Max="142" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="82" BasicPropPA1Max="82" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13753" Name="Mặt nạ - Tiên Nữ" Genre="0" DetailType="11" ParticularType="13" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_2" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="6000000" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0197" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="5000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="6" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="6" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="90" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="10" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40006" Name="Mặt nạ Long Kiếm - Cấp 2" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="70000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="35" BasicPropPA1Max="35" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="7" BasicPropPA1Max="7" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="144" BasicPropPA1Max="144" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="84" BasicPropPA1Max="84" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-  
-<!-- Đẹp Siêu Cấp -->
-	<ItemData ItemID="13739" Name="Mặt nạ - Âu Phục" Genre="0" DetailType="11" ParticularType="14" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0261" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40007" Name="Mặt nạ Long Kiếm - Cấp 3" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="80000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="35" BasicPropPA1Max="35" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="8" BasicPropPA1Max="8" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="146" BasicPropPA1Max="146" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="86" BasicPropPA1Max="86" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13743" Name="Mặt nạ - Thánh Nữ" Genre="0" DetailType="11" ParticularType="15" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0252" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40008" Name="Mặt nạ Long Kiếm - Cấp 4" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="980000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="35" BasicPropPA1Max="35" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="9" BasicPropPA1Max="9" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="148" BasicPropPA1Max="148" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="88" BasicPropPA1Max="88" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13745" Name="Mặt nạ - Tử Nguyệt" Genre="0" DetailType="11" ParticularType="16" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0222" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40009" Name="Mặt nạ Long Kiếm - Cấp 5" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="100000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="35" BasicPropPA1Max="35" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="90" BasicPropPA1Max="90" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13746" Name="Mặt nạ - Thanh Y" Genre="0" DetailType="11" ParticularType="17" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0221" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40010" Name="Mặt nạ VIP - Cấp 1" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="8" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="110000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="11" BasicPropPA1Max="11" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="192" BasicPropPA1Max="192" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="112" BasicPropPA1Max="112" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="steallifeenhance_p" BasicPropPA1Min="11" BasicPropPA1Max="11" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13747" Name="Mặt nạ - Nhan Hoàng" Genre="0" DetailType="11" ParticularType="18" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0208" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40011" Name="Mặt nạ VIP - Cấp 2" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="8" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="120000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="12" BasicPropPA1Max="12" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="194" BasicPropPA1Max="194" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="114" BasicPropPA1Max="114" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="steallifeenhance_p" BasicPropPA1Min="12" BasicPropPA1Max="12" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13748" Name="Mặt nạ - Diên Hoàng" Genre="0" DetailType="11" ParticularType="19" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0207" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40012" Name="Mặt nạ VIP - Cấp 3" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="8" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="130000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="13" BasicPropPA1Max="13" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="196" BasicPropPA1Max="196" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="116" BasicPropPA1Max="116" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="steallifeenhance_p" BasicPropPA1Min="13" BasicPropPA1Max="13" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13749" Name="Mặt nạ - Liễu Hoàng" Genre="0" DetailType="11" ParticularType="20" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0206" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
+	<ItemData ItemID="40013" Name="Mặt nạ VIP - Cấp 4" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="8" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="140000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="14" BasicPropPA1Max="14" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="198" BasicPropPA1Max="198" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="118" BasicPropPA1Max="118" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="steallifeenhance_p" BasicPropPA1Min="14" BasicPropPA1Max="14" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="13750" Name="Mặt nạ - Hỏa Hoàng" Genre="0" DetailType="11" ParticularType="21" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0205" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
-	</ItemData>
-	<ItemData ItemID="13759" Name="Mặt nạ - Hoang Nữ" Genre="0" DetailType="11" ParticularType="22" IconBundleDir="Icon/ItemIcon.unity3d" IconAtlasName="ItemIcon" Image="mask_4" ObjDrop="379" Descript="&quot;Mang vào sẽ giống NPC, hết hạn tự động mất.&quot;" Series="0" Price="9999999" Level="1" Stack="1" ResWomanID="-1" ResManID="-1" MaskResID="enemy0140" SuiteID="-1" Expansionset="-1" SmeltableQuality="-1" MeltableQuality="-1" BuffID="-1" DeductOnUse="false" ScriptID="-1" FightPower="30000000">
-	<GreenProp MagicName="lifemax_v" MagicLevel="9" IsActive="true" Index="1" />
-	<GreenProp MagicName="manamax_v" MagicLevel="9" IsActive="true" Index="2" />
-    <ListReqProp ReqPropType="36" ReqPropValue="120" Index="1" />
-    <ListBasicProp BasicPropType="expenhance_p" BasicPropPA1Min="20" BasicPropPA1Max="30" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="1" />
-    <ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="20" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="-1" EnhMAPA3Max="-1" Index="2" />
-	</ItemData>
-
-  
+	<ItemData ItemID="40014" Name="Mặt nạ VIP - Cấp 5" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="8" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="150000000" MakeCost="-1" ResMale="54"  MaskResID="enemy100"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="15" BasicPropPA1Max="15" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="200" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="120" BasicPropPA1Max="120" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="steallifeenhance_p" BasicPropPA1Min="15" BasicPropPA1Max="15" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+		<UnLockInterval>-1</UnLockInterval>
+	</ItemData>	
 </ArrayOfItemData>

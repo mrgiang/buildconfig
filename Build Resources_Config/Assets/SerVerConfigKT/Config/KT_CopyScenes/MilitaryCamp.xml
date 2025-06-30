@@ -524,14 +524,14 @@
 					<Trigger ID="4129" Name="Chiêng" CollectTick="5000" PosX="6636" PosY="2914" />
 					
 					<Monsters>
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
 					</Monsters>
 				</Task>
 				
@@ -539,14 +539,14 @@
 					<Trigger ID="4129" Name="Chiêng" CollectTick="5000" PosX="6636" PosY="2914" />
 					
 					<Monsters>
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
 					</Monsters>
 				</Task>
 				
@@ -554,14 +554,14 @@
 					<Trigger ID="4129" Name="Chiêng" CollectTick="5000" PosX="6636" PosY="2914" />
 					
 					<Monsters>
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
 					</Monsters>
 				</Task>
 				
@@ -569,14 +569,14 @@
 					<Trigger ID="4129" Name="Chiêng" CollectTick="5000" PosX="6636" PosY="2914" />
 					
 					<Monsters>
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
 					</Monsters>
 				</Task>
 				
@@ -584,14 +584,14 @@
 					<Trigger ID="4129" Name="Chiêng" CollectTick="5000" PosX="6636" PosY="2914" />
 					
 					<Monsters>
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
-						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6569" PosY="2772" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6430" PosY="2608" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6561" PosY="2458" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6807" PosY="2401" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7037" PosY="2474" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7157" PosY="2644" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="7008" PosY="2770" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
+						<Monster ID="4131" Name="Văn Thù" Title="" PosX="6824" PosY="2809" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="919_1_1000" />
 					</Monsters>
 				</Task>
 				
@@ -600,8 +600,8 @@
 				</Task>
 				
 				<Task ID="7" RequireTasks="6" Name="Tiêu diệt Thần Chu Sứ" Type="2">
-					<Boss ID="4132" Name="Thần Chu Sứ" Title="&lt;color=red&gt;Tình Quan Nan Xá&lt;/color&gt;" PosX="7548" PosY="3337" BaseHP="7000" HPIncreaseEachLevel="10000" AIType="3" AIScriptID="100001" Auras="" Skills="" />
-					<ChildBoss ID="4155" Name="Lưu Nhất Bán" Title="&lt;color=red&gt;Gót chân thoa dầu&lt;/color&gt;" PosX="7651" PosY="3276" BaseHP="2000" HPIncreaseEachLevel="10000" AIType="3" AIScriptID="100001" Auras="" Skills="" />
+					<Boss ID="4132" Name="Thần Chu Sứ" Title="&lt;color=red&gt;Tình Quan Nan Xá&lt;/color&gt;" PosX="7548" PosY="3337" BaseHP="7000" HPIncreaseEachLevel="10000" AIType="3" AIScriptID="100001" Auras="" Skills="1044_1_1000" />
+					<ChildBoss ID="4155" Name="Lưu Nhất Bán" Title="&lt;color=red&gt;Gót chân thoa dầu&lt;/color&gt;" PosX="7651" PosY="3276" BaseHP="2000" HPIncreaseEachLevel="10000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_1000" />
 				</Task>
 			</Tasks>
 			
@@ -630,48 +630,48 @@
 				</Task>
 				
 				<Task ID="3" RequireTasks="2" Name="Tiêu diệt Linh Hạt Sứ" Type="2">
-					<Boss ID="4136" Name="Linh Hạt Sứ" Title="&lt;color=red&gt;Phong Vận Do Tồn&lt;/color&gt;" PosX="4601" PosY="7279" BaseHP="8000" HPIncreaseEachLevel="15000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_20000" />
-					<ChildBoss ID="4155" Name="Lưu Nhất Bán" Title="&lt;color=red&gt;Gót chân thoa dầu&lt;/color&gt;" PosX="4466" PosY="7198" BaseHP="8000" HPIncreaseEachLevel="5000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_20000" />
+					<Boss ID="4136" Name="Linh Hạt Sứ" Title="&lt;color=red&gt;Phong Vận Do Tồn&lt;/color&gt;" PosX="4601" PosY="7279" BaseHP="8000" HPIncreaseEachLevel="15000" AIType="3" AIScriptID="100001" Auras="" Skills="1044_1_1000" />
+					<ChildBoss ID="4155" Name="Lưu Nhất Bán" Title="&lt;color=red&gt;Gót chân thoa dầu&lt;/color&gt;" PosX="4466" PosY="7198" BaseHP="8000" HPIncreaseEachLevel="5000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_1000" />
 				</Task>
 			</Tasks>
 			
 			<Monsters>
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="2960" PosY="6652" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3098" PosY="6727" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3004" PosY="6837" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3024" PosY="7001" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3132" PosY="6916" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3253" PosY="6817" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3386" PosY="6680" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3533" PosY="6778" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3706" PosY="6864" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3885" PosY="6939" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3889" PosY="7063" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4109" PosY="6801" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3984" PosY="6761" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3854" PosY="6672" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3699" PosY="6597" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3552" PosY="6528" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3412" PosY="6469" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3270" PosY="6410" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3410" PosY="6323" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3563" PosY="6383" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3771" PosY="6479" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3946" PosY="6577" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4146" PosY="6698" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4299" PosY="6616" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4190" PosY="6559" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4055" PosY="6504" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3916" PosY="6454" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3764" PosY="6397" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3624" PosY="6340" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3499" PosY="6251" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4399" PosY="6445" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4565" PosY="6516" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4753" PosY="6612" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4929" PosY="6691" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="5125" PosY="6806" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="5301" PosY="6966" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="1052_1_20000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="2960" PosY="6652" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3098" PosY="6727" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3004" PosY="6837" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3024" PosY="7001" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3132" PosY="6916" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3253" PosY="6817" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3386" PosY="6680" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3533" PosY="6778" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3706" PosY="6864" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3885" PosY="6939" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3889" PosY="7063" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4109" PosY="6801" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3984" PosY="6761" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3854" PosY="6672" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3699" PosY="6597" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3552" PosY="6528" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3412" PosY="6469" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3270" PosY="6410" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3410" PosY="6323" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3563" PosY="6383" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3771" PosY="6479" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3946" PosY="6577" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4146" PosY="6698" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4299" PosY="6616" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4190" PosY="6559" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4055" PosY="6504" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5" AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3916" PosY="6454" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3764" PosY="6397" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3624" PosY="6340" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="3499" PosY="6251" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4399" PosY="6445" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4565" PosY="6516" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4753" PosY="6612" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="4929" PosY="6691" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="5125" PosY="6806" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
+				<Monster ID="4128" Name="Độc Vĩ Hạt" Title="" PosX="5301" PosY="6966" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="40000" Auras="" Skills="919_1_1000" />
 			</Monsters>
 			
 			<Teleports>
@@ -703,18 +703,18 @@
 				</Task>
 				
 				<Task ID="2" RequireTasks="1" Name="Tiêu diệt Cổ Vương" Type="2">
-					<Boss ID="4152" Name="Cổ Vương" Title="&lt;color=red&gt;Vạn Cổ Thủ&lt;/color&gt;" PosX="2396" PosY="3431" BaseHP="8500" HPIncreaseEachLevel="20000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_20000" />
-					<ChildBoss ID="4155" Name="Lưu Nhất Bán" Title="&lt;color=red&gt;Gót chân thoa dầu&lt;/color&gt;" PosX="2800" PosY="3431" BaseHP="8500" HPIncreaseEachLevel="10000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_20000" />
+					<Boss ID="4152" Name="Cổ Vương" Title="&lt;color=red&gt;Vạn Cổ Thủ&lt;/color&gt;" PosX="2396" PosY="3431" BaseHP="8500" HPIncreaseEachLevel="20000" AIType="3" AIScriptID="100001" Auras="" Skills="1044_1_1000" />
+					<ChildBoss ID="4155" Name="Lưu Nhất Bán" Title="&lt;color=red&gt;Gót chân thoa dầu&lt;/color&gt;" PosX="2800" PosY="3431" BaseHP="8500" HPIncreaseEachLevel="10000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_1000" />
 				</Task>
 			</Tasks>
 			
 			
 			<Monsters>
-				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="3281" PosY="4606" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="4449" PosY="3153" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="3216" PosY="2007" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="890" PosY="2632" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_20000" />
-				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="879" PosY="3915" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_20000" />
+				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="3281" PosY="4606" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_1000" />
+				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="4449" PosY="3153" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_1000" />
+				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="3216" PosY="2007" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_1000" />
+				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="890" PosY="2632" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_1000" />
+				<Monster ID="4142" Name="Trưởng Lão Hộ Pháp" Title="" PosX="879" PosY="3915" BaseHP="2000" HPIncreaseEachLevel="500" AIType="5"  AIScriptID="100001" RespawnTicks="-1" Auras="" Skills="1052_1_1000" />
 			</Monsters>
 			
 			
@@ -730,8 +730,8 @@
 			<Tasks>
 				
 				<Task ID="1" RequireTasks="-1" Name="Tiêu diệt Cổ Đế" Type="2">
-					<Boss ID="4153" Name="Cổ Thần" Title="&lt;color=red&gt;Vạn Cổ Thủ&lt;/color&gt;" PosX="4305" PosY="3712" BaseHP="10000" HPIncreaseEachLevel="30000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_20000" />
-					<ChildBoss ID="4155" Name="Lưu Nhất Bán" Title="&lt;color=red&gt;Gót chân thoa dầu&lt;/color&gt;" PosX="4193" PosY="3617" BaseHP="7000" HPIncreaseEachLevel="15000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_20000" />
+					<Boss ID="4153" Name="Cổ Thần" Title="&lt;color=red&gt;Vạn Cổ Thủ&lt;/color&gt;" PosX="4305" PosY="3712" BaseHP="10000" HPIncreaseEachLevel="30000" AIType="3" AIScriptID="100001" Auras="" Skills="1044_1_1000" />
+					<ChildBoss ID="4155" Name="Lưu Nhất Bán" Title="&lt;color=red&gt;Gót chân thoa dầu&lt;/color&gt;" PosX="4193" PosY="3617" BaseHP="7000" HPIncreaseEachLevel="15000" AIType="3" AIScriptID="100001" Auras="" Skills="1052_1_1000" />
 				</Task>
 			</Tasks>
 			
