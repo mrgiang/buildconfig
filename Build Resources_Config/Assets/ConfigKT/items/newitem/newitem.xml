@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItemData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemData ItemID="21600" Name="Giang Hồ Ấn" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Lôi Đình Ấn" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="16" ParticularType="1" Level="1" SuiteID="0" Icon="signet_wuxingyin2" View="signet_wuxingyin_s" Intro="" Help="" ObjID="18" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="1" ItemValue="100" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="fastmanareplenish_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="fastlifereplenish_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+	<GreenProp MagicName="lifemax_v" MagicLevel="2" IsActive="true" Index="1" />
+    <GreenProp MagicName="manareplenish_v" MagicLevel="1" IsActive="true" Index="3" />
+    <ListReqProp ReqPropType="5" ReqPropValue="60" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="21601" Name="Giang Hồ Ấn-VIP" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Lôi Đình Ấn" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="16" ParticularType="1" Level="1" SuiteID="0" Icon="signet_wuxingyin2" View="signet_wuxingyin_s" Intro="" Help="" ObjID="18" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="1" ItemValue="100" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="fastmanareplenish_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="fastlifereplenish_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListReqProp ReqPropType="5" ReqPropValue="60" Index="1" />
+	<ListBasicProp BasicPropType="lifemax_p" BasicPropPA1Min="200" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="20370" Name="Vô Song Vương Giả-VIP" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Phi Phong Vô Song Vương Giả Thành Chủ-Nữ" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="17" ParticularType="14" Level="10" SuiteID="0" Icon="mantle_fm_mantle10" View="mantle_fm_mantle10_s" Intro="" Help="" ObjID="32" BindType="1" Series="-1" ReqLevel="0" CDType="0" Price="1" ItemValue="900000000" MakeCost="112500000" ResMale="5" ResFemale="6" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="lifemax_p" BasicPropPA1Min="120" BasicPropPA1Max="120" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="1200" BasicPropPA1Max="1200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="manamax_p" BasicPropPA1Min="70" BasicPropPA1Max="70" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+    <ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="138" BasicPropPA1Max="138" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+    <ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="60" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <ListBasicProp BasicPropType="seriesstate_added" BasicPropPA1Min="270" BasicPropPA1Max="270" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="6" />
+    <ListBasicProp BasicPropType="allseriesstateresisttime" BasicPropPA1Min="220" BasicPropPA1Max="220" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="7" />
+    <ListBasicProp BasicPropType="allseriesstateresistrate" BasicPropPA1Min="220" BasicPropPA1Max="220" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="8" />
+    <ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="2" BasicPropPA1Max="2" BasicPropPA2Min="0" BasicPropPA2Max="0" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="10" />
+	<ListReqProp ReqPropType="8" ReqPropValue="1" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+</ArrayOfItemData>

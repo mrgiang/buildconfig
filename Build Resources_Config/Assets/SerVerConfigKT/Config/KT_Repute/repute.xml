@@ -249,18 +249,6 @@
 			<level id="1" name="Thân thiện" level_up="10000" require_level="0"/>
 			<level id="2" name="Đóng cửa" level_up="0" require_level="0"/>
 		</class>
-		<class id="8" name="VIP" default_level="1" daily_limit="0" tips="Tích lũy vip">
-			<level id="1" name="VIP1" level_up="40" require_level="0"/>
-			<level id="2" name="VIP2" level_up="60" require_level="0"/>
-			<level id="3" name="VIP3" level_up="100" require_level="0"/>
-			<level id="4" name="VIP4" level_up="300" require_level="0"/>
-			<level id="5" name="VIP5" level_up="500" require_level="0"/>
-			<level id="6" name="VIP6" level_up="1000" require_level="0"/>
-			<level id="7" name="VIP7" level_up="2000" require_level="0"/>
-			<level id="8" name="VIP8" level_up="3000" require_level="0"/>
-			<level id="9" name="VIP9" level_up="3000" require_level="0"/>
-			<level id="10" name="VIP10" level_up="0" require_level="0"/>
-		</class>
 	</camp>
 	<camp id="6" name="Khiêu chiến Võ Lâm Cao Thủ">
 		<class id="1" name="Cao thủ (kim)" default_level="1" daily_limit="0">
