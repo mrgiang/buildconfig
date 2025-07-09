@@ -6,7 +6,7 @@
 	<class id="1" name="Vip 1" point="10" token="250000" spritename="vip_1">
 		<Symbol Name="lifemax_v" Level="1" Value="100" />
 		<Symbol Name="manamax_v" Level="1" Value="100" />
-		<Symbol Name="damage_all_resist" Level="1" Value="100" />
+		<Symbol Name="damage_all_resist" Level="1" Value="10" />
 	</class>
 	<class id="2" name="Vip 2" point="50" token="1250000" spritename="vip_2">
 		<Symbol Name="lifemax_v" Level="1" Value="150" />

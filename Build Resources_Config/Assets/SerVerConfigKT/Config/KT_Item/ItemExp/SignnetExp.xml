@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfSingNetExp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SingNetExp Level="0" UpgardeExp="0" Value="0" />
   <SingNetExp Level="1" UpgardeExp="20" Value="1000" />
   <SingNetExp Level="2" UpgardeExp="20" Value="1000" />
   <SingNetExp Level="3" UpgardeExp="20" Value="2000" />

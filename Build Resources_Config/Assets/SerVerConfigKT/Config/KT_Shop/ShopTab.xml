@@ -4790,6 +4790,13 @@
     <ShopItem>5639</ShopItem>
   </ShopTab>
 	<ShopTab ShopName="Shop Token" ShopID="233" MoneyType="6" Discount="0" TimeSaleStart="" TimeSaleEnd="">
-    <ShopItem>5640</ShopItem>
+    <ShopItem>5640</ShopItem><!-- shop token đã bán ko dc xóa bán -->
+  </ShopTab>
+  	<ShopTab ShopName="Shop VIP" ShopID="234" MoneyType="6" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+    <ShopItem>5641</ShopItem>
+    <ShopItem>5642</ShopItem>
+    <ShopItem>5643</ShopItem>
+    <ShopItem>5644</ShopItem>
+    <ShopItem>5645</ShopItem>
   </ShopTab>
 </ArrayOfShopTab>
