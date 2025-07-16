@@ -6099,28 +6099,24 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
         <SkillLevelValue Level="10" Value="10" />
-		<SkillLevelValue Level="11" Value="10" />
       </Value>
     </Symbol>
     <Symbol Name="skillselfdamagetrim">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="1" />
         <SkillLevelValue Level="10" Value="10" />
-		<SkillLevelValue Level="11" Value="10" />
       </Value>
     </Symbol>
     <Symbol Name="state_slowall_attacktime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="80" />
-		<SkillLevelValue Level="11" Value="80" />
       </Value>
     </Symbol>
     <Symbol Name="state_burn_resisttime">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="120" />
-		<SkillLevelValue Level="11" Value="120" />
       </Value>
     </Symbol>
     <Symbol Name="skill_statetime">

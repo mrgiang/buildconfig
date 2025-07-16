@@ -242,5 +242,6 @@
     <Set Code="27" ID="horse27" BundleDir="Resources/CharacterActionSet/Rider/horse27" />
     <Set Code="28" ID="horse28" BundleDir="Resources/CharacterActionSet/Rider/horse28" />
     <Set Code="29" ID="horse29" BundleDir="Resources/CharacterActionSet/Rider/horse29" />
+    <Set Code="45" ID="horse45" BundleDir="Resources/CharacterActionSet/Rider/horse45" />
   </Rider>
 </CharacterActionSet>
