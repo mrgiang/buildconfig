@@ -19,12 +19,9 @@
       <Set Code="15" ID="armor15" BundleDir="Resources/CharacterActionSet/Male/Armor/armor15" />
       <Set Code="16" ID="armor16" BundleDir="Resources/CharacterActionSet/Male/Armor/armor16" />
       <Set Code="17" ID="armor17" BundleDir="Resources/CharacterActionSet/Male/Armor/armor17" />
-      <Set Code="31" ID="armor31" BundleDir="Resources/CharacterActionSet/Male/Armor/armor31" />
-      <Set Code="32" ID="armor32" BundleDir="Resources/CharacterActionSet/Male/Armor/armor32" />
-      <Set Code="34" ID="armor34" BundleDir="Resources/CharacterActionSet/Male/Armor/armor34" />
-      <Set Code="35" ID="armor35" BundleDir="Resources/CharacterActionSet/Male/Armor/armor35" />
-      <Set Code="39" ID="armor39" BundleDir="Resources/CharacterActionSet/Male/Armor/armor39" />
-      <Set Code="44" ID="armor44" BundleDir="Resources/CharacterActionSet/Male/Armor/armor44" />
+      <Set Code="18" ID="armor18" BundleDir="Resources/CharacterActionSet/Male/Armor/armor18" />
+      <Set Code="57" ID="armor57" BundleDir="Resources/CharacterActionSet/Male/Armor/armor57" />
+      <Set Code="68" ID="armor68" BundleDir="Resources/CharacterActionSet/Male/Armor/armor68" />
     </Armor>
     <Head>
       <Set Code="0" ID="helm00" BundleDir="Resources/CharacterActionSet/Male/Helm/helm00" />
@@ -45,10 +42,7 @@
       <Set Code="15" ID="helm15" BundleDir="Resources/CharacterActionSet/Male/Helm/helm15" />
       <Set Code="16" ID="helm16" BundleDir="Resources/CharacterActionSet/Male/Helm/helm16" />
       <Set Code="17" ID="helm17" BundleDir="Resources/CharacterActionSet/Male/Helm/helm17" />
-      <Set Code="31" ID="helm31" BundleDir="Resources/CharacterActionSet/Male/Helm/helm31" />
-      <Set Code="32" ID="helm32" BundleDir="Resources/CharacterActionSet/Male/Helm/helm32" />
-      <Set Code="39" ID="helm39" BundleDir="Resources/CharacterActionSet/Male/Helm/helm39" />
-      <Set Code="44" ID="helm44" BundleDir="Resources/CharacterActionSet/Male/Helm/helm44" />
+      <Set Code="57" ID="helm57" BundleDir="Resources/CharacterActionSet/Male/Helm/helm57" />
     </Head>
     <Mantle>
       <Set Code="1" ID="mantle01" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle01" />
@@ -56,10 +50,12 @@
       <Set Code="3" ID="mantle03" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle03" />
       <Set Code="4" ID="mantle04" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle04" />
       <Set Code="5" ID="mantle05" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle05" />
-      <Set Code="6" ID="mantle06" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle06" />
-      <Set Code="7" ID="mantle07" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle07" />
       <Set Code="8" ID="mantle08" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle08" />
+      <Set Code="9" ID="mantle09" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle09" />
       <Set Code="10" ID="mantle10" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle10" />
+      <Set Code="11" ID="mantle11" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle11" />
+      <Set Code="12" ID="mantle12" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle12" />
+      <Set Code="13" ID="mantle13" BundleDir="Resources/CharacterActionSet/Male/Mantle/mantle13" />
     </Mantle>
     <Weapon>
       <Set Code="32" ID="anqi" BundleDir="Resources/CharacterActionSet/Male/Weapon/anqi" />
@@ -129,13 +125,10 @@
       <Set Code="14" ID="armor14" BundleDir="Resources/CharacterActionSet/Female/Armor/armor14" />
       <Set Code="15" ID="armor15" BundleDir="Resources/CharacterActionSet/Female/Armor/armor15" />
       <Set Code="16" ID="armor16" BundleDir="Resources/CharacterActionSet/Female/Armor/armor16" />
-      <Set Code="31" ID="armor31" BundleDir="Resources/CharacterActionSet/Female/Armor/armor31" />
-      <Set Code="32" ID="armor32" BundleDir="Resources/CharacterActionSet/Female/Armor/armor32" />
-      <Set Code="33" ID="armor33" BundleDir="Resources/CharacterActionSet/Female/Armor/armor33" />
-      <Set Code="34" ID="armor34" BundleDir="Resources/CharacterActionSet/Female/Armor/armor34" />
-      <Set Code="35" ID="armor35" BundleDir="Resources/CharacterActionSet/Female/Armor/armor35" />
-      <Set Code="37" ID="armor37" BundleDir="Resources/CharacterActionSet/Female/Armor/armor37" />
-      <Set Code="44" ID="armor44" BundleDir="Resources/CharacterActionSet/Female/Armor/armor44" />
+      <Set Code="17" ID="armor17" BundleDir="Resources/CharacterActionSet/Female/Armor/armor17" />
+      <Set Code="18" ID="armor18" BundleDir="Resources/CharacterActionSet/Female/Armor/armor18" />
+      <Set Code="57" ID="armor57" BundleDir="Resources/CharacterActionSet/Female/Armor/armor57" />
+      <Set Code="68" ID="armor68" BundleDir="Resources/CharacterActionSet/Female/Armor/armor68" />
     </Armor>
     <Head>
       <Set Code="0" ID="helm00" BundleDir="Resources/CharacterActionSet/Female/Helm/helm00" />
@@ -155,12 +148,8 @@
       <Set Code="14" ID="helm14" BundleDir="Resources/CharacterActionSet/Female/Helm/helm14" />
       <Set Code="15" ID="helm15" BundleDir="Resources/CharacterActionSet/Female/Helm/helm15" />
       <Set Code="16" ID="helm16" BundleDir="Resources/CharacterActionSet/Female/Helm/helm16" />
-      <Set Code="31" ID="helm31" BundleDir="Resources/CharacterActionSet/Female/Helm/helm31" />
-      <Set Code="32" ID="helm32" BundleDir="Resources/CharacterActionSet/Female/Helm/helm32" />
-      <Set Code="33" ID="helm33" BundleDir="Resources/CharacterActionSet/Female/Helm/helm33" />
-      <Set Code="37" ID="helm37" BundleDir="Resources/CharacterActionSet/Female/Helm/helm37" />
-      <Set Code="43" ID="helm43" BundleDir="Resources/CharacterActionSet/Female/Helm/helm43" />
-      <Set Code="44" ID="helm44" BundleDir="Resources/CharacterActionSet/Female/Helm/helm44" />
+      <Set Code="17" ID="helm17" BundleDir="Resources/CharacterActionSet/Female/Helm/helm17" />
+      <Set Code="57" ID="helm57" BundleDir="Resources/CharacterActionSet/Female/Helm/helm57" />
     </Head>
     <Mantle>
       <Set Code="1" ID="mantle01" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle01" />
@@ -168,8 +157,12 @@
       <Set Code="3" ID="mantle03" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle03" />
       <Set Code="4" ID="mantle04" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle04" />
       <Set Code="5" ID="mantle05" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle05" />
-      <Set Code="6" ID="mantle06" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle06" />
-      <Set Code="7" ID="mantle07" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle07" />
+      <Set Code="8" ID="mantle08" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle08" />
+      <Set Code="9" ID="mantle09" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle09" />
+      <Set Code="10" ID="mantle10" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle10" />
+      <Set Code="11" ID="mantle11" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle11" />
+      <Set Code="12" ID="mantle12" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle12" />
+      <Set Code="13" ID="mantle13" BundleDir="Resources/CharacterActionSet/Female/Mantle/mantle13" />
     </Mantle>
     <Weapon>
       <Set Code="32" ID="anqi" BundleDir="Resources/CharacterActionSet/Female/Weapon/anqi" />
@@ -242,6 +235,41 @@
     <Set Code="27" ID="horse27" BundleDir="Resources/CharacterActionSet/Rider/horse27" />
     <Set Code="28" ID="horse28" BundleDir="Resources/CharacterActionSet/Rider/horse28" />
     <Set Code="29" ID="horse29" BundleDir="Resources/CharacterActionSet/Rider/horse29" />
+    <Set Code="30" ID="horse30" BundleDir="Resources/CharacterActionSet/Rider/horse30" />
+    <Set Code="32" ID="horse32" BundleDir="Resources/CharacterActionSet/Rider/horse32" />
+    <Set Code="33" ID="horse33" BundleDir="Resources/CharacterActionSet/Rider/horse33" />
+    <Set Code="36" ID="horse36" BundleDir="Resources/CharacterActionSet/Rider/horse36" />
+    <Set Code="37" ID="horse37" BundleDir="Resources/CharacterActionSet/Rider/horse37" />
+    <Set Code="38" ID="horse38" BundleDir="Resources/CharacterActionSet/Rider/horse38" />
+    <Set Code="39" ID="horse39" BundleDir="Resources/CharacterActionSet/Rider/horse39" />
+    <Set Code="40" ID="horse40" BundleDir="Resources/CharacterActionSet/Rider/horse40" />
+    <Set Code="41" ID="horse41" BundleDir="Resources/CharacterActionSet/Rider/horse41" />
+    <Set Code="42" ID="horse42" BundleDir="Resources/CharacterActionSet/Rider/horse42" />
+    <Set Code="43" ID="horse43" BundleDir="Resources/CharacterActionSet/Rider/horse43" />
+    <Set Code="44" ID="horse44" BundleDir="Resources/CharacterActionSet/Rider/horse44" />
     <Set Code="45" ID="horse45" BundleDir="Resources/CharacterActionSet/Rider/horse45" />
+    <Set Code="46" ID="horse46" BundleDir="Resources/CharacterActionSet/Rider/horse46" />
+    <Set Code="47" ID="horse47" BundleDir="Resources/CharacterActionSet/Rider/horse47" />
+    <Set Code="48" ID="horse48" BundleDir="Resources/CharacterActionSet/Rider/horse48" />
+    <Set Code="50" ID="horse50" BundleDir="Resources/CharacterActionSet/Rider/horse50" />
+    <Set Code="51" ID="horse51" BundleDir="Resources/CharacterActionSet/Rider/horse51" />
+    <Set Code="52" ID="horse52" BundleDir="Resources/CharacterActionSet/Rider/horse52" />
+    <Set Code="53" ID="horse53" BundleDir="Resources/CharacterActionSet/Rider/horse53" />
+    <Set Code="54" ID="horse54" BundleDir="Resources/CharacterActionSet/Rider/horse54" />
+    <Set Code="55" ID="horse55" BundleDir="Resources/CharacterActionSet/Rider/horse55" />
+    <Set Code="56" ID="horse56" BundleDir="Resources/CharacterActionSet/Rider/horse56" />
+    <Set Code="57" ID="horse57" BundleDir="Resources/CharacterActionSet/Rider/horse57" />
+    <Set Code="60" ID="horse60" BundleDir="Resources/CharacterActionSet/Rider/horse60" />
+    <Set Code="62" ID="horse62" BundleDir="Resources/CharacterActionSet/Rider/horse62" />
+    <Set Code="63" ID="horse63" BundleDir="Resources/CharacterActionSet/Rider/horse63" />
+    <Set Code="64" ID="horse64" BundleDir="Resources/CharacterActionSet/Rider/horse64" />
+    <Set Code="65" ID="horse65" BundleDir="Resources/CharacterActionSet/Rider/horse65" />
+    <Set Code="66" ID="horse66" BundleDir="Resources/CharacterActionSet/Rider/horse66" />
+    <Set Code="67" ID="horse67" BundleDir="Resources/CharacterActionSet/Rider/horse67" />
+    <Set Code="68" ID="horse68" BundleDir="Resources/CharacterActionSet/Rider/horse68" />
+    <Set Code="69" ID="horse69" BundleDir="Resources/CharacterActionSet/Rider/horse69" />
+    <Set Code="70" ID="horse70" BundleDir="Resources/CharacterActionSet/Rider/horse70" />
+    <Set Code="101" ID="horse101" BundleDir="Resources/CharacterActionSet/Rider/horse101" />
+    <Set Code="103" ID="horse103" BundleDir="Resources/CharacterActionSet/Rider/horse103" />
   </Rider>
 </CharacterActionSet>

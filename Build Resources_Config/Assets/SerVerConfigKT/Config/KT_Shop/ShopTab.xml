@@ -4798,5 +4798,13 @@
     <ShopItem>5643</ShopItem>
     <ShopItem>5644</ShopItem>
     <ShopItem>5645</ShopItem>
+    <ShopItem>5646</ShopItem>
+    <ShopItem>5649</ShopItem>
+    <ShopItem>5650</ShopItem>
+    <ShopItem>5651</ShopItem>
+  </ShopTab>
+  	<ShopTab ShopName="Shop Mặt nạ" ShopID="235" MoneyType="6" Discount="0" TimeSaleStart="" TimeSaleEnd="">
+    <ShopItem>5647</ShopItem><!-- shop token đã bán ko dc xóa bán -->
+    <ShopItem>5648</ShopItem><!-- shop token đã bán ko dc xóa bán -->
   </ShopTab>
 </ArrayOfShopTab>

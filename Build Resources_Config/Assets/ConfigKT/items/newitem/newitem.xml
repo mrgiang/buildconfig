@@ -52,4 +52,70 @@
 	<ListReqProp ReqPropType="5" ReqPropValue="60" Index="1" />
 	<UnLockInterval>-1</UnLockInterval>
   </ItemData>
+ <ItemData ItemID="23400" Name="Tứ Bất Tượng-Tuyệt (Thú Cưỡi)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="[Thần Thú] Tứ Bất Tượng" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="12" ParticularType="137" Level="4" SuiteID="0" Icon="horse_gumu_02a0" View="horse_gumu_02a1" Intro="&lt;color=yellow&gt;Thú cưỡi vinh danh cao thủ&lt;color&gt;&lt;enter&gt;&lt;color=red&gt;Vượt hàng vạn cao thủ để giành lấy thú cưỡi độc nhất vô nhị&lt;color&gt;" Help="" ObjID="32" BindType="2" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="7200000" MakeCost="-1" ResMale="42" ResFemale="42" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListReqProp ReqPropType="5" ReqPropValue="90" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="800" BasicPropPA1Max="800" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="staminamax_v" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="40" BasicPropPA1Max="40" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+	<ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="5" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+   <ItemData ItemID="23401" Name="Tứ Bất Tượng-Cực (Thú Cưỡi)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="[Thần Thú] Tứ Bất Tượng" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="12" ParticularType="137" Level="4" SuiteID="0" Icon="horse_gumu_02a0" View="horse_gumu_02a1" Intro="&lt;color=yellow&gt;Thú cưỡi vinh danh cao thủ&lt;color&gt;&lt;enter&gt;&lt;color=red&gt;Vượt hàng vạn cao thủ để giành lấy thú cưỡi độc nhất vô nhị&lt;color&gt;" Help="" ObjID="32" BindType="2" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="7200000" MakeCost="-1" ResMale="42" ResFemale="42" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListReqProp ReqPropType="5" ReqPropValue="90" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="1200" BasicPropPA1Max="1200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="200" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="staminamax_v" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+	<ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+ <ItemData ItemID="23402" Name="Tự Quỳ-Tuyệt (Thú Cưỡi)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Vĩnh viễn không khóa" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="12" ParticularType="106" Level="4" SuiteID="0" Icon="horse_sikui" View="horse_sikui_s" Intro="&lt;color=yellow&gt;Tư Chất Hoàn Mỹ&lt;color&gt;&lt;enter&gt;&lt;color=Red&gt; Thần Thú trong truyền thuyết độc nhất vô nhị chỉ dành cho &lt;color=yellow&gt; Cao Thủ&lt;color&gt;&lt;color&gt;" Help="" ObjID="32" BindType="2" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="7200000" MakeCost="-1" ResMale="44" ResFemale="44" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListReqProp ReqPropType="5" ReqPropValue="90" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="800" BasicPropPA1Max="800" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="staminamax_v" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="40" BasicPropPA1Max="40" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+	<ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="5" BasicPropPA1Max="5" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+ <ItemData ItemID="23403" Name="Tự Quỳ-Cực (Thú Cưỡi)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Vĩnh viễn không khóa" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="12" ParticularType="106" Level="4" SuiteID="0" Icon="horse_sikui" View="horse_sikui_s" Intro="&lt;color=yellow&gt;Tư Chất Hoàn Mỹ&lt;color&gt;&lt;enter&gt;&lt;color=Red&gt; Thần Thú trong truyền thuyết độc nhất vô nhị chỉ dành cho &lt;color=yellow&gt; Cao Thủ&lt;color&gt;&lt;color&gt;" Help="" ObjID="32" BindType="2" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="7200000" MakeCost="-1" ResMale="44" ResFemale="44" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListReqProp ReqPropType="5" ReqPropValue="90" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="1200" BasicPropPA1Max="1200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="200" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="staminamax_v" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+	<ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+ <ItemData ItemID="23404" Name="Linh Vương Giáp Vàng-Cực (Thú Cưỡi)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Vĩnh viễn không khóa" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="12" ParticularType="120" Level="4" SuiteID="0" Icon="horse_View_LinhDuong" View="horse_Icon_LinhDuong" Intro="&lt;color=blue&gt;Tư Chất Hoàn Mỹ&lt;color&gt;&lt;enter&gt;&lt;color=Red&gt; Thần Thú trong truyền thuyết độc nhất vô nhị chỉ dành cho &lt;color=yellow&gt; Cao Thủ&lt;color&gt;&lt;color&gt;" Help="" ObjID="32" BindType="2" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="7200000" MakeCost="-1" ResMale="46" ResFemale="46" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListReqProp ReqPropType="5" ReqPropValue="90" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="1200" BasicPropPA1Max="1200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="200" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="staminamax_v" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+	<ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+    <ItemData ItemID="23405" Name="Hỏa Vũ Thiên Hương-Cực (Thú Cưỡi)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Vĩnh viễn không khóa" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="12" ParticularType="126" Level="4" SuiteID="0" Icon="horse_View_HoaVuThienHuong" View="horse_Icon_HoaVuThienHuong" Intro="&lt;color=blue&gt;Tư Chất Hoàn Mỹ&lt;color&gt;&lt;enter&gt;&lt;color=Red&gt; Thần Thú trong truyền thuyết độc nhất vô nhị chỉ dành cho &lt;color=yellow&gt; Cao Thủ&lt;color&gt;&lt;color&gt;" Help="" ObjID="32" BindType="2" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="7200000" MakeCost="-1" ResMale="48" ResFemale="48" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListReqProp ReqPropType="5" ReqPropValue="90" Index="1" />
+    <ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="1200" BasicPropPA1Max="1200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListBasicProp BasicPropType="armordefense_v" BasicPropPA1Min="200" BasicPropPA1Max="200" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+    <ListBasicProp BasicPropType="staminamax_v" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />
+	<ListBasicProp BasicPropType="allskill_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+	<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+	<ListBasicProp BasicPropType="defencedeadlystrikedamagetrim" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+    <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
 </ArrayOfItemData>

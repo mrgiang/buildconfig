@@ -130,9 +130,9 @@
 	<Event>
 		<Config MaxQuestions="30" NPCStandDuration="60000" DelayTicksEachQuestion="10000" />
 		<NPC NPCID="3690" MonsterID="3689" Name="Nhan Như Ngọc" Title="&lt;color=green&gt;Sứ giả Hoa Đăng&lt;/color&gt;">
-		<VillagePosition MapID="8" Positions="6830_5331" />
+			<VillagePosition MapID="5" Positions="2840_4220;2428_4630;1756_3206;1649_2357;2261_1657;3071_2000;3107_1237;4613_1659;5265_2378;5212_2985;4353_3183;5041_3363;4410_3784;4789_4288;5343_4013;6035_3829;5548_3400;6285_2977;6842_2512;6580_1234;7595_2867;6811_4182;6269_4901;6267_5580" />
 		</NPC>
 	</Event>
 	
-	<Award BoundToken="25" BoundMoney="5000" Prestige="1" Exp="100000" />
+	<Award BoundToken="250" BoundMoney="5000" Prestige="1" Exp="100000" />
 </KnowledgeChallenge>
