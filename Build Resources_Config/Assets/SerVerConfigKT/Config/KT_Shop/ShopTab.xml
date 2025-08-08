@@ -4791,6 +4791,9 @@
   </ShopTab>
 	<ShopTab ShopName="Shop Token" ShopID="233" MoneyType="6" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>5640</ShopItem><!-- shop token đã bán ko dc xóa bán -->
+	
+    <ShopItem>5652</ShopItem>
+    <ShopItem>5653</ShopItem>
   </ShopTab>
   	<ShopTab ShopName="Shop VIP" ShopID="234" MoneyType="6" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>5641</ShopItem>
@@ -4802,6 +4805,15 @@
     <ShopItem>5649</ShopItem>
     <ShopItem>5650</ShopItem>
     <ShopItem>5651</ShopItem>
+	
+    <ShopItem>5658</ShopItem>
+    <ShopItem>5659</ShopItem>
+    <ShopItem>5660</ShopItem>
+    <ShopItem>5661</ShopItem>
+    <ShopItem>5662</ShopItem>
+    <ShopItem>5663</ShopItem>
+	
+	
   </ShopTab>
   	<ShopTab ShopName="Shop Mặt nạ" ShopID="235" MoneyType="6" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>5647</ShopItem><!-- shop token đã bán ko dc xóa bán -->

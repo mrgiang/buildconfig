@@ -118,7 +118,71 @@
     <RiderProp RidePropType="fastwalkrun_p" RidePropPA1Min="100" RidePropPA1Max="100" RidePropPA2Min="-1" RidePropPA2Max="-1" RidePropPA3Min="0" RidePropPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
-  <ItemData ItemID="24000" Name="Nón-Thời Trang(1)" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="19" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+  <ItemData ItemID="24000" Name="Nón-Thời Trang(1)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="19" ParticularType="602" Level="5" SuiteID="0" Icon="Fnon01" View="Fnon01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="state_palsy_resistrate" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_confuse_resistrate" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_knock_resistrate" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="state_drag_resistrate" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
+	</ItemData>
+	  <ItemData ItemID="24001" Name="Nón-Thời Trang(2)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="19" ParticularType="602" Level="5" SuiteID="0" Icon="Fnon01" View="Fnon01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="state_palsy_resistrate" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_confuse_resistrate" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_knock_resistrate" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="state_drag_resistrate" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
+	</ItemData>
+	  <ItemData ItemID="24002" Name="Nón-Thời Trang(3)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="19" ParticularType="602" Level="5" SuiteID="0" Icon="Fnon01" View="Fnon01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="state_palsy_resistrate" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_confuse_resistrate" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_knock_resistrate" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="state_drag_resistrate" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
+	</ItemData>
+	  <ItemData ItemID="24003" Name="Nón-Thời Trang(4)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="19" ParticularType="602" Level="5" SuiteID="0" Icon="Fnon01" View="Fnon01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="state_palsy_resistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_confuse_resistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_knock_resistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="state_drag_resistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
+	</ItemData>
+	<ItemData ItemID="24100" Name="Áo-Thời Trang(1)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="20" ParticularType="602" Level="5" SuiteID="0" Icon="Fao01" View="Fao01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="state_palsy_resistrate" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_confuse_resistrate" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_knock_resistrate" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="state_drag_resistrate" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
+	</ItemData>
+		<ItemData ItemID="24101" Name="Áo-Thời Trang(2)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="20" ParticularType="602" Level="5" SuiteID="0" Icon="Fao01" View="Fao01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="state_palsy_resistrate" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_confuse_resistrate" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_knock_resistrate" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="state_drag_resistrate" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
+	</ItemData>
+		<ItemData ItemID="24102" Name="Áo-Thời Trang(3)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="20" ParticularType="602" Level="5" SuiteID="0" Icon="Fao01" View="Fao01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="state_palsy_resistrate" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_confuse_resistrate" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_knock_resistrate" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="state_drag_resistrate" BasicPropPA1Min="100" BasicPropPA1Max="100" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
+	</ItemData>
+		<ItemData ItemID="24103" Name="Áo-Thời Trang(4)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="20" ParticularType="602" Level="5" SuiteID="0" Icon="Fao01" View="Fao01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="state_palsy_resistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_confuse_resistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="state_knock_resistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
+		<ListBasicProp BasicPropType="state_drag_resistrate" BasicPropPA1Min="150" BasicPropPA1Max="150" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>
+	</ItemData>
+  	<ItemData ItemID="24200" Name="Ngựa-Thời Trang(1)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="21" ParticularType="602" Level="5" SuiteID="0" Icon="Fngua01" View="Fngua01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
 		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
 		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
 		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
@@ -126,7 +190,7 @@
 		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
 	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-	<ItemData ItemID="24100" Name="Áo-Thời Trang(1)" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="20" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+	<ItemData ItemID="24300" Name="Vũ Khí-Thời Trang(1)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="22" ParticularType="602" Level="5" SuiteID="0" Icon="Fvukhi01" View="Fvukhi01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
 		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
 		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
 		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
@@ -134,23 +198,7 @@
 		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
 	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
-  	<ItemData ItemID="24200" Name="Ngựa-Thời Trang(1)" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="21" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
-		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
-		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
-		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
-		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
-		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
-	<UnLockInterval>-1</UnLockInterval>
-	</ItemData>
-	<ItemData ItemID="24300" Name="Vũ Khí-Thời Trang(1)" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="22" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
-		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
-		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
-		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		
-		<ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
-		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
-	<UnLockInterval>-1</UnLockInterval>
-	</ItemData>
-	<ItemData ItemID="24400" Name="Phi Phong-Thời Trang(1)" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="23" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+	<ItemData ItemID="24400" Name="Phi Phong-Thời Trang(1)" IconBundleDir="Icon/EquipIcon3.unity3d" IconAtlasName="EquipIcon3" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="23" ParticularType="602" Level="5" SuiteID="0" Icon="Ffifong01" View="Ffifong01" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="1"  MaskResID=""  ResFemale="1" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
 		<ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
 		<ListBasicProp BasicPropType="skilldamageptrim" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
 		<ListBasicProp BasicPropType="damage_all_resist" BasicPropPA1Min="1" BasicPropPA1Max="1" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />		

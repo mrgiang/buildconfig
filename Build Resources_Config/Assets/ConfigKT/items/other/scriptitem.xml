@@ -8014,4 +8014,28 @@
     <ListExtPram Pram="11" Index="1" />
     <UnLockInterval>0</UnLockInterval>
   </ItemData>
+   <ItemData ItemID="16110" Name="Nón-Thời Trang - Luyện Hóa(2)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Nón-Thời Trang - Luyện Hóa(2)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="2" SuiteID="0" Icon="gaizaotu_yaozhui" View="gaizaotu_yaozhui" Intro="Ghi chép các phương pháp lên Nón-Thời Trang - Luyện Hóa(2).&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Nón-Thời Trang(1), luyện hóa lên &lt;color=gold&gt; Nón-Thời Trang(2) &lt;color&gt;." Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="11" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="16111" Name="Nón-Thời Trang - Luyện Hóa(3)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Nón-Thời Trang - Luyện Hóa(3)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="2" SuiteID="0" Icon="gaizaotu_yaozhui" View="gaizaotu_yaozhui" Intro="Ghi chép các phương pháp lên Nón-Thời Trang - Luyện Hóa(3).&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Nón-Thời Trang(2), luyện hóa lên &lt;color=gold&gt; Nón-Thời Trang(3) &lt;color&gt;." Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="11" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+ <ItemData ItemID="16112" Name="Áo-Thời Trang - Luyện Hóa(4)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Nón-Thời Trang - Luyện Hóa(4)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="2" SuiteID="0" Icon="gaizaotu_yaozhui" View="gaizaotu_yaozhui" Intro="Ghi chép các phương pháp lên Nón-Thời Trang - Luyện Hóa(4).&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Nón-Thời Trang(3), luyện hóa lên &lt;color=gold&gt; Nón-Thời Trang(4) &lt;color&gt;." Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="11" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+     <ItemData ItemID="16113" Name="Áo-Thời Trang - Luyện Hóa(2)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Áo-Thời Trang - Luyện Hóa(2)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="2" SuiteID="0" Icon="gaizaotu_yaozhui" View="gaizaotu_yaozhui" Intro="Ghi chép các phương pháp lên Áo-Thời Trang - Luyện Hóa(2).&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Áo-Thời Trang(1), luyện hóa lên &lt;color=gold&gt; Áo-Thời Trang(2) &lt;color&gt;." Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="11" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="16114" Name="Áo-Thời Trang - Luyện Hóa(3)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Áo-Thời Trang - Luyện Hóa(3)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="2" SuiteID="0" Icon="gaizaotu_yaozhui" View="gaizaotu_yaozhui" Intro="Ghi chép các phương pháp lên Áo-Thời Trang - Luyện Hóa(3).&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Áo-Thời Trang(2), luyện hóa lên &lt;color=gold&gt; Áo-Thời Trang(3) &lt;color&gt;." Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="11" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+ <ItemData ItemID="16115" Name="Áo-Thời Trang - Luyện Hóa(4)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Áo-Thời Trang - Luyện Hóa(4)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="2" SuiteID="0" Icon="gaizaotu_yaozhui" View="gaizaotu_yaozhui" Intro="Ghi chép các phương pháp lên Áo-Thời Trang - Luyện Hóa(4).&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Áo-Thời Trang(3), luyện hóa lên &lt;color=gold&gt; Áo-Thời Trang(4) &lt;color&gt;." Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="11" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
 </ArrayOfItemData>

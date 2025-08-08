@@ -1623,4 +1623,11 @@
   <Refine RefineId="16108" SourceItem="23403" ProduceItem="23404" Fee="10000" /> 
   <Refine RefineId="16109" SourceItem="23403" ProduceItem="23405" Fee="10000" /> 
   
+  <Refine RefineId="16110" SourceItem="24000" ProduceItem="24001" Fee="10000" /> 
+  <Refine RefineId="16111" SourceItem="24001" ProduceItem="24002" Fee="10000" /> 
+  <Refine RefineId="16112" SourceItem="24002" ProduceItem="24003" Fee="10000" /> 
+  <Refine RefineId="16113" SourceItem="24100" ProduceItem="24101" Fee="10000" /> 
+  <Refine RefineId="16114" SourceItem="24101" ProduceItem="24102" Fee="10000" /> 
+  <Refine RefineId="16115" SourceItem="24102" ProduceItem="24103" Fee="10000" /> 
+  
 </ArrayOfRefine>
