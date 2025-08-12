@@ -185,7 +185,7 @@
 -->
 <MilitaryCamp EventID="16">
 	<!-- Điều kiện -->
-	<Condition RequireLevel="90" LimitMembers="1" RoundsPerWeek="14" />
+	<Condition RequireLevel="90" LimitMembers="1" RoundsPerWeek="140" />
 	<!-- End -->
 	
 	<!-- Hậu Sơn Phục Ngưu -->
