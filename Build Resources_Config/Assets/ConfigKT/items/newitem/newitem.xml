@@ -217,4 +217,40 @@
 		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
 	<UnLockInterval>-1</UnLockInterval>
 	</ItemData>
+	<ItemData ItemID="25000" Name="Mặt nạ Hổ Vàng" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="54"  MaskResID="ani019"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="manamax_v" BasicPropPA1Min="50" BasicPropPA1Max="0" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+		<ListBasicProp BasicPropType="deadlystrikeenhance_r" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />		
+		<ListBasicProp BasicPropType="addfiredamage_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+		<ListBasicProp BasicPropType="addfiremagic_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>	
+	</ItemData>
+		<ItemData ItemID="25001" Name="Mặt nạ Hươu Thuần Dưỡng" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="54"  MaskResID="ani008"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="manamax_v" BasicPropPA1Min="50" BasicPropPA1Max="0" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+		<ListBasicProp BasicPropType="deadlystrikeenhance_r" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />		
+		<ListBasicProp BasicPropType="addcolddamage_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+		<ListBasicProp BasicPropType="addcoldmagic_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>	
+	</ItemData>
+		<ItemData ItemID="25002" Name="Mặt nạ Khỉ Hoang Con" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="54"  MaskResID="ani005"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="manamax_v" BasicPropPA1Min="50" BasicPropPA1Max="0" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+		<ListBasicProp BasicPropType="deadlystrikeenhance_r" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />		
+		<ListBasicProp BasicPropType="addlightingdamage_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+		<ListBasicProp BasicPropType="addlightingmagic_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>	
+	</ItemData>
+		<ItemData ItemID="25003" Name="Mặt nạ Gấu Con" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Kinh chưa" QualityPrefix="0" Category="0" Genre="4" Stack="1" DetailType="13" ParticularType="602" Level="5" SuiteID="0" Icon="qinling_mask" View="qinling_mask" Intro="Trang sức VIP" Help="" ObjID="32" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="50000000" MakeCost="-1" ResMale="54"  MaskResID="ani018"  ResFemale="54" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+		<ListBasicProp BasicPropType="lifemax_v" BasicPropPA1Min="50" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+		<ListBasicProp BasicPropType="manamax_v" BasicPropPA1Min="50" BasicPropPA1Max="0" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="2" />
+		<ListBasicProp BasicPropType="deadlystrikeenhance_r" BasicPropPA1Min="10" BasicPropPA1Max="10" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="3" />		
+		<ListBasicProp BasicPropType="addphysicsdamage_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="4" />
+		<ListBasicProp BasicPropType="addphysicsmagic_v" BasicPropPA1Min="20" BasicPropPA1Max="20" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
+		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
+	<UnLockInterval>-1</UnLockInterval>	
+	</ItemData>
 </ArrayOfItemData>
