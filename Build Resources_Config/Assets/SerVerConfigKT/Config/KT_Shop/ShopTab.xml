@@ -4332,8 +4332,6 @@
 		 <ShopItem>5594</ShopItem> 	HT 8
 		 <ShopItem>5595</ShopItem> 	HT 9
 		 <ShopItem>5596</ShopItem> 	HT 10
-		 <ShopItem>5597</ShopItem> 	HT 11
-		 <ShopItem>5598</ShopItem> 	HT 12
 
 	 </ShopTab> 
 	<ShopTab ShopName="Đạo Cụ" ShopID="213" MoneyType="2" Discount="0" TimeSaleStart="" TimeSaleEnd="">	
@@ -4377,8 +4375,6 @@
 		<ShopItem>5594</ShopItem> 	HT 8
 		<ShopItem>5595</ShopItem> 	HT 9
 		<ShopItem>5596</ShopItem> 	HT 10
-		<ShopItem>5597</ShopItem> 	HT 11
-		<ShopItem>5598</ShopItem> 	HT 12
 	</ShopTab>
 	<ShopTab ShopName="Thường Dùng" ShopID="214" MoneyType="3" Discount="0" TimeSaleStart="" TimeSaleEnd="">
 		<ShopItem>5198</ShopItem>   Rương Hồn Thạch 100
