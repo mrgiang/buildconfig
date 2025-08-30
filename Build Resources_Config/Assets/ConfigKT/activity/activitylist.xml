@@ -58,15 +58,13 @@
     <ItemReward>189</ItemReward>
     <ItemReward>190</ItemReward>
   </_Act>
-  <!-- <_Act ID="11" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Võ Lâm Liên Đấu(Liên Server)" MapCode="-7" NPCID="3385" LevelJoin="100" _State="CANJOIN">
-    <ItemReward>13149</ItemReward>
-    <ItemReward>13148</ItemReward>
-    <ItemReward>527</ItemReward>
-    <ItemReward>528</ItemReward>
-    <ItemReward>529</ItemReward>
-    <ItemReward>530</ItemReward>
-    <Time Hours="19" Minute="00" />
-  </_Act>-->
+  <_Act ID="11" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Ghép Mặt Nạ" MapCode="5" NPCID="6778" LevelJoin="10" _State="CANJOIN">
+    <ItemReward>25010</ItemReward>
+    <ItemReward>25011</ItemReward>
+    <ItemReward>25012</ItemReward>
+    <ItemReward>25013</ItemReward>
+    <ItemReward>25014</ItemReward>
+  </_Act>
   <_Act ID="12" DayOfWeek="2 3 4 5 6 7 8" ActivityName="Loạn Đấu Môn Phái(Liên Server)" MapCode="-1" NPCID="0" LevelJoin="50" _State="CANJOIN" MsgTips="Hoạt động của Liên Server">
     <ItemReward>13143</ItemReward>
   </_Act>
