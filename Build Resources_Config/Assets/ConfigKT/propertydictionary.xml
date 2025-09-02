@@ -86,7 +86,7 @@
   <Property ID="162" Name="magic_lucky_v_partner" SymbolName="lucky_v_partner" Description="May mắn: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="true" />
   <Property ID="163" Name="magic_listen_msg" SymbolName="listen_msg" Description="" IsPercent="false" />
   <Property ID="164" Name="magic_lifereplenish_p" SymbolName="lifereplenish_p" Description="Hiệu suất hồi phục sinh lực: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
-  <Property ID="165" Name="magic_returnskill_p" SymbolName="returnskill_p" Description="Xác suất phản đòn bùa chú: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
+  <Property ID="165" Name="magic_returnskill_p" SymbolName="returnskill_p" Description="Xác suất né đòn bùa chú: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
   <Property ID="166" Name="magic_poisondamagereturn_v" SymbolName="poisondamagereturn_v" Description="Phản đòn khi bị sát thương độc: &lt;color=#ffff1a&gt;%s điểm&lt;color&gt;" IsPercent="true" />
   <Property ID="167" Name="magic_poisondamagereturn_p" SymbolName="poisondamagereturn_p" Description="Phản đòn khi bị sát thương độc: &lt;color=#ffff1a&gt;%s%%&lt;color&gt;" IsPercent="true" />
   <Property ID="168" Name="magic_autoskill" SymbolName="autoskill" Description="Thời gian giãn cách xuất hiện của &lt;color=orange&gt;%s&lt;color&gt;: &lt;color=#ffff1a&gt;Giảm %s giây&lt;color&gt;" IsPercent="false" />

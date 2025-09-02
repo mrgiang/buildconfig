@@ -19,5 +19,6 @@
   <Title ID="115" Text="Quán Quân Liên Đấu - Tứ Đấu" Description="Danh hiệu dành cho quán quân vô địch đấu trường liên đấu. Có hiệu lực trong vòng 1 tháng." Duration="720" />
   
   <Title ID="200" Text="Danh hiệu - Nhất Đẳng Vương Gia" Description="Danh hiệu dành cho phiếu cơm." Duration="-1" />
-
+  <Title ID="201" Text="Danh hiệu - Giang Hồ Hảo Thủ" Description="Danh hiệu sự kiện 2-9. Có hiệu lực vĩnh viễn" Duration="-1" />
+  <Title ID="202" Text="Danh hiệu - Vang Danh Thiên Hạ" Description="Danh hiệu sự kiện 2-9. Có hiệu lực vĩnh viễn" Duration="-1" />
 </Titles>

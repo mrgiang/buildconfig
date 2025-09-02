@@ -209,6 +209,12 @@
 				<Symbol Name="manamax_v" Level="1" Value="30" Value2 ="0" Value3 ="0"/>
 				<Symbol Name="damage_all_resist" Level="1" Value="5" Value2 ="0" Value3 ="0"/>
 			</level>
+			<level id="16" ItemID="26000" Name="Event 2-9" ReputeDBID="-1" ReputeLevel="-1" MoneyType="6" GoodsPrice="100000000" >	
+				<Symbol Name="lifemax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="fatallystrikeenhance_p" Level="1" Value="5" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="deadlystrikedamageenhance_p" Level="1" Value="50" Value2 ="0" Value3 ="0"/>
+			</level>	
 		</Sex>	
 		<Sex id="1" >
 			<level id="1" ItemID="3210" Name="Bách Điểu Sam" ReputeDBID="-1" ReputeLevel="-1" MoneyType="2" GoodsPrice="5000000">	
@@ -273,9 +279,15 @@
 				<Symbol Name="damage_all_resist" Level="1" Value="5" Value2 ="0" Value3 ="0"/>
 			</level>			
 			<level id="15" ItemID="3191" Name="Tích Lịch Kim Phượng Giáp" ReputeDBID="-1" ReputeLevel="-1" MoneyType="3" GoodsPrice="750000">	
-				<Symbol Name="lifemax_v" Level="1" Value="30" Value2 ="0" Value3 ="0"/>
-				<Symbol Name="manamax_v" Level="1" Value="30" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="lifemax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
 				<Symbol Name="damage_all_resist" Level="1" Value="5" Value2 ="0" Value3 ="0"/>
+			</level>
+			<level id="16" ItemID="26000" Name="Event 2-9" ReputeDBID="-1" ReputeLevel="-1" MoneyType="6" GoodsPrice="100000000" >	
+				<Symbol Name="lifemax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="fatallystrikeenhance_p" Level="1" Value="5" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="deadlystrikedamageenhance_p" Level="1" Value="50" Value2 ="0" Value3 ="0"/>
 			</level>
 		</Sex>				
 	</class>

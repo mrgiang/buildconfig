@@ -756,4 +756,48 @@
 		<Sprite Name="VBT_18" />
 		<Sprite Name="VBT_19" />
 	</Title>
+	<Title ID="201" Duration="168" EffectID="-1" BundleDir="AnimatedTitle/GHHT.unity3d" AtlasName="GHHT" AnimationSpeed="2">
+		<Sprite Name="GHHT-001" />
+		<Sprite Name="GHHT-002" />
+		<Sprite Name="GHHT-003" />
+		<Sprite Name="GHHT-004" />
+		<Sprite Name="GHHT-005" />
+		<Sprite Name="GHHT-006" />
+		<Sprite Name="GHHT-007" />
+		<Sprite Name="GHHT-008" />
+		<Sprite Name="GHHT-009" />
+		<Sprite Name="GHHT-010" />
+		<Sprite Name="GHHT-011" />
+		<Sprite Name="GHHT-012" />
+		<Sprite Name="GHHT-013" />
+		<Sprite Name="GHHT-014" />
+		<Sprite Name="GHHT-015" />
+		<Sprite Name="GHHT-016" />
+		<Sprite Name="GHHT-017" />
+		<Sprite Name="GHHT-018" />
+		<Sprite Name="GHHT-019" />
+		<Sprite Name="GHHT-020" />
+	</Title>
+	<Title ID="202" Duration="168" EffectID="-1" BundleDir="AnimatedTitle/VDTH.unity3d" AtlasName="VDTH" AnimationSpeed="2">
+		<Sprite Name="VDTH-001" />
+		<Sprite Name="VDTH-002" />
+		<Sprite Name="VDTH-003" />
+		<Sprite Name="VDTH-004" />
+		<Sprite Name="VDTH-005" />
+		<Sprite Name="VDTH-006" />
+		<Sprite Name="VDTH-007" />
+		<Sprite Name="VDTH-008" />
+		<Sprite Name="VDTH-009" />
+		<Sprite Name="VDTH-010" />
+		<Sprite Name="VDTH-011" />
+		<Sprite Name="VDTH-012" />
+		<Sprite Name="VDTH-013" />
+		<Sprite Name="VDTH-014" />
+		<Sprite Name="VDTH-015" />
+		<Sprite Name="VDTH-016" />
+		<Sprite Name="VDTH-017" />
+		<Sprite Name="VDTH-018" />
+		<Sprite Name="VDTH-019" />
+		<Sprite Name="VDTH-020" />
+	</Title>
 </SpecialTitle>

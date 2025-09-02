@@ -277,6 +277,8 @@
 	<Script ID="201000" Dir="Item/Common/TheBaiDanhHieu.lua"/>
 	<Script ID="201001" Dir="Item/Common/ThaiVanTruyNguyet.lua"/>
 	<Script ID="201002" Dir="Item/Common/ThuongHaiNguyetMinh.lua"/>
+	<Script ID="201003" Dir="Item/Common/TuiEvent.lua"/>
+	
 	<!-- End -->
 	
 	<!-- Grow Point -->

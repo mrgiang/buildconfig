@@ -351,5 +351,48 @@
 		<ListBasicProp BasicPropType="addpoisonmagic_v" BasicPropPA1Min="7" BasicPropPA1Max="7" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="5" />
 		<ListReqProp ReqPropType="5" ReqPropValue="1" Index="1" />
 	<UnLockInterval>-1</UnLockInterval>	
-		</ItemData>	
+		</ItemData>			
+  <ItemData ItemID="26000" Name="Event 2-9" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Thời trang" QualityPrefix="6" Category="1" Genre="4" Stack="1" DetailType="3" ParticularType="153" Level="10" SuiteID="3" Icon="armor_ma_armor_silver" View="armor_ma_armor_silver_s" Intro="" Help="" ObjID="20" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="120000" ItemValue="45000000" MakeCost="70000" ResMale="57" ResFemale="57" FightPower="8" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="48" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="97" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_hurt_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_physics_resist" EnhMAPA1Min="175" EnhMAPA1Max="175" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_hurt_resistrate" EnhMAPA1Min="175" EnhMAPA1Max="175" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="8" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="8" IsActive="true" Index="2" />
+    <GreenProp MagicName="meleedamagereturn_p" MagicLevel="8" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="8" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="8" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_hurt_resistrate" StrMAPA1Min="80" StrMAPA1Max="80" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+    <ItemData ItemID="26001" Name="Event 2-9" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Trường Sinh Phát Kết" QualityPrefix="0" Category="1" Genre="1" Stack="1" DetailType="9" ParticularType="8" Level="10" SuiteID="0" Icon="helm_f_bupi_810" View="helm_f_bupi_810_s" Intro="" Help="" ObjID="19" BindType="2" Series="-1" ReqLevel="0" CDType="0" Price="1" ItemValue="1" MakeCost="-1" ResMale="57" ResFemale="57" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="99" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="lifereplenish_v" EnhMAPA1Min="26" EnhMAPA1Max="26" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="7" EnhMAPA1Max="7" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="150" EnhMAPA1Max="150" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="175" EnhMAPA1Max="175" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="80" StrMAPA1Max="80" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+    <ItemData ItemID="26002" Name="Túi Event Mốc 1 (2-9)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Túi Event" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="351" Level="1" SuiteID="0" Icon="jh_libao1" View="jh_libao1" Intro="Quà Event Mốc 1 (2-9)" Help="" ObjID="7" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="2821109" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="201003" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+      <ItemData ItemID="26003" Name="Túi Event Mốc 2 (2-9)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Túi Event" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="351" Level="1" SuiteID="0" Icon="jh_libao2" View="jh_libao2" Intro="Quà Event Mốc 2(2-9)" Help="" ObjID="7" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="2821109" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="201003" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+      <ItemData ItemID="26004" Name="Túi Event Mốc 3 (2-9)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Túi Event" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="351" Level="1" SuiteID="0" Icon="jh_libao3" View="jh_libao3" Intro="Quà Event Mốc 3 (2-9)" Help="" ObjID="7" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="2821109" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="201003" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+      <ItemData ItemID="26005" Name="Túi Event Mốc 4 (2-9)" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Túi Event" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="1" ParticularType="351" Level="1" SuiteID="0" Icon="jh_libao4" View="jh_libao4" Intro="Quà Event Mốc 4 (2-9)" Help="" ObjID="7" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="1" ItemValue="2821109" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="201003" DeductOnUse="false" BuffID="-1">
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
 </ArrayOfItemData>
