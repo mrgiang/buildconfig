@@ -213,7 +213,7 @@
 				<Symbol Name="lifemax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
 				<Symbol Name="manamax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
 				<Symbol Name="fatallystrikeenhance_p" Level="1" Value="5" Value2 ="0" Value3 ="0"/>
-				<Symbol Name="deadlystrikedamageenhance_p" Level="1" Value="50" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="deadlystrikedamageenhance_p" Level="1" Value="20" Value2 ="0" Value3 ="0"/>
 			</level>	
 		</Sex>	
 		<Sex id="1" >
@@ -287,7 +287,7 @@
 				<Symbol Name="lifemax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
 				<Symbol Name="manamax_v" Level="1" Value="300" Value2 ="0" Value3 ="0"/>
 				<Symbol Name="fatallystrikeenhance_p" Level="1" Value="5" Value2 ="0" Value3 ="0"/>
-				<Symbol Name="deadlystrikedamageenhance_p" Level="1" Value="50" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="deadlystrikedamageenhance_p" Level="1" Value="20" Value2 ="0" Value3 ="0"/>
 			</level>
 		</Sex>				
 	</class>

@@ -21836,7 +21836,6 @@
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="20" />
         <SkillLevelValue Level="20" Value="40" />
-        <SkillLevelValue Level="22" Value="40" />
       </Value>
     </Symbol>
     <Symbol Name="rangedamagereturn_p">
@@ -21844,7 +21843,6 @@
         <SkillLevelValue Level="1" Value="10" />
         <SkillLevelValue Level="10" Value="20" />
         <SkillLevelValue Level="20" Value="40" />
-        <SkillLevelValue Level="22" Value="40" />
       </Value>
     </Symbol>
   </Skill>
@@ -21854,7 +21852,6 @@
         <SkillLevelValue Level="1" Value="5" />
         <SkillLevelValue Level="10" Value="10" />
         <SkillLevelValue Level="20" Value="15" />
-        <SkillLevelValue Level="22" Value="16" />
       </Value>
     </Symbol>
     <Symbol Name="rangedamagereturn_p">
@@ -21862,7 +21859,6 @@
         <SkillLevelValue Level="1" Value="5" />
         <SkillLevelValue Level="10" Value="10" />
         <SkillLevelValue Level="20" Value="15" />
-        <SkillLevelValue Level="22" Value="16" />
       </Value>
     </Symbol>
   </Skill>
