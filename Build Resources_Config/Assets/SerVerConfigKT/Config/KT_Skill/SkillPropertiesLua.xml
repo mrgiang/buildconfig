@@ -5750,7 +5750,12 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="40" />
         <SkillLevelValue Level="20" Value="100" />
-        <SkillLevelValue Level="21" Value="100" />
+      </Value>
+    </Symbol>
+	<Symbol Name="damage_return_receive_p">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="-40" />
+        <SkillLevelValue Level="20" Value="-100" />
       </Value>
     </Symbol>
     <Symbol Name="ignoreskill">

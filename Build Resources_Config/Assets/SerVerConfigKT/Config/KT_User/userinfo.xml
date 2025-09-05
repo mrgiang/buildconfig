@@ -67,7 +67,7 @@
 <user username='anhkiet' rid='1800200128' isban='1' /> 
 <user username='anhmai9992' rid='1800200331' isban='0' /> 
 <user username='anhnien1' rid='1800200106' isban='1' /> 
-<user username='anhrajdj' rid='1800200708' isban='1' /> 
+<user username='anhrajdj' rid='1800200708' isban='0' /> 
 <user username='anhtrong1997' rid='1800200428' isban='0' /> 
 <user username='anhtuankc1' rid='1800200714' isban='0' /> 
 <user username='anhtungkute1' rid='1800200241' isban='1' /> 
@@ -97,6 +97,7 @@
 <user username='betybk' rid='1800200560' isban='0' /> 
 <user username='bidas' rid='1800200480' isban='1' /> 
 <user username='bienxanhnt1' rid='1800200698' isban='1' /> 
+<user username='bienxanhnt2' rid='1800200742' isban='0' /> 
 <user username='bietdoiphao' rid='1800200051' isban='0' /> 
 <user username='bigboygiang' rid='1800200186' isban='1' /> 
 <user username='biitran0912' rid='1800200364' isban='1' /> 
@@ -104,7 +105,7 @@
 <user username='binbin' rid='1800200461' isban='1' /> 
 <user username='binhbeo' rid='1800200032' isban='1' /> 
 <user username='binhtn90' rid='1800200201' isban='0' /> 
-<user username='BlackMagic' rid='1800200713' isban='1' /> 
+<user username='BlackMagic' rid='1800200713' isban='0' /> 
 <user username='bloodmoon' rid='1800200696' isban='0' /> 
 <user username='blud1089' rid='1800200370' isban='1' /> 
 <user username='blud1989' rid='1800200366' isban='1' /> 
@@ -127,6 +128,7 @@
 <user username='chighe1994' rid='1800200124' isban='1' /> 
 <user username='chinhlaem1' rid='1800200352' isban='1' /> 
 <user username='chiusanghy1' rid='1800200073' isban='0' /> 
+<user username='choigame22' rid='1800200735' isban='1' /> 
 <user username='choune' rid='1800200629' isban='0' /> 
 <user username='chung002' rid='1800200687' isban='0' /> 
 <user username='CoGiaoDung' rid='1800200319' isban='1' /> 
@@ -138,7 +140,7 @@
 <user username='Conrongconn' rid='1800200125' isban='1' /> 
 <user username='corei3' rid='1800200121' isban='1' /> 
 <user username='corpionthanhhai695' rid='1800200413' isban='1' /> 
-<user username='cuchim2029' rid='1800200725' isban='1' /> 
+<user username='cuchim2029' rid='1800200725' isban='0' /> 
 <user username='cuchoqt' rid='1800200307' isban='0' /> 
 <user username='cungnp' rid='1800200538' isban='0' /> 
 <user username='cuong3256' rid='1800200317' isban='0' /> 
@@ -173,7 +175,9 @@
 <user username='drtaizan' rid='1800200437' isban='1' /> 
 <user username='ducnv357' rid='1800200017' isban='0' /> 
 <user username='ducvu454' rid='1800200614' isban='1' /> 
+<user username='DungBoHoang' rid='1800200734' isban='0' /> 
 <user username='duongnguyen96' rid='1800200514' isban='1' /> 
+<user username='duongvk03' rid='1800200738' isban='1' /> 
 <user username='duy9080123' rid='1800200257' isban='0' /> 
 <user username='duyha999' rid='1800200459' isban='1' /> 
 <user username='duysuky' rid='1800200639' isban='0' /> 
@@ -182,6 +186,7 @@
 <user username='e5086c05-80ce-448f-ad3c-36b802f3aebf' rid='1800200239' isban='1' /> 
 <user username='e5956e55-0dd7-490e-afd5-4bfa1a43aa92' rid='1800200468' isban='1' /> 
 <user username='e790df45-9234-4883-8698-3b81ced656b9' rid='1800200129' isban='1' /> 
+<user username='e8430023-dd14-4d99-9352-26dcf559eb93' rid='1800200730' isban='1' /> 
 <user username='ed41e7a1-0dbc-4c9a-8564-89f6c62e9dc1' rid='1800200403' isban='1' /> 
 <user username='edcvcc' rid='1800200217' isban='0' /> 
 <user username='edcvss' rid='1800200041' isban='1' /> 
@@ -193,7 +198,9 @@
 <user username='f48c1e9a-187e-4d9a-8e09-44a2649a01e2' rid='1800200672' isban='1' /> 
 <user username='ffef6caa-d573-407a-85a8-d774597a357a' rid='1800200553' isban='1' /> 
 <user username='fxtnt195' rid='1800200236' isban='0' /> 
+<user username='gaconlc' rid='1800200746' isban='1' /> 
 <user username='galaxyy' rid='1800200485' isban='1' /> 
+<user username='gameduong' rid='1800200745' isban='1' /> 
 <user username='gamehbc2024' rid='1800200327' isban='1' /> 
 <user username='gameloxxx' rid='1800200235' isban='1' /> 
 <user username='gameoff' rid='1800200686' isban='1' /> 
@@ -220,9 +227,10 @@
 <user username='Hahehihuh6' rid='1800200591' isban='1' /> 
 <user username='Hahehihuh9' rid='1800200567' isban='0' /> 
 <user username='haiag5' rid='1800200115' isban='1' /> 
-<user username='haithanh' rid='1800200682' isban='1' /> 
+<user username='haithanh' rid='1800200682' isban='0' /> 
+<user username='haithanh14' rid='1800200743' isban='0' /> 
 <user username='hakulamamata' rid='1800200116' isban='1' /> 
-<user username='hanbang01' rid='1800200616' isban='0' /> 
+<user username='hanbang01' rid='1800200616' isban='1' /> 
 <user username='hanhneem' rid='1800200309' isban='1' /> 
 <user username='haohm95' rid='1800200487' isban='1' /> 
 <user username='hathuyen456' rid='1800200705' isban='0' /> 
@@ -290,9 +298,11 @@
 <user username='kais4r' rid='1800200089' isban='1' /> 
 <user username='kakasaia' rid='1800200300' isban='0' /> 
 <user username='kankun' rid='1800200533' isban='1' /> 
+<user username='kartos0001' rid='1800200731' isban='0' /> 
 <user username='keoots2' rid='1800200583' isban='1' /> 
 <user username='ket12345' rid='1800200262' isban='1' /> 
 <user username='kevin14' rid='1800200029' isban='0' /> 
+<user username='kha1stt' rid='1800200733' isban='1' /> 
 <user username='Khang1518' rid='1800200655' isban='1' /> 
 <user username='khanghack456' rid='1800200554' isban='1' /> 
 <user username='khanh1302' rid='1800200477' isban='1' /> 
@@ -331,6 +341,7 @@
 <user username='laquan' rid='1800200135' isban='1' /> 
 <user username='latik2' rid='1800200266' isban='1' /> 
 <user username='leanhduy19922026' rid='1800200680' isban='0' /> 
+<user username='leetuan2025' rid='1800200736' isban='1' /> 
 <user username='lehaha123123' rid='1800200450' isban='0' /> 
 <user username='lehihi123123' rid='1800200491' isban='1' /> 
 <user username='lehung17' rid='1800200417' isban='1' /> 
@@ -359,6 +370,7 @@
 <user username='mailong2023' rid='1800200316' isban='1' /> 
 <user username='malboy' rid='1800200618' isban='0' /> 
 <user username='maleson12' rid='1800200030' isban='1' /> 
+<user username='maleson14' rid='1800200739' isban='1' /> 
 <user username='manh290501' rid='1800200649' isban='0' /> 
 <user username='manhga' rid='1800200046' isban='1' /> 
 <user username='manhgiagia' rid='1800200684' isban='0' /> 
@@ -453,6 +465,7 @@
 <user username='offline92' rid='1800200333' isban='1' /> 
 <user username='onemoretimez' rid='1800200712' isban='0' /> 
 <user username='onizuka1' rid='1800200271' isban='1' /> 
+<user username='pctptp25' rid='1800200740' isban='1' /> 
 <user username='peheolk' rid='1800200250' isban='1' /> 
 <user username='peluukon2' rid='1800200189' isban='1' /> 
 <user username='pgiang2810' rid='1800200191' isban='1' /> 
@@ -473,7 +486,7 @@
 <user username='phucman' rid='1800200611' isban='0' /> 
 <user username='phuctam83' rid='1800200224' isban='1' /> 
 <user username='phuculi' rid='1800200562' isban='0' /> 
-<user username='phuongdiep1989' rid='1800200617' isban='0' /> 
+<user username='phuongdiep1989' rid='1800200617' isban='1' /> 
 <user username='phuongdiep89' rid='1800200601' isban='1' /> 
 <user username='phuongtrang' rid='1800200447' isban='1' /> 
 <user username='pmthaha02' rid='1800200600' isban='0' /> 
@@ -511,6 +524,7 @@
 <user username='ryanruy' rid='1800200728' isban='0' /> 
 <user username='sac1112' rid='1800200552' isban='0' /> 
 <user username='sakurapv' rid='1800200335' isban='1' /> 
+<user username='samkiemthe' rid='1800200744' isban='1' /> 
 <user username='sang123' rid='1800200077' isban='1' /> 
 <user username='sangdang' rid='1800200016' isban='0' /> 
 <user username='sangkg' rid='1800200397' isban='1' /> 
@@ -538,6 +552,7 @@
 <user username='stq001' rid='1800200264' isban='1' /> 
 <user username='stranger' rid='1800200272' isban='1' /> 
 <user username='subinn' rid='1800200709' isban='0' /> 
+<user username='talatrunghp4' rid='1800200741' isban='1' /> 
 <user username='tam4444' rid='1800200326' isban='1' /> 
 <user username='tamnguyen' rid='1800200541' isban='0' /> 
 <user username='tamthanh' rid='1800200445' isban='1' /> 
@@ -545,12 +560,13 @@
 <user username='taolaotaolao' rid='1800200228' isban='1' /> 
 <user username='tapchoi' rid='1800200670' isban='0' /> 
 <user username='tatthanhvn' rid='1800200688' isban='0' /> 
-<user username='taysobavuong' rid='1800200432' isban='1' /> 
+<user username='taysobavuong' rid='1800200432' isban='0' /> 
 <user username='tazumi' rid='1800200076' isban='1' /> 
 <user username='tdlc1' rid='1800200470' isban='1' /> 
 <user username='teddyy' rid='1800200667' isban='0' /> 
 <user username='teemon' rid='1800200040' isban='0' /> 
 <user username='teemon1' rid='1800200328' isban='0' /> 
+<user username='tennhanvat' rid='1800200737' isban='1' /> 
 <user username='thaigiamz1' rid='1800200411' isban='1' /> 
 <user username='thamcb' rid='1800200176' isban='0' /> 
 <user username='thangbean' rid='1800200208' isban='1' /> 
@@ -584,9 +600,10 @@
 <user username='tiendk999' rid='1800200117' isban='1' /> 
 <user username='tiendk9999' rid='1800200647' isban='0' /> 
 <user username='tienkien2025' rid='1800200269' isban='1' /> 
+<user username='TieuBa' rid='1800200747' isban='0' /> 
 <user username='tieuyet00' rid='1800200608' isban='0' /> 
 <user username='tiidau123' rid='1800200119' isban='1' /> 
-<user username='tikhet1995' rid='1800200726' isban='1' /> 
+<user username='tikhet1995' rid='1800200726' isban='0' /> 
 <user username='tinhlagi95' rid='1800200651' isban='0' /> 
 <user username='tkgaming122333' rid='1800200102' isban='1' /> 
 <user username='tlptts' rid='1800200460' isban='1' /> 
@@ -615,6 +632,7 @@
 <user username='trungxikea1' rid='1800200588' isban='1' /> 
 <user username='truonggiahuy' rid='1800200711' isban='1' /> 
 <user username='ttdung' rid='1800200435' isban='1' /> 
+<user username='ttkcb1' rid='1800200732' isban='1' /> 
 <user username='tttmktt01' rid='1800200660' isban='0' /> 
 <user username='tuanan001' rid='1800200612' isban='0' /> 
 <user username='tuananh2209' rid='1800200022' isban='1' /> 
@@ -627,7 +645,7 @@
 <user username='tuyen2012' rid='1800200199' isban='0' /> 
 <user username='tuyetma' rid='1800200299' isban='1' /> 
 <user username='tvy1606kg' rid='1800200621' isban='1' /> 
-<user username='typnthoi89' rid='1800200066' isban='1' /> 
+<user username='typnthoi89' rid='1800200066' isban='0' /> 
 <user username='tzz111' rid='1800200703' isban='0' /> 
 <user username='ultimatebow1994' rid='1800200104' isban='0' /> 
 <user username='vananbinh7318' rid='1800200570' isban='1' /> 
@@ -662,7 +680,7 @@
 <user username='xinhxinh' rid='1800200451' isban='1' /> 
 <user username='xinhxinh1' rid='1800200452' isban='0' /> 
 <user username='xipo71' rid='1800200549' isban='0' /> 
-<user username='xipo89' rid='1800200638' isban='1' /> 
+<user username='xipo89' rid='1800200638' isban='0' /> 
 <user username='xipo99' rid='1800200594' isban='1' /> 
 <user username='xuansang10' rid='1800200677' isban='0' /> 
 <user username='xuantam1995' rid='1800200079' isban='0' /> 
