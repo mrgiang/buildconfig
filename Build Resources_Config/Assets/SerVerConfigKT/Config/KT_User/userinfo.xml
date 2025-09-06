@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <userinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <userinfos ischeck='1'>
-<user username='0335348866' rid='1800200248' isban='0' /> 
+  <userinfos ischeck='0'>
+  <user username='0335348866' rid='1800200248' isban='0' /> 
 <user username='0367242468' rid='1800200291' isban='1' /> 
 <user username='0382523832' rid='1800200387' isban='0' /> 
 <user username='0839709790' rid='1800200194' isban='1' /> 
@@ -64,6 +64,7 @@
 <user username='anhcuonghb' rid='1800200114' isban='0' /> 
 <user username='anhduc99' rid='1800200094' isban='1' /> 
 <user username='anhduongvk93' rid='1800200564' isban='0' /> 
+<user username='anhem2' rid='1800200748' isban='1' /> 
 <user username='anhkiet' rid='1800200128' isban='1' /> 
 <user username='anhmai9992' rid='1800200331' isban='0' /> 
 <user username='anhnien1' rid='1800200106' isban='1' /> 
@@ -456,6 +457,7 @@
 <user username='niko002' rid='1800200690' isban='1' /> 
 <user username='nitawo55' rid='1800200110' isban='0' /> 
 <user username='nkoksonhy93' rid='1800200305' isban='0' /> 
+<user username='nmhdlthqb' rid='1800200749' isban='0' /> 
 <user username='nobita' rid='1800200675' isban='1' /> 
 <user username='nobles10' rid='1800200008' isban='0' /> 
 <user username='nohair' rid='1800200226' isban='0' /> 
@@ -699,5 +701,7 @@
 <user username='zphuong' rid='1800200044' isban='0' /> 
 <user username='zukeny' rid='1800200265' isban='0' /> 
 <user username='zzbamboo' rid='1800200323' isban='1' /> 
+
+
   </userinfos>
 </userinfo>
