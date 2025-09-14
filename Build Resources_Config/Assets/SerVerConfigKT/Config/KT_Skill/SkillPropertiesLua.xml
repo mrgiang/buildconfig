@@ -16722,7 +16722,7 @@
         <SkillLevelValue Level="11" Value="11" />
       </Value>
     </Symbol>
-    <Symbol Name="poisondamage_v">
+    <Symbol Name="addpoisonmagic_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="345" />
         <SkillLevelValue Level="10" Value="450" />
