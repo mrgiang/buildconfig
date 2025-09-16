@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uimanager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Icons ID="1" IconID="Image Set Skill Target Position" Name="Chọn vị trí tay trái"/>
+  <Icons ID="2" IconID="Image Set Skill Target Position R" Name="Chọn vị trí tay phải"/>
+  <Icons ID="3" IconID="Toggle - Change Skill" Name="Nút đổi tay"/>
+  <Icons ID="4" IconID="Button - Main Skill" Name="Nút Skill chính"/>
+  <Icons ID="5" IconID="Button - Sub Skill 1" Name="Nút Skill 1"/>
+  <Icons ID="6" IconID="Button - Sub Skill 2" Name="Nút Skill 2"/>
+  <Icons ID="7" IconID="Button - Sub Skill 3" Name="Nút Skill 3"/>
+  <Icons ID="8" IconID="Button - Sub Skill 4" Name="Nút Skill 4"/>
+  <Icons ID="9" IconID="Button Jump" Name="Nút Khinh Công"/>
+  <Icons ID="10" IconID="Button Toggle Mount" Name="Nút Lên Ngựa"/>
+  <Icons ID="11" IconID="Button - Auto Farm" Name="Nút Auto Train"/>
+  <Icons ID="12" IconID="Button - Auto PK" Name="Nút Auto Pk"/>
+  <Icons ID="13" IconID="Button - Aura Skill" Name="Nút Vòng Sáng"/>
+  <Icons ID="14" IconID="Button Near By Player" Name="Nút gần"/>
+  <Icons ID="15" IconID="Button Sit" Name="Nút ngồi"/>
+</uimanager>

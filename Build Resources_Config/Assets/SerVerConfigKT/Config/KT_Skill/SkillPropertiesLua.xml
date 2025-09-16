@@ -31552,7 +31552,7 @@
       <Value ID="1">
         <SkillLevelValue Level="1" Value="35" />
         <SkillLevelValue Level="20" Value="70" />
-        <SkillLevelValue Level="21" Value="100" />
+        <SkillLevelValue Level="21" Value="75" />
       </Value>
     </Symbol>
     <Symbol Name="seriesdamage_r">
