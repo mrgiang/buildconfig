@@ -25200,40 +25200,7 @@
     </Symbol>
   </Skill>
   <Skill Name="xianjing120">
-    <Symbol Name="addenchant">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="28" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="1" />
-        <SkillLevelValue Level="2" Value="2" />
-      </Value>
-    </Symbol>
-    <Symbol Name="ignoreskill">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="66" />
-        <SkillLevelValue Level="10" Value="66" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="0" />
-      </Value>
-      <Value ID="3">
-        <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="2" Value="3" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skilldamageptrim">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="33" />
-        <SkillLevelValue Level="10" Value="33" />
-      </Value>
-    </Symbol>
-    <Symbol Name="skillselfdamagetrim">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="33" />
-        <SkillLevelValue Level="10" Value="33" />
-      </Value>
-    </Symbol>
+
     <Symbol Name="skill_cost_v">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="500" />
@@ -25289,20 +25256,11 @@
         <SkillLevelValue Level="10" Value="33" />
       </Value>
     </Symbol>
-    <Symbol Name="skill_missilenum_v">
-      <Value ID="1">
-        <SkillLevelValue Level="1" Value="6" />
-        <SkillLevelValue Level="10" Value="15" />
-        <SkillLevelValue Level="11" Value="16" />
-      </Value>
-      <Value ID="2">
-        <SkillLevelValue Level="1" Value="1" />
-      </Value>
-    </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="63" />
-        <SkillLevelValue Level="2" Value="63" />
+        <SkillLevelValue Level="1" Value="108" />
+        <SkillLevelValue Level="10" Value="270" />
+        <SkillLevelValue Level="11" Value="288" />
       </Value>
     </Symbol>
   </Skill>
