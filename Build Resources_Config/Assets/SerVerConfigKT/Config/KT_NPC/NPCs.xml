@@ -2723,5 +2723,12 @@
 	  <NPC ID="20149" ResName="enemy063" Title="&lt;color=yellow&gt;Tiếp dẫn đấu trường&lt;/color&gt;" Name="Xa phu  " />
 	  <NPC ID="20150" ResName="enemy099" Title="&lt;color=green&gt;Tiếp dẫn sự kiện&lt;/color&gt;" Name="Cán bộ đăng kí" />
 	  <NPC ID="20152" ResName="enemy194" Title="&lt;color=Cyan&gt;Mĩ nữ chân trần&lt;/color&gt;" Name="Pé Tưng" />
+	  
+      <NPC ID="20200" ResName="passerby566" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+      <NPC ID="20201" ResName="passerby567" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+      <NPC ID="20202" ResName="passerby568" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+      <NPC ID="20203" ResName="passerby569" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+      <NPC ID="20204" ResName="passerby570" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+
 	</NPCs>
 </Map>

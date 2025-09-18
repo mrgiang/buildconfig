@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <EnchantSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Skill ID="1" Name="Hàm Sa Xạ Ảnh">
 		<RelatedSkill ID="64">
@@ -896,15 +896,17 @@
 		<RelatedSkill ID="69">
 			<Symbol Name="skill_maxmissile">
 				<Value ID="1" Type="1">
-					<SkillLevelValue Level="1" Value="4" />
-					<SkillLevelValue Level="6" Value="2" />
+					<SkillLevelValue Level="1" Value="0" />
+					<SkillLevelValue Level="2" Value="1" />
+					<SkillLevelValue Level="7" Value="2" />
 					<SkillLevelValue Level="10" Value="2" />
 				</Value>
 			</Symbol>
 			
 			<Symbol Name="missile_lifetime_v">
 				<Value ID="1" Type="1">
-					<SkillLevelValue Level="1" Value="180" />
+					<SkillLevelValue Level="1" Value="0" />
+					<SkillLevelValue Level="2" Value="180" />
 					<SkillLevelValue Level="10" Value="360" />
 				</Value>
 			</Symbol>

@@ -802,5 +802,11 @@
   <Set ID="passerby549" BundleDir="Resources/MonsterActionSet/passerby549" Use8Dir="false" PosX="0" PosY="0" Height="0" AutoFlip="false" />
   <Set ID="passerby564" BundleDir="Resources/MonsterActionSet/passerby564" Use8Dir="false" PosX="0" PosY="0" Height="0" AutoFlip="false" />
   <Set ID="passerby565" BundleDir="Resources/MonsterActionSet/passerby565" Use8Dir="false" PosX="0" PosY="0" Height="0" AutoFlip="false" />
+  <Set ID="passerby566" BundleDir="Resources/MonsterActionSet/passerby566" Use8Dir="false" PosX="0" PosY="0" Height="0" AutoFlip="false" />
+  <Set ID="passerby567" BundleDir="Resources/MonsterActionSet/passerby567" Use8Dir="false" PosX="0" PosY="0" Height="0" AutoFlip="false" />
+  <Set ID="passerby568" BundleDir="Resources/MonsterActionSet/passerby568" Use8Dir="false" PosX="175" PosY="240" Height="0" AutoFlip="false" />
+  <Set ID="passerby569" BundleDir="Resources/MonsterActionSet/passerby569" Use8Dir="false" PosX="0" PosY="0" Height="0" AutoFlip="false" />
+  <Set ID="passerby570" BundleDir="Resources/MonsterActionSet/passerby570" Use8Dir="false" PosX="0" PosY="0" Height="0" AutoFlip="false" />
+
   <Set ID="zhangdu120" BundleDir="Resources/MonsterActionSet/zhangdu120" Use8Dir="false" PosX="0" PosY="0" Height="0" AutoFlip="false" />
 </MonsterActionSet>

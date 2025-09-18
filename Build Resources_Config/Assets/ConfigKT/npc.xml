@@ -2729,5 +2729,10 @@
 	  <NPC ID="20153" ResName="passerby016" Title="&lt;color=green&gt;Chiêu Mộ Sứ Liên sever (Tống)&lt;/color&gt;" Name="Triệu Nguyên Tịnh" />
 	  <NPC ID="20154" ResName="passerby044" Title="&lt;color=green&gt;Chiêu Mộ Sứ Liên sever (Kim)&lt;/color&gt;" Name="Hoàn Nhan Long Húc" />
 -->
+      <NPC ID="20200" ResName="passerby566" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+      <NPC ID="20201" ResName="passerby567" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+      <NPC ID="20202" ResName="passerby568" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+      <NPC ID="20203" ResName="passerby569" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
+      <NPC ID="20204" ResName="passerby570" Title="&lt;color=gold&gt;Tân nhân vương-Thiếu Lâm Đao&lt;/color&gt;" Name="" />
   </NPCs>
 </Map>

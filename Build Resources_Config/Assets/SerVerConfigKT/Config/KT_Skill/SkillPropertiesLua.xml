@@ -24699,7 +24699,7 @@
         <SkillLevelValue Level="1" Value="100" />
         <SkillLevelValue Level="10" Value="200" />
         <SkillLevelValue Level="20" Value="300" />
-        <SkillLevelValue Level="21" Value="205" />
+        <SkillLevelValue Level="21" Value="310" />
       </Value>
       <Value ID="2">
         <SkillLevelValue Level="1" Value="18" />
@@ -24797,9 +24797,9 @@
         <SkillLevelValue Level="20" Value="80" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="3" />
-        <SkillLevelValue Level="10" Value="10" />
-        <SkillLevelValue Level="20" Value="10" />
+        <SkillLevelValue Level="1" Value="2" />
+        <SkillLevelValue Level="10" Value="2" />
+        <SkillLevelValue Level="11" Value="2" />
       </Value>
       <Value ID="3">
         <SkillLevelValue Level="1" Value="32" />
