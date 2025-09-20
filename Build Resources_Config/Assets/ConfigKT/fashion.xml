@@ -779,4 +779,40 @@
 			</level>			
 		</Sex>	
 	</class>
+	<class id="6" Name="Danh Hiệu"  State="Show">
+		<Sex id="0" >
+			<level id="1" ItemID="16011" Name="Danh Hiệu - Nhất Đẳng Vương Gia" ReputeDBID="-1" ReputeLevel="-1" MoneyType="10" GoodsPrice="1">		
+				<Symbol Name="lifemax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="damage_all_resist" Level="1" Value="20" Value2 ="0" Value3 ="0"/>
+			</level>
+			<level id="2" ItemID="16012" Name="Danh Hiệu - Giang Hồ Hảo Thủ" ReputeDBID="-1" ReputeLevel="-1" MoneyType="10" GoodsPrice="1">		
+				<Symbol Name="lifemax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="damage_all_resist" Level="1" Value="20" Value2 ="0" Value3 ="0"/>
+			</level>			
+			<level id="3" ItemID="16013" Name="Danh Hiệu - Vang Danh Thiên Hạ" ReputeDBID="-1" ReputeLevel="-1" MoneyType="10" GoodsPrice="1">		
+				<Symbol Name="lifemax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="damage_all_resist" Level="1" Value="20" Value2 ="0" Value3 ="0"/>
+			</level>									
+		</Sex>	
+		<Sex id="1" >
+			<level id="1" ItemID="16011" Name="Danh Hiệu - Nhất Đẳng Vương Gia" ReputeDBID="-1" ReputeLevel="-1" MoneyType="10" GoodsPrice="1">		
+				<Symbol Name="lifemax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="damage_all_resist" Level="1" Value="20" Value2 ="0" Value3 ="0"/>
+			</level>
+			<level id="2" ItemID="16012" Name="Danh Hiệu - Giang Hồ Hảo Thủ" ReputeDBID="-1" ReputeLevel="-1" MoneyType="10" GoodsPrice="1">		
+				<Symbol Name="lifemax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="damage_all_resist" Level="1" Value="20" Value2 ="0" Value3 ="0"/>
+			</level>			
+			<level id="3" ItemID="16013" Name="Danh Hiệu - Vang Danh Thiên Hạ" ReputeDBID="-1" ReputeLevel="-1" MoneyType="10" GoodsPrice="1">		
+				<Symbol Name="lifemax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="manamax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>
+				<Symbol Name="damage_all_resist" Level="1" Value="20" Value2 ="0" Value3 ="0"/>
+			</level>								
+		</Sex>	
+	</class>
 </fashion>

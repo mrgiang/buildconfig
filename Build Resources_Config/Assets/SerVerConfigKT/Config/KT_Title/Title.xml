@@ -25,4 +25,9 @@
 	<Title ID="200" Text="Danh hiệu - Nhất Đẳng Vương Gia" Description="Danh hiệu dành cho phiếu cơm. Có hiệu lực vĩnh viễn" Duration="-1" />
 	<Title ID="201" Text="Danh hiệu - Giang Hồ Hảo Thủ" Description="Danh hiệu sự kiện 2-9. Có hiệu lực vĩnh viễn" Duration="-1" />
 	<Title ID="202" Text="Danh hiệu - Vang Danh Thiên Hạ" Description="Danh hiệu sự kiện 2-9. Có hiệu lực vĩnh viễn" Duration="-1" />
+	
+	<Title ID="16011" Text="Danh hiệu - Vang Danh Thiên Hạ" Description="Danh hiệu sự kiện 2-9. Có hiệu lực vĩnh viễn" Duration="-1" />
+	<Title ID="16012" Text="Danh hiệu - Giang Hồ Hảo Thủ" Description="Danh hiệu sự kiện 2-9. Có hiệu lực vĩnh viễn" Duration="-1" />
+	<Title ID="16013" Text="Danh hiệu - Vang Danh Thiên Hạ" Description="Danh hiệu sự kiện 2-9. Có hiệu lực vĩnh viễn" Duration="-1" />
+
 </Titles>

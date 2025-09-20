@@ -15,4 +15,9 @@
   <Icons ID="13" IconID="Button - Aura Skill" Name="Nút Vòng Sáng"/>
   <Icons ID="14" IconID="Button Near By Player" Name="Nút gần"/>
   <Icons ID="15" IconID="Button Sit" Name="Nút ngồi"/>
+  <Icons ID="16" IconID="Button - Sub Skill 5" Name="Nút Skill 5"/>
+  <Icons ID="17" IconID="Button - Sub Skill 6" Name="Nút Skill 6"/>
+  <Icons ID="18" IconID="Button - Sub Skill 7" Name="Nút Skill 7"/>
+  <Icons ID="19" IconID="Button - Sub Skill 8" Name="Nút Skill 8"/>
+
 </uimanager>

@@ -800,4 +800,95 @@
 		<Sprite Name="VDTH-019" />
 		<Sprite Name="VDTH-020" />
 	</Title>
+	<Title ID="16011" Duration="168" EffectID="-1" BundleDir="AnimatedTitle/dragonfly.unity3d" AtlasName="dragonfly" AnimationSpeed="2">
+		<Sprite Name="000" />
+		<Sprite Name="001" />
+		<Sprite Name="002" />
+		<Sprite Name="003" />
+		<Sprite Name="004" />
+		<Sprite Name="005" />
+		<Sprite Name="006" />
+		<Sprite Name="007" />
+		<Sprite Name="008" />
+		<Sprite Name="009" />
+		<Sprite Name="010" />
+		<Sprite Name="011" />
+		<Sprite Name="012" />
+		<Sprite Name="013" />
+		<Sprite Name="014" />
+		<Sprite Name="015" />
+		<Sprite Name="016" />
+		<Sprite Name="017" />
+		<Sprite Name="018" />
+		<Sprite Name="019" />
+		<Sprite Name="020" />
+		<Sprite Name="021" />
+		<Sprite Name="022" />
+		<Sprite Name="023" />
+		<Sprite Name="024" />
+		<Sprite Name="025" />
+		<Sprite Name="026" />
+		<Sprite Name="027" />
+		<Sprite Name="028" />
+		<Sprite Name="029" />
+		<Sprite Name="030" />
+		<Sprite Name="031" />
+		<Sprite Name="032" />
+		<Sprite Name="033" />
+		<Sprite Name="034" />
+		<Sprite Name="035" />
+		<Sprite Name="036" />
+		<Sprite Name="037" />
+		<Sprite Name="038" />
+		<Sprite Name="039" />
+		<Sprite Name="040" />
+		<Sprite Name="041" />
+		<Sprite Name="042" />
+		<Sprite Name="043" />
+		<Sprite Name="044" />
+	</Title>	
+		<Title ID="16012" Duration="168" EffectID="-1" BundleDir="AnimatedTitle/GHHT.unity3d" AtlasName="GHHT" AnimationSpeed="2">
+		<Sprite Name="GHHT-001" />
+		<Sprite Name="GHHT-002" />
+		<Sprite Name="GHHT-003" />
+		<Sprite Name="GHHT-004" />
+		<Sprite Name="GHHT-005" />
+		<Sprite Name="GHHT-006" />
+		<Sprite Name="GHHT-007" />
+		<Sprite Name="GHHT-008" />
+		<Sprite Name="GHHT-009" />
+		<Sprite Name="GHHT-010" />
+		<Sprite Name="GHHT-011" />
+		<Sprite Name="GHHT-012" />
+		<Sprite Name="GHHT-013" />
+		<Sprite Name="GHHT-014" />
+		<Sprite Name="GHHT-015" />
+		<Sprite Name="GHHT-016" />
+		<Sprite Name="GHHT-017" />
+		<Sprite Name="GHHT-018" />
+		<Sprite Name="GHHT-019" />
+		<Sprite Name="GHHT-020" />
+	</Title>
+	<Title ID="16013" Duration="168" EffectID="-1" BundleDir="AnimatedTitle/VDTH.unity3d" AtlasName="VDTH" AnimationSpeed="2">
+		<Sprite Name="VDTH-001" />
+		<Sprite Name="VDTH-002" />
+		<Sprite Name="VDTH-003" />
+		<Sprite Name="VDTH-004" />
+		<Sprite Name="VDTH-005" />
+		<Sprite Name="VDTH-006" />
+		<Sprite Name="VDTH-007" />
+		<Sprite Name="VDTH-008" />
+		<Sprite Name="VDTH-009" />
+		<Sprite Name="VDTH-010" />
+		<Sprite Name="VDTH-011" />
+		<Sprite Name="VDTH-012" />
+		<Sprite Name="VDTH-013" />
+		<Sprite Name="VDTH-014" />
+		<Sprite Name="VDTH-015" />
+		<Sprite Name="VDTH-016" />
+		<Sprite Name="VDTH-017" />
+		<Sprite Name="VDTH-018" />
+		<Sprite Name="VDTH-019" />
+		<Sprite Name="VDTH-020" />
+	</Title>
 </SpecialTitle>
