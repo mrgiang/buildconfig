@@ -779,7 +779,7 @@
 			</level>			
 		</Sex>	
 	</class>
-	<class id="6" Name="Danh Hiệu"  State="Show">
+	<class id="6" Name="Danh Hiệu"  State="Hide">
 		<Sex id="0" >
 			<level id="1" ItemID="16011" Name="Danh Hiệu - Nhất Đẳng Vương Gia" ReputeDBID="-1" ReputeLevel="-1" MoneyType="10" GoodsPrice="1">		
 				<Symbol Name="lifemax_v" Level="1" Value="150" Value2 ="0" Value3 ="0"/>

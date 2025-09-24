@@ -813,6 +813,19 @@
 					<SkillLevelValue Level="10" Value="2" />
 				</Value>
 			</Symbol>
+			<Symbol Name="skill_mintimepercast_v">
+				<Value ID="1" Type="1">
+					<SkillLevelValue Level="1" Value="-18" />
+					<SkillLevelValue Level="10" Value="-100" />
+				</Value>
+			</Symbol>
+			
+			<Symbol Name="skill_mintimepercastonhorse_v">
+				<Value ID="1" Type="1">
+					<SkillLevelValue Level="1" Value="-18" />
+					<SkillLevelValue Level="10" Value="-100" />
+				</Value>
+			</Symbol>
 		</RelatedSkill>
 	</Skill>
 	

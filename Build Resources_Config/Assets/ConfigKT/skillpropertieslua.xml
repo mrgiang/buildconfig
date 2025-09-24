@@ -24797,9 +24797,9 @@
         <SkillLevelValue Level="20" Value="80" />
       </Value>
       <Value ID="2">
-        <SkillLevelValue Level="1" Value="2" />
-        <SkillLevelValue Level="10" Value="2" />
-        <SkillLevelValue Level="11" Value="2" />
+        <SkillLevelValue Level="1" Value="12" />
+        <SkillLevelValue Level="10" Value="19" />
+        <SkillLevelValue Level="11" Value="19" />
       </Value>
       <Value ID="3">
         <SkillLevelValue Level="1" Value="32" />
@@ -26605,9 +26605,9 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="2160" />
-        <SkillLevelValue Level="10" Value="3240" />
-        <SkillLevelValue Level="11" Value="3294" />
+        <SkillLevelValue Level="1" Value="810" />
+        <SkillLevelValue Level="10" Value="810" />
+        <SkillLevelValue Level="11" Value="810" />
       </Value>
     </Symbol>
 	<Symbol Name="missile_range">
@@ -32865,9 +32865,9 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="2160" />
-        <SkillLevelValue Level="20" Value="3240" />
-        <SkillLevelValue Level="21" Value="3240" />
+        <SkillLevelValue Level="1" Value="810" />
+        <SkillLevelValue Level="20" Value="810" />
+        <SkillLevelValue Level="21" Value="810" />
       </Value>
     </Symbol>
   </Skill>
@@ -33770,9 +33770,9 @@
     </Symbol>
     <Symbol Name="skill_statetime">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="2160" />
-        <SkillLevelValue Level="20" Value="3240" />
-        <SkillLevelValue Level="21" Value="3294" />
+        <SkillLevelValue Level="1" Value="810" />
+        <SkillLevelValue Level="20" Value="810" />
+        <SkillLevelValue Level="21" Value="810" />
       </Value>
     </Symbol>
 	<Symbol Name="missile_range">
