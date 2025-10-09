@@ -426,7 +426,7 @@
     <ActiveBySuit StrTimes="15" StrMAName="state_hurt_resistrate" StrMAPA1Min="80" StrMAPA1Max="80" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
-    <ItemData ItemID="26001" Name="Event Trung Thu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Trường Sinh Phát Kết" QualityPrefix="6" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="153" Level="10" SuiteID="0" Icon="helm_f_bupi_810" View="helm_f_bupi_810_s" Intro="" Help="" ObjID="19" BindType="2" Series="-1" ReqLevel="0" CDType="0" Price="1" ItemValue="45000000" MakeCost="-1" ResMale="57" ResFemale="57" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ItemData ItemID="26001" Name="Event Trung Thu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Trường Sinh Phát Kết" QualityPrefix="6" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="153" Level="10" SuiteID="0" Icon="helm_f_bupi_810" View="helm_f_bupi_810_s" Intro="" Help="" ObjID="19" BindType="2" Series="-1" ReqLevel="0" CDType="0" Price="1" ItemValue="45000000" MakeCost="-1" ResMale="52" ResFemale="52" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
     <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="46" BasicPropPA1Max="50" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="-1" BasicPropPA3Max="-1" Index="1" />
     <ListReqProp ReqPropType="5" ReqPropValue="99" Index="1" />
     <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />

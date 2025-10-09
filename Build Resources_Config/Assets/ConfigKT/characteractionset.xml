@@ -35,13 +35,14 @@
       <Set Code="8" ID="helm08" BundleDir="Resources/CharacterActionSet/Male/Helm/helm08" />
       <Set Code="9" ID="helm09" BundleDir="Resources/CharacterActionSet/Male/Helm/helm09" />
       <Set Code="10" ID="helm10" BundleDir="Resources/CharacterActionSet/Male/Helm/helm10" />
-      <Set Code="1" ID="helm11" BundleDir="Resources/CharacterActionSet/Male/Helm/helm11" />
+      <Set Code="11" ID="helm11" BundleDir="Resources/CharacterActionSet/Male/Helm/helm11" />
       <Set Code="12" ID="helm12" BundleDir="Resources/CharacterActionSet/Male/Helm/helm12" />
       <Set Code="13" ID="helm13" BundleDir="Resources/CharacterActionSet/Male/Helm/helm13" />
       <Set Code="14" ID="helm14" BundleDir="Resources/CharacterActionSet/Male/Helm/helm14" />
       <Set Code="15" ID="helm15" BundleDir="Resources/CharacterActionSet/Male/Helm/helm15" />
       <Set Code="16" ID="helm16" BundleDir="Resources/CharacterActionSet/Male/Helm/helm16" />
       <Set Code="17" ID="helm17" BundleDir="Resources/CharacterActionSet/Male/Helm/helm17" />
+	  <Set Code="52" ID="helm52" BundleDir="Resources/CharacterActionSet/Male/Helm/helm52" />
       <Set Code="57" ID="helm57" BundleDir="Resources/CharacterActionSet/Male/Helm/helm57" />
     </Head>
     <Mantle>
@@ -149,6 +150,7 @@
       <Set Code="15" ID="helm15" BundleDir="Resources/CharacterActionSet/Female/Helm/helm15" />
       <Set Code="16" ID="helm16" BundleDir="Resources/CharacterActionSet/Female/Helm/helm16" />
       <Set Code="17" ID="helm17" BundleDir="Resources/CharacterActionSet/Female/Helm/helm17" />
+	  <Set Code="52" ID="helm52" BundleDir="Resources/CharacterActionSet/Female/Helm/helm52" />
       <Set Code="57" ID="helm57" BundleDir="Resources/CharacterActionSet/Female/Helm/helm57" />
     </Head>
     <Mantle>
