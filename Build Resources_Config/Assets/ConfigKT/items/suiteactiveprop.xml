@@ -1,4 +1,5 @@
-﻿<ArrayOfSuiteActiveProp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSuiteActiveProp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SuiteActiveProp SuiteID="1" Name="Bộ Tiêu Dao" Head="" Body="" Belt="" Weapon="" Foot="Tiêu Dao Ngoa" Cuff="Tiêu Dao Hộ Uyển" Amulet="" Ring="" Necklace="" Pendant="Tiêu Dao Ngọc Bội">
     <ListActive Index="1" RequestNum="2" SuiteName="adddefense_v" SuiteMAPA1="100" SuiteMAPA2="0" SuiteMAPA3="0" />
     <ListActive Index="2" RequestNum="3" SuiteName="deadlystrikeenhance_r" SuiteMAPA1="35" SuiteMAPA2="0" SuiteMAPA3="0" />
@@ -54,5 +55,13 @@
   <SuiteActiveProp SuiteID="14" Name="Bộ Kê Huyết" Head="" Body="" Belt="Kê Huyết Thạch Yêu Đái" Weapon="" Foot="Kê Huyết Long Phụng Lữ" Cuff="Kê Huyết Hộ Uyển" Amulet="" Ring="" Necklace="" Pendant="">
     <ListActive Index="1" RequestNum="2" SuiteName="adddefense_v" SuiteMAPA1="210" SuiteMAPA2="0" SuiteMAPA3="0" />
     <ListActive Index="2" RequestNum="3" SuiteName="deadlystrikeenhance_r" SuiteMAPA1="100" SuiteMAPA2="0" SuiteMAPA3="0" />
+  </SuiteActiveProp>
+  <SuiteActiveProp SuiteID="15" Name="Bộ Thủy Hoàng" Head="" Body="" Belt="" Weapon="" Foot="Thủy Hoàng Giày" Cuff="" Amulet="Thủy Hoàng Phù" Ring="Thủy Hoàng Nhẫn" Necklace="" Pendant="">
+    <ListActive Index="1" RequestNum="2" SuiteName="damage_all_resist" SuiteMAPA1="45" SuiteMAPA2="0" SuiteMAPA3="0" />
+    <ListActive Index="2" RequestNum="3" SuiteName="deadlystrikeenhance_r" SuiteMAPA1="35" SuiteMAPA2="0" SuiteMAPA3="0" />
+  </SuiteActiveProp>
+  <SuiteActiveProp SuiteID="16" Name="Bộ Thủy Hoàng" Head="Thủy Hoàng Mũ" Body="" Belt="" Weapon="" Foot="" Cuff="Thủy Hoàng Đai" Amulet="" Ring="" Necklace="Thủy Hoàng Liên" Pendant="">
+    <ListActive Index="1" RequestNum="2" SuiteName="fatallystrikeenhance_p" SuiteMAPA1="15" SuiteMAPA2="0" SuiteMAPA3="0" />
+    <ListActive Index="2" RequestNum="3" SuiteName="lifemax_p" SuiteMAPA1="8" SuiteMAPA2="0" SuiteMAPA3="0" />
   </SuiteActiveProp>
 </ArrayOfSuiteActiveProp>

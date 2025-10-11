@@ -234,5 +234,23 @@
 	<ListRefine RefineId="814" SourceItem="7738" ProduceItem="8472" Fee="10000" />
 	<ListRefine RefineId="814" SourceItem="7739" ProduceItem="8473" Fee="10000" />
 	<ListRefine RefineId="814" SourceItem="7740" ProduceItem="8474" Fee="10000" />
+	
+	
+    <Refine RefineId="16117" SourceItem="8495" ProduceItem="304095" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8496" ProduceItem="304096" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8497" ProduceItem="304097" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8498" ProduceItem="304098" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8499" ProduceItem="304099" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8500" ProduceItem="304100" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8501" ProduceItem="304101" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8502" ProduceItem="304102" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8503" ProduceItem="304103" Fee="10000" />
+    <Refine RefineId="16117" SourceItem="8504" ProduceItem="304104" Fee="10000" />
+    
+    <Refine RefineId="16118" SourceItem="7673" ProduceItem="306073" Fee="10000" />
+    <Refine RefineId="16118" SourceItem="7680" ProduceItem="306074" Fee="10000" />
+    <Refine RefineId="16118" SourceItem="7687" ProduceItem="306075" Fee="10000" />
+    <Refine RefineId="16118" SourceItem="7694" ProduceItem="306076" Fee="10000" />
+    <Refine RefineId="16118" SourceItem="7701" ProduceItem="306077" Fee="10000" />
   </SuiteActiveProp>
 </ArrayOfSuiteActiveProp>

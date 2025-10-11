@@ -1,4 +1,5 @@
-﻿<ArrayOfRefine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRefine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Refine RefineId="518" SourceItem="6784" ProduceItem="7499" Fee="10000" />
   <Refine RefineId="518" SourceItem="6884" ProduceItem="7497" Fee="10000" />
   <Refine RefineId="518" SourceItem="6984" ProduceItem="7497" Fee="10000" />
@@ -1307,7 +1308,8 @@
   <Refine RefineId="813" SourceItem="8612" ProduceItem="8622" Fee="10000" />
   <Refine RefineId="813" SourceItem="8613" ProduceItem="8623" Fee="10000" />
   <Refine RefineId="813" SourceItem="8614" ProduceItem="8624" Fee="10000" />
-  <!-- Bạch Ngân  -->
+ 
+ <!-- Bạch Ngân  -->
   <Refine RefineId="15022" SourceItem="12776" ProduceItem="12752" Fee="50000" />
   <Refine RefineId="15022" SourceItem="12777" ProduceItem="12753" Fee="50000" />
   <Refine RefineId="15022" SourceItem="12778" ProduceItem="12754" Fee="50000" />
@@ -1319,39 +1321,27 @@
   <Refine RefineId="15022" SourceItem="12784" ProduceItem="12760" Fee="50000" />
   <Refine RefineId="15022" SourceItem="12785" ProduceItem="12761" Fee="50000" />
   <Refine RefineId="15022" SourceItem="12786" ProduceItem="12772" Fee="50000" />
-  <Refine RefineId="15022" SourceItem="12787" ProduceItem="12773" Fee="50000" />
+  <Refine RefineId="15022" SourceItem="12787" ProduceItem="12773" Fee="50000" /> 
   <Refine RefineId="15022" SourceItem="11434" ProduceItem="11294" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11435" ProduceItem="11295" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11436" ProduceItem="11296" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11437" ProduceItem="11297" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11438" ProduceItem="11298" Fee="50000" />
-  <Refine RefineId="15022" SourceItem="11439" ProduceItem="11299" Fee="50000" />
-  <!-- Chưởng độc  -->
+  <Refine RefineId="15022" SourceItem="11439" ProduceItem="11299" Fee="50000" /><!-- Chưởng độc  -->
   <Refine RefineId="15022" SourceItem="11440" ProduceItem="11268" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11441" ProduceItem="11301" Fee="50000" />
-  <Refine RefineId="15022" SourceItem="11442" ProduceItem="11302" Fee="50000" />
-  <!-- Chưởng Nga  -->
+  <Refine RefineId="15022" SourceItem="11442" ProduceItem="11302" Fee="50000" /><!-- Chưởng Nga  -->
   <Refine RefineId="15022" SourceItem="11443" ProduceItem="11303" Fee="50000" />
-  <Refine RefineId="15022" SourceItem="11444" ProduceItem="11304" Fee="50000" />
-  <!-- Côn Cái  -->
-  <Refine RefineId="15022" SourceItem="11445" ProduceItem="11305" Fee="50000" />
-  <!-- Chiến Nhẫn  -->
-  <Refine RefineId="15022" SourceItem="11446" ProduceItem="11306" Fee="50000" />
-  <!-- Chưởng Cái  -->
-  <Refine RefineId="15022" SourceItem="11447" ProduceItem="11307" Fee="50000" />
-  <!-- Đao Ma Nhẫn  -->
-  <Refine RefineId="15022" SourceItem="11448" ProduceItem="11308" Fee="50000" />
-  <!-- Đao Côn Lôn -->
-  <Refine RefineId="15022" SourceItem="11449" ProduceItem="11309" Fee="50000" />
-  <!-- Kiếm Võ -->
-  <Refine RefineId="15022" SourceItem="11450" ProduceItem="11310" Fee="50000" />
-  <!-- Khí Võ -->
-  <Refine RefineId="15022" SourceItem="11451" ProduceItem="11292" Fee="50000" />
-  <!-- Kiếm Côn Lôn -->
-  <Refine RefineId="15022" SourceItem="11452" ProduceItem="11312" Fee="50000" />
-  <!-- Chùy Minh Giáo -->
-  <Refine RefineId="15022" SourceItem="11453" ProduceItem="11313" Fee="50000" />
-  <!-- Kiếm Minh Giáo -->
+  <Refine RefineId="15022" SourceItem="11444" ProduceItem="11304" Fee="50000" /><!-- Côn Cái  -->
+  <Refine RefineId="15022" SourceItem="11445" ProduceItem="11305" Fee="50000" /><!-- Chiến Nhẫn  -->
+  <Refine RefineId="15022" SourceItem="11446" ProduceItem="11306" Fee="50000" /><!-- Chưởng Cái  -->
+  <Refine RefineId="15022" SourceItem="11447" ProduceItem="11307" Fee="50000" /><!-- Đao Ma Nhẫn  -->
+  <Refine RefineId="15022" SourceItem="11448" ProduceItem="11308" Fee="50000" /><!-- Đao Côn Lôn -->
+  <Refine RefineId="15022" SourceItem="11449" ProduceItem="11309" Fee="50000" /> <!-- Kiếm Võ -->
+  <Refine RefineId="15022" SourceItem="11450" ProduceItem="11310" Fee="50000" /> <!-- Khí Võ -->
+  <Refine RefineId="15022" SourceItem="11451" ProduceItem="11292" Fee="50000" /> <!-- Kiếm Côn Lôn -->
+  <Refine RefineId="15022" SourceItem="11452" ProduceItem="11312" Fee="50000" /><!-- Chùy Minh Giáo -->
+  <Refine RefineId="15022" SourceItem="11453" ProduceItem="11313" Fee="50000" /><!-- Kiếm Minh Giáo -->
   <Refine RefineId="15022" SourceItem="11415" ProduceItem="11275" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11418" ProduceItem="11278" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11417" ProduceItem="11277" Fee="50000" />
@@ -1404,7 +1394,8 @@
   <Refine RefineId="15022" SourceItem="11400" ProduceItem="11260" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11410" ProduceItem="11270" Fee="50000" />
   <Refine RefineId="15022" SourceItem="11430" ProduceItem="11290" Fee="50000" />
-  <!-- Hoàng Kim -->
+
+<!-- Hoàng Kim -->
   <Refine RefineId="15023" SourceItem="12752" ProduceItem="12762" Fee="50000" />
   <Refine RefineId="15023" SourceItem="12753" ProduceItem="12763" Fee="50000" />
   <Refine RefineId="15023" SourceItem="12754" ProduceItem="12764" Fee="50000" />
@@ -1434,7 +1425,6 @@
   <Refine RefineId="15023" SourceItem="11308" ProduceItem="11378" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11309" ProduceItem="11379" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11310" ProduceItem="11380" Fee="50000" />
-  <Refine RefineId="15023" SourceItem="11310" ProduceItem="11381" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11292" ProduceItem="11362" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11312" ProduceItem="11382" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11313" ProduceItem="11383" Fee="50000" />
@@ -1468,7 +1458,6 @@
   <Refine RefineId="15023" SourceItem="11289" ProduceItem="11359" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11284" ProduceItem="11354" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11286" ProduceItem="11356" Fee="50000" />
-  <Refine RefineId="15023" SourceItem="11286" ProduceItem="11363" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11281" ProduceItem="11351" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11282" ProduceItem="11352" Fee="50000" />
   <Refine RefineId="15023" SourceItem="11283" ProduceItem="11353" Fee="50000" />
@@ -1510,6 +1499,7 @@
   <Refine RefineId="15024" SourceItem="7768" ProduceItem="8156" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7769" ProduceItem="8155" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7770" ProduceItem="8156" Fee="10000" />
+  
   <Refine RefineId="15024" SourceItem="7771" ProduceItem="8157" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7772" ProduceItem="8158" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7773" ProduceItem="8157" Fee="10000" />
@@ -1530,6 +1520,7 @@
   <Refine RefineId="15024" SourceItem="7788" ProduceItem="8158" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7789" ProduceItem="8157" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7790" ProduceItem="8158" Fee="10000" />
+  
   <Refine RefineId="15024" SourceItem="7791" ProduceItem="8159" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7792" ProduceItem="8160" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7793" ProduceItem="8159" Fee="10000" />
@@ -1550,6 +1541,7 @@
   <Refine RefineId="15024" SourceItem="7808" ProduceItem="8160" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7809" ProduceItem="8159" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7810" ProduceItem="8160" Fee="10000" />
+  
   <Refine RefineId="15024" SourceItem="7811" ProduceItem="8161" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7812" ProduceItem="8162" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7813" ProduceItem="8161" Fee="10000" />
@@ -1570,6 +1562,7 @@
   <Refine RefineId="15024" SourceItem="7828" ProduceItem="8162" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7829" ProduceItem="8161" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7830" ProduceItem="8162" Fee="10000" />
+  
   <Refine RefineId="15024" SourceItem="7831" ProduceItem="8163" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7832" ProduceItem="8164" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7833" ProduceItem="8163" Fee="10000" />
@@ -1590,16 +1583,17 @@
   <Refine RefineId="15024" SourceItem="7848" ProduceItem="8164" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7849" ProduceItem="8163" Fee="10000" />
   <Refine RefineId="15024" SourceItem="7850" ProduceItem="8164" Fee="10000" />
+ 
   <Refine RefineId="15025" SourceItem="8155" ProduceItem="8165" Fee="10000" />
-  <Refine RefineId="15025" SourceItem="8156" ProduceItem="8166" Fee="10000" />
+  <Refine RefineId="15025" SourceItem="8156" ProduceItem="8166" Fee="10000" />  
   <Refine RefineId="15025" SourceItem="8157" ProduceItem="8167" Fee="10000" />
-  <Refine RefineId="15025" SourceItem="8158" ProduceItem="8168" Fee="10000" />
+  <Refine RefineId="15025" SourceItem="8158" ProduceItem="8168" Fee="10000" />  
   <Refine RefineId="15025" SourceItem="8159" ProduceItem="8169" Fee="10000" />
-  <Refine RefineId="15025" SourceItem="8160" ProduceItem="8170" Fee="10000" />
+  <Refine RefineId="15025" SourceItem="8160" ProduceItem="8170" Fee="10000" />  
   <Refine RefineId="15025" SourceItem="8161" ProduceItem="8171" Fee="10000" />
-  <Refine RefineId="15025" SourceItem="8162" ProduceItem="8172" Fee="10000" />
+  <Refine RefineId="15025" SourceItem="8162" ProduceItem="8172" Fee="10000" />  
   <Refine RefineId="15025" SourceItem="8163" ProduceItem="8173" Fee="10000" />
-  <Refine RefineId="15025" SourceItem="8164" ProduceItem="8174" Fee="10000" />
+  <Refine RefineId="15025" SourceItem="8164" ProduceItem="8174" Fee="10000" /> 
   
   <Refine RefineId="16101" SourceItem="3864" ProduceItem="21600" Fee="10000" /> 
   <Refine RefineId="16101" SourceItem="3865" ProduceItem="21600" Fee="10000" /> 
@@ -1630,4 +1624,31 @@
   <Refine RefineId="16114" SourceItem="24101" ProduceItem="24102" Fee="10000" /> 
   <Refine RefineId="16115" SourceItem="24102" ProduceItem="24103" Fee="10000" /> 
   
+  <Refine RefineId="16116" SourceItem="8535" ProduceItem="307035" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8536" ProduceItem="307036" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8537" ProduceItem="307037" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8538" ProduceItem="307038" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8539" ProduceItem="307039" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8540" ProduceItem="307040" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8541" ProduceItem="307041" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8542" ProduceItem="307042" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8543" ProduceItem="307043" Fee="10000" />
+  <Refine RefineId="16116" SourceItem="8544" ProduceItem="307044" Fee="10000" />
+  
+  <Refine RefineId="16117" SourceItem="8495" ProduceItem="304095" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8496" ProduceItem="304096" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8497" ProduceItem="304097" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8498" ProduceItem="304098" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8499" ProduceItem="304099" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8500" ProduceItem="304100" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8501" ProduceItem="304101" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8502" ProduceItem="304102" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8503" ProduceItem="304103" Fee="10000" />
+  <Refine RefineId="16117" SourceItem="8504" ProduceItem="304104" Fee="10000" />
+
+  <Refine RefineId="16118" SourceItem="7673" ProduceItem="306073" Fee="10000" />
+  <Refine RefineId="16118" SourceItem="7680" ProduceItem="306074" Fee="10000" />
+  <Refine RefineId="16118" SourceItem="7687" ProduceItem="306075" Fee="10000" />
+  <Refine RefineId="16118" SourceItem="7694" ProduceItem="306076" Fee="10000" />
+  <Refine RefineId="16118" SourceItem="7701" ProduceItem="306077" Fee="10000" />
 </ArrayOfRefine>
