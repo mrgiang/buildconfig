@@ -278,6 +278,7 @@
 	<Script ID="201001" Dir="Item/Common/ThaiVanTruyNguyet.lua"/>
 	<Script ID="201002" Dir="Item/Common/ThuongHaiNguyetMinh.lua"/>
 	<Script ID="201003" Dir="Item/Common/TuiEvent.lua"/>
+	<Script ID="201004" Dir="Item/Common/MoRongRuong.lua"/>
 	
 	<!-- End -->
 	

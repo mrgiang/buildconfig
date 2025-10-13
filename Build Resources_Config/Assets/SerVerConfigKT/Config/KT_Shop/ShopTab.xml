@@ -3338,7 +3338,6 @@
     <ShopItem>2314</ShopItem>
     <ShopItem>2315</ShopItem>
     <ShopItem>2316</ShopItem>
-    <ShopItem>2408</ShopItem>
   </ShopTab>
   <ShopTab ShopName="Vũ khí boss hệ Kim" ShopID="135" MoneyType="1" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>2320</ShopItem>
@@ -3757,8 +3756,6 @@
     <ShopItem>3066</ShopItem>
     <ShopItem>3067</ShopItem>
     <ShopItem>5665</ShopItem>
-    <ShopItem>5666</ShopItem>
-    <ShopItem>5667</ShopItem>
   </ShopTab>
   <ShopTab ShopName="Tần Lăng-Vũ khí boss hệ Kim" ShopID="156" MoneyType="1" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>3068</ShopItem>
