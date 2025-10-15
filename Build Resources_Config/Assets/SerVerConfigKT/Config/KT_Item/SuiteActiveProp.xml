@@ -61,7 +61,7 @@
     <ListActive Index="2" RequestNum="3" SuiteName="deadlystrikeenhance_r" SuiteMAPA1="35" SuiteMAPA2="0" SuiteMAPA3="0" />
   </SuiteActiveProp>
   <SuiteActiveProp SuiteID="16" Name="Bộ Thủy Hoàng" Head="Thủy Hoàng Mũ" Body="" Belt="" Weapon="" Foot="" Cuff="Thủy Hoàng Đai" Amulet="" Ring="" Necklace="Thủy Hoàng Liên" Pendant="">
-    <ListActive Index="1" RequestNum="2" SuiteName="fatallystrikeenhance_p" SuiteMAPA1="15" SuiteMAPA2="0" SuiteMAPA3="0" />
-    <ListActive Index="2" RequestNum="3" SuiteName="lifemax_p" SuiteMAPA1="8" SuiteMAPA2="0" SuiteMAPA3="0" />
+    <ListActive Index="1" RequestNum="2" SuiteName="lifemax_p" SuiteMAPA1="8" SuiteMAPA2="0" SuiteMAPA3="0" />
+    <ListActive Index="2" RequestNum="3" SuiteName="fatallystrikeenhance_p" SuiteMAPA1="15" SuiteMAPA2="0" SuiteMAPA3="0" />
   </SuiteActiveProp>
 </ArrayOfSuiteActiveProp>

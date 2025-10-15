@@ -8069,4 +8069,17 @@
     <ListExtPram Pram="12" Index="1" />
     <UnLockInterval>0</UnLockInterval>
   </ItemData>
+  
+   <ItemData ItemID="16119" Name="Thủy Hoàng Mũ Luyện Hóa Đồ" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Mũ Luyện Hóa Đồ (bộ Thủy Hoàng)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="3" SuiteID="0" Icon="gaizaotu_huwan" View="gaizaotu_huwan" Intro="Ghi chép các phương pháp chế tạo Mũ Thủy Hoàng.&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Mũ Trục Lộc, luyện thành &lt;color=gold&gt;Thủy Hoàng Mũ &lt;color&gt;. " Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="12" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+   <ItemData ItemID="16120" Name="Thủy Hoàng Liên Luyện Hóa Đồ" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Liên Luyện Hóa Đồ (bộ Thủy Hoàng)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="3" SuiteID="0" Icon="gaizaotu_huwan" View="gaizaotu_huwan" Intro="Ghi chép các phương pháp chế tạo Liên Thủy Hoàng.&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Liên Trục Lộc, luyện thành &lt;color=gold&gt;Thủy Hoàng Liên &lt;color&gt;. " Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="12" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
+   <ItemData ItemID="16121" Name="Thủy Hoàng Đai Luyện Hóa Đồ" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Đai Luyện Hóa Đồ (bộ Thủy Hoàng)" QualityPrefix="0" Category="0" Genre="18" Stack="1" DetailType="2" ParticularType="4" Level="3" SuiteID="0" Icon="gaizaotu_huwan" View="gaizaotu_huwan" Intro="Ghi chép các phương pháp chế tạo Đai Thủy Hoàng.&lt;enter&gt;Có thể đến chỗ &lt;color=gold&gt;Dã Luyện Đại Sư&lt;color&gt;, dùng Đai Trục Lộc, luyện thành &lt;color=gold&gt;Thủy Hoàng Đai &lt;color&gt;. " Help="" ObjID="34" BindType="1" Series="0" ReqLevel="0" CDType="0" Price="100000" ItemValue="100000" MakeCost="-1" ResMale="0" ResFemale="0" FightPower="0" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListExtPram Pram="12" Index="1" />
+    <UnLockInterval>0</UnLockInterval>
+  </ItemData>
 </ArrayOfItemData>

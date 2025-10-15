@@ -922,4 +922,728 @@
     <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
     <UnLockInterval>-1</UnLockInterval>
   </ItemData>
+  
+    <ItemData ItemID="309065" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nam hệ Kim" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="487" Level="10" SuiteID="16" Icon="helm_ma_helm_gold" View="helm_ma_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="16" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_burn_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309066" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nữ hệ Kim" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="488" Level="10" SuiteID="16" Icon="helm_fm_helm_gold" View="helm_fm_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="16" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_burn_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309067" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nam hệ Mộc" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="489" Level="10" SuiteID="16" Icon="helm_ma_helm_gold" View="helm_ma_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="16" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309068" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nữ hệ Mộc" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="490" Level="10" SuiteID="16" Icon="helm_fm_helm_gold" View="helm_fm_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="16" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309069" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nam hệ Thủy" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="491" Level="10" SuiteID="16" Icon="helm_ma_helm_gold" View="helm_ma_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="16" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" /> 
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309070" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nữ hệ Thủy" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="492" Level="10" SuiteID="16" Icon="helm_fm_helm_gold" View="helm_fm_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="16" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309071" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nam hệ Hỏa" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="493" Level="10" SuiteID="16" Icon="helm_ma_helm_gold" View="helm_ma_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="16" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_slowall_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309072" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nữ hệ Hỏa" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="494" Level="10" SuiteID="16" Icon="helm_fm_helm_gold" View="helm_fm_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="16" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_slowall_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309073" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nam hệ Thổ" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="495" Level="10" SuiteID="16" Icon="helm_ma_helm_gold" View="helm_ma_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="16" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="309074" Name="Thủy Hoàng Kinh Vân Khôi" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Hoàng Kim Mão nữ hệ Thổ" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="9" ParticularType="496" Level="10" SuiteID="16" Icon="helm_fm_helm_gold" View="helm_fm_helm_gold_s" Intro="" Help="" ObjID="20" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="16" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="61" BasicPropPA1Max="65" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="89" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="-1" EnhMAPA2Max="-1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_weak_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_poison_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_weak_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_weak_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  
+    <ItemData ItemID="305075" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên ngoại công hệ kim" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="457" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="ignoredefenseenhance_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305076" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên nội công hệ kim" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="458" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminareplenish_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305077" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên ngoại công hệ mộc" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="459" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="ignoredefenseenhance_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305078" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên nội công hệ mộc" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="460" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminareplenish_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305079" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên ngoại công hệ thủy" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="461" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="ignoredefenseenhance_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_burn_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305080" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên nội công hệ thủy" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="462" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminareplenish_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_burn_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305081" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên ngoại công hệ hỏa" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="463" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="ignoredefenseenhance_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305082" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên nội công hệ hỏa" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="464" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminareplenish_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305083" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên ngoại công hệ thổ" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="465" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="ignoredefenseenhance_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_slowall_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="305084" Name="Thủy Hoàng Thiên Điệp Lưu Vân Liên" IconBundleDir="Icon/EquipIcon1.unity3d" IconAtlasName="EquipIcon1" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Liên nội công hệ thổ" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="5" ParticularType="466" Level="10" SuiteID="16" Icon="necklace_n_112" View="necklace_n_112_s" Intro="" Help="" ObjID="30" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="160000" ItemValue="93783333" MakeCost="-1" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="adddefense_v" BasicPropPA1Min="80" BasicPropPA1Max="80" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="70" Index="1" />
+    <ListEnhance EnhTimes="4" EnhMAName="returnskill_p" EnhMAPA1Min="33" EnhMAPA1Max="33" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="adddefense_v" EnhMAPA1Min="120" EnhMAPA1Max="120" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="manamax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifereplenish_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="defencedeadlystrikedamagetrim" EnhMAPA1Min="24" EnhMAPA1Max="24" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="damage_all_resist" EnhMAPA1Min="90" EnhMAPA1Max="90" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminareplenish_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_slowall_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <HiddenProp MagicName="adddefense_v" MagicLevel="11" IsActive="false" Index="3" />
+    <ActiveBySuit StrTimes="15" StrMAName="damage_all_resist" StrMAPA1Min="43" StrMAPA1Max="43" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  
+    <ItemData ItemID="308041" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Kim" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="353" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_slowall_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308042" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Kim" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="354" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_slowall_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+    <ItemData ItemID="308043" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Mộc" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="373" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_burn_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308044" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Mộc" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="374" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_burn_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+   <ItemData ItemID="308045" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Thủy" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="393" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308046" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Thủy" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="394" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+    <ItemData ItemID="308047" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Hỏa" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="413" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308048" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Hỏa" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="414" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+    <ItemData ItemID="308049" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Thổ" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="433" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308050" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Thổ" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="434" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifereplenish_v" EnhMAPA1Min="30" EnhMAPA1Max="30" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_all_resist" EnhMAPA1Min="85" EnhMAPA1Max="85" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="220" EnhMAPA1Max="220" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  
+    <ItemData ItemID="308051" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Kim 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="459" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_slowall_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308052" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Kim 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="460" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="4" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_physics_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_slowall_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+   <ItemData ItemID="308053" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Mộc 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="463" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_burn_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308054" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Mộc 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="464" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="1" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_poison_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_burn_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+    <ItemData ItemID="308055" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Thủy 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="467" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308056" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Thủy 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="468" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="5" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_cold_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_weak_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+    <ItemData ItemID="308057" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Hỏa 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="471" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308058" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Hỏa 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="472" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="3" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_fire_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_stun_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308059" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nam hệ Thổ 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="475" Level="10" SuiteID="16" Icon="belt_m_belt_aoyun3" View="belt_m_belt_aoyun3_s" Intro="" Help="" ObjID="28" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="0" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
+  <ItemData ItemID="308060" Name="Thủy Hoàng Hoàng Long Triền Yêu" IconBundleDir="Icon/EquipIcon2.unity3d" IconAtlasName="EquipIcon2" MapSpriteBundleDir="Resources/Item/MapSprite.unity3d" MapSpriteAtlasName="MapSprite" Kind="Bộ Thủy Hoàng_Yêu đái Hoàng Kim nữ hệ Thổ 2" QualityPrefix="7" Category="1" Genre="4" Stack="1" DetailType="8" ParticularType="476" Level="10" SuiteID="16" Icon="belt_f_belt_aoyun4" View="belt_f_belt_aoyun4_s" Intro="" Help="" ObjID="28" BindType="1" Series="2" ReqLevel="0" CDType="0" Price="160000" ItemValue="143000000" MakeCost="70000" ResMale="-1" ResFemale="-1" FightPower="16" ScriptID="-1" DeductOnUse="false" BuffID="-1">
+    <ListBasicProp BasicPropType="damage_series_resist" BasicPropPA1Min="56" BasicPropPA1Max="60" BasicPropPA2Min="-1" BasicPropPA2Max="-1" BasicPropPA3Min="0" BasicPropPA3Max="0" Index="1" />
+    <ListReqProp ReqPropType="5" ReqPropValue="85" Index="1" />
+    <ListReqProp ReqPropType="8" ReqPropValue="1" Index="2" />
+    <ListEnhance EnhTimes="4" EnhMAName="allskill_v" EnhMAPA1Min="1" EnhMAPA1Max="1" EnhMAPA2Min="1" EnhMAPA2Max="1" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="1" />
+    <ListEnhance EnhTimes="8" EnhMAName="lifemax_p" EnhMAPA1Min="15" EnhMAPA1Max="15" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="2" />
+    <ListEnhance EnhTimes="10" EnhMAName="lifemax_v" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="3" />
+    <ListEnhance EnhTimes="12" EnhMAName="state_slowall_resisttime" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="4" />
+    <ListEnhance EnhTimes="14" EnhMAName="damage_cold_resist" EnhMAPA1Min="240" EnhMAPA1Max="240" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="5" />
+    <ListEnhance EnhTimes="16" EnhMAName="state_slowall_resistrate" EnhMAPA1Min="200" EnhMAPA1Max="200" EnhMAPA2Min="0" EnhMAPA2Max="0" EnhMAPA3Min="0" EnhMAPA3Max="0" Index="6" />
+    <GreenProp MagicName="lifemax_v" MagicLevel="11" IsActive="true" Index="1" />
+    <GreenProp MagicName="manamax_v" MagicLevel="11" IsActive="true" Index="2" />
+    <GreenProp MagicName="staminamax_v" MagicLevel="11" IsActive="true" Index="3" />
+    <HiddenProp MagicName="damage_light_resist" MagicLevel="11" IsActive="false" Index="1" />
+    <HiddenProp MagicName="state_hurt_resisttime" MagicLevel="11" IsActive="false" Index="2" />
+    <ActiveBySuit StrTimes="15" StrMAName="state_slowall_resistrate" StrMAPA1Min="110" StrMAPA1Max="110" StrMAPA2Min="0" StrMAPA2Max="0" StrMAPA3Min="0" StrMAPA3Max="0" Index="1" />
+    <UnLockInterval>-1</UnLockInterval>
+  </ItemData>
 </ArrayOfItemData>

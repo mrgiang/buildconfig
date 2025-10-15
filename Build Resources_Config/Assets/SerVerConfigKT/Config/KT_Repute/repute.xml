@@ -310,7 +310,11 @@
 			<level id="4" name="Kính trọng" level_up="60000" require_level="0"/>
 			<level id="5" name="Tôn kính" level_up="80000" require_level="0"/>
 			<level id="6" name="Khâm phục" level_up="100000" require_level="0"/>
-			<level id="7" name="Hiển hách" level_up="0" require_level="0"/>			
+			<level id="7" name="Hiển hách" level_up="120000" require_level="0"/>		
+			<level id="8" name="Sùng bái" level_up="140000" require_level="0"/>
+			<level id="9" name="Truyền thuyết" level_up="160000" require_level="0"/>	
+			<level id="10" name="Truyền kỳ" level_up="0" require_level="0"/>			
+			
 		</class>
 		<class id="2" name="Tần Lăng-Phát Khâu Môn" default_level="1" daily_limit="0">
 			<level id="1" name="Trung lập" level_up="20000" require_level="0"/>
