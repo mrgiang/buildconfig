@@ -33233,14 +33233,14 @@
     </Symbol>
     <Symbol Name="skill_mintimepercast_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="180" />
-        <SkillLevelValue Level="10" Value="180" />
+        <SkillLevelValue Level="1" Value="90" />
+        <SkillLevelValue Level="10" Value="90" />
       </Value>
     </Symbol>
     <Symbol Name="skill_mintimepercastonhorse_v">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="180" />
-        <SkillLevelValue Level="10" Value="180" />
+        <SkillLevelValue Level="1" Value="90" />
+        <SkillLevelValue Level="10" Value="90" />
       </Value>
     </Symbol>
     <Symbol Name="missile_hitcount">
