@@ -3625,4 +3625,8 @@
   <ShopItem ID="5668" ItemID="16119" Series="0" Bind="1" ReputeDBID="901" ReputeLevel="8" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" Vip="-1"/>
   <ShopItem ID="5669" ItemID="16120" Series="0" Bind="1" ReputeDBID="901" ReputeLevel="9" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" Vip="-1"/>
   <ShopItem ID="5670" ItemID="16121" Series="0" Bind="1" ReputeDBID="901" ReputeLevel="10" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="-1" LimitType="-1" LimitValue="-1" Vip="-1"/>
+  
+  <ShopItem ID="5671" ItemID="1044" Series="0" Bind="1" ReputeDBID="-1" ReputeLevel="-1" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="500" LimitType="-1" LimitValue="-1" Vip="-1"/>
+  <ShopItem ID="5672" ItemID="1045" Series="0" Bind="1" ReputeDBID="-1" ReputeLevel="-1" OfficialLevel="-1" Honor="-1" Expiry="-1" TongFund="-1" GoodsIndex="-1" GoodsPrice="500" LimitType="-1" LimitValue="-1" Vip="-1"/>
+
 </ArrayOfShopItem> 

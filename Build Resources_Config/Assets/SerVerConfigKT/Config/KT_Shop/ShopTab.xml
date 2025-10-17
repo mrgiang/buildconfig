@@ -4799,6 +4799,8 @@
     <ShopItem>5654</ShopItem>
     <ShopItem>5655</ShopItem>
     <ShopItem>5664</ShopItem>
+    <ShopItem>5671</ShopItem>
+    <ShopItem>5672</ShopItem>
   </ShopTab>
   	<ShopTab ShopName="Shop VIP" ShopID="234" MoneyType="6" Discount="0" TimeSaleStart="" TimeSaleEnd="">
     <ShopItem>5641</ShopItem>

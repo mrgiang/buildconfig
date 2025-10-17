@@ -24413,6 +24413,12 @@
         <SkillLevelValue Level="1" Value="1" />
       </Value>
     </Symbol>
+	<Symbol Name="skill_collideevent">
+      <Value ID="1">
+        <SkillLevelValue Level="1" Value="69" />
+        <SkillLevelValue Level="20" Value="69" />
+      </Value>
+    </Symbol>
     <Symbol Name="addskilldamagep2">
       <Value ID="1">
         <SkillLevelValue Level="1" Value="796" />
@@ -32949,10 +32955,10 @@
   <Skill Name="xingkongpo">
     <Symbol Name="appenddamage_p">
       <Value ID="1">
-        <SkillLevelValue Level="1" Value="30" />
-        <SkillLevelValue Level="10" Value="60" />
-        <SkillLevelValue Level="20" Value="80" />
-        <SkillLevelValue Level="21" Value="82" />
+        <SkillLevelValue Level="1" Value="50" />
+        <SkillLevelValue Level="10" Value="110" />
+        <SkillLevelValue Level="20" Value="150" />
+        <SkillLevelValue Level="21" Value="155" />
       </Value>
     </Symbol>
     <Symbol Name="poisondamage_v">
